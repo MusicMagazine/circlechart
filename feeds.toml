@@ -1,9 +1,9 @@
-[]
-title = ""
-url = ""
-entrySelector = ""
-titleSelector = ""
-linkSelector = ""
-contentSelector = ""
-imageSelector = ""
+[news_issue]
+title = "Circle Chart ─ News ─ Issue"
+url = "https://circlechart.kr/page_article/list.circle?sgenre=issue"
+entrySelector = "aside#pc_content_list > article"
+titleSelector = "a > section.text-lg.font-bold.cursor-pointer"
+linkSelector = "a"
+contentSelector = "a > section.mt-4.flex.flex-row > div.basis-4\/5.pl-4.text-gray-500.cursor-pointer"
+imageSelector = "a > section.mt-4.flex.flex-row > div.basis-1\/5.h-\[100px\].cursor-pointer"
 waitUntil = "networkidle"
