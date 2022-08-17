@@ -46,7 +46,6 @@ contentSelector = "section > div[class='basis-4/5 pl-4 text-gray-500 cursor-poin
 imageSelector = "section > div[class='basis-1/5 h-[100px] cursor-pointer']"
 waitUntil = "networkidle"
 
-
 [news_issue]
 title = "Circle Chart ─ News ─ Issue"
 url = "https://circlechart.kr/page_article/list.circle?sgenre=issue"
