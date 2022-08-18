@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-08-17T23:18:59.243Z</updated>
+    <updated>2022-08-18T01:51:30.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[콘셉트 소화력도 '올라운더' 하성운, 미니 7집 'Strange World' 5종 콘셉트 포토 공개 완료]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21280</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21280"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 하성운이 5종 콘셉트 포토로 '올라운더'의 진가를 입증했다.하성운의 일곱 번째 미니앨범 'Strange World (스트레인지 월드)'의 5종 콘셉트 포토 30장이 지난 14일부터 18일까지 닷새에 걸쳐 매일 0시 공식 SNS를 통해 모두 공개했다.그림 배경의 2D와 컬러풀한 3D 버전에 이어 마지막 날인 18일에는 고혹적인 분위기가 돋보이는 'Stranger (스트레인저)' 버전이 베일을 벗었다. 하성운은 버전별로 신비롭고 몽환적인 비주얼부터 소년미를 살린 청량한 감성과 본 무대를 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['18일 발매' 박재범, 신곡 'Bite' M/V 티저 공개…감각적 일러스트 '눈길']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21275</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21256"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 32 CIRCLE CHART (previously Gaonchart), the Retail Album Chart was topped by Kim Hojoong ‘PANORAMA’.Released on July 27th, 'PANORAMA' sold the most copies as of 3PM (KST) on August 2nd (Tuesday) of week 32.&nbsp; &nbsp;Kim Hojoon’s 2nd classical studio album ‘PANORAMA’ covers a wide spect..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['8월 컴백' 빌리, 시크한 눈빛 장전 완료! 콘셉츄얼 매력에 신보 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21255</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21255"/>
-        <updated>2022-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[완성형 걸그룹 빌리(Billlie)가 컴백을 앞두고 콘셉츄얼한 매력을 발산했다.10일 빌리(시윤?수현?츠키?션?하람?문수아?하루나)는 패션 트렌드 매거진 인디드와 'a strange encounter. 미스터리한 세상에서 온 일곱 소녀와의 만남'이라는 주제로 함께한 화보를 공개했다.올 블랙 착장의 빌리 일곱 멤버는 7인 7색의 시크한 매력을 발산했다. 저마다의 개성을 살린 포토제닉한 포즈와 화보 장인다운 소화력을 증명하듯 카메라를 향한 강렬한 눈빛으로 보는 이들에게 압도감을 선사했다. 데뷔 이후 꾸준히 다채로운 콘셉트..]]></content>
     </entry>
 </feed>
