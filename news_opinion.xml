@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2022-08-18T05:35:14.934Z</updated>
+    <updated>2022-08-18T06:22:51.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 음원 시장 현황]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21286</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21286"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[음원 이용량400은 스트리밍과, 다운로드 등 음원 이용량 건수의 총합으로 산출되는데, 음원 이용량400(1위부터 400위까지 이용량 합계) 중 스트리밍이 차지하는 비율은 2017년 상반기 98.1%에서 2022년 상반기 99.3%로 1.2%P 증가했습니다. 상대적으로 다운로드가 차지하는 비율은 1.9%에서 0.4%로 1.5%p 감소했습니다.최근 5년간 상반기 음원 이용량400은 감소 추세를 나타내고 있으며&nbsp; 올해 상반기는&nbsp; 2019년 상반기 대비 30.3% 감소했습니다. 스트리밍 이용량400 역시 감소 추세이며&nbsp; 2022년 상반기에..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 앨범 판매량 또, 다시 기록 경신 - 7월 리뷰(2022)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21257</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=20617"/>
         <updated>2022-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 3월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전년 동기 대비 12.8% 감소했으며 2019년 3월과 비교해서는 35.8% 줄어든 것으로 조사되었습니다.&nbsp;&nbsp;&nbsp;3월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 130.7% 증가, 작년 3월 대비 60.7% 늘어난 것으로 조사되었습니다. 지난해 가장 많은 판매량을 기록한 6월보다도 31만 장이 많습니다.&nbsp; NCT DREAM과 Stray Kids (스트레이 키즈)가 각각 3월 앨범 판매량400의 23%, 22%의 점유율을 기록하며 전체 판매..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 CD 시장 17년 만에 반등 왜?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=20525</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=20525"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[작년 미국에서 지난 2004년 이후 17년 만에 CD 판매량이 다시 증가한 것으로 나타났습니다. 미국 시장에서 최근까지 LP/EP 시장은 꾸준히 성장하고 있었지만 온라인 스트리밍이 대세인 요즘, 이미 쇠퇴해 가던 CD 시장이 반등한 것은 그 누구도 예상치 못한 결과였습니다. 이번 칼럼에서는 미국의 CD 시장이 되살아나고 있는 현상에 대해 살펴보도록 하겠습니다.&nbsp;&nbsp;2021년 미국 CD 시장 규모는 총 4천6백6십만 장인것으로 조사되었습니다. 지난 2004년 전년대비 2.8% 증가 이후 줄곧 판매량이 감소했으나, 2021년에 전년 동기..]]></content>
     </entry>
 </feed>
