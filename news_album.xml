@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-08-23T01:53:48.298Z</updated>
+    <updated>2022-08-23T04:15:06.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['서인국 소속' 아에르뮤직, 오늘(23일) '미남당' OST 풀 트랙 앨범 발매…드라마 여운 잇는 총 27곡 '풍성']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21305</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21305"/>
+        <updated>2022-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[인기 드라마 '미남당' OST를 풀 트랙으로 만난다.23일 '미남당' OST 제작사 아에르뮤직 측은 "KBS 2TV 월화드라마 '미남당' OST 풀 트랙 앨범이 오늘 오후 6시 각종 온라인 음원 사이트를 통해 발매된다"라고 밝혔다.이번 앨범에는 타이틀곡인 조광일의 'Ghost Buster(고스트 버스터)', 서브 타이틀곡인 남영주의 'Stay Awake(스테이 어웨이크)'와 서인국의 '너를 좋아해'를 비롯해 레이나의 '끝나지 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사랑의 본질 찾기 위한 여정" CIX(씨아이엑스), 오늘(22일) 미니 5집 ''OK' Episode 1 : OK Not' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21302</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21283"/>
         <updated>2022-08-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김필이 참여한 '당신이 소원을 말하면' 세 번째 OST가 공개된다.김필이 가창한 수목드라마 '당신이 소원을 말하면 (연출 김용완, 극본 조령수, 제작 투자 에이앤이 코리아, 제작 클라이맥스 스튜디오)'의 세 번째 OST ‘난, 너를’이 18일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'난, 너를'은 감성적인 분위기에 모던록 스타일의 편곡을 가미한 팝 발라드 곡이다. 김필의 섬세한 감성과 매력적인 질감의 목소리를 만나 깊이 있는 곡으로 탄생했다.특히 난, 너를'을 통해 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재정, '놀면 뭐하니?' 화제의 자작곡 음원으로 만난다! 9월 1일 신곡 'B에게 쓰는 편지' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21282</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21282"/>
-        <updated>2022-08-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 박재정이 '놀면 뭐하니?' 화제의 자작곡을 음원으로 선보인다.18일 소속사 로맨틱팩토리는 "박재정이 오는 9월 1일 새 싱글 'B에게 쓰는 편지'를 발매한다"라고 밝혔다.'B에게 쓰는 편지'는 박재정이 직접 작사, 작곡한 정통 발라드로, 지난해 MBC '놀면 뭐하니?'를 통해 선공개된 바 있다. 당시 박재정은 유재석 앞에서 기타를 치며 해당 곡을 불러 화제를 모았고, 방송 직후 팬들로부터 음원 발매 요청이 쇄도했다. 박재정은 보다 완성도 있는 곡을 위해 편..]]></content>
     </entry>
 </feed>
