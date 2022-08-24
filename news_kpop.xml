@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-08-23T23:18:07.254Z</updated>
+    <updated>2022-08-24T01:51:03.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치, 'FLASH' 무드 샘플러 공개...상큼 발랄 여신들의 파티]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21315</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21315"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 로켓펀치(Rocket Punch, 연희 쥬리 수윤 윤경 소희 다현)가 본격적인 컴백에 시동을 걸었다.&nbsp;&nbsp;소속사 울림엔터테인먼트는 지난 23일 공식 SNS 및 유튜브 채널을 통해 로켓펀치 두 번째 싱글 '플래시(FLASH)'의 무드 샘플러를 공개했다.&nbsp;&nbsp;공개된 영상은 화려하게 꾸며진 공간에서 파티를 즐기고 있는 로켓펀치의 사랑스러운 모습을 담고 있다. 반짝이는 조명 아래 즐겁게 춤을 추는 로켓펀치의 유니크한 스타일링과 화면을 가득 채운 멤버들의 환상적인 비주얼이 시선을 사로잡았다.&nbsp;&nbsp;케이크에 불을 붙이거나 사진을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4세대 핫템' 템페스트, 청춘의 에너지 담긴 첫 번째 M/V 티저 오픈…소년의 패기란 이런 것]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21307</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21293"/>
         <updated>2022-08-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 압도적인 퍼포먼스를 일부 공개했다.&nbsp;&nbsp;CIX(BX, 승훈, 배진영, 용희, 현석)는 19일 0시 공식 SNS를 통해 다섯 번째 미니앨범 ''OK' Episode 1 : OK Not (오케이 에피소드 1 : 오케이 낫)' 타이틀곡 '458'의 두 번째 뮤직비디오 티저 영상을 공개했다.&nbsp;&nbsp;영상은 독무를 펼치는 배진영의 모습으로 시작해 블랙&amp;화이트 의상으로 짙은 카리스마를 발산하며 퍼포먼스를 선보이는 CIX의 모습이 공개됐다. 이어 검은색 날개를 달아 신비로운 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4세대 독보적 스토리텔링 아이돌' 빌리, 하루나?수현 오피셜 포토 공개! 미스터리 서사 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21291</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21291"/>
-        <updated>2022-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[4세대 독보적 스토리텔링 아이돌 빌리(Billlie)가 시크한 눈빛으로 유일무이한 서사를 그려내고 있다.&nbsp;빌리(시윤?수현?츠키?션?하람?문수아?하루나)는 19일 0시 공식 SNS를 통해 멤버 하루나, 수현의 세 번째 미니앨범 'the Billage of perception: chapter two (더 빌리지 오브 퍼셉션: 챕터 투)' 오피셜 포토인 'memories &amp; scenes : B (메모리즈 앤드 씬즈 : 비) #2'를 공개했다.오피셜 유닛 포토에서 하루나와 수현은 팔짱을 끼고 의미심장한 ..]]></content>
     </entry>
 </feed>
