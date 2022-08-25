@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-08-24T23:18:48.149Z</updated>
+    <updated>2022-08-25T01:51:52.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 日 뜨겁게 달군 팬미팅 '2022 Just One 10 Minute' 성료... 3만 2천 관객과 꿈같은 시간!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21320</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21320"/>
+        <updated>2022-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[차은우가 독보적인 아우라로 열도를 뜨겁게 달궜다.차은우는 지난 21일과 24일 일본 고베와 요코하마에서 개인 팬미팅 투어 '2022 Just One 10 Minute &lt;Starry Caravan&gt;'(2022 저스트 원 텐 미닛 &lt;스태리 카라반&gt;)을 개최, 현지 팬들과 꿈같은 시간을 보냈다.&nbsp;일본에서의 첫 단독 대면 팬미팅인 이번 팬미팅은 전 회차 공연 전석 매진을 기록했을 뿐만 아니라, 총 3만 명 이상의 관객이 공연장을 빼곡하게 채우며 차은우의 인기를 실감케 했다.차은우는 매 회 공연에서 각기 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스), 데뷔 첫 태국 팬미팅 '마이 제니스 in 방콕' 성료 "팬 사랑 가슴에 새길 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21310</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21252"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 권은비가 일본 첫 단독 팬미팅을 개최한다.&nbsp;권은비는 오는 10월 30일과 11월 3일 오사카 메르파르크와 토요스PIT에서 팬미팅 '권은비 퍼스트 팬미팅 인 재팬 '루비스 룸'(Kwon Eun Bi 1st Fan Meeting in Japan 'RUBI’s ROOM')'을 열고 현지 팬들과 만난다.&nbsp;이번 단독 팬미팅 이름인 '루비스 룸'은 권은비의 방에 루비(권은비 공식 팬덤명)를 초대한다는 뜻을 가지고 있다. 특히 권은비가 일본에서 개최하는 첫 단독 팬미팅이라는 점에서 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에버글로우, 영국 이어 호주 팬 만난다 '한류 팝 페스트 시드니 2022' 출격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21233</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21233"/>
-        <updated>2022-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에버글로우(EVERGLOW)가 호주 팬들을 만난다.&nbsp;에버글로우는 오는 13일 호주 시드니 쿠도스 뱅크 아레나(Qudos Bank Arena)에서 열리는 'Hallyu Pop Fest Sydney 2022 (한류 팝 페스트 시드니 2022)' 무대에 올라 공연을 펼친다.&nbsp;'Hallyu Pop Fest Sydney 2022'는 전 세계 K-POP의 인기를 입증하는 페스티벌이다. 에버글로우가 공연을 펼치는 쿠도스 뱅크 아레나는 호주에서 제일 큰 실내 공연장으로, 에버글로우의 글로벌 인기를 가늠할 수 있다..]]></content>
     </entry>
 </feed>
