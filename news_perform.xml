@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-08-25T23:31:02.586Z</updated>
+    <updated>2022-08-26T01:56:31.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민가수 박창근, 전국투어 콘서트 개최 D-1 "인생 콘서트 될 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21329</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21329"/>
+        <updated>2022-08-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[국민가수 박창근이 단독 콘서트로 팬들을 만난다.박창근은 오는 27일 오후 3시와 7시 서울 KBS 아레나홀에서 '2022 전국투어 콘서트 - 박창근' 서울 공연을 개최한다.이번 공연은 TV CHOSUN '내일은 국민가수'에서 우승을 차지하며 대세 국민가수로 떠오른 박창근이 선보이는 단독 콘서트다. 박창근은 그간 방송에서 선보였던 주옥같은 경연곡과 자신만의 정체성이 담긴 자작곡 등 다채로운 셋리스트를 준비해 기대를 모은다.특히 지난 3월부터 3개월간 진행한 '2022 내일은 국민가수 전국투어 콘서트..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 日 뜨겁게 달군 팬미팅 '2022 Just One 10 Minute' 성료... 3만 2천 관객과 꿈같은 시간!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21320</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21270"/>
         <updated>2022-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 TO1(티오원)이 공식 활동을 성료하고 글로벌 팬들을 만난다.&nbsp;TO1(동건, 찬, 지수, 재윤, 제이유, 경호, 다이고, 렌타, 여정)은 지난 14일 SBS ‘인기가요’를 끝으로 세 번째 미니앨범 &lt;WHY NOT??&gt; 활동을 공식적으로 마무리했다.&nbsp;TO1은 타이틀곡 ‘Drummin’(드러민)’을 통해 악동 아이덴티티를 유감없이 발휘했다. ‘내 심장을 쿵쿵 뛰게 만드는 너에게 거침없이 달려가겠다’는 마음을 유쾌하고 재치있게 풀어낸 가사, 폭발적인 흥을 유발하는 사운드에 활력 넘치는 TO1의 보컬이 조화를 이루며 이목을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비, 日 첫 단독 팬미팅 개최..."팬들 도쿄·오사카에서 만날 수 있어 기대"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21252</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21252"/>
-        <updated>2022-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 권은비가 일본 첫 단독 팬미팅을 개최한다.&nbsp;권은비는 오는 10월 30일과 11월 3일 오사카 메르파르크와 토요스PIT에서 팬미팅 '권은비 퍼스트 팬미팅 인 재팬 '루비스 룸'(Kwon Eun Bi 1st Fan Meeting in Japan 'RUBI’s ROOM')'을 열고 현지 팬들과 만난다.&nbsp;이번 단독 팬미팅 이름인 '루비스 룸'은 권은비의 방에 루비(권은비 공식 팬덤명)를 초대한다는 뜻을 가지고 있다. 특히 권은비가 일본에서 개최하는 첫 단독 팬미팅이라는 점에서 ..]]></content>
     </entry>
 </feed>
