@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-08-29T06:06:50.184Z</updated>
+    <updated>2022-08-29T07:23:48.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 34 CIRCLE CHART: BLACKPINK Take No. 1 in Weekly Global K-pop Chart, while N..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21339</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21339"/>
+        <updated>2022-08-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 34 CIRCLE CHART (previously Gaonchart), BLACKPINK ‘Pink Venom’ rose to the top of the Global K-pop Chart. Also, NewJeans and THE BOYZ both topped 2 charts.KMCA, publisher of CIRCLE CHART, announced that "’Pink Venom’, the early-release track from BLACKPINK’s 2nd studio album, topped..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['9월 5일 컴백' 김재환, 미니 5집 'Empty Dream' 콘셉트 포토+필름 공개 완료]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21338</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21307"/>
         <updated>2022-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 신곡 기대감을 끌어올렸다.템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 지난 22일 오후 공식 SNS를 통해 두 번째 미니앨범 'SHINING UP(샤이닝 업)'의 타이틀곡 'Can’t Stop Shining(캔 스탑 샤이닝)'의 뮤직비디오 티저 영상을 공개했다.영상은 'STOP'이라 쓰인 벽을 빨간색 마커로 그래피티하는 형섭의 모습으로 시작한다. 긴장감이 감도는 음악 사이로 멤버들의 패기 넘치는 모습이 하나 둘 공개되는 가운데 루의 소년미 넘치는..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치, 존재감 청량 그 자체...'FLASH'로 여름 끝자락 물들인다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21306</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21306"/>
-        <updated>2022-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 로켓펀치(Rocket Punch, 연희 쥬리 수윤 윤경 소희 다현)가 맑고 청량한 카리스마를 발산했다.&nbsp;소속사 울림엔터테인먼트는 지난 22일 공식 SNS를 통해 로켓펀치 두 번째 싱글 '플래시(FLASH)'의 새 콘셉트 포토를 공개했다.&nbsp;&nbsp;공개된 콘셉트 포토 속 로켓펀치는 캐주얼한 의상을 착용하고 카리스마 넘치는 눈빛으로 화면을 응시했다. 앞서 공개된 상큼 발랄한 무드의 첫 번째 콘셉트 포토와는 또다른 신선한 매력을 뽐내며 시선을 압도했다.&nbsp;함께 공개된 개인 콘셉트 포토에서 로켓펀치는 멤버 각자의 개성이 드러나는..]]></content>
     </entry>
 </feed>
