@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-08-30T23:19:41.408Z</updated>
+    <updated>2022-08-31T02:10:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘글로벌 원픽’ 케플러, 10월 데뷔 첫 단독 팬미팅 ‘Kep1anet’ 개최 확정…9월 5일 예매 시작!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21349</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21349"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[‘4세대 1티어’로 손꼽히는 Kep1er(케플러)가 데뷔 첫 단독 팬미팅을 개최한다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)가 오는 10월 데뷔 첫 단독 팬미팅 ‘2022 Kep1er FAN MEETING &lt;Kep1anet&gt; (케플래닛)’ 개최 소식을 알렸다. 이와 함께 30일 정오 공식 SNS를 통해 팬미팅 티저 포스터를 공개하며 팬들의 기대감을 한층 끌어올렸다.케플러는 오는 10월 10일, 서울 SK 올림픽 핸드볼 경기장에서 ‘2022 Kep1er FAN MEETING..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심규선, 단독 콘서트 10분 만에 전석 매진! 싱어송라이터 저력 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21346</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21285"/>
         <updated>2022-08-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 아이비(IVY)가 단독 콘서트를 성료했다.아이비는 지난 13일과 14일 양일간 서울 용산구에 위치한 노들섬 라이브하우스에서 단독 콘서트 ‘NEXT PAGE (넥스트 페이지)’를 개최했다.이번 공연에서 아이비는 뮤지션 15인, 앙상블 5인과 함께 발라드, 댄스, 가요부터 뮤지컬 넘버까지 총망라한 다채로운 올 라이브 무대를 선사했다.‘Touch me (터치 미)’, ‘Cupido (큐피도)’ 무대로 화려한 포문을 연 아이비는 ‘오늘밤 일’, ‘A-Ha (아하)’, ‘I Dance (아이 댄스)’, ‘사랑아 어떻게’, ‘바본가봐’ ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루미너스, 첫 정규앨범 컴백 팬 쇼케이스 성료…타이틀곡 'Engine' 무대 첫 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21284</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21284"/>
-        <updated>2022-08-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 루미너스(LUMINOUS)가 컴백 기념 팬 쇼케이스를 성공적으로 마무리하며 본격 활동에 나선다.루미너스(영빈, 수일, 스티븐, 우빈)는 지난 17일 오후 첫 번째 정규앨범 'LUMINOUS in WONDERLAND (루미너스 인 원더랜드)' 발매 기념 팬 쇼케이스를 개최했다. 이번 쇼케이스는 오프라인과 함께 루미너스 공식 유튜브 채널을 통해 생중계되어 글로번 팬들의 뜨거운 관심을 받았다.이날 열린 팬 쇼케이스에서 루미너스는 첫 정규앨범의 타이틀곡 'Engine (엔진)' 무대로 힘찬 포문을 열었다...]]></content>
     </entry>
 </feed>
