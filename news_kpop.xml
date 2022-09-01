@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-09-01T01:47:46.557Z</updated>
+    <updated>2022-09-01T04:07:16.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 35 CIRCLE CHART: IVE 'After LIKE' Takes No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21361</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21361"/>
+        <updated>2022-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 35 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by IVE 'After LIKE'.'After LIKE' became the top-selling album as of 4PM (KST) on the date of its release, August 22 (Monday, week 35).The 3rd single album from IVE, ‘After LIKE’ became well-..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['명품 크로스오버' 포레스텔라, 본격 해외 진출 신호탄 "美 투어 계획·日 리얼리티 방영"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21358</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21340"/>
         <updated>2022-08-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 SMMT(써밋)이 감각적인 분위기의 신곡을 선보인다.&nbsp;글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 29일 오후 6시 공식 SNS를 통해 소속 아티스트 SMMT의 EP 'Mr. Hollywood' 타이틀곡 'Knock Knock (Feat. pH-1, 문수진 (Moon Sujin)'의 티저 영상을 공개했다.&nbsp;티저 영상은 감각적인 고양이 포스터를 담고 있다. 포스터 속 고양이는 맑은 날씨 아래 하트 모양을 들고 있는 모습이다. 이를 통해 'Knock Knock'의 키치한 분..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 34 CIRCLE CHART: BLACKPINK Take No. 1 in Weekly Global K-pop Chart, while N..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21339</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21339"/>
-        <updated>2022-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 34 CIRCLE CHART (previously Gaonchart), BLACKPINK ‘Pink Venom’ rose to the top of the Global K-pop Chart. Also, NewJeans and THE BOYZ both topped 2 charts.KMCA, publisher of CIRCLE CHART, announced that "’Pink Venom’, the early-release track from BLACKPINK’s 2nd studio album, topped..]]></content>
     </entry>
 </feed>
