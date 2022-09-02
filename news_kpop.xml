@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-09-02T04:16:45.264Z</updated>
+    <updated>2022-09-02T06:02:06.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 D-3' 김재환, 미니 5집 'Empty Dream' 하이라이트 메들리 공개…깊어진 분위기+감성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21365</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21365"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김재환이 신보 하이라이트 메들리 영상을 공개하며 컴백 임박을 알렸다.&nbsp;&nbsp;김재환은 2일 0시 공식 SNS를 통해 다섯 번째 미니앨범 'Empty Dream(엠프티 드림)'의 하이라이트 메들리 영상을 공개했다.&nbsp;&nbsp;영상에는 총 6곡의 하이라이트 음원과 김재환의 미공개 콘셉트 포토를 담아 듣고 보는 재미를 더했다.&nbsp;&nbsp;&nbsp;특히 타이틀곡 '그 시절 우리는' 음원이 일부 공개됐다. 김재환의 색다른 보컬과 몽환적인 사운드가 어우러져 리스너들의 귓가를 단번에 사로잡았다.&nbsp;&nbsp;'그 시절 우리는'은 이별 후..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 35 CIRCLE CHART: IVE 'After LIKE' Takes No. 1 in Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21361</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21344"/>
         <updated>2022-08-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 하성운이 'FOCUS' 퍼포먼스로 콘서트의 여운을 이어가고 있다.하성운은 지난 29일 오후 공식 유튜브 채널을 통해 미니 7집 'Strange World (스트레인지 월드)' 타이틀곡 'FOCUS (포커스)'의 퍼포먼스 버전 뮤직비디오 영상을 공개했다.'FOCUS'의 안무와 킬링 포인트를 한 눈에 확인할 수 있는 이번 퍼포먼스 버전 뮤직비디오에서 하성운은 자신만의 매혹적인 분위기를 마음껏 발산했다. 슬림한 핏을 살린 레드 슈트와 움직임에 따라 반짝이는 블랙 재킷 스타일링..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DJ→프로듀서' SMMT(써밋), 첫 EP 타이틀곡 'Knock Knock (Ft. pH-1, 문수진)' 티저 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21340</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21340"/>
-        <updated>2022-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 SMMT(써밋)이 감각적인 분위기의 신곡을 선보인다.&nbsp;글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 29일 오후 6시 공식 SNS를 통해 소속 아티스트 SMMT의 EP 'Mr. Hollywood' 타이틀곡 'Knock Knock (Feat. pH-1, 문수진 (Moon Sujin)'의 티저 영상을 공개했다.&nbsp;티저 영상은 감각적인 고양이 포스터를 담고 있다. 포스터 속 고양이는 맑은 날씨 아래 하트 모양을 들고 있는 모습이다. 이를 통해 'Knock Knock'의 키치한 분..]]></content>
     </entry>
 </feed>
