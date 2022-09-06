@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-09-05T23:20:02.730Z</updated>
+    <updated>2022-09-06T02:02:19.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 데뷔 첫 월드투어 ‘FIRST LOVE’ 태국 공연 성료…현지 루아이 사로잡은 ’글로벌 청춘돌’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21378</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21378"/>
+        <updated>2022-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[위아이(WEi)가 태국을 시작으로 글로벌 진출의 성공적인 신호탄을 쏘아 올렸다.&nbsp;위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 4일 태국 방콕에서 열린 데뷔 첫 월드투어 ‘FIRST LOVE : WEi WORLD TOUR’의 첫 공연을 성료했다.&nbsp;지난 2020년 10월 데뷔한 위아이의 데뷔 첫 월드투어인 만큼 개최 소식부터 팬들의 폭발적인 관심이 쏟아진 가운데, 위아이는 태국 방콕에서 월드투어의 시작을 강렬하게 알렸다.이날 위아이는 서로 닮은 듯 다른 구성의 ‘카리스마’로 무장한 ‘도화선 (Fuze) (Prod..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트, 10월 15·16일 운동회 콘셉트 팬콘 개최! 데뷔 13주년 함께한다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21373</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21334"/>
         <updated>2022-08-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 방콕 팬미팅을 성공적으로 마쳤다.&nbsp;AB6IX는 지난 27일 태국 방콕 썬다 돔에서hunder Dome)에서 팬미팅 'AB_NEW AREA(에비뉴 에어리어)'를 개최, 다채로운 매력으로 현지 팬들을 매료시켰다. 2019년 이후 3년 만에 이뤄진 태국 팬과의 만남에 공연장 열기는 더욱 뜨거웠다.&nbsp;청량감 넘치는 'LOVE AIR' 무대로 팬미팅의 문을 연 AB6IX는 '이심전심 동작 게임', '이어 그리기' 등 다양한 게임으로 멤버 간의 케미를 뽐냈..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민가수 박창근, 전국투어 콘서트 개최 D-1 "인생 콘서트 될 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21329</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21329"/>
-        <updated>2022-08-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[국민가수 박창근이 단독 콘서트로 팬들을 만난다.박창근은 오는 27일 오후 3시와 7시 서울 KBS 아레나홀에서 '2022 전국투어 콘서트 - 박창근' 서울 공연을 개최한다.이번 공연은 TV CHOSUN '내일은 국민가수'에서 우승을 차지하며 대세 국민가수로 떠오른 박창근이 선보이는 단독 콘서트다. 박창근은 그간 방송에서 선보였던 주옥같은 경연곡과 자신만의 정체성이 담긴 자작곡 등 다채로운 셋리스트를 준비해 기대를 모은다.특히 지난 3월부터 3개월간 진행한 '2022 내일은 국민가수 전국투어 콘서트..]]></content>
     </entry>
 </feed>
