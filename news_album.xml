@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-09-14T01:54:32.328Z</updated>
+    <updated>2022-09-14T04:16:57.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수란, 오늘(14일) '당신이 소원을 말하면' OST 'LET U GO' 발매…진정성 있는 보컬로 '몰입감 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21413</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21413"/>
+        <updated>2022-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 수란(SURAN)이 가창에 참여한 '당신이 소원을 말하면' 일곱 번째 OST가 베일을 벗는다.수란이 가창한 수목드라마 '당신이 소원을 말하면 (연출 김용완, 극본 조령수, 제작 투자 에이앤이 코리아, 제작 클라이맥스 스튜디오)'의 일곱 번째 OST 'LET U GO (렛 유 고)'가 14일 정오 각종 온라인 음원사이트를 통해 발매된다.'LET U GO'는 조금은 어둡고 쓸쓸한 느낌의 팝 발라드 장르로, 극 중 남들보다 특별히 더 어둡고 괴로웠던 겨레(지창욱 분)와 준경(..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[린, 엠씨더맥스의 '백야' 재해석…18일 '리본 프로젝트' 컬래버 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21412</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21393"/>
         <updated>2022-09-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 한동근이 오늘(8일) 신곡 ‘너는 나의 바다’를 발매한다.&nbsp;지난 6일과 7일, 한동근의 소속사 브랜뉴뮤직은 공식 SNS 채널들을 통해 한동근의 새 싱글 ‘너는 나의 바다’의 티저 이미지와 영상을 공개하며 신곡 발매 소식을 전했다.&nbsp;한동근의 신곡 ‘너는 나의 바다’는 더위가 한풀 꺾인 가을에 뜨거웠던 여름의 추억을 떠오르게 하는 한동근의 자작곡으로, “넌 내 마음속 바다 / 늘 꿈꿔 왔던 설렘으로 / 물밀듯 내게 밀려 들어왔던 / 사랑스런 너에게로 / 나의 바다야”처럼 사랑하는 이를 바다에 비유한 가사는 리스너들에게 지난 여름 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 최유리, 오늘(7일) '당신이 소원을 말하면' OST '나의 품에 숨겨줄게' 발매…감성 자극 위로송]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21391</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21391"/>
-        <updated>2022-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 최유리가 가창에 참여한 '당신이 소원을 말하면' OST 여섯 번째 OST가 베일을 벗는다.최유리가 가창에 참여한 수목드라마 '당신이 소원을 말하면 (연출 김용완, 극본 조령수, 제작 투자 에이앤이 코리아, 제작 클라이맥스 스튜디오)'의 여섯 번째 OST '나의 품에 숨겨줄게'가 7일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'나의 품에 숨겨줄게'는 잔잔한 피아노 연주로 시작되어 마음을 터치하는 기타 연주로 이어지는 팝 발라드곡이다. 하루하루 힘든 나날들을..]]></content>
     </entry>
 </feed>
