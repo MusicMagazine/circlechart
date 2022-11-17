@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-11-16T23:18:10.237Z</updated>
+    <updated>2022-11-17T01:26:03.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민가수 박창근, 18일 신곡 '어린아이' 발표…가수 진민호와 협업]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21723</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21723"/>
+        <updated>2022-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[국민가수 박창근이 신곡으로 돌아온다.&nbsp;&nbsp;박창근은 18일 오후 6시 각종 음원 사이트를 통해 새 싱글 '어린아이'를 발매한다.&nbsp;&nbsp;'어린아이'는 어린아이를 닮은 목소리를 가지고, 어린아이처럼 꿈을 꾸며 노래하는 아티스트 박창근의 이야기를 들려주는 곡이다. 가수이자 작곡가 진민호가 작사, 작곡에 참여했다.&nbsp;&nbsp;지난 16일에는 박창근 공식 SNS 및 n.CH엔터테인먼트 공식 SNS를 통해 '어린아이' 커버 이미지가 공개됐다. 박창근이 직접 글씨를 쓰고 그림을 그린 커버 이미지에는 바퀴가 찌그러진 채..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 평등 풀어낸 미니 3집 컴백 D-DAY! 성장 입증할 'ME= (나는)']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21717</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21701"/>
         <updated>2022-11-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 VIVIZ(비비지)의 '동감' 컬래버레이션 음원이 공개된다.VIVIZ가 가창에 참여한 영화 '동감'의 컬래버레이션 음원 '늘 지금처럼'이 14일 정오 각종 온라인 음원사이트를 통해 발매된다. 앞서 VIVIZ의 가창 참여 소식만으로 팬들의 높은 관심을 받은 '늘 지금처럼'은 기존 14일 오후 6시에서 6시간 당겨진 정오로 발매 시간을 변경했다.영화 '동감'의 컬래버레이션 음원들은 작품 속 배경인 1990년대 중후반 명곡의 리메이크 곡들로 이뤄진다. 지난 19..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR), '러브티콘 (♡TiCON)'·'Anding (&)'로 열일곱 청춘 영화 마지막 장 장식…17일 컴백 기대감 ↑]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21699</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21699"/>
-        <updated>2022-11-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 첫사랑(CSR)이 새 타이틀곡을 공개했다.&nbsp;&nbsp;첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 지난 12일 공식 SNS를 통해 첫 번째 싱글앨범 'Sequence : 17&amp;(시퀀스 : 세븐틴앤드)'의 트랙리스트 이미지를 공개했다.&nbsp;&nbsp;시소를 배경으로 한 트랙리스트 이미지에는 'Sequence : 17&amp;'에 수록된 2개의 곡명이 공개됐다. 열일곱 동갑내기 소녀들의 서툴지만 솔직한 사랑 표현법을 담은 타이틀곡 '러브티콘 (♡TiCON)'과 소녀들의 우정과 팬들에 대한..]]></content>
     </entry>
 </feed>
