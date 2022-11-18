@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-11-17T23:19:22.911Z</updated>
+    <updated>2022-11-18T01:38:43.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김진호, 12월 단독 콘서트‘듣는 사진전’개최…오늘(18일)티켓 예매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21726</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21726"/>
+        <updated>2022-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[SG워너비 김진호가3년 만에 단독 콘서트로 돌아온다.김진호는 오는12월29일부터31일까지3일간 서울 노들섬 라이브하우스에서‘2022김진호 콘서트&lt;듣는 사진전&gt;’을 개최한다.‘2022김진호 콘서트&lt;듣는 사진전&gt;’은 지난2019년 열린 콘서트‘노래샘’이후 약3년 만에 개최되는 단독 공연으로,김진호는 명품 라이브 무대로 팬들에게 깊은 울림을 선사할 전망이다.이와 관련해 김진호는 자신의SNS를 통해“지구에 벌거벗은 채 도착해 가족과 친구를 만나고 나를 이루는 사람들을 만나며 우린 얼마나 많은 사진을 남길까요.그 사진을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스) 아민·백승, 오늘(17일) 2023학년도 수능 응시 소감 "모두 좋은 결과 있길"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21725</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21683"/>
         <updated>2022-11-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[남성 2인조 밴드 위아영(WeAreYoung)이 단독 콘서트로 돌아온다.위아영(김경민, 구기훈)이 오는 12월 9일과 12월 16일 CJ아지트 광흥창에서 단독 콘서트 '우리들의 청춘'과 '프롤로그'를 각각 개최한다.위아영은 최근 SNS를 통해 "다양한 구성과 오래전 들려드렸던 커버곡, 미공개 곡까지! 특별한 공연인 만큼 여러분도 함께해 주셨으면 좋겠습니다"라며 단독 콘서트 개최 소식을 알렸다.우선 12월 9일 진행되는 '우리들의 청춘'은 위아영의 개인 솔로 공연으로 진행된다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["노민우·네이처→하동연·엔싸인(n.SSign) 총출동"…12월 '"n.CHworld Live 2022" in Japan' 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21681</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21681"/>
-        <updated>2022-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[n.CH엔터테인먼트 아티스트들이 일본에서 특별한 공연을 펼친다.10일 n.CH엔터테인먼트는 "자사 아티스트가 총출동하는 '"n.CHworld Live 2022" in Japan'이 오는 12월 4일과 11일 일본 도쿄와 오사카에서 개최된다"라고 밝혔다.이와 함께 공식 SNS를 통해 공연 라인업이 담긴 포스터를 게재해 글로벌 팬들의 이목을 집중시켰다. 공연에는 노민우(The Midnight Romance)를 비롯해 그룹 네이처(NATURE), 하동연, '청춘스타' TOP6(백희..]]></content>
     </entry>
 </feed>
