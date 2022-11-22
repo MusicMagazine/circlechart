@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2022-11-22T06:22:40.216Z</updated>
+    <updated>2022-11-22T07:17:28.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 카타르 월드컵 음악시장에 어떤 영향을 줄까?]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21748</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21748"/>
+        <updated>2022-11-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[4년마다 돌아오는 지구촌 축제인 월드컵이 올해에도 어김없이 찾아왔습니다. 올해는 월드컵 개최지인 카타르의 더운 날씨 탓에 가을과 겨울 사이에 열리게 되었습니다.월드컵과 같이 국민적 관심을 집중적으로 받는 이벤트가 있을 때마다 음악시장은 그에 따른 영향을 받곤 했었는데요, 올해는 어떨지 과거 사례를 바탕으로 살펴보도록 하겠습니다.&nbsp;&nbsp;위 그래프는 2010 남아공 월드컵(6월11일~7월12일) 당시 월별 음원 이용량 추이입니다. 월드컵 경기가 한창인 6월 이용량이 5월 대비 23%&nbsp;감소한 것으로 나타났습니다. 남아공 월드컵에서 우리 국가..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 앨범 판매량 올해 8천만 장  넘을 수도... - 10월 리뷰(2022)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21711</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21071"/>
         <updated>2022-07-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 6월 TOP400 가수별 가온지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 7.3%를 기록했습니다.&nbsp;&nbsp;&nbsp;2022년 6월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월보다 8.9% 감소해 3개월 연속 이어지던 상승세가 다소 꺾인 것으로 나타났습니다.&nbsp;&nbsp;6월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 17.2% 감소, 작년 6월 대비 15.1% 증가한 것으로 조사되었습니다.&nbsp;&nbsp;2022년 6월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 방탄소년단..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KPOP 산업 정말  혼란기 맞이할까?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=20952</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=20952"/>
-        <updated>2022-06-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이번 카드 뉴스에서는 최근 방탄소년단의 단체 활동 잠정 중단과 관련해 KPOP 산업이 구심점을 잃고 혼란기를 맞이할 것이라는 일부 전망들이 나오고 있는 것에 대해 정말 그렇게 될 것인지 가온차트 데이터 중 피지컬 앨범 판매량 데이터를 기반으로 살펴보도록 하겠습니다. (앨범 판매 데이터는 전 세계 KPOP 팬덤의 규모 등을 파악할 수 있는 가장 기초적인 자료로 볼 수 있겠습니다.)&nbsp;위 그래프는 연도별 앨범 판매량400 내 방탄소년단의 앨범 판매량이 차지하는 점유율을 나타낸 것입니다. 방탄소년단은 최근 3년간 한해 평균 약 7백6십만 ..]]></content>
     </entry>
 </feed>
