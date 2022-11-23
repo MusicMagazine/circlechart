@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-11-23T01:19:13.333Z</updated>
+    <updated>2022-11-23T03:02:57.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스텔라장 단독 콘서트 'WinterStella' 3분만에 초고속 매진]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21755</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21755"/>
+        <updated>2022-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 스텔라장의 콘서트 'WinterStella'가 티켓 오픈 3분만에 매진됐다.지난 17일 오후 8시 인터파크와 YES24에서 티켓 오픈된 'WinterStella'는 3분만에 초고속 매진을 기록, 팬들의 뜨거운 관심과 사랑을 입증했다.'WinterStella'는 12월 1일 공개 예정인 동명의 캐롤 EP 앨범 수록곡들과 스텔라장의 주옥 같은 노래들로 채워지며 찬바람이 옷깃을 여미게 하는 겨울, 사랑하는 사람, 소중한 사람과 따뜻함을 나누는 크리스마스 콘서트가 될 예정이다.스텔라장..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각X2F(신용재·김원주), '크리스마스 콘서트 GIFT’ 티켓 오픈 당일 전석 매진 '기염']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21743</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21720"/>
         <updated>2022-11-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 에일리(Ailee)가 티켓파워를 증명했다.17일 팝뮤직(에이투지 엔터테인먼트)은 "'2022 에일리 전국투어 콘서트 &lt;한 걸음 더&gt;' 서울, 군산 공연이 전석 매진을 기록했다"고 밝혔다.에일리의 데뷔 10주년을 기념해 마련된 이번 전국투어는 팬들을 향한 고마움은 물론 앞으로의 10년, 20년도 서로 응원하며 나아가보자는 의미를 담은 공연이다.앞서 안양, 대전, 창원, 대구, 부산, 서울에서 공연 개최 소식을 알린 에일리는 팬들의 성원에 힘입어 최근 군산, 인천, 용인까지 공연 지역을 추가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스), 두 번째 월드투어 'Save me, Kill me' 개최…서울→유럽→미주 사로잡는다!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21704</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21704"/>
-        <updated>2022-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 두 번째 월드투어로 글로벌 팬들을 만난다.15일 소속사 C9엔터테인먼트는 "CIX(BX, 승훈, 배진영, 용희, 현석)가 오는 12월 30일과 31일 개최되는 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt; IN SEOUL'을 시작으로 유럽, 미주를 거치는 월드투어에 돌입한다"고 밝혔다.&nbsp;이와 함께 공식 SNS를 통해 월드투어 일정이 담긴 포스터를 공개하며 글로벌 팬들의 시선을 집중시켰다.&nbsp;포스터에 따르면 CIX는 서울 콘서트 이후인 내년 1월 ..]]></content>
     </entry>
 </feed>
