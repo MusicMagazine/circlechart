@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-11-24T23:17:54.471Z</updated>
+    <updated>2022-11-25T01:18:30.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[황치열, 임재범 ‘너를 위해’ 리메이크…오늘(25일) 영화 ‘동감’ 스페셜 컬래버 음원 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21770</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21770"/>
+        <updated>2022-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 황치열이 영화 ‘동감’의 애절한 감성을 높인다.&nbsp;황치열이 가창에 참여한 영화 ‘동감’의 스페셜 컬래버레이션 음원 ‘너를 위해’가 25일 오후 6시 전 온라인 음원사이트를 통해 발매된다.&nbsp;22년 만에 리메이크로 화제를 이끈 영화 ‘동감’의 컬래버레이션 음원은 작품 내 시대적 배경인 1990년대 중?후반 명곡을 재해석한 곡들로 구성된다. ‘너를 위해’ 또한 지난 2000년 발매된 가수 임재범의 대표곡이자 영화 ‘동감’의 OST로 황치열의 진한 허스키 보컬로 재해석되어 원곡과는 또 다른 감동을 선사할 전망이다.원곡이 현재까지도 대중..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백' 아이리스(IRRIS), 오늘(24일) 새 싱글 'Stay W!th Me' 발매…순수한 마음+설렘 담았다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21764</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21746"/>
         <updated>2022-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 다채로운 매력의 신보로 돌아온다.템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 22일 오후 6시 세 번째 미니앨범 'ON and ON(온앤온)'을 발매한다.'ON and ON'은 지난 8월 발매한 'SHINING UP(샤이닝 업)' 이후 3개월 만에 선보이는 신보다. '우리'가 함께 만든 새로운 세계로 쉬지 않고 나아가겠다는 템페스트의 강력한 의지와 현재에 안주하지 않고 꿈을 향해 비상하겠다는 포부를 담았다.타이틀곡 'Drag..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑현, 27일 신곡 ‘내 세상은 너로 가득해’ 발매 확정! 달달 M/V 티저 첫 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21745</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21745"/>
-        <updated>2022-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 탑현(Tophyun)이 달달한 신곡으로 돌아온다.탑현은 오는 27일 신곡 ‘내 세상은 너로 가득해’를 발매하며 연말 가요계에 합류한다.지난 21일 오후 6시 유튜브 채널 ‘탑현월드 Tophyun World’에 ‘내 세상은 너로 가득해’의 첫 번째 뮤직비디오 티저 영상이 공개됐다.영상은 행복한 시간을 보내는 연인의 모습을 보여주고 있다. 바닷가와 기찻길을 배경으로 로맨틱한 포옹을 나누거나 장난을 치며 둘만의 아기자기한 세상을 그려내 보는 이들의 설렘을 자극한다.특히 “내 세상은 온통 너로 가득해 / 난 언제나 너의 옆에 있을게 ..]]></content>
     </entry>
 </feed>
