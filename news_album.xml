@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-11-28T01:16:28.810Z</updated>
+    <updated>2022-11-28T02:57:04.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양다일, 오늘(28일) 1년 10개월 만에 새 싱글 ‘괴로워’로 컴백…  늦가을 감성 자극할 또 하나의 명곡 탄생 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21777</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21777"/>
+        <updated>2022-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[음원 강자 양다일이 오늘(28일) 더블 싱글 ‘괴로워’로 컴백한다.소속사 브랜뉴뮤직은 지난 21일부터 공식 SNS 채널들을 통해 양다일의 새 싱글 콘셉트 포토, 리릭 티저 영상, 뮤직비디오 티저 등 프로모션 콘텐츠들을 순차적으로 공개하며 이번 컴백에 대한 기대감을 높였는데, 특히 양다일의 새 싱글 ‘괴로워’는 작년 1월에 발표한 정규 2집 ‘our joys and sadnesses’ 이후 약 1년 10개월 만에 발매하는 신작이라 더욱 큰 관심을 모으고 있다.&nbsp;이번 양다일의 더블 싱글 첫 번째 트랙이자 타이틀곡인 ‘괴로워’는 “사랑한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펀치, 29일 새 싱글 '이 밤이 가면 그대 올까요'로 컴백! 발매 연기 후 한 달 만 재개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21771</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21752"/>
         <updated>2022-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직을 대표하는 대세 보컬리스트 양다일이 새 싱글 ‘괴로워’로&nbsp;약 1년 10개월 만에 공식 컴백한다.소속사 브랜뉴뮤직은 지난 21일과 22일, 공식 SNS 채널들을 통해 오는 28일 발매되는 양다일의 더블 싱글 ‘괴로워’의 콘셉트 포토를 공개하며 이번 컴백을 공식화했는데,&nbsp;공개된 사진 속 양다일은 부드러운 카리스마로 그만의 독보적인 분위기를 선보이며 신곡에 대한 호기심을 증폭시켰다.양다일의 새 싱글 ‘괴로워’는 지난 10월 성료한 양다일 단독 콘서트 ‘D.I.LAND, again(다일랜드, 어게인)’에서 깜짝 선공개되며 팬들의..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로듀서 옫쏭, 소속 레이블 통해 글로벌 아티스트들 프로듀싱한 앨범 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21751</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21751"/>
-        <updated>2022-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022년 11월 23일 (뉴스와이어) -- 프로듀서 옫쏭이 자신의 레이블을 통해 다른 아티스트를 프로듀싱한 앨범을 발표한다.옫쏭이 설립한 레이블 이상하게 설득력있는은 12월 2일 일본, 한국 아티스트들의 참여로 구성된 앨범을 프로듀싱해 발매한다고 23일 밝혔다.곡은 3개로 구성돼 있으며 한국 아티스트 1명, 일본을 무대로 활동하는 아티스트 2명과 함께했다.1번 트랙 ‘Cloud’는 한국 아티스트 솔미(SOLMI)가 보컬리스트로 참여했으며, 중성적인 톤이지만 아름다운 음색이 특징이다. 또 작사/작곡은 프로듀서 옫쏭이 제작했으며, 작..]]></content>
     </entry>
 </feed>
