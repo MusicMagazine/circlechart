@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-11-29T01:19:28.328Z</updated>
+    <updated>2022-11-29T02:52:59.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전상근, 12월 4일 새 싱글 ‘어느 날에도, 어떤 날에도’ 발매 확정…올겨울 감성 저격 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21786</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21786"/>
+        <updated>2022-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 전상근이 감성 가득한 신보로 돌아온다.&nbsp;전상근은 오는 12월 4일 새 싱글 ‘어느 날에도, 어떤 날에도’를 발매한다.&nbsp;‘어느 날에도, 어떤 날에도’는 사랑하는 사람을 향한 진실한 마음을 노래하는 곡이다. 전상근의 매력적이고 호소력 짙은 보이스가 곡을 더욱 풍성하게 완성하며 올겨울에 딱 어울리는 따뜻한 발라드를 예고하고 있다.&nbsp;전상근은 지난 5월 선보인 싱글앨범 ‘I Will Fly (아이 윌 플라이)’ 이후 약 6개월 만에 신보 발매를 확정하며 더 업그레이드된 음악성을 선보일 예정이다. 무결점 가창력의 소유자 전상근이 ‘어느 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하현상, 12월 중순 컴백 확정! 음악?영화?예능 섭렵 대세 존재감…겨울맞이 음악 행보 ‘기대감 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21785</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21758"/>
         <updated>2022-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 빈센트블루가 가을을 상쾌한 감성으로 물들일 신곡을 발표한다.&nbsp;딩고 뮤직은 24일 오후 6시 각종 음원 사이트를 통해 빈센트블루의 신곡 '슬라이딩(Sliding) (feat. 케이시)'을 공개한다.&nbsp;'슬라이딩(Sliding) (feat. 케이시)'은 따뜻한 기타 사운드와 후반부 고조되는 경쾌한 비트가 인상적인 팝 트랙으로, '삶을 여행하듯 흘러가자'는 메시지를 잘 담아낸 가사를 통해 일상의 아름다움을 되돌아보게 하는 곡이다.&nbsp;또한 빈센트블루의 독특하고 매력적인 음색에 피처링을 맡은 케이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤하·이석훈·CIX·cignature·EPEX 한자리에" C9엔터, 12월 7일 싱글 앨범 '2022 C9 Christmas' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21757</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21757"/>
-        <updated>2022-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[C9엔터테인먼트 아티스트들이 특별한 캐럴을 선사한다.C9엔터테인먼트는 24일 0시 공식 SNS를 통해 C9 싱글 앨범 '2022 C9 Christmas(2022 C9 크리스마스)'의 타임테이블 이미지를 공개했다.이미지에는 눈 덮인 집과 트리 등이 담겨 있고 C9 Single Album '2022 C9 Christmas'라는 앨범명이 새겨져 있어 눈길을 끈다.타임테이블에 따르면 C9엔터테인먼트는 오는 25일 윤하를 시작으로 이석훈, CIX(씨아이엑스), cignature(시그니처), EPEX(이펙스)의 콘..]]></content>
     </entry>
 </feed>
