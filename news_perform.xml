@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-11-28T23:17:18.822Z</updated>
+    <updated>2022-11-29T01:19:28.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정준일, 내년 1월 1년 만에 소극장 콘서트 '겨울' 개최…음악적 소통 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21784</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21784"/>
+        <updated>2022-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 정준일이 1년 만에 소극장 콘서트 '겨울'로 팬들과 만난다.정준일은 내년 1월 26일부터 29일, 2월 2일부터 5일, 2월 9일부터 12일, 2월 16일부터 18일까지 총 15회에 걸쳐 서울 서초구 흰물결 아트센터에서 '정준일 소극장 콘서트-겨울' (이하 '겨울')을 개최한다.정준일의 소극장 콘서트 '겨울'은 오롯이 소리에 집중된 공연을 위해 특별한 무대장치 없이 미니멀하게 편성된 악기 및 목소리로만 이뤄지는 공연으로, 관객들에게 일반 공연보다 더 진한 여운과 감동을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루시, 앙코르 콘서트 ‘Childhood’ 3천여 명 동원! 생생한 라이브로 ‘밴드씬 대표 주자’ 굳히기]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21776</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21743"/>
         <updated>2022-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 허각, 보컬 듀오 2F(이프)가 공연장을 꽉 채운 관객들과 크리스마스를 함께 보낸다.21일 오후 인터파크 티켓을 통해 예매를 시작한 ‘2022 허각&amp;2F 크리스마스 콘서트: GIFT’(이하 'GIFT')는 빠르게 전석 매진을 기록했다.&nbsp;'GIFT'는 허각과 2F(신용재, 김원주)의 첫 컬래버레이션 콘서트다. 국내 가요계를 대표하는 남성 발라드 보컬리스트 허각, 신용재, 김원주가 한 자리에 모여 'GIFT'에서만 볼 수 있는 명품 라이브 무대를 준비 중이다.&nbsp;특히 크리스마스 이브..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['12월 컴백' 포레스텔라, 대구·서울·부산 'The Royal' 전국투어 콘서트 개최 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21742</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21742"/>
-        <updated>2022-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 연말연시 새로운 전국투어를 선보인다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 올해 12월과 내년 1월 대구, 서울, 부산에서 새로운 전국투어 콘서트 '22-23 Forestella Concert - The Royal (더 로얄)'을 개최한다.앞서 공개된 포스터에 따르면, 포레스텔라의 'The Royal' 대구 공연은 올해 12월 24일과 25일 대구 엑스코 5층 컨벤션홀, 서울 공연은 내년 1월 7일과 8일 서울 올림픽공원 SK핸드볼경기장, 부산 ..]]></content>
     </entry>
 </feed>
