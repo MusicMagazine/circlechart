@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-11-29T23:17:33.963Z</updated>
+    <updated>2022-11-30T01:18:33.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이수영, 팬들과 함께 따듯한 연말 보낸다! 단독 콘서트 'The Winter Grace' 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21789</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21789"/>
+        <updated>2022-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이수영이 연말 콘서트 'The Winter Grace'로 팬들과 만난다.이수영은 오는 12월 10일 연세대학교 신촌캠퍼스 백주년기념관 콘서트홀에서 '2022 이수영 연말 콘서트 [The Winter Grace]'를 개최한다.이수영의 'The Winter Grace (더 윈터 그레이스)'는 15년 만인 지난 10월 개최한 콘서트 'SORY (소리)' 이후 약 2달 만에 개최하는 공연으로, 이수영은 아쉽게 함께 하지 못했던 팬들을 위해 다시 한번 진한 여운과 감동을 선사할 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정준일, 내년 1월 1년 만에 소극장 콘서트 '겨울' 개최…음악적 소통 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21784</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21755"/>
         <updated>2022-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 스텔라장의 콘서트 'WinterStella'가 티켓 오픈 3분만에 매진됐다.지난 17일 오후 8시 인터파크와 YES24에서 티켓 오픈된 'WinterStella'는 3분만에 초고속 매진을 기록, 팬들의 뜨거운 관심과 사랑을 입증했다.'WinterStella'는 12월 1일 공개 예정인 동명의 캐롤 EP 앨범 수록곡들과 스텔라장의 주옥 같은 노래들로 채워지며 찬바람이 옷깃을 여미게 하는 겨울, 사랑하는 사람, 소중한 사람과 따뜻함을 나누는 크리스마스 콘서트가 될 예정이다.스텔라장..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각X2F(신용재·김원주), '크리스마스 콘서트 GIFT’ 티켓 오픈 당일 전석 매진 '기염']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21743</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21743"/>
-        <updated>2022-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각, 보컬 듀오 2F(이프)가 공연장을 꽉 채운 관객들과 크리스마스를 함께 보낸다.21일 오후 인터파크 티켓을 통해 예매를 시작한 ‘2022 허각&amp;2F 크리스마스 콘서트: GIFT’(이하 'GIFT')는 빠르게 전석 매진을 기록했다.&nbsp;'GIFT'는 허각과 2F(신용재, 김원주)의 첫 컬래버레이션 콘서트다. 국내 가요계를 대표하는 남성 발라드 보컬리스트 허각, 신용재, 김원주가 한 자리에 모여 'GIFT'에서만 볼 수 있는 명품 라이브 무대를 준비 중이다.&nbsp;특히 크리스마스 이브..]]></content>
     </entry>
 </feed>
