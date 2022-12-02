@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2022-12-02T01:13:32.099Z</updated>
+    <updated>2022-12-02T02:48:01.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 출신 케이, 에이투지 엔터테인먼트(팝뮤직)와 전속계약 체결…윤상·에일리·첫사랑(CSR)과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21805</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21805"/>
+        <updated>2022-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 러블리즈 출신 케이(Kei)가 새 둥지를 찾았다.2일 에이투지 엔터테인먼트(팝뮤직)는 "러블리즈 출신 케이와 최근 전속계약을 체결했다"라고 밝혔다.&nbsp;2014년 그룹 러블리즈의 메인보컬로 데뷔한 케이는 'Ah-Choo(아츄)', 'Destiny (나의 지구)' 등을 비롯한 수많은 곡을 히트시키며 큰 사랑을 받았다. 이후 솔로 앨범 'OVER AND OVER(오버 앤드 오버)'뿐만 아니라 다채로운 OST에 참여하며 활발한 활동을 펼쳤다. 또한 '서른 즈음에',..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여자친구 출신 김소원, 위엔터테인먼트와 전속 계약 체결! 위아이?크랙실버?김이온과 한식구]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21707</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20578"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[힙합 레이블 아메바컬쳐가 새로운 음악 프로젝트를 시작한다.&nbsp;아메바컬쳐는 지난 3일 공식 SNS를 통해 ‘The Seed (더 씨드)’ 프로젝트 이미지를 공개하며 새 프로젝트 론칭 소식을 알렸다. 공개된 이미지에는 씨앗(Seed)을 연상케 하는 초록빛 배경이 프로젝트명과 어우러지며 눈길을 끌었다.&nbsp;‘The Seed (더 씨드)’ 프로젝트는 힙합 및 알앤비 씬에서 아직 땅 속에 심어진 씨앗들이 열매를 맺을 수 있도록 지원하는 기획으로, 아메바컬쳐가 실력 있는 외부 아티스트들을 선정하고 이들의 앨범 제작 및 발매를 지원한다.아메바컬쳐는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘싱어게인2’ 김현성, 넥스타엔터와 전속계약 체결…조영수·케이시·강태관과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20559</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20559"/>
-        <updated>2022-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김현성이 넥스타엔터테인먼트와 새로운 행보에 나선다.넥스타엔터테인먼트는 30일 “김현성과 최근 전속계약을 체결했다. 당사는 김현성의 성공적인 복귀 및 새로운 음악 인생을 위해 전폭적인 지원을 펼칠 것”이라고 밝혔다.지난 1997년 가요계에 데뷔한 김현성은 감미로운 미성과 폭발적인 고음으로 음악팬들에게 깊은 인상을 남겼다. 특히 ‘소원’, ‘이해할게’, ‘헤븐(Heaven)’ 등 세월이 지나도 여전히 사랑받는 다수의 히트곡을 배출하며 많은 사랑을 받았다.&nbsp;최근에는 JTBC ‘싱어게인2 - 무명가수전’에 출연해 보는 이들에게 깊은 ..]]></content>
     </entry>
 </feed>

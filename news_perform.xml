@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-02T01:13:32.099Z</updated>
+    <updated>2022-12-02T02:48:01.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케빈오, 3일·4일 단독 콘서트 'Pieces of _' 개최…신곡 라이브→깜짝 게스트까지 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21807</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21807"/>
+        <updated>2022-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 케빈오가 단독 콘서트로 팬들을 만난다.케빈오는 오는 3일과 4일 서울 용산구에 위치한 현대카드 언더스테이지에서 '2022 케빈오 콘서트 Pieces of _'를 개최한다.이번 공연은 케빈오가 지난달 첫 정규앨범 'Pieces of _(피시스 오브_)'를 발매한 뒤 처음으로 선보이는 단독 콘서트이자 현대카드 Curated 80번째 주인공으로 오르는 무대다.&nbsp;이날 케빈오는 타이틀곡 'Pieces of You(피시스 오브 유)' 라이브는 물론 다채로운 수록곡 무대들을 선보이며 공연장을 가득..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수영, 팬들과 함께 따듯한 연말 보낸다! 단독 콘서트 'The Winter Grace' 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21789</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21761"/>
         <updated>2022-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 단독 콘서트로 팬들을 만난다.디어클라우드(나인, 이랑, 토근)가 오는 12월 28일부터 30일까지 클럽 온에어에서 단독 콘서트 'Farewell 2022 (페어웰 2022)'를 개최한다.디어클라우드는 최근 SNS를 통해 "매년 해왔던 우리들만의 축제 Merry Christmas &amp; Farewell. 팬데믹 이후로 너무나 오랜만에 하는 소극장 콘서트입니다. 공연장이 작아 더 내밀한 시간이 될 것 같아요. 수고하신 만큼 따듯하고 좋은 시간 만들게요. 많이 보고 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스텔라장 단독 콘서트 'WinterStella' 3분만에 초고속 매진]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21755</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21755"/>
-        <updated>2022-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 스텔라장의 콘서트 'WinterStella'가 티켓 오픈 3분만에 매진됐다.지난 17일 오후 8시 인터파크와 YES24에서 티켓 오픈된 'WinterStella'는 3분만에 초고속 매진을 기록, 팬들의 뜨거운 관심과 사랑을 입증했다.'WinterStella'는 12월 1일 공개 예정인 동명의 캐롤 EP 앨범 수록곡들과 스텔라장의 주옥 같은 노래들로 채워지며 찬바람이 옷깃을 여미게 하는 겨울, 사랑하는 사람, 소중한 사람과 따뜻함을 나누는 크리스마스 콘서트가 될 예정이다.스텔라장..]]></content>
     </entry>
 </feed>
