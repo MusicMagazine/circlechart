@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-04T23:15:43.391Z</updated>
+    <updated>2022-12-05T01:12:01.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['성장형 아티스트' 선재, 오늘(5일) 싱글 'Bind' 발매! 솔직한 자기 고백 담았다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21808</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21808"/>
+        <updated>2022-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 선재(snzae)가 혼란을 솔직하게 노래한다.선재는 5일 낮 12시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 'Bind (바인드)'를 발매한다.'Bind'는 '어지러운', '아찔한'이라는 뜻을 지닌 Dizzy 콘셉트를 담은 앨범이다. 선재는 지난 8월 발매한 'Sool (술) (Feat. THAMA)'에 이어 또 한번 혼란스러움에 대해 솔직하게 털어놨다. 선재가 혼란스러운 현실에서 도피하고자 스스로 고립하며 낭비한 시간들에 대한 후회와 반성을 스..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이칠린 지윤, 데뷔 첫 OST 도전...오늘(2일) '아무것도 하고 싶지 않아' OST '난 기다릴게요' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21806</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21790"/>
         <updated>2022-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 정인이 'track by YOON'에 두 번째 주자로 참여한다.미스틱스토리는 30일 0시 신규 음악 프로젝트 'track by YOON (트랙 바이 윤)'의 공식 SNS를 통해 프로젝트의 두 번째 주자인 정인의 라인업 이미지를 공개했다.공개된 이미지 속 정인은 인형을 손에 끼고 마이크 앞에 서 있는 모습으로 새 프로젝트 음원에 대한 궁금증을 배가시켰다. 정인이 프로듀서인 윤종신과 선보이는 이번 컬래버레이션은 스테디 명곡 ‘오르막길’ 발매 10주년에 진행되는 프로젝트로, 정인이 또 한 번 윤종신과 특..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하·이석훈·CIX·cignature·EPEX, 캐럴 앨범 '2022 C9 Christmas' 트랙리스트 공개…타이틀곡은 '메리 메리 크리스마스..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21787</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21787"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[C9엔터테인먼트 아티스트들이 첫 번째 캐럴 앨범을 선사한다.C9엔터테인먼트는 30일 0시 공식 SNS를 통해 C9 싱글 앨범 '2022 C9 Christmas(2022 C9 크리스마스)'의 트랙리스트 이미지를 게재했다.트랙리스트에 따르면 이번 앨범에는 타이틀곡 '메리 메리 크리스마스'를 비롯해 'Santa knows that(산타 노즈 뎃)', '일 년의 마지막 밤'까지 총 세 개 트랙이 수록됐다.22인의 전 아티스트들이 참여한 타이틀곡 '메리 메리 크리스마스'..]]></content>
     </entry>
 </feed>
