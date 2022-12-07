@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-07T05:15:50.085Z</updated>
+    <updated>2022-12-07T06:22:02.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY 'CHESHIRE' Takes No. 1 Spot in the November CIRCLE CHART Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21829</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21829"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the November CIRCLE CHART, ITZY 'CHESHIRE' rose to the top of the monthly Retail Album Chart.&nbsp; &nbsp;‘CHESIRE’ is the new mini-album from ITZY. It carries the message that since there are no right answers to all one’s questions and dilemmas, trusting one’s instincts can be worth a try.The No. ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스테이씨 소속사' 하이업엔터, 차세대 K팝 원석 찾는다! 1월 전국투어 오디션 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21828</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21804"/>
         <updated>2022-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 슈퍼주니어가 새로운 타이틀곡 'Celebrate'로 컴백한다.슈퍼주니어는 2일 오전 11시 공식 SNS를 통해 정규 11집 앨범 Vol.2 'The Road : Celebration'(더 로드 : 셀러브레이션)의 신곡명과 크레딧을 담은 트랙리스트 이미지를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 'Celebrate'(셀러브레이트)를 비롯해 'Hate Christmas'(헤이트 크리스마스), 'Snowman'(스노우맨), 'White Lo..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7일 발매' C9엔터, '2022 C9 Christmas' 음원 일부 공개…단체 캐럴송→보컬·래퍼 유닛까지]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21803</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21803"/>
-        <updated>2022-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[이석훈, 윤하, CIX, cignature, EPEX 등 C9엔터테인먼트 아티스트들이 단체 캐럴로 행복한 연말을 선물한다.C9엔터테인먼트는 2일 0시 공식 SNS를 통해 C9 싱글 앨범 '2022 C9 Christmas(2022 C9 크리스마스)'의 프리뷰 영상을 공개했다.영상에는 타이틀곡 '메리 메리 크리스마스'부터 'Santa knows that(산타 노즈 뎃)', '일 년의 마지막 밤'까지 총 세 개 트랙의 하이라이트 음원이 담겼다. 이와 함께 전 아티스트가 함께 한 재..]]></content>
     </entry>
 </feed>
