@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-08T03:19:03.739Z</updated>
+    <updated>2022-12-08T04:19:26.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘13일 발매’ 위아이, 스페셜 싱글 ‘Gift For You’ 콘셉트 포토 공개 완료…선물 같은 비주얼]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21833</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21833"/>
+        <updated>2022-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)가 데뷔 후 첫 캐럴송으로 팬들을 만난다.위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 7일 오후 공식 SNS를 통해 크리스마스 스페셜 싱글 ‘Gift For You (기프트 포 유)’ 멤버별 콘셉트 포토를 차례로 게재했다.공개된 포토 속 여섯 멤버는 크리스마스 느낌이 물씬 나는 공간에 완벽하게 녹아들어 로맨틱한 설렘을 선사하고 있다. 포근한 무드의 니트 스타일링으로 통일감을 주면서도 각자만의 매력이 돋보이는 룩으로 보는 재미도 더했다. 달콤한 미소를 비롯한 다채로운 표정 연출 또한 따뜻한 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라, 22일 컴백 확정! 첫 싱글 앨범 'The Bloom : UTOPIA' 세계관 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21832</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21815"/>
         <updated>2022-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 슈퍼주니어가 알찬 2022년을 함께 돌아보며 따뜻한 연말을 예고했다.슈퍼주니어는 지난 5일 오후 11시 공식 유튜브 채널에 '우리가 기록하는 우리의 2022'라는 제목의 새로운 콘텐츠를 공개하고, 컴백 전 유쾌한 즐거움을 선사했다.이번 콘텐츠는 슈퍼주니어 멤버들이 올 한 해를 돌아보며 기념일과 활동을 채우는 모습을 담았다. 예성과 규현이 1·3·9월, 희철과 신동이 2·7·10월, 이특과 시원이 4·5·6월, 은혁과 동해와 려욱이 8·11·12월 달력을 맡아 올해의 다양한 활동을 이야기했다. 이 과정에서 슈퍼주니..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라이징돌' EPEX(이펙스), 'EIGHT APEX' 일본 공연 성료 "첫 해외투어 빛내준 팬분들께 감사"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21814</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21814"/>
-        <updated>2022-12-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 첫 해외투어의 포문을 열었다.&nbsp;&nbsp;이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 2일과 4일 일본 오사카와 도쿄에서 'EPEX 1st CONCERT 〈EIGHT APEX〉 in JAPAN(이펙스 첫 번째 콘서트 &lt;에이트 에이펙스&gt; 인 재팬)'을 개최했다.&nbsp;&nbsp;지난 6월 일본에서 첫 팬미팅을 진행했던 이펙스는 6개월 만에 다시 일본을 찾아 팬들과 마주했다. '학원歌'와 'Lone Wolf(론 울프)'로 오프닝을 연 이펙스는 "..]]></content>
     </entry>
 </feed>
