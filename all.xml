@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicMagazine.github.io/circlechart/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-09T02:45:09.293Z</updated>
+    <updated>2022-12-09T03:19:12.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['임영웅' 7개월 연속 음원시장 점유율 1위 - 11월 리뷰(2022) (Circle Chart ─ News ─ Opinion)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21841</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21841"/>
+        <updated>2022-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022년 11월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 16곡을 올려놓으며 (합산)점유율 6.2%를 기록했습니다.&nbsp;&nbsp;&nbsp;2022년 10월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 8.5% 감소, 전년 동기에 비해서는 0.2% 증가했습니다. 참고로, 올해 11월 400위 기준 신규 음원 수는 20곡으로&nbsp; 2021년 11월 58곡, 2020년 11월 52곡, 2019년 11월 64곡, 2018년 11월 67곡에 비해 크게 감소했습니다.&nbsp;11월 앨범 판매량400(1위부터 400위까지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 카타르 월드컵 음악시장에 어떤 영향을 줄까? (Circle Chart ─ News ─ Opinion)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21748</id>
@@ -66,13 +73,6 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21088"/>
         <updated>2022-07-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 상반기 TOP400 가수별 써클지수 점유율 조사에서 아이유가 400위권 내 총 24곡을 올려놓으며 (합산)점유율 6.8%를 기록했습니다.&nbsp;2022년 상반기 음원 이용량 400(1위부터 400위까지 이용량 합계)이 전년 동기에 비해 5.4% 감소, 2019년 같은 기간에 비해 30.3% 감소한 것으로 조사되었습니다.&nbsp;2022년 상반기 앨범 차트 기준&nbsp; TOP400판매량(1위부터 400위까지 판매량 합계)이 약 3천5백만 장을 기록했습니다.2022년 상반기 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 방탄소년단이 400..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지컬 앨범 판매량  상반기에만  3천5백만 장 - 6월 리뷰(2022) (Circle Chart ─ News ─ Opinion)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21071</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21071"/>
-        <updated>2022-07-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022년 6월 TOP400 가수별 가온지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 7.3%를 기록했습니다.&nbsp;&nbsp;&nbsp;2022년 6월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월보다 8.9% 감소해 3개월 연속 이어지던 상승세가 다소 꺾인 것으로 나타났습니다.&nbsp;&nbsp;6월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 17.2% 감소, 작년 6월 대비 15.1% 증가한 것으로 조사되었습니다.&nbsp;&nbsp;2022년 6월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 방탄소년단..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[숀(SHAUN), 오늘(9일) 새 EP 'Omnibus pt.2 : Inside Out' 발매 "따듯한 위로 담았다" (Circle Chart ─ News ─ Album)]]></title>
