@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-09T01:14:35.195Z</updated>
+    <updated>2022-12-09T02:45:09.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각X2F(신용재·김원주), 콘서트 추가 공연 개최 확정! 사흘 내내 로맨틱 크리스마스]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21837</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21837"/>
+        <updated>2022-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각, 보컬 듀오 2F(이프)의 크리스마스 콘서트를 하루 더 만날 수 있다.&nbsp;9일 빅플래닛메이드엔터, 밀리언마켓은 "허각과 2F(신용재, 김원주)의 '2022 허각&amp;2F 크리스마스 콘서트: GIFT'가 관객분들의 성원에 힘입어 오는 23일 추가 공연 개최를 확정 지었다. 23일부터 25일까지 총 사흘 간 행복한 시간을 만들 예정이다"라고 밝혔다.&nbsp;'2022 허각&amp;2F 크리스마스 콘서트: GIFT'(이하 'GIFT')는 허각과 2F의 첫 컬래버레이션 콘서트다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박창근, 2023년에도 전국투어 앙코르 공연 잇는다! 서울→포항까지 순회]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21812</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21772"/>
         <updated>2022-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엘라스트(E'LAST)가 지구 반대편에서 팬들과 잊지 못할 추억을 쌓았다.엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 원준, 예준)는 지난달부터 약 한 달간 진행한 푸에르토리코, 엘살바도르, 코스타리카, 우루과이, 칠레 등을 잇는 첫 남미투어를 성공적으로 마쳤다.데뷔부터 꾸준히 열렬한 성원을 보내준 남미 팬들에게 보답하고자 이번 투어를 진행한 엘라스트는 그 어느 때보다 다이내믹하고 완성도 높은 무대를 선보였고, 공연장은 그 어느 때보다 뜨거운 환호와 함성이 가득했다.두 번째 미니앨범 ‘AWAKE(어웨이크)’ 수록..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에일리, 전국투어 콘서트 '한 걸음 더' 안양 공연 성료→창원으로 투어 열기 ing]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21768</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21768"/>
-        <updated>2022-11-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 에일리(Ailee)가 전국투어 첫 공연을 성료했다.에일리는 최근 안양실내체육관에서 개최한 '2022 에일리 전국투어 콘서트 &lt;한 걸음 더&gt;' 첫 공연을 성황리에 마쳤다.이번 전국투어는 데뷔 10주년을 맞은 에일리가 팬들을 향한 고마움은 물론 앞으로의 10년, 20년도 서로 응원하며 나아가보자는 의미를 담아 마련한 공연이다.전국투어의 첫 포문을 여는 안양 콘서트에서 에일리는 '손대지마', '너나 잘해' 무대로 화려한 오프닝을 꾸몄다. 또 '노래가 늘었어', &amp;#..]]></content>
     </entry>
 </feed>
