@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-11T23:15:38.435Z</updated>
+    <updated>2022-12-12T01:15:09.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장재인, 2년 만에 신곡으로 돌아온다! 오늘(12일) 새 싱글 ‘고마워요’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21847</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21847"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 장재인 듣기만 해도 따듯해지는 음악으로 돌아온다.장재인은 12일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 ‘고마워요 (Thanks and Thank you)’를 발매한다.‘고마워요’는 장재인이 약 2년 만에 발매하는 곡으로, 어려운 순간에도 사랑하는 사람들과 함께 따듯한 연말이 되기를 바라는 마음을 담았다. 나긋한 장재인의 목소리와 어우러지는 포근한 무드의 어쿠스틱 기타, 다이내믹하게 고조되는 코러스 구간이 리스너들의 귀를 사로잡을 전망이다.독특한 목소리로 개성 있는 음악적 스펙트럼을 선보여온 장재인은 오랜만에 선보이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀(SHAUN), 오늘(9일) 새 EP 'Omnibus pt.2 : Inside Out' 발매 "따듯한 위로 담았다"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21839</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21822"/>
         <updated>2022-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[이석훈, 윤하를 비롯한 C9엔터테인먼트 아티스트들의 단체 캐럴이 베일을 벗는다.C9엔터테인먼트는 7일 오후 6시 C9 싱글 앨범 '2022 C9 Christmas(2022 C9 크리스마스)'를 발매한다.'2022 C9 Christmas'는 이석훈, 윤하, CIX(씨아이엑스), cignature(시그니처), EPEX(이펙스)까지 C9엔터테인먼트 전 아티스트들이 참여한 첫 번째 캐럴 앨범이다. 모두가 바라는 따듯하고 행복한 겨울을 위해 준비한 크리스마스 스페셜 프로젝트로, 연말 음악팬들의 플레이리스트를 책임..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1월 4일 컴백’ 문빈&산하(ASTRO), 미니 3집 타이틀곡은 ‘Madness’…트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21821</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21821"/>
-        <updated>2022-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 신곡 ‘Madness’로 컴백한다.&nbsp;문빈&amp;산하는 지난 5일 오후 소속사 판타지오 공식 SNS를 통해 내년 1월 4일 발매하는 미니 3집 ‘INCENSE’(인센스)의 트랙리스트 이미지를 공개했다.&nbsp;공개된 트랙리스트에 따르면 이번 앨범에는 타이틀곡 ‘Madness’(매드니스)를 비롯해 ‘Perfumer’(퍼퓨머), ‘이끌려’, '바람’, ‘Chup Chup’(춥춥), ‘Your day’(유어 데이)까지 다채로운 총 6곡이 수록된다.&nbsp;이번 트랙리스트 이미지를 통해 ‘Madness’라는 타이틀..]]></content>
     </entry>
 </feed>
