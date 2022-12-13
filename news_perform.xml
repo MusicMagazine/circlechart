@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-12T23:17:04.600Z</updated>
+    <updated>2022-12-13T01:17:37.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주니엘, 데뷔 10주년 기념 콘서트 성료→신곡 'Dear' 라이브 첫 공개 "앞으로 좋은 음악 들려드릴 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21850</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21850"/>
+        <updated>2022-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 주니엘이 데뷔 10주년 단독 콘서트를 성황리에 마쳤다.주니엘은 지난 3일 서울 구름아래소극장에서 데뷔 10주년 기념 콘서트 'Juniversuri (주니버서리)'를 개최하고 팬들과 만났다.이날 주니엘은 일본에서 활동하던 곡들은 물론 '편지', 'Last Carnival (라스트 카니발)', '나쁜 사람', 'illa illa (일라 일라)' 등 히트곡들을 선보이며 팬들의 뜨거운 호응을 얻었다.&nbsp;특히 주니엘은 '혼술' 무대에서 곡을 쓸 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘청춘 아이콘’ 위아이, 데뷔 첫 팬 콘서트 성료! 루아이와 함께한 연말 파티 ‘재미 X 감동 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21845</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21807"/>
         <updated>2022-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 케빈오가 단독 콘서트로 팬들을 만난다.케빈오는 오는 3일과 4일 서울 용산구에 위치한 현대카드 언더스테이지에서 '2022 케빈오 콘서트 Pieces of _'를 개최한다.이번 공연은 케빈오가 지난달 첫 정규앨범 'Pieces of _(피시스 오브_)'를 발매한 뒤 처음으로 선보이는 단독 콘서트이자 현대카드 Curated 80번째 주인공으로 오르는 무대다.&nbsp;이날 케빈오는 타이틀곡 'Pieces of You(피시스 오브 유)' 라이브는 물론 다채로운 수록곡 무대들을 선보이며 공연장을 가득..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수영, 팬들과 함께 따듯한 연말 보낸다! 단독 콘서트 'The Winter Grace' 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21789</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21789"/>
-        <updated>2022-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이수영이 연말 콘서트 'The Winter Grace'로 팬들과 만난다.이수영은 오는 12월 10일 연세대학교 신촌캠퍼스 백주년기념관 콘서트홀에서 '2022 이수영 연말 콘서트 [The Winter Grace]'를 개최한다.이수영의 'The Winter Grace (더 윈터 그레이스)'는 15년 만인 지난 10월 개최한 콘서트 'SORY (소리)' 이후 약 2달 만에 개최하는 공연으로, 이수영은 아쉽게 함께 하지 못했던 팬들을 위해 다시 한번 진한 여운과 감동을 선사할 ..]]></content>
     </entry>
 </feed>
