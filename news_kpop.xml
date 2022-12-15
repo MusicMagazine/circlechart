@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-14T23:16:47.199Z</updated>
+    <updated>2022-12-15T01:16:41.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비 배인, '아이돌 라디오' 물들인 완벽 라이브→'Hype Boy' 합동 퍼포먼스까지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21868</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21868"/>
+        <updated>2022-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)의 배인이 다채로운 매력으로 글로벌 팬들을 장악했다.저스트비 배인은 지난 14일 방송된 MBC 라디오와 글로벌 팬덤 플랫폼 유니버스가 공동 제작하는 'IDOL RADIO (아이돌 라디오) 시즌3'에 출연했다.이날 배인은 함께 출연한 마독스, DKZ 민규, 엘라스트 원혁과 '한입 BOY'로 등장해 뉴진스의 'Hype Boy(하이프 보이)' 무대로 포문을 열었다. 배인은 색다른 매력을 더한 무대로 시작부터 글로벌 팬들의 눈도장을 찍었다.&nbsp;이어 배인은 훈훈한 인사와 함..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[November CIRCLE CHART: YOUNHA, Lim Young Woong, LE SSERAFIM, and ITZY Dominate t..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21863</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21846"/>
         <updated>2022-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 하현상이 새 싱글의 분위기를 엿볼 수 있는 콘셉트 포토를 공개했다.하현상은 12일 0시 공식 SNS에 오는 19일 발매될 여섯 번째 싱글 ‘겨울이 오면’의 콘셉트 포토를 공개했다.&nbsp;공개된 사진 속 하현상은 포근한 색감의 코트와 머플러를 매치해 계절에 어울리는 분위기를 드러냈다. 새하얀 하늘과 바다를 배경으로 한 하현상의 모습이 쓸쓸하면서도 낭만적인 무드를 보여줘 하현상이 들려줄 신곡에 대한 기대감을 높였다.‘겨울이 오면’은 하현상이 지난 5월 발표한 다섯 번째 싱글 ‘Living the moment of love (리빙 더 모..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 22일 첫 싱글 앨범 발매 전 M/V 선공개! 'The Bloom : UTOPIA' 스케줄러 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21840</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21840"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 다채로운 콘텐츠로 첫 싱글 앨범 컴백을 예열한다.&nbsp;포레스텔라(강형호, 고우림, 배두훈, 조민규)는 지난 8일 오후 공식 SNS에 첫 싱글 앨범 'The Bloom : UTOPIA - The Borders of Utopia'(더 블룸 : 유토피아 - 더 보더스 오브 유토피아)의 스케줄러 이미지를 공개했다.&nbsp;스케줄러에 따르면, 포레스텔라는 오는 22일 낮 12시 음원 발매에 앞선 당일 0시 공식 유튜브 채널에 타이틀곡 뮤직비디오를 선공개한다.&nbsp;또한, 컴백 전까지 트랙리스트..]]></content>
     </entry>
 </feed>

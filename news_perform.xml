@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-14T23:16:47.201Z</updated>
+    <updated>2022-12-15T01:16:41.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민가수 김동현·손진욱·조연호·김희석·김영흠·하동연, 올 연말 'Christmas 30cm 콘서트' 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21865</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21865"/>
+        <updated>2022-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[국민가수 김동현, 손진욱, 조연호, 김희석, 김영흠, 하동연이 크리스마스를 맞이해 특별한 공연을 선보인다.&nbsp;&nbsp;김동현, 손진욱, 조연호, 김희석, 김영흠, 하동연은 오는 23일부터 25일까지 사흘간 서울 종로구에 위치한 굿씨어터에서 '국민가수 6인의 산타 Christmas 30cm 콘서트'를 개최한다.&nbsp;&nbsp;'국민가수 6인의 산타 Christmas 30cm 콘서트'는 김동현, 손진욱, 조연호, 김희석, 김영흠, 하동연이 일상에 지친 국민을 위로하고자 30cm 근접한 무대로 관객들을 만나는 공연이다. 호소력 짙..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주니엘, 데뷔 10주년 기념 콘서트 성료→신곡 'Dear' 라이브 첫 공개 "앞으로 좋은 음악 들려드릴 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21850</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21810"/>
         <updated>2022-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[수 구원찬, 다운(Dvwn), 재만(JAEMAN)이 뭉친다.구원찬, 다운(Dvwn), 재만(JAEMAN)은 오는 11일 오후 2시, 6시 등 2회차에 걸쳐 서울 마포구 구름아래소극장에서 스페셜 콘서트 'OUR:OUTRO (아워 아웃트로)'를 개최한다.'OUR:OUTRO'는 저마다의 방식으로 숨 가쁜 한 해를 보낸 우리 모두를 위한 스페셜 콘서트다. 세 사람의 감성을 한 자리에서 만날 수 있어 기대를 모으고 있다.구원찬 다운, 재만은 현재 가장 핫한 관심을 받고 있는 라이징 싱어송라이터들이다. 바쁜 한 해..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케빈오, 3일·4일 단독 콘서트 'Pieces of _' 개최…신곡 라이브→깜짝 게스트까지 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21807</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21807"/>
-        <updated>2022-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 케빈오가 단독 콘서트로 팬들을 만난다.케빈오는 오는 3일과 4일 서울 용산구에 위치한 현대카드 언더스테이지에서 '2022 케빈오 콘서트 Pieces of _'를 개최한다.이번 공연은 케빈오가 지난달 첫 정규앨범 'Pieces of _(피시스 오브_)'를 발매한 뒤 처음으로 선보이는 단독 콘서트이자 현대카드 Curated 80번째 주인공으로 오르는 무대다.&nbsp;이날 케빈오는 타이틀곡 'Pieces of You(피시스 오브 유)' 라이브는 물론 다채로운 수록곡 무대들을 선보이며 공연장을 가득..]]></content>
     </entry>
 </feed>
