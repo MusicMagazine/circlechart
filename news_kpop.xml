@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-19T04:18:42.299Z</updated>
+    <updated>2022-12-19T05:14:30.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 50 CIRCLE CHART: YOUNHA Tops 3 Charts while LE SSERAFIM is No. 1 in the Glo..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21887</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21887"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 50 CIRCLE CHART (previously Gaonchart), YOUNHA dominated in 3 charts while LE SSERAFIM rose to the top of the Global K-pop Chart.KMCA, publisher of CIRCLE CHART, announced that “As of week 50(2022.12.04.~2022.12.10.), YOUNHA ‘Event Horizon ’topped the Digital, Streaming, and Singing Roo..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 버논, 23일 발표 첫 솔로 믹스테이프 ‘Black Eye’ 콘셉트 포토 공개!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21886</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21869"/>
         <updated>2022-12-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 하현상이 새 싱글의 서정적인 분위기를 예고했다.&nbsp;하현상은 15일 0시 공식 SNS를 통해 오는 19일 발매되는 여섯 번째 싱글 ‘겨울이 오면’의 세 번째 콘셉트 포토를 게재했다.&nbsp;공개된 콘셉트 포토 속 하현상은 멍하니 어항 속을 바라보며 공허한 분위기를 자아내고 있다. 차가운 색감에 자연스레 녹아든 하현상의 묘한 표정 연출이 몽환적인 무드를 높이며 시선을 사로잡았다.&nbsp;‘겨울이 오면’은 추운 겨울을 지내는 모든 이들을 위한 평범하고 따뜻한 이야기를 담은 곡으로, 하현상이 작사?작곡에 참여해 특유의 섬세한 미성에 걸맞은 따..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스트비 배인, '아이돌 라디오' 물들인 완벽 라이브→'Hype Boy' 합동 퍼포먼스까지]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21868</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21868"/>
-        <updated>2022-12-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)의 배인이 다채로운 매력으로 글로벌 팬들을 장악했다.저스트비 배인은 지난 14일 방송된 MBC 라디오와 글로벌 팬덤 플랫폼 유니버스가 공동 제작하는 'IDOL RADIO (아이돌 라디오) 시즌3'에 출연했다.이날 배인은 함께 출연한 마독스, DKZ 민규, 엘라스트 원혁과 '한입 BOY'로 등장해 뉴진스의 'Hype Boy(하이프 보이)' 무대로 포문을 열었다. 배인은 색다른 매력을 더한 무대로 시작부터 글로벌 팬들의 눈도장을 찍었다.&nbsp;이어 배인은 훈훈한 인사와 함..]]></content>
     </entry>
 </feed>
