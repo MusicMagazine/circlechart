@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-19T01:07:43.726Z</updated>
+    <updated>2022-12-19T02:33:32.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비, 단독 콘서트 'Next Door' 성료..."루비들의 사랑, 더 좋은 무대로 보답하겠다"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21883</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21883"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 권은비가 글로벌 팬들의 열띤 응원 속에 두 번째 단독 콘서트를 성황리에 마쳤다.&nbsp;&nbsp;권은비는 지난 17일과 18일 양일간 서울 코엑스 신한카드 아티움에서 '2022 권은비 세컨드 콘서트 '넥스트 도어'(2022 KWON EUN BI 2nd CONCERT 'Next Door')'(이하 '넥스트 도어')를 개최하고 글로벌 팬들과 만났다.&nbsp;&nbsp;'다음 단계를 향해 가는 권은비의 또다른 문'이라는 의미를 담고 있는 '넥스트 도어'는 권은비가 지난 6월 개..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 이솔로몬·박장현, 첫 팬미팅 성황리 마무리…음악+소통 다 잡은 종합선물세트]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21881</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21812"/>
         <updated>2022-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 박창근이 전국투어 서울 앙코르 공연을 성황리에 마쳤다.&nbsp;&nbsp;박창근은 지난 3일과 4일 서울 경희대학교 평화의전당에서 '2022 전국투어 콘서트 〈박창근〉 - 서울 앙코르' 공연을 열고 팬들과 만났다.&nbsp;지난 8월 서울 공연을 시작으로 부산, 대구, 창원, 전주, 울산, 청주, 일산에서 전국투어를 이어간 박창근은 팬들의 성원에 힘입어 앙코르 콘서트 개최를 확정했다.&nbsp;&nbsp;4개월 만에 서울 팬들과 만난 박창근은 '이유'와 '이런 생각 한번 어때요?' 무대로 오프닝을 열었다. 이어 팬들과 다시..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이시, 단독 콘서트서 신곡 ‘찬바람이 불어오네요’ 무대 최초 공개…전 세대 취향 저격 ‘성공’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21811</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21811"/>
-        <updated>2022-12-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 케이시(Kassy)가 7주년 기념 콘서트를 성료했다.케이시는 지난 3일과 4일 양일간 동덕여자대학교 100주년 기념관에서 ‘2022 케이시 콘서트 - 일곱번째 겨울’을 개최하고 뜨거운 응원 속에 팬들과 만났다.‘일곱번째 겨울’은 케이시의 데뷔 7주년을 기념하는 단독 콘서트다. 지난달 다섯 번째 미니앨범 ‘추운날’로 컴백한 케이시는 이날 공연으로 2022년 열일 행보를 잇고, 케이시가 곧 장르인 음악들로 공연을 찾은 팬들에게 행복한 연말을 선사했다.‘나 그댈 위해 시 한편을 쓰겠어’로 공연의 포문을 화려하게 연 케이시는 ‘너의 ..]]></content>
     </entry>
 </feed>

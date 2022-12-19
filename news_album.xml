@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-19T01:07:43.727Z</updated>
+    <updated>2022-12-19T02:33:32.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 하현상, 오늘(19일) 새 싱글 ‘겨울이 오면’ 발매… 하현상표 겨울 시즌송 예고!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21885</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21885"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 하현상이 겨울 감성을 가득 담은 시즌송으로 돌아온다.하현상은 19일 오후 6시 여섯 번째 싱글 ‘겨울이 오면’을 발매한다. 지난 5월 공개된 다섯 번째 싱글 ‘Living the moment of love (리빙 더 모먼트 오브 러브)’ 이후 약 7개월 만에 내놓는 신보다.‘겨울이 오면’은 추운 겨울을 지내는 모든 이들을 위한 평범하고 따뜻한 이야기를 담은 록 발라드 장르의 시즌송으로 하현상이 작사?작곡에 참여해 위로를 담은 가사와 멜로디로 서정적인 감성을 담았다. 여기에 하현상의 포근하고 섬세한 미성과 크리스마스의 따..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 출신 이수정, 오늘(19일) 신곡 '크리스마스의 기적' 발매...발라드 가수 이우와 스페셜 듀엣곡]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21884</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21884"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이수정이 크리스마스의 설렘을 담은 신곡으로 가요계에 컴백한다.&nbsp;&nbsp;이수정은 19일 오후 6시 각종 음원 사이트를 통해 발라드 가수 이우와 함께한 새 싱글 '크리스마스의 기적'을 발매하고 글로벌 팬들 곁으로 돌아온다.&nbsp;&nbsp;'크리스마스의 기적'은 사랑하는 사람과 크리스마스를 함께하는 행복한 설렘을 표현한 곡으로, 서정적이고 감미로운 R&amp;B와 경쾌하게 빌드업되는 셔플 리듬의 매력을 동시에 느낄 수 있다.&nbsp;&nbsp;또한 한 번 들으면 잊혀지지 않는 아름다운 코러스 라인에 이수정의 맑고 청량한 음색과 이우의 달..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그린, 오늘(16일) '쇼미더머니11' 화제의 '동그란 맘' 정식 발매...래퍼 디보 피처링 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21878</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21861"/>
         <updated>2022-12-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[메이저나인이 선보이는 'Re:WIND 4MEN' 프로젝트에 싱어송라이터 우디(Woody)가 네 번째 가창자로 나선다.14일 메이저나인은 "포맨 기억 되감기 프로젝트 'Re:WIND 4MEN(리와인드 포맨)'의 네 번째 주자 우디가 오는 21일 오후 6시 'Re:WIND 4MEN Vol.04 Say I Love You'를 발매한다"고 밝혔다.&nbsp;'Re:WIND 4MEN'은 '포맨을 되감다'라는 의미로, 목소리 하나만으로 우리의 기억을 연결하는 포맨의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원(ILY:1) 리리카&나유, 인기 웹예능 ‘싴후당’ OST 출격!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21860</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21860"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[6인조 걸그룹 아일리원(ILY:1)이 인기 웹예능 ‘싴후당’ OST에 출격, 감미로운 목소리로 팬들을 녹인다.아일리원의 멤버 리리카와 나유는 14일 오후 6시 공개되는 ‘싴후당’ OST Part.2 ‘때론 남자친구보다 좋은걸’에 보컬로 참여했다. 얼마전 아이돌 댄스 배틀 ‘댄싱돌 스테이지2’ 무대를 통해 대반전 퍼포먼스로 팬들을 사로잡았던 아일리원이 다시금 노래로 풋풋한 ‘청순돌’로의 매력을 발산해 보인 것.리리카와 나유가 노래한 ‘때론 남자친구보다 좋은걸’은 두 멤버의 감미로운 목소리와 어쿠스틱한 사운드가 인상적으로 이번엔 파워풀..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘콜드 新 레이블’ 파이렛, 아티스트 크루 0WAVE 론칭! 오늘(14일) 첫 EP ‘off the wall’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21858</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21858"/>
-        <updated>2022-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[5인 아티스트 크루 0WAVE(영웨이브)가 정식 출범과 함께 첫 번째 앨범을 발매한다.뮤지션 콜드(Colde)가 설립하고 파테코, 제이씨 유카, 미닛 등이 소속된 레이블 파이렛(PYRAT)에서 5명으로 구성된 아티스트 크루 0WAVE를 새롭게 론칭했다.&nbsp;0WAVE는 그룹 트레저의 데뷔 멤버 출신으로 알려진 VIIN (하윤빈)을 중심으로 yukon (유강현), Aiboy (이승윤), MODS (김세훈), wooseojun (우서준) 다섯 명의 아티스트가 소속된 크루다. 각 멤버들이 음악뿐만 아니라 비주얼 프로덕션까지 모든 제작을 자체..]]></content>
     </entry>
 </feed>
