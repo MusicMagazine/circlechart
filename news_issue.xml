@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2022-12-19T23:15:59.048Z</updated>
+    <updated>2022-12-20T01:11:02.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[B.O.M(가칭), 내년 초 정식 데뷔…2023년 1호 男아이돌 출격!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[MNH엔터테인먼트가 내년 1월 첫 보이그룹을 선보인다.20일 MNH엔터테인먼트는 “자사에서 처음으로 선보이는 신인 보이그룹 ‘B.O.M (Boys Of MNH) (가칭)’이 내년 초 데뷔를 확정했다”라고 밝혔다.B.O.M은 청하, 임상현, VVON(본) 등 다양한 장르의 아티스트들이 소속된 MNH엔터테인먼트가 야심차게 내놓은 K-POP 유망주이자 2023년 첫 보이그룹이다. 한국인 멤버 8명으로 구성되어 있으며, Mnet ‘아이랜드(I-LAND)와 Mnet ‘소년24’ 출신으로 국내외 두터운 팬덤을 일찍이 확보한 멤버(조경민, 문재..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈 출신 케이, 에이투지 엔터테인먼트(팝뮤직)와 전속계약 체결…윤상·에일리·첫사랑(CSR)과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21805</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20591"/>
         <updated>2022-04-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤지성이 DG엔터테인먼트에서 새로운 도약에 나선다.6일 신생 종합 엔터테인먼트사 DG엔터테인먼트는 "윤지성과 최근 전속계약을 체결했다. 윤지성은 이달 말 새 앨범을 발매하고 1년여 만에 가요계에 컴백한다"라며 "재능넘치는 아티스트를 맞게 돼 기쁘며 아낌없는 지원을 이어갈 계획이다"라고 밝혔다.윤지성은 지난 2017년 방송된 Mnet '프로듀스 101 시즌2'를 통해 워너원의 리더로 데뷔해 큰 사랑을 받았다. 팀 활동 종료 이후인 2019년 2월부터는 솔로 가수이자 배우, 만능 엔터테이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아메바컬쳐, 새 음악 프로젝트 ‘The Seed’ 론칭 확정! 첫 아티스트 누구? ‘궁금증 UP’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20578</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20578"/>
-        <updated>2022-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 레이블 아메바컬쳐가 새로운 음악 프로젝트를 시작한다.&nbsp;아메바컬쳐는 지난 3일 공식 SNS를 통해 ‘The Seed (더 씨드)’ 프로젝트 이미지를 공개하며 새 프로젝트 론칭 소식을 알렸다. 공개된 이미지에는 씨앗(Seed)을 연상케 하는 초록빛 배경이 프로젝트명과 어우러지며 눈길을 끌었다.&nbsp;‘The Seed (더 씨드)’ 프로젝트는 힙합 및 알앤비 씬에서 아직 땅 속에 심어진 씨앗들이 열매를 맺을 수 있도록 지원하는 기획으로, 아메바컬쳐가 실력 있는 외부 아티스트들을 선정하고 이들의 앨범 제작 및 발매를 지원한다.아메바컬쳐는 ..]]></content>
     </entry>
 </feed>
