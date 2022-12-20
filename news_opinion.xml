@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2022-12-20T05:14:17.551Z</updated>
+    <updated>2022-12-20T06:20:14.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앨범 판매량 리뷰  걸그룹 판매 점유율 급증 - 2022]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21895</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21895"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[*누적 앨범 판매량: 해당 아티스트의 모든 앨범 판매량 합계*콜라보, 솔로, 유닛 독립된 아티스트로 집계&nbsp;*집계기간: 2022년 1주차~50주차위 그래프는 2013년부터 2022년까지 앨범(Physical) 판매량 400을 나타낸 것입니다. (연간차트 1위부터 400위까지의 판매량 합계, 2022년은 1주차~50주차 까지의 결과임) 올해는 지난해에 비해 (50주차 현재) 앨범 판매량이 30% 증가했으며 12월 말까지 판매량이 집계되면 좀 더 비율이 상승할 것으로 보입니다.2022년 1주차부터 50주차까지 가수별 누적 앨범 판매량 집..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['임영웅' 7개월 연속 음원시장 점유율 1위 - 11월 리뷰(2022)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21841</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21257"/>
         <updated>2022-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 7월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 6.5%를 기록했습니다.&nbsp;&nbsp;2022년 7월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월보다 6.5% 증가하며 다시 반등한 것으로 나타났습니다.&nbsp;7월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 40.2% 증가, 작년 7월 대비 116.8% 증가한 것으로 조사되었습니다.&nbsp;2022년 7월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 aespa가 400위권 내 총 2장의 앨..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반기 리뷰 (First half of 2022 review)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21088</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21088"/>
-        <updated>2022-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022년 상반기 TOP400 가수별 써클지수 점유율 조사에서 아이유가 400위권 내 총 24곡을 올려놓으며 (합산)점유율 6.8%를 기록했습니다.&nbsp;2022년 상반기 음원 이용량 400(1위부터 400위까지 이용량 합계)이 전년 동기에 비해 5.4% 감소, 2019년 같은 기간에 비해 30.3% 감소한 것으로 조사되었습니다.&nbsp;2022년 상반기 앨범 차트 기준&nbsp; TOP400판매량(1위부터 400위까지 판매량 합계)이 약 3천5백만 장을 기록했습니다.2022년 상반기 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 방탄소년단이 400..]]></content>
     </entry>
 </feed>
