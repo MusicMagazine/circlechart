@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-22T02:36:29.217Z</updated>
+    <updated>2022-12-22T03:16:31.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 51 CIRCLE CHART: ITZY 'CHESHIRE' Takes Top Spot in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21911</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21911"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 51 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by ITZY ‘CHESHIRE’.&nbsp;Released on November 30th, `CHESHIRE` sold the most copies as of 3PM (KST) on December 14th (Wednesday, week 51).'CHESHIRE' is the new mini-album from ITZY, featuring a total of ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아일리원(ILY:1) 아라·리리카, 블링블링 청순 비주얼 포토 공개 ‘시선 강탈’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21909</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21888"/>
         <updated>2022-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[하이어뮤직이 소속 아티스트의 컴백을 예고했다.하이어뮤직은 19일 오후 6시 공식 SNS를 통해 소속 아티스트의 컴백을 알리는 티저 이미지를 공개했다.공개된 이미지 속 아티스트의 실루엣은 곧 발매될 신곡의 가사로 채워져 있다. ‘How you like this’라는 문구가 아직 베일에 가려진 아티스트와 신곡에 대한 다양한 추측을 불러일으킨다.하이어뮤직은 개성 넘치는 음악색과 대중성을 고루 갖춘 아티스트들이 대거 소속된 워너비 힙합 레이블이다. 지난 2020년 9월 발매한 컴필레이션 앨범으로 ‘코리아 힙합 어워즈 2021’ 3관왕을 차..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 50 CIRCLE CHART: YOUNHA Tops 3 Charts while LE SSERAFIM is No. 1 in the Glo..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21887</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21887"/>
-        <updated>2022-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 50 CIRCLE CHART (previously Gaonchart), YOUNHA dominated in 3 charts while LE SSERAFIM rose to the top of the Global K-pop Chart.KMCA, publisher of CIRCLE CHART, announced that “As of week 50(2022.12.04.~2022.12.10.), YOUNHA ‘Event Horizon ’topped the Digital, Streaming, and Singing Roo..]]></content>
     </entry>
 </feed>
