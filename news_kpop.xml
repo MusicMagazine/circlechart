@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-23T01:08:35.150Z</updated>
+    <updated>2022-12-23T02:36:59.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스), 자체 콘텐츠 ‘지구별 방위대 시즌2’ 마무리…뜨거운 웃음]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21919</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21919"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 자체 콘텐츠 ‘지구별 방위대’ 시즌2를 성공적으로 마무리했다.&nbsp;이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 22일 공식 유튜브 채널을 통해 자체 콘텐츠 ‘지구별 방위대 시즌2’ 마지막 에피소드를 공개했다.&nbsp;지난 방송에서 빌런(금동현, 에이든, 제프, 아민) 팀과 지구 방위대(뮤, 위시, 예왕, 백승) 팀으로 나뉘어 미션 공을 숨기고 찾는 게임을 진행한 이펙스는 공격과 수비를 바꿔 게임을 이어갔다. 미션 공을 숨기게 된 뮤, 위시, 예왕, 백승은 독기를 품은 것 치고는 소소한 숨기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘스타' 우승팀 엔싸인, 신곡 'Woo Woo'→'너만 빼고 다 있어' 무대 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21918</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21905"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 콘셉트 포토를 모두 공개하며 치명적인 분위기를 예고했다.문빈&amp;산하는 지난 19일부터 21일까지 사흘간 소속사 판타지오 공식 SNS를 통해 세 번째 미니앨범 ‘INCENSE’(인센스)의 ‘PURE’(퓨어) 버전 개인, 유닛 콘셉트 포토를 순차적으로 공개했다.먼저 공개된 개인컷 속 문빈은 압도적인 비주얼로 시선을 사로잡는다. 화이트 셔츠에 가죽 넥타이를 매치한 스타일링은 문빈의 거친 매력을 배가시켰다. 거울을 활용한 사진에는 문빈의 강렬한 포스와 치명적인 섹시미가 모두 담겨 유니크한 분위기를 완성..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 버논, 영화 같은 믹스테이프 ‘Black Eye’ 뮤직비디오 티저 공개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21902</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21902"/>
-        <updated>2022-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴의 버논이 한 편의 영화 같은 ‘Black Eye’ 뮤직비디오 티저를 공개했다.플레디스 엔터테인먼트는 21일 0시 세븐틴 공식 SNS에 버논의 첫 솔로 믹스테이프 ‘Black Eye’(블랙 아이) 뮤직비디오 티저 영상을 게재했다. 짧은 영상임에도 티저에는 버논 특유의 감성과 거친 보이스가 담겨 팬들의 관심을 집중시켰다.어딘가를 향해 힘차게 달려가는 버논의 모습으로 시작되는 이 영상에는 ‘Knock knock Is there anybody out there(똑똑, 밖에 아무도 없나요)’라는 가사의 음원 일부가 처음으로 공개..]]></content>
     </entry>
 </feed>
