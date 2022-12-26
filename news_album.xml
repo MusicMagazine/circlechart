@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-25T23:15:15.894Z</updated>
+    <updated>2022-12-26T01:10:56.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[민서, 써니힐 ‘Goodbye To Romance’ 리메이크…오늘(26일) 김이나 프로젝트 신곡 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21925</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21925"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 민서가 써니힐의 ‘Goodbye To Romance’를 재해석한다.민서는 26일 오후 6시 전 온라인 음원 사이트를 통해 김이나 프로젝트의 세 번째 앨범 ‘From 김이나 part.3’의 ‘Goodbye To Romance’(굿바이 투 로맨스)를 발매한다.‘Goodbye To Romance’는 지난 2012년 발매된 써니힐의 미니 2집 타이틀곡으로 김이나가 작사, 이민수가 작곡을 맡아 학창 시절의 추억을 담백하고 아련하게 그렸다.민서는 정은지, 위클리(Weeekly)에 이어 김이나 프로젝트 ‘From 김이나’의 세 번째 주자로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하현우, 오늘(22일) 디즈니+의 오리지널 시리즈 '카지노' OST 'Show Down' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21907</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21875"/>
         <updated>2022-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[DJ 겸 프로듀서 듀오 어드밴스드(ADVANCED)가 새 싱글로 돌아온다.&nbsp;어드밴스드는 16일 오후 6시 각종 온라인 음원 사이트를 통해 열세 번째 싱글앨범 ‘Ride or Die (라이드 오어 다이)’를 발매한다.&nbsp;‘Ride or Die’는 영화 ‘보니 앤 클라이드(Bonnie and Clyde)’에서 파생된 ‘온전한 내 편’이라는 뜻을 담은 곡명으로, 라틴 리듬과 팝적인 요소들이 절묘하게 섞여 듣는 이들로 하여금 리듬을 타게 만드는 매력을 선사한다.특히 ‘Turn Back Time’, ‘AFK’ 등으로 국내 음악 팬들에게도 주목..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 버논, 오는 23일 첫 솔로 믹스테이프 ‘Black Eye’ 발표!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21872</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21872"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴의 버논이 데뷔 후 첫 솔로 믹스테이프를 낸다.플레디스 엔터테인먼트는 16일 0시 세븐틴 공식 SNS에 한 장의 티저 이미지를 게재하며 오는 23일 오후 2시 버논의 솔로 믹스테이프 ‘Black Eye’(블랙 아이)가 발표된다는 소식을 전했다.감각적인 폰트와 이미지가 어우러진 티저 이미지는 힙한 분위기를 자아낸다. ‘TURN UP THE RADIO’라는 문구가 무엇을 의미하는지 호기심을 자극하며 버논이 첫 개인 작품인 ‘Black Eye’로 보여 줄 모습에 기대와 관심을 더했다.버논은 지난 2월 영국 출신 싱어송라이터 찰..]]></content>
     </entry>
 </feed>

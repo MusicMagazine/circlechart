@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-25T23:15:15.890Z</updated>
+    <updated>2022-12-26T01:10:56.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비, 2023 To be continued 스포일러 깜짝 공개! 새해 한계 없는 성장 '기대']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21924</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21924"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 2023년에도 한계 없는 성장과 도약을 이어간다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 26일 0시 공식 SNS에 '2023 To be continued'라는 문구와 함께 새로운 스포일러 이미지를 깜짝 공개했다.이번 스포일러 이미지에는 선 하나와 점 두 개가 그려진 메모가 등장해 음악 팬들의 다양한 추리를 불러일으키고 있다. 지난달 미니 3집 '= (NEUN)'을 발매하고 새로운 시리즈를 시작한 저스트비가 2023년에는 어떤 음악과 콘텐츠로 유니크한 스..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스), 자체 콘텐츠 ‘지구별 방위대 시즌2’ 마무리…뜨거운 웃음]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21919</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21906"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초대형 DJ 서바이벌 ‘WET!’의 타이틀곡 뮤직비디오 티저가 베일을 벗었다.&nbsp;‘WET! : World EDM Trend (이하 WET!)’은 지난 21일 공식 SNS를 통해 그룹 마마무(MAMAMOO)의 솔라가 가창한 ‘WET!’의 타이틀곡 ‘Paradise (파라다이스)’ 뮤직비디오 티저를 공개했다.&nbsp;공개된 티저에는 감각적이고 트렌디한 사운드에 맞춰 솔라가 등장해 시작부터 이목을 집중시켰다. 이어 비트가 점차 고조되면서 솔라와 함께 음악에 몸을 맡긴 DJ, 댄서의 모습이 교차돼 보는 이들의 흥을 한층 끌어올렸다.&nbsp;솔라는 특유의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO), 미니 3집 ‘INCENSE’ 콘셉트 포토 공개 완료! 섹시美 정점 찍은 비주얼]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21905</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21905"/>
-        <updated>2022-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 콘셉트 포토를 모두 공개하며 치명적인 분위기를 예고했다.문빈&amp;산하는 지난 19일부터 21일까지 사흘간 소속사 판타지오 공식 SNS를 통해 세 번째 미니앨범 ‘INCENSE’(인센스)의 ‘PURE’(퓨어) 버전 개인, 유닛 콘셉트 포토를 순차적으로 공개했다.먼저 공개된 개인컷 속 문빈은 압도적인 비주얼로 시선을 사로잡는다. 화이트 셔츠에 가죽 넥타이를 매치한 스타일링은 문빈의 거친 매력을 배가시켰다. 거울을 활용한 사진에는 문빈의 강렬한 포스와 치명적인 섹시미가 모두 담겨 유니크한 분위기를 완성..]]></content>
     </entry>
 </feed>
