@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-26T23:15:12.921Z</updated>
+    <updated>2022-12-27T01:10:24.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김범수, ‘명품이즈백’ 서울 콘서트 성료 “간절히 원했던 무대”]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21928</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21928"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김범수가 연말 콘서트의 서울 공연을 성황리에 마쳤다.김범수는 지난 23일부터 25일까지 사흘간 서울 장충체육관에서 ‘2022 김범수 콘서트 ‘명품이즈백’’(이하 ‘명품이즈백’)을 개최하고 팬들을 만났다.&nbsp;이날 김범수는 대한민국을 대표하는 명품 보컬리스트답게 자신의 히트곡들은 물론 다양한 장르의 곡들을 라이브로 열창하며 관객들에게 귀호강을 선사했다.23일 첫 공연에서는 김범수의 개인 유튜브 채널 ‘범수의 세계’를 통해 약 30분간의 콘서트 생중계가 진행됐다. 이에 시청자들은 댓글로 뜨거운 응원을 보냈고, 김범수는 추첨을 통해 선..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 더로즈, 북미·라틴 아메리카 투어 매진→1월 서울 공연 확정…글로벌 열기 ing]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21926</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21904"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[오반, 빈첸, 박재정 등이 소속되어 있는 로맨틱팩토리가 오는 30일 오후 7시 30분 서울 마포구에 위치한 홍대 왓챠홀에서 패밀리 콘서트 'ROMANTIC DAY 2022'를 연다.'ROMANTIC DAY 2022'는 2018년부터 매년 진행되는 로맨틱팩토리의 패밀리 콘서트로, 코로나19 이후 처음으로 스탠딩으로 진행되는 공연이다.&nbsp;이번 콘서트에는 로맨틱팩토리 소속 뮤지션인 오반, 빈첸, 박재정, 피아노맨, 임수가 출연하는 것은 물론, 로맨틱팩토리와 형제 관계인 레이블 레시피뮤직 소속의 주시크와 런치까지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스), 일본 연말 팬미팅 'Very Merry ABNEW' 성료…특별한 크리스마스 선물 선사]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21899</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21899"/>
-        <updated>2022-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[AB6IX는 지난 20일 일본 도쿄 토요스 핏(TOYOSU PIT)에서 2022 AB6IX 크리스마스 파티 'Very Merry ABNEW(베리 메리 에비뉴)'를 개최하며 팬들과 소중한 시간을 보냈다.&nbsp;&nbsp;'Sugarcoat'로 이날 공연의 포문을 연 AB6IX는 청량감 넘치는 'BREATHE', 'LOVE AIR'를 연달아 들려주며 팬미팅 현장을 뜨겁게 달궜다. 더불어 일본 미니 2집 수록곡 'Umbrella', '우리가 헤어졌던 이유' 일본어 버..]]></content>
     </entry>
 </feed>

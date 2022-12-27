@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2022-12-26T23:15:12.923Z</updated>
+    <updated>2022-12-27T01:10:24.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['프듀' 출신 임정민(태령), 이리온엔터 전속계약 체결…위앤유와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임정민(태령)이 이리온엔터테인먼트에서 새로운 활동을 시작한다.27일 이리온엔터테인먼트는 "걸그룹 루나솔라 출신 태령(임정민)과 최근 전속계약을 체결했다. 태령은 본명 임정민으로 2023년 컴백을 준비하고 있다"라고 밝혔다.임정민은 이리온엔터테인먼트를 통해 "저의 생일에 좋은 소식을 전해드릴 수 있어 기쁘다. 새로운 보금자리에서 좋은 음악을 열심히 준비하겠다"라는 뜻깊은 소감을 전했다.이어 "팬분들과 새로운 콘셉트로 빨리 만날 날을 기대하고 있다. 이제 루나솔라 태령이 아닌 임정민으로 기억해주..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B.O.M(가칭), 내년 초 정식 데뷔…2023년 1호 男아이돌 출격!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21049"/>
         <updated>2022-07-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[떠오르는 신예 아티스트 21학번이 제나두 엔터테인먼트와 손잡고 활발한 활동을 예고했다.5일 제나두 엔터테인먼트는 "최근 신예 아티스트 21학번과 전속 계약을 체결했다"고 밝혔다.신입생이 떠오르는 이름으로 주목받은 21학번은 지난해 '자연스러운 만남 추구', '완전 내 스타일' 등 앨범을 발매하며 자신의 마음을 솔직하고 귀여운 가사로 표현했다. 사랑스럽고 청아한 목소리로 다양한 SNS 콘텐츠를 통해 신인으로서는 이례적으로 큰 관심을 이끌었다.특히 21학번은 화상회의 프로그램 줌(Zoom)을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤지성, 신생 DG엔터테인먼트와 전속계약…이달 말 1년 만 가수 컴백 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20591</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=20591"/>
-        <updated>2022-04-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤지성이 DG엔터테인먼트에서 새로운 도약에 나선다.6일 신생 종합 엔터테인먼트사 DG엔터테인먼트는 "윤지성과 최근 전속계약을 체결했다. 윤지성은 이달 말 새 앨범을 발매하고 1년여 만에 가요계에 컴백한다"라며 "재능넘치는 아티스트를 맞게 돼 기쁘며 아낌없는 지원을 이어갈 계획이다"라고 밝혔다.윤지성은 지난 2017년 방송된 Mnet '프로듀스 101 시즌2'를 통해 워너원의 리더로 데뷔해 큰 사랑을 받았다. 팀 활동 종료 이후인 2019년 2월부터는 솔로 가수이자 배우, 만능 엔터테이..]]></content>
     </entry>
 </feed>

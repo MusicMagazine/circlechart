@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-26T23:15:12.924Z</updated>
+    <updated>2022-12-27T01:10:23.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[별, 1월 11일 컴백 확정! 14년 만의 정규 6집 'Startrail' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21931</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21931"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 별이 내년 1월 11일 컴백한다.&nbsp;&nbsp;콴엔터테인먼트는 지난 26일 공식 SNS를 통해 별의 컴백 소식을 알리는 스케줄러 이미지를 공개했다.&nbsp;&nbsp;이미지에는 고풍스러운 느낌을 물씬 풍기는 내부에서 창밖을 바라보고 있는 별의 모습과 새 앨범명 'Startrail(스타트레일)'이 공개됐다.&nbsp;&nbsp;스케줄러에 따르면 별은 오는 28일 첫 번째 콘셉트 포토 공개를 시작으로, 트랙리스트, 리릭 포스터, 하이라이트 메들리, 뮤직비디오 티저 등을 순차적으로 오픈하고 내년 1월 11일 앨범을 정식 발매한다.&nbsp;&nbsp;'Startrail&amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민서, 써니힐 ‘Goodbye To Romance’ 리메이크…오늘(26일) 김이나 프로젝트 신곡 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21925</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21876"/>
         <updated>2022-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 본격적인 컴백 카운트다운에 돌입했다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 16일 공식 SNS 계정을 통해 첫 번째 미니앨범 ‘A DREAM OF ILY:1(어 드림 오브 아일리원)’ 트레일러 이미지를 공개했다.올해 4월 데뷔 후 처음으로 선보이는 정식 미니앨범이라는 점에서 기대감과 궁금증이 동시에 커지고 있는 아일리원의 첫 번째 미니앨범 ‘A DREAM OF ILY:1’은 내년 1월 5일 발매된다.&nbsp;이에 앞서 이달 17일 앨범 프리뷰, 19일 트랙리스트가 공개되며 21일부터 24일까지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘DJ 겸 프로듀서 듀오’ 어드밴스드, 오늘(16일) 새 싱글 ‘Ride or Die’ 발매…유명 덴마크 뮤지션과 컬래버]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21875</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21875"/>
-        <updated>2022-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[DJ 겸 프로듀서 듀오 어드밴스드(ADVANCED)가 새 싱글로 돌아온다.&nbsp;어드밴스드는 16일 오후 6시 각종 온라인 음원 사이트를 통해 열세 번째 싱글앨범 ‘Ride or Die (라이드 오어 다이)’를 발매한다.&nbsp;‘Ride or Die’는 영화 ‘보니 앤 클라이드(Bonnie and Clyde)’에서 파생된 ‘온전한 내 편’이라는 뜻을 담은 곡명으로, 라틴 리듬과 팝적인 요소들이 절묘하게 섞여 듣는 이들로 하여금 리듬을 타게 만드는 매력을 선사한다.특히 ‘Turn Back Time’, ‘AFK’ 등으로 국내 음악 팬들에게도 주목..]]></content>
     </entry>
 </feed>
