@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-28T01:09:25.050Z</updated>
+    <updated>2022-12-28T02:35:47.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['우리들의 기부스' 김장훈, 정은혜 작가와 31일 '구세군 자선냄비 기부 콘서트' 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21940</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21940"/>
+        <updated>2022-12-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김장훈이 구세군 자선냄비 콘서트로 올 한해를 따뜻하게 마무리한다.김장훈은 오는 31일 오후 2시부터 8시까지 6시간 동안 서울 중구 명동역 6번 출구 앞에서 '구세군 자선냄비 1일 산타 기부 콘서트'를 개최한다.매년 겨울 김장훈은 '구세군 자선냄비 콘서트'를 펼치며 나눔을 실천하고 있다. 지난해에는 영하 18도의 날씨에도 8시간 동안 30곡을 버스킹하며 모금을 독려해 화제를 모았다.3회 째를 맞는 올해 공연에는 정은혜 작가와 가수 김종서, 여행스케치, 세계적인 팝페라 가수 정세훈을 비롯한 동료 아티..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수, ‘명품이즈백’ 서울 콘서트 성료 “간절히 원했던 무대”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21928</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21908"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 슈퍼주니어가 'Celebrate' 라이브의 감동을 전 세계 팬들과 공유했다.슈퍼주니어는 지난 21일 오후 공식 유튜브 채널에 'Celebrate'(셀러브레이트) 스페셜 비디오를 공개하며, 정규 11집 콘텐츠 선물을 이어가고 있다.'Celebrate'는 슈퍼주니어가 최근 발매한 정규 11집 앨범 Vol.2 'The Road : Celebration'(더 로드 : 셀러브레이션)의 타이틀곡이다. 이번 스페셜 비디오는 지난 주말 필리핀 마닐라에서 열린 월드 투어 'SUP..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["오반·빈첸·박재정·주시크 총출동" 로맨틱팩토리, 30일 콘서트 'ROMANTIC DAY 2022' 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21904</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21904"/>
-        <updated>2022-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[오반, 빈첸, 박재정 등이 소속되어 있는 로맨틱팩토리가 오는 30일 오후 7시 30분 서울 마포구에 위치한 홍대 왓챠홀에서 패밀리 콘서트 'ROMANTIC DAY 2022'를 연다.'ROMANTIC DAY 2022'는 2018년부터 매년 진행되는 로맨틱팩토리의 패밀리 콘서트로, 코로나19 이후 처음으로 스탠딩으로 진행되는 공연이다.&nbsp;이번 콘서트에는 로맨틱팩토리 소속 뮤지션인 오반, 빈첸, 박재정, 피아노맨, 임수가 출연하는 것은 물론, 로맨틱팩토리와 형제 관계인 레이블 레시피뮤직 소속의 주시크와 런치까지..]]></content>
     </entry>
 </feed>
