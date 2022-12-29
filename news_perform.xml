@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2022-12-29T01:11:34.972Z</updated>
+    <updated>2022-12-29T02:36:58.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['감성 보컬리스트' 박현서, 2월 11일 단독 콘서트 'My Winter' 개최…1월 4일 티켓 예매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21948</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21948"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 박현서가 단독 콘서트로 팬들을 만난다.박현서는 내년 2월 11일 오후 6시 서울시 마포구에 위치한 살롱 문보우에서 단독 콘서트 'My Winter(마이 윈터)'를 개최한다.'My Winter'는 지난해 3월 같은 장소에서 열린 'LIVECONNECT STAGE vol.5 &lt;박현서 단독 콘서트&gt;' 이후 약 2년 만의 단독 콘서트다. 특유의 감수성 넘치는 박현서표 음악들로 팬들과 가까이 만나며 호흡할 예정이다.박현서는 오는 1월 5일 첫 번째 미니앨범 'My Winter..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리들의 기부스' 김장훈, 정은혜 작가와 31일 '구세군 자선냄비 기부 콘서트' 개최!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21940</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21910"/>
         <updated>2022-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김장훈이 직접 그린 AI 작품으로 크리스마스 공연을 더욱 특별하게 장식한다.김장훈은 오는 24일과 25일 개최하는 단독 콘서트 '김장훈 크리스마스 콘서-r트'에서 AI 아트를 담은 뮤직비디오와 무대를 최초로 시도하여 선보일 예정이다.최근 김장훈의 SNS를 통해 공개된 그의 첫 AI 아트 작품은 예상을 뛰어 넘는 고퀄리티로 예비 관객들의 호평과 기대를 받고 있다. 실제로 네티즌들은 "어릴 때 그림에 소질 있다고 하더니 가수 안 했으면 화가도 잘 어울렸을 듯", "인상주의 거장의 느낌",..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼주니어, 'Celebrate' 무대 실황 깜짝 공개! 진심 가득 아이 콘택트]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21908</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21908"/>
-        <updated>2022-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 슈퍼주니어가 'Celebrate' 라이브의 감동을 전 세계 팬들과 공유했다.슈퍼주니어는 지난 21일 오후 공식 유튜브 채널에 'Celebrate'(셀러브레이트) 스페셜 비디오를 공개하며, 정규 11집 콘텐츠 선물을 이어가고 있다.'Celebrate'는 슈퍼주니어가 최근 발매한 정규 11집 앨범 Vol.2 'The Road : Celebration'(더 로드 : 셀러브레이션)의 타이틀곡이다. 이번 스페셜 비디오는 지난 주말 필리핀 마닐라에서 열린 월드 투어 'SUP..]]></content>
     </entry>
 </feed>

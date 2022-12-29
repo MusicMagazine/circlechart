@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2022-12-29T01:11:34.965Z</updated>
+    <updated>2022-12-29T02:36:58.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 21학번, 프로젝트 'SOOM(숨)' 첫 번째 가창자 낙점…서영은 '웃는거야' 재해석]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21950</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21950"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 21학번이 숨은 명곡을 재해석한다.소속사 제나두엔터테인먼트는 29일 "21학번이 프로젝트 'SOOM(숨)'의 첫 번째 가창자로 참여해 내년 1월 1일 오후 6시 서영은의 '웃는거야' 리메이크곡을 발매한다"고 밝혔다.프로젝트 'SOOM(숨)'은 기존에 발매된 좋은 노래, 숨은 명곡들을 재해석해 새로운 '숨'을 불어 넣어주는 리메이크 프로젝트다. 원곡의 감성을 유지하면서 현시대에 맞은 편곡을 더해 대중들에게 또 다른 감동을 선사할 예정이다.'SOOM(숨..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테이, 오늘(28일) 한동근 '이 소설의 끝을 다시 써보려 해' 리메이크]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21943</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21903"/>
         <updated>2022-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[여성 인디 듀오 제이레빗이 '사랑의 이해' OST의 첫 번째 가창자로 나선다.제이레빗이 가창에 참여한 JTBC 수목드라마 '사랑의 이해 (연출 조영민 / 극본 이서현, 이현정 / 제작 SLL)'의 첫 번째 OST 'Happiness (해피니스)'가 21일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'Happiness'는 잔잔하게 진행하는 어쿠스틱 악기들과 스트링 선율 위에 달콤하지만 슬픈 멜로디가 더해진 곡이다. 극 중 주인공인 하상수(유연석 분)와 안수영(문가영 분)..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 우디, 오늘(21일) 'Re:WIND 4MEN' 프로젝트 음원 'Say I Love You' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21898</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21898"/>
-        <updated>2022-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 우디(Woody)가 크리스마스에 걸맞은 감성 짙은 곡을 선물한다.&nbsp;우디가 가창한 'Re:WIND 4MEN(리와인드 포맨)' 프로젝트의 네 번째 음원 'Re:WIND 4MEN Vol.04 Say I Love You'가 21일 오후 6시 발매된다.&nbsp;&nbsp;2010년 발매된 포맨의 명곡 'Say I Love You'는 바이브(VIBE)의 윤민수를 필두로 믿고 듣는 작사가 민연재와 신용재가 의기투합한 곡이다. 발매 당시 타이틀곡이 아니었음에도 현재까지 '대표 고백송'으로 불리..]]></content>
     </entry>
 </feed>
