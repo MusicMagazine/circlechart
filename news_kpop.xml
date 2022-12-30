@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-30T01:12:46.017Z</updated>
+    <updated>2022-12-30T02:37:27.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[시그니처, 1년 만 컴백 예고? 블링블링한 포스터 공개로 팬들 기대감 UP]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21951</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21951"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 시그니처(cignature)가 새로운 활동을 예고했다.시그니처(채솔, 지원, 셀린, 벨, 세미, 도희, 클로이)는 30일 0시 공식 SNS를 통해 의문의 포스터를 기습 공개했다.공개된 포스터에는 영롱한 색감의 장식볼이 가득 담겨 있어 블링블링한 느낌을 자아낸다. 또 중앙에는 시그니처를 상징하는 로고가 박혀 있어 그룹의 존재감을 뚜렷하게 나타낸다.특히 해당 포스터는 활동에 대한 구체적인 언급 없이 깜짝 공개돼 팬들의 궁금증을 더욱 높였다. 팬들은 "시그니처 드디어 컴백?" "1년 동안 너무 보고 싶었다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘트윙클 요정’ 아일리원(ILY:1), 비주얼 꽃 활짝! ‘별꽃동화’ 아라·리리카 티저 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21949</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21933"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 신비하면서도 아름다운 분위기의 타이틀곡을 선보인다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 26일과 27일 공식 SNS 및 유튜브 계정을 통해 첫 번째 미니앨범 ‘A DREAM OF ILY:1(어 드림 오브 아일리원)’ 타이틀곡 ‘별꽃동화’ 로나, 나유의 개인 뮤직비디오 티저 영상을 각각 게재했다.티저 영상에는 밝은 빛으로 가득한 정원에서 청순한 비주얼을 뽐내는 로나, 나유의 모습이 담겼다. 인형처럼 또렷한 이목구비를 자랑하는 로나, 활짝 핀 해바라기 사이에서 화사한 미소를 짓는 나..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO), 미니 3집 ‘INCENSE’ 하이라이트 메들리 공개! 6곡 6색 치명 매력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21932</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21932"/>
-        <updated>2022-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 미니 3집에 업그레이드된 매력과 감성을 담았다.문빈&amp;산하는 지난 26일 오후 소속사 판타지오 공식 SNS를 통해 세 번째 미니앨범 ‘INCENSE’(인센스)의 하이라이트 메들리를 공개했다.이번 하이라이트 메들리는 6편으로 이뤄져 타이틀곡을 비롯한 총 6곡의 음원 일부가 각각 담겨있다.기존 하이라이트 메들리 형식과 달리 6곡의 무드를 서로 다른 배경과 감성으로 표현해 보는 즐거움을 더했다. 문빈&amp;산하는 다채로운 비주얼이 담긴 색다른 티징 콘텐츠로 완성도 높은 앨범을 예고하며 기대감을 더욱..]]></content>
     </entry>
 </feed>

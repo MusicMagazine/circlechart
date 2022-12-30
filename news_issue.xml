@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2022-12-30T01:12:46.015Z</updated>
+    <updated>2022-12-30T02:37:27.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아티스트 xooos(수스), 콜드 수장 뮤직 레이블 WAVY(웨이비) 합류!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[유튜브에서 활발한 음악 활동 펼쳐온 xooos(수스)가 글로벌 뮤직 레이블로 떠오르고 있는 WAVY(웨이비)에 합류한다.WAVY는 지난 28일 공식 SNS를 통해 xooos의 프로필 사진을 업로드하며 영입 소식을 밝혔다. 앞서 WAVY는 핑크 컬러가 돋보이는 명함 이미지를 공개했고, 새로운 아티스트의 합류를 예고하며 음악팬들의 궁금증을 자극했다.xooos는 100만명 이상의 구독자를 보유한 아티스트다. xooos가 부른 찰리푸스의 'Light Switch' 커버 영상은 조회 수 3천만 회 이상을 기록했고, 커버 영상을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프듀' 출신 임정민(태령), 이리온엔터 전속계약 체결…위앤유와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21103"/>
         <updated>2022-07-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 숀(SHAUN)이 레이블 285와 함께 글로벌한 행보를 이어간다.14일 글로벌 음악제작사 워너뮤직 산하 레이블 285는 “숀과 최근 전속계약을 체결했다. 숀의 글로벌 활동과 새로운 도전을 응원할 것”이라고 밝혔다.지난 2월, 팝스타 유나(YUNA)와의 이색 컬래버레이션을 통해 발매한 ‘So Right (쏘 라이트)’를 시작으로, 글로벌 음악시장에 진출한 숀은 285와 함께 새로운 도약에 나선다.앞서 영국 싱어송라이터 코너 메이너드(Conar Maynard)와 네덜란드 DJ?프로듀서 샘 펠트(Sam Feldt)가 편곡한 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 21학번, 제나두 엔터테인먼트와 전속계약 체결! 박보람·범승혁과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21049</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21049"/>
-        <updated>2022-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[떠오르는 신예 아티스트 21학번이 제나두 엔터테인먼트와 손잡고 활발한 활동을 예고했다.5일 제나두 엔터테인먼트는 "최근 신예 아티스트 21학번과 전속 계약을 체결했다"고 밝혔다.신입생이 떠오르는 이름으로 주목받은 21학번은 지난해 '자연스러운 만남 추구', '완전 내 스타일' 등 앨범을 발매하며 자신의 마음을 솔직하고 귀여운 가사로 표현했다. 사랑스럽고 청아한 목소리로 다양한 SNS 콘텐츠를 통해 신인으로서는 이례적으로 큰 관심을 이끌었다.특히 21학번은 화상회의 프로그램 줌(Zoom)을 ..]]></content>
     </entry>
 </feed>
