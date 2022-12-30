@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2022-12-30T05:14:01.493Z</updated>
+    <updated>2022-12-30T06:19:21.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 52 CIRCLE CHART: NewJeans, NCT DREAM, and YOUNHA Top 2 Charts Each!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21958</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21958"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 52 CIRCLE CHART (previously Gaonchart), NewJeans, NCT DREAM, and YOUNHA all topped 2 charts respectively.KMCA, publisher of CIRCLE CHART, announced that “As of week 52(2022.12.18.~2022.12.24.), NewJeans topped the Global K-pop Chart and Digital Chart with ‘Ditto’.”‘Ditto’ is the early r..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시그니처, 1년 만 컴백 예고? 블링블링한 포스터 공개로 팬들 기대감 UP]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21951</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21934"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘WET!’과 마마무 솔라가 폭발적인 시너지를 예고하고 있다.내년 1월 11일 웨이브(Wavve), 채널S, A. tv에서 첫 방송되는 ‘WET! : World EDM Trend (이하 WET!)’은 대한민국 EDM씬을 장악할 초대형 DJ 서바이벌로, 총상금 1억 원을 걸고 국내 최정상 DJ 레이블 간의 리얼 배틀을 그린다.앞서 솔라는 ‘WET!’의 타이틀곡 ‘Paradise (파라다이스)’ 가창 소식을 전해 화제를 모은 바 있다. 오는 28일 음원 발매를 앞둔 가운데 ‘WET!’과 솔라의 만남에 시청자 및 음악 팬들의 관심이 점차..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘1월 5일 컴백’ 아일리원(ILY:1), 신비함 물씬 ‘별꽃동화’ M/V 티저 첫 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21933</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21933"/>
-        <updated>2022-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 신비하면서도 아름다운 분위기의 타이틀곡을 선보인다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 26일과 27일 공식 SNS 및 유튜브 계정을 통해 첫 번째 미니앨범 ‘A DREAM OF ILY:1(어 드림 오브 아일리원)’ 타이틀곡 ‘별꽃동화’ 로나, 나유의 개인 뮤직비디오 티저 영상을 각각 게재했다.티저 영상에는 밝은 빛으로 가득한 정원에서 청순한 비주얼을 뽐내는 로나, 나유의 모습이 담겼다. 인형처럼 또렷한 이목구비를 자랑하는 로나, 활짝 핀 해바라기 사이에서 화사한 미소를 짓는 나..]]></content>
     </entry>
 </feed>
