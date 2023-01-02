@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-01-02T01:11:25.788Z</updated>
+    <updated>2023-01-02T02:38:09.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[시그니처, 1년 2개월 만 컴백 확정! 17일 미니 3집 'My Little Aurora' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21964</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21964"/>
+        <updated>2023-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 시그니처(cignature)가 1년 2개월 만에 돌아온다.시그니처(채솔, 지원, 셀린, 벨, 세미, 도희, 클로이)는 2일 0시 공식 SNS를 통해 세 번째 EP 앨범 'My Little Aurora(마이 리틀 오로라)'의 타임테이블 이미지를 공개했다.타임테이블에 따르면 시그니처는 오는 3일부터 세 가지 무드의 콘셉트 포토를 순차적으로 공개한다. 이어 트랙리스트, D-7 포스터, 타이틀곡 뮤직비디오 티저, 앨범 프리뷰 등을 오픈하고 17일 오후 6시 앨범을 발매하며 컴백 활동에 나선다.시그니처는 지난달 30일 커..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign), 오늘(2일) 스페셜 기프트 앨범 'Woo Woo' 정식 음원 발매 "팬들 성원 힘입어"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21963</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21942"/>
         <updated>2022-12-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 정세운이 '사랑의 이해' 두 번째 OST에 참여한다.정세운이 가창에 참여한 JTBC 수목드라마 '사랑의 이해 (연출 조영민 / 극본 이서현, 이현정 / 제작 SLL)'의 두 번째 OST 'Symphony (심포니)'가 28일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'Symphony'는 정세운의 달콤한 목소리가 어우러지는 담백한 팝 느낌의 곡이다. 사랑하는 이에게 달려가는 흥분되고 감출 수 없는 밝은 심정을 신나는 비트와 선율에 담아냈다.특히 가창에 참여한 정세..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 그룹 LAS(라스), 퍼포먼스 크루 프라우드먼과 新 컬래버 성사! 오늘(28일) 'RUN RUN' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21941</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21941"/>
-        <updated>2022-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 그룹 LAS(라스)와 퍼포먼스 크루 프라우드먼(PROWDMON)이 만났다.LAS와 프라우드먼은 28일 오후 6시 각종 온라인 음원사이트를 통해 컬래버레이션 앨범 'RUN RUN (런 런)'을 발매한다.LAS는 과거 KBS 프로그램 'Listen-Up (리슨 업)'을 시작으로 온오프라인 상에서 다수의 합을 맞춘 바 있는 프라우드먼과 이번 앨범을 통해 본격적으로 음악과 댄스의 컬래버레이션을 선보인다.앨범과 동명의 타이틀곡 'RUN RUN'은 감각적인 비트위에 Avin(아빈)과 SL..]]></content>
     </entry>
 </feed>

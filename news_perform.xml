@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-02T01:11:25.786Z</updated>
+    <updated>2023-01-02T02:38:09.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX(씨아이엑스), 'Save me, Kill me' 서울 콘서트 성료…4년 차 완벽 팀워크+솔로 무대까지 '반응 HOT']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21965</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21965"/>
+        <updated>2023-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 월드투어의 포문을 힘차게 열었다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난달 30일과 31일 양일간 개최된 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt; IN SEOUL'을 성황리에 마쳤다.이번 콘서트는 지난해 4월 진행한 첫 미주투어 'CIX 1st Concert &lt;REBEL&gt; in U.S.' 이후 오랜만에 글로벌 팬들을 만나는 월드투어다. 뜻깊은 첫 공연을 서울에서 열며 한 해를 뜨겁게 마무리했다.이날 CIX는 '..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴, 월드투어 ‘BE THE SUN’ 6개월 대장정 마침표!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21956</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21921"/>
         <updated>2022-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 명품 신곡 무대와 함께 새로운 전국투어를 시작했다.&nbsp;포레스텔라(강형호, 고우림, 배두훈, 조민규)는 지난 24일과 25일 대구 엑스코 5층 컨벤션홀에서 새로운 전국투어 '22-23 The Royal Concert : The palace of Forestella'(더 로얄 콘서트 : 더 팰리스 오브 포레스텔라)의 첫 공연을 개최했다.&nbsp;올해 'The Beginning : World Tree'(더 비기닝 : 월드 트리)라는 타이틀로 전국투어와 야외 단독 페스티..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머드 더 스튜던트, 첫 단독 공연 <장기하 Curated 15 머드 더 스튜던트 : 현실주의자들 죽이는 피터팬> 성황리 마무리]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21920</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21920"/>
-        <updated>2022-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[바밍타이거(Balming Tiger)의 머드 더 스튜던트(Mudd the student)가 12월 23일과 24일 양일간 현대카드 언더스테이지에서 펼쳐진 첫 단독 공연 &lt;장기하 Curated 15 머드 더 스튜던트 : 현실주의자들 죽이는 피터팬&gt;을 성공적으로 마무리했다. ‘쇼미더머니’를 비롯해 다양한 매체와 무대에서 개성 있는 음악과 퍼포먼스를 선보이며 주목받아온 머드 더 스튜던트는 그동안 각종 페스티벌과 콘서트, 해외 투어에서 쌓아 온 공연 경험을 바탕으로, 첫 단독 공연을 통해 온전한 자신의 색깔과 실력을 팬들에게 발..]]></content>
     </entry>
 </feed>
