@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-01-03T07:14:21.706Z</updated>
+    <updated>2023-01-03T08:19:56.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엘라스트, 승엽 입대 후 7인 체제 가동 → 2023년 활동 스타트]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21970</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21970"/>
+        <updated>2023-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[보이그룹 엘라스트(E'LAST)의 멤버 승엽이 국가의 부름을 받았다.엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 원준, 예준)의 소속사 이엔터테인먼트는 3일 “승엽이 오는 31일 육군 28사단 신병교육대로 현역 입대한다”고 밝혔다.승엽은 이날 엘라스트 공식 SNS 계정을 통해 손으로 직접 쓴 자필 편지를 게재하며 팬들에게 입대 소식을 알렸다.승엽은 “2023년 계묘년이 시작되는 이 시점에 나라의 부름을 받아 1월 31일에 군대에 가게 됐다. 너무 갑작스러운 이야기라 엘링(팬덤명)에게 많이 미안하다”며 “2020년 6월..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아티스트 xooos(수스), 콜드 수장 뮤직 레이블 WAVY(웨이비) 합류!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21160"/>
         <updated>2022-07-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 Sik-K(식케이), JAY B(제이비)가 하이어뮤직을 떠난다.글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 25일 "폭 넓은 음악적 역량과 열정을 지닌 아티스트 Sik-K, JAY B와의 전속계약이 종료됐다. 이들 앞으로의 새로운 음악 여정에도 아낌 없는 성원을 보낸다"라고 밝혔다.Sik-K는 지난 2015년 Mnet '쇼미더머니4' 출연을 계기로 인연을 맺은 하이어뮤직과 시작부터 함께한 아티스트다. 이후 데뷔 싱글 'My Man(마이 맨)'을 시작으로 다수의 싱글과 미..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숀(SHAUN), 새로운 도약…워너뮤직 레이블 285와 전속 계약 체결! ‘글로벌 시너지 UP’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21103</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21103"/>
-        <updated>2022-07-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 숀(SHAUN)이 레이블 285와 함께 글로벌한 행보를 이어간다.14일 글로벌 음악제작사 워너뮤직 산하 레이블 285는 “숀과 최근 전속계약을 체결했다. 숀의 글로벌 활동과 새로운 도전을 응원할 것”이라고 밝혔다.지난 2월, 팝스타 유나(YUNA)와의 이색 컬래버레이션을 통해 발매한 ‘So Right (쏘 라이트)’를 시작으로, 글로벌 음악시장에 진출한 숀은 285와 함께 새로운 도약에 나선다.앞서 영국 싱어송라이터 코너 메이너드(Conar Maynard)와 네덜란드 DJ?프로듀서 샘 펠트(Sam Feldt)가 편곡한 ..]]></content>
     </entry>
 </feed>
