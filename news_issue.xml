@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-01-04T23:15:31.349Z</updated>
+    <updated>2023-01-05T01:13:39.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 싱어송라이터 이지카이트(Izykite), 뉴런뮤직과 전속계약 체결! 폴킴·픽보이와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21976</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21976"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 싱어송라이터 이지카이트(Izykite)가 뉴런뮤직에 합류했다.5일 소속사 뉴런뮤직은 "싱어송라이터 이지카이트(Izykite)와 최근 전속계약을 체결했다. 이지카이트는 오는 17일 새 디지털 싱글 '소낙비'를 발매하며 활발한 음악 활동을 펼칠 예정이다"라고 밝혔다.이지카이트는 허스키한 음색이 매력적인 신인 여성 싱어송라이터다. 지난 2021년 데뷔 후 '느린 마음', 'Where is the happiness?'(웨얼 이즈 더 해피니스?), '그럴 때마다',..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엘라스트, 승엽 입대 후 7인 체제 가동 → 2023년 활동 스타트]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21970</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21390"/>
         <updated>2022-09-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 FIL(필)이 새둥지를 찾고 활발한 활동을 이어간다.&nbsp;제나두엔터테인먼트는 7일 "최근 가수 FIL(필)과 전속계약을 체결했다"고 밝혔다.&nbsp;FIL(필)은 파워풀한 가창력과 애절한 감정 표현으로 많은 리스너들의 사랑을 받은 아티스트이다. 수많은 히트곡들의 가이드 보컬로 활발히 활동하며 2018년 '내가 널 버리는 거야'로 정식 데뷔했다.&nbsp;&nbsp;이후 FIL(필)은 유명 프로듀서 '빨간양말'의 곡들을 다수 가창하며 호소력 짙은 목소리로 주목을 받았다. 또 뛰어난 곡 해석력으로 리메이크 음원 &amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sik-K·JAY B, 하이어뮤직과 전속계약 종료 "새로운 음악 여정 응원"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21160</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21160"/>
-        <updated>2022-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 Sik-K(식케이), JAY B(제이비)가 하이어뮤직을 떠난다.글로벌 힙합 레이블 하이어뮤직(H1GHR MUSIC)은 25일 "폭 넓은 음악적 역량과 열정을 지닌 아티스트 Sik-K, JAY B와의 전속계약이 종료됐다. 이들 앞으로의 새로운 음악 여정에도 아낌 없는 성원을 보낸다"라고 밝혔다.Sik-K는 지난 2015년 Mnet '쇼미더머니4' 출연을 계기로 인연을 맺은 하이어뮤직과 시작부터 함께한 아티스트다. 이후 데뷔 싱글 'My Man(마이 맨)'을 시작으로 다수의 싱글과 미..]]></content>
     </entry>
 </feed>
