@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-01-05T01:13:39.600Z</updated>
+    <updated>2023-01-05T02:41:14.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['K-POP SHOW' 김동한X강석화, 케미 빛났다…넘치는 텐션→M/V 비하인드 대방출까지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21978</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21978"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)의 김동한, 강석화가 특별한 라이브로 팬들과 소통했다.김동한, 강석화는 지난 4일 방송된 메타버스 플랫폼 ifland 'K-POP SHOW'에 스페셜 DJ로 출격해 팬들과 다채로운 소통에 나섰다.이날 김동한, 강석화는 넘치는 흥과 유쾌한 매력으로 오프닝부터 시선을 사로잡았다. 두 사람은 해외 팬들을 위해 중국어, 스페인어, 태국어, 아랍어 등 다양한 언어로 인사를 하며 시작부터 분위기를 띄웠다.&nbsp;김동한과 강석화는 팬들의 사랑을 받았던 위아이의 뮤직비디오를 함께 감상하며 촬영 비하인드를 공개하는 시간..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤지성, 새해에도 소통 열일! NFT 1만 장 발행]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21975</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21947"/>
         <updated>2022-12-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[배우 겸 가수 황민현이 백예린의 ‘그건 아마 우리의 잘못은 아닐 거야’를 자신만의 색깔로 재해석, 팬들의 마음을 따스하게 물들였다.황민현은 지난 28일 오후 6시 공식 유튜브 및 SNS 채널에 ‘그건 아마 우리의 잘못은 아닐 거야’ 커버 영상을 공개했다.황민현의 감미로운 음색과 독보적인 비주얼이 한 편의 시(詩)처럼 어우러졌다. 진성과 가성을 능숙하게 넘나든 그의 보컬은 섬세했고, 이는 서정적인 가사의 감성을 극대화해 듣는 이들에게 위로가 됐다.황민현은 “황도(공식 팬클럽 명)분들에게 연말 깜짝 선물이 됐으면 좋겠다. 모든 분을 응..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘MNH엔터 첫 보이그룹’ B.O.M(가칭), 해민?윤규?승헌 프로필 이미지 공개…8인조 완성 ‘본격 데뷔 예열’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21946</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21946"/>
-        <updated>2022-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[MNH엔터테인먼트 첫 보이그룹 ‘B.O.M (Boys Of MNH) (가칭)’이 전 멤버의 프로필 이미지 공개를 완료하며 완전체에 대한 기대감을 높였다.내년 초 가요계 데뷔를 앞둔 ‘B.O.M (Boys Of MNH) (가칭)’은 29일 공식 SNS를 통해 멤버 해민, 윤규, 승헌의 프로필 이미지를 공개했다.이날 첫 번째로 공개된 해민은 거칠면서도 부드러운 눈빛으로 시선을 압도했을 뿐만 아니라, 청량한 소년미부터 세련된 시크미까지 다채로운 매력으로 이목을 집중시켰다.다음으로 공개된 윤규는 맑고 티 없는 소년의 이미지로 기분 좋은 에..]]></content>
     </entry>
 </feed>
