@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-06T01:14:04.509Z</updated>
+    <updated>2023-01-06T02:44:38.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대세 밴드’ 루시, 7·8일 ‘2023 어썸스테이지 in 부산’ 출격! 새해 첫 콘서트 ‘기대 UP’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21983</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21983"/>
+        <updated>2023-01-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 루시(LUCY)가 새해 첫 콘서트로 팬들을 찾는다.루시(신예찬, 최상엽, 조원상, 신광일)는 오는 7일과 8일 부산 벡스코 오디토리움에서 열리는 콘서트 ‘2023 어썸스테이지 in 부산’ 무대에 오른다.루시는 ‘2023 어썸스테이지 in 부산’에서 올해 첫 공연을 선보인다. 7일에는 싱어송라이터 하현상과 함께 출연하며, 8일에는 루시의 단독 공연으로 꾸며진다.이번 콘서트에서는 루시의 데뷔 앨범 ‘DEAR. (디어)’부터 지난해 8월 발매한 첫 정규앨범 ‘Childhood (차일드후드)’까지 다양한 라이브 무대를 만날 수 있을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김진호, 3년 만에 단독 콘서트 ‘듣는 사진전’ 전석 매진 성료! 묵직 라이브+사진집 공개 ‘감동 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21969</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21923"/>
         <updated>2022-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤지성이 잊을 수 없는 크리스마스 이브를 선물했다.윤지성은 지난 24일 오후 3시와 7시 등 2회차에 걸쳐 서울 한성대학교 낙산관 대강당에서 온·오프라인으로 '2022 윤지성 Fan Concert - 12월 24일: Lucid Dream(루시드 드림)'을 개최했다.크리스마스 이브에 진행돼 더욱 특별하게 펼쳐진 이번 '12월 24일: Lucid Dream'에서는 윤지성의 감성과 센스를 모두 만날 수 있었다. 윤지성은 이달 발매한 신곡 '12월 24일 (December. 24)'을 비롯해..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에일리, 전국투어 콘서트 '한 걸음 더' 서울 공연 성료…첫사랑(CSR) 오프닝까지 완벽한 '크리스마스 선물']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21922</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21922"/>
-        <updated>2022-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 에일리(Ailee)가 크리스마스 선물 같은 공연을 선사했다.에일리는 지난 24일 KBS아레나에서 개최된 '2022 에일리 전국투어 콘서트 &lt;한 걸음 더&gt;'의 서울 공연을 성황리에 마쳤다.서울 공연은 오프라인뿐만 아니라 온라인으로도 진행돼 더 많은 팬들과 호흡하는 뜻깊은 시간으로 꾸며졌다. 특히 크리스마스 이브 당일 공연인 만큼 많은 관객들이 몰려 오프라인 공연은 일찍이 전 좌석 매진을 기록하기도 했다.공연 시작에 앞서 오프닝 무대는 걸그룹 첫사랑(CSR)이 장식했다. 첫사랑(수아, 금희, 시현, 서연,..]]></content>
     </entry>
 </feed>
