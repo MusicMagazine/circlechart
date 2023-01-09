@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-01-09T01:12:18.533Z</updated>
+    <updated>2023-01-09T03:16:49.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로키드, 오늘(9일) 신곡 '인스타를 켜서 니 이름을 쳐봤어' 발매…웰메이드 자작곡 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21993</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21993"/>
+        <updated>2023-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 로키드(Lokid)가 이별 감성을 담은 신곡으로 2023년 활동 포문을 연다.로키드는 9일 오후 6시 각종 온라인 음원사이트를 통해 신곡 '인스타를 켜서 니 이름을 쳐봤어'를 발매한다.'인스타를 켜서 니 이름을 쳐봤어'는 로키드가 지난해 11월 발매한 '향초' 이후 약 2개월 만에 선보이는 신보다. 이별 후 아무렇지 않은 척했지만, 문득 생각나는 그리움에 SNS를 통해 상대를 확인하게 되는 모습을 리드미컬한 음악과 담담한 목소리로 담아냈다. 또한 로키드가 직접 작사와 작곡에 참여해 진..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIVIZ(비비지), 31일 미니 3집 ‘VarioUS’ 발매 확정! 커밍순 로고 첫 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21990</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21968"/>
         <updated>2023-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 경서가 드라마 '사랑의 이해' 일곱 번째 가창자로 나선다.경서가 가창에 참여한 JTBC 수목드라마 '사랑의 이해 (연출 조영민 / 극본 이서현, 이현정 / 제작 SLL)'의 일곱 번째 OST 'Wonder Why (원더 와이)'가 오는 25일 발매된다.'Wonder Why'는 극중 상수(유연석 분)와 수영(문가영 분), 미경(금새록 분), 종현(정가람 분) 사이의 서로 바래져가는 운명적 사랑에 대한 갈등을 음악적으로 그려낸 곡이다.특히 지난 2일 발매에 앞서 SLL 공식..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연지, 디셈버,제이세라 원곡 ‘가슴으로 운다’ 재해석…11일 리메이크 음원 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21966</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=21966"/>
-        <updated>2023-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 씨야 출신 김연지가 디셈버와 제이세라가 함께한 명곡을 새롭게 재해석한다.김연지는 오는 11일 ‘방구석 캐스팅’ 음원 ‘가슴으로 운다’를 발매한다.2022년 드라마 ‘우리들의 블루스’, ‘뷰티풀 모먼트’, ‘빨간풍선’ 등 다수의 OST 참여로 열일 행보를 이어온 김연지는 ‘방구석 캐스팅’ 프로젝트를 통해 또 한번 대세 활약을 펼친다.‘가슴으로 운다’는 지난 2011년 발매된 디셈버와 제이세라의 앨범 ‘Love harmony (러브 하모니)’의 타이틀곡이다. 이별 후 채워지지 않는 사랑에 대한 지독한 미련과 아픔, 후회를 애절하게..]]></content>
     </entry>
 </feed>
