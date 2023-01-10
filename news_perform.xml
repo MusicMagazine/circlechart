@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-10T01:15:42.743Z</updated>
+    <updated>2023-01-10T02:46:10.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA['역주행 신화' 윤하, 3월 11·12일 앙코르 콘서트 'c/2023YH' 개최…2월 선예매 시작]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21996</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21996"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤하가 서울 앙코르 콘서트를 개최한다.윤하는 오는 3월 11일과 12일 양일간 서울 올림픽공원 SK핸드볼경기장에서 '2023 윤하 앵콜 콘서트 〈c/2023YH〉'를 열고 팬들을 다시 만난다.'2023 윤하 앵콜 콘서트 &lt;c/2023YH&gt;'는 윤하가 지난해 12월 성황리에 마무리한 '2022 윤하 연말 콘서트 〈c/2022YH〉'에 이어 다시 한번 선보이는 앙코르 콘서트다. 서울 올림픽공원 올림픽홀에서 진행된 지난 연말 콘서트보다 더욱 커진 규모로 더 많은 팬들과 호흡할 예..]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라, 서울 콘서트 성료! "새해 첫 공연에 벅차고 감사해"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21989</id>
@@ -74,5 +67,12 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21928"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김범수가 연말 콘서트의 서울 공연을 성황리에 마쳤다.김범수는 지난 23일부터 25일까지 사흘간 서울 장충체육관에서 ‘2022 김범수 콘서트 ‘명품이즈백’’(이하 ‘명품이즈백’)을 개최하고 팬들을 만났다.&nbsp;이날 김범수는 대한민국을 대표하는 명품 보컬리스트답게 자신의 히트곡들은 물론 다양한 장르의 곡들을 라이브로 열창하며 관객들에게 귀호강을 선사했다.23일 첫 공연에서는 김범수의 개인 유튜브 채널 ‘범수의 세계’를 통해 약 30분간의 콘서트 생중계가 진행됐다. 이에 시청자들은 댓글로 뜨거운 응원을 보냈고, 김범수는 추첨을 통해 선..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴드 더로즈, 북미·라틴 아메리카 투어 매진→1월 서울 공연 확정…글로벌 열기 ing]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21926</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21926"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 서울 콘서트를 확정하며 월드투어 매진의 열기를 이어간다.더로즈는 오는 1월 20일 예스24 라이브홀에서 월드 투어 'THE ROSE HEAL TOGETHER WORLD TOUR IN SEOUL (더로즈 힐 투게더 월드 투어 인 서울)'을 열고 팬들을 만난다.특히 이번 공연은 더로즈가 국내에서 약 3년 만에 개최하는 단독 콘서트다. 지난 10월 발매된 더로즈의 첫 정규앨범 'HEAL (힐)' 발매 기념으로 진행된 월드 투어의 일환으로 글로벌 팬들의 관심을 받고 있다.'..]]></content>
     </entry>
 </feed>

@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-01-10T01:15:42.737Z</updated>
+    <updated>2023-01-10T02:46:10.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-7' 시그니처, 신보 'My Little Aurora' 기대 포인트 #비주얼 성수기 #리정 안무 메이킹 #음악적 완성도]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21997</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21997"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 시그니처(cignature)의 컴백이 일주일 앞으로 다가왔다.시그니처(채솔, 지원, 셀린, 벨, 세미, 도희, 클로이)는 10일 0시 공식 SNS를 통해 세 번째 EP 앨범 'My Little Aurora(마이 리틀 오로라)'의 컴백 D-7 포스터를 공개했다.포스터 속 시그니처는 블랙의 블링블링한 의상을 맞춰 입은 채 자유로운 포즈를 취하고 있다. 카메라를 응시하는 다정한 눈빛과 화사한 미소가 팬들의 설렘을 더하며 일주일 남은 컴백 기대감을 높인다.'My Little Aurora'는 시그니처가 지난..]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Week 53 CIRCLE CHART: NewJeans Top 3 Charts while ATEEZ Reach No. 1 in the Album..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21995</id>
@@ -74,5 +67,12 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21980"/>
         <updated>2023-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최예나(YENA)가 분위기 장인으로 변신했다.&nbsp;최예나는 6일 0시 공식 SNS를 통해 첫 번째 싱글 앨범 'Love War(러브 워)'의 두 번째 콘셉트 포토를 공개했다.&nbsp;&nbsp;사진 속 최예나는 슬픔을 간직한 눈빛을 발산했다. 날카로운 가시가 돋친 빨간 장미 속에서 눈물을 흘리고 있는 최예나의 모습은 비련의 분위기를 풍긴다.&nbsp;&nbsp;또 다른 사진 속 최예나는 삼면 거울 앞에 서서 자신을 바라보고 있는 모습이다. 물에 번진 듯한 실루엣이 내면의 아픔을 암시했다.&nbsp;&nbsp;최예나는 앞서 첫 번째 콘셉트 포토를 통해 한층 깊어진 성숙..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['K-POP SHOW' 김동한X강석화, 케미 빛났다…넘치는 텐션→M/V 비하인드 대방출까지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21978</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21978"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)의 김동한, 강석화가 특별한 라이브로 팬들과 소통했다.김동한, 강석화는 지난 4일 방송된 메타버스 플랫폼 ifland 'K-POP SHOW'에 스페셜 DJ로 출격해 팬들과 다채로운 소통에 나섰다.이날 김동한, 강석화는 넘치는 흥과 유쾌한 매력으로 오프닝부터 시선을 사로잡았다. 두 사람은 해외 팬들을 위해 중국어, 스페인어, 태국어, 아랍어 등 다양한 언어로 인사를 하며 시작부터 분위기를 띄웠다.&nbsp;김동한과 강석화는 팬들의 사랑을 받았던 위아이의 뮤직비디오를 함께 감상하며 촬영 비하인드를 공개하는 시간..]]></content>
     </entry>
 </feed>
