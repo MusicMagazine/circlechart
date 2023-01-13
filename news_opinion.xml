@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2023-01-13T04:21:27.141Z</updated>
+    <updated>2023-01-13T12:29:16.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 피지컬 앨범 판매량 8천만 장 돌파! 전년대비  약 2,140만 장 증가 - 12월 리뷰 (2022)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22017</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22017"/>
+        <updated>2023-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022년 12월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 5.5%를 기록했습니다.&nbsp; 8개월 연속 음원시장 점유율 1위 입니다.&nbsp;&nbsp;&nbsp;2022년 11월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.6% 감소, 전년 동기에 비해서는 6.5% 감소했습니다. 참고로, 올해 12월 400위 기준 신규 음원 수는 48곡으로 2021년 12월 56곡, 2020년 12월 66곡, 2019년 12월 55곡에 비해 다소 감소했습니다.&nbsp;12월 앨범 판매량400(1위..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앨범 판매량 리뷰  걸그룹 판매 점유율 급증 - 2022]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21895</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21286"/>
         <updated>2022-08-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[음원 이용량400은 스트리밍과, 다운로드 등 음원 이용량 건수의 총합으로 산출되는데, 음원 이용량400(1위부터 400위까지 이용량 합계) 중 스트리밍이 차지하는 비율은 2017년 상반기 98.1%에서 2022년 상반기 99.3%로 1.2%P 증가했습니다. 상대적으로 다운로드가 차지하는 비율은 1.9%에서 0.4%로 1.5%p 감소했습니다.최근 5년간 상반기 음원 이용량400은 감소 추세를 나타내고 있으며&nbsp; 올해 상반기는&nbsp; 2019년 상반기 대비 30.3% 감소했습니다. 스트리밍 이용량400 역시 감소 추세이며&nbsp; 2022년 상반기에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지컬 앨범 판매량 또, 다시 기록 경신 - 7월 리뷰(2022)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21257</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21257"/>
-        <updated>2022-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022년 7월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 6.5%를 기록했습니다.&nbsp;&nbsp;2022년 7월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월보다 6.5% 증가하며 다시 반등한 것으로 나타났습니다.&nbsp;7월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 40.2% 증가, 작년 7월 대비 116.8% 증가한 것으로 조사되었습니다.&nbsp;2022년 7월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 aespa가 400위권 내 총 2장의 앨..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-01-13T04:21:27.144Z</updated>
+    <updated>2023-01-13T12:29:16.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ(비비지), 타이틀곡은 ‘PULL UP’…미니 3집 ‘VarioUS’ 트랙리스트 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22015</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22015"/>
+        <updated>2023-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 타이틀곡 ‘PULL UP’으로 돌아온다.VIVIZ(은하, 신비, 엄지)는 13일 0시 공식 SNS를 통해 세 번째 미니앨범 ‘VarioUS (베리어스)’의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 ‘PULL UP (풀 업)’을 비롯해 ‘Blue Clue (블루 클루)’, ‘Love or Die (러브 오어 다이)’, ‘Vanilla Sugar Killer (바닐라 슈가 킬러)’, ‘Overdrive (오버드라이브)’, ‘So Special (쏘 스페셜)’까지 총 6곡이 수록..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['17일 컴백' 시그니처, 새 타이틀곡 '오로라' M/V 티저 공개…상큼 포텐 제대로 터졌다!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22008</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21992"/>
         <updated>2023-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴의 스페셜 유닛 부석순(승관, 도겸, 호시)이 약 5년 만에 돌아온다.플레디스 엔터테인먼트는 9일 0시 세븐틴 공식 SNS에 한 장의 티저 이미지를 게재하며 오는 2월 6일 부석순의 첫 번째 싱글 앨범 발매 소식을 알렸다. 부석순의 신보는 지난 2018년 3월 발매된 디지털 싱글 ‘거침없이’ 이후 약 5년 만이다.티저 이미지에는 부석순 ‘거침없이’의 가사인 ‘LADIES AND GENTLEMEN THEY CALL US BSS(부석순)’이라는 문구와 함께 강렬한 붉은빛 육상 트랙이 담겨 있어 신보의 콘셉트와 어떤 연관이 있..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위앤유(WeNU), 데뷔곡 ‘하루 하루’ 활동 성료…2am·비투비 잇는 ‘신흥 보컬돌’ 등장]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21991</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21991"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[보컬 그룹 위앤유(WeNU)가 ‘신흥 보컬돌’로 강렬한 눈도장을 찍었다.위앤유(정이든, 지성환, 한선우, 윤희찬, 박찬효)는 지난 6일 KBS 2TV ‘뮤직뱅크’, 7일 MBC ‘쇼! 음악중심’, 8일 SBS ‘인기가요’까지 지상파 3사 음악방송을 끝으로 약 5주간의 첫 번째 싱글 ‘하루 하루’ 활동을 마무리했다.위앤유의 데뷔 앨범 ‘하루 하루’는 음악을 통해 팬들과 영원히 함께하겠다는 위앤유의 포부와 진정성 있는 메시지를 담은 앨범이다. 다채로운 매력의 5인 5색 보이스를 응집한 완성도 높은 음원이 리스너들의 호평을 이끌었다.특히..]]></content>
     </entry>
 </feed>

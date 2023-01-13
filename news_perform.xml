@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-13T04:21:27.145Z</updated>
+    <updated>2023-01-13T12:29:16.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포레스텔라, '첫 해외 단독 공연' 미주 5개 도시 투어 향한 기대…글로벌 행보 박차]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22014</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22014"/>
+        <updated>2023-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 무대를 넓혀 글로벌 행보에도 박차를 가한다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 오는 20일(이하 현지 시간)부터 2월 5일까지 로스엔젤레스·밴쿠버·뉴욕·달라스·애틀랜타 등 5개 도시에서 미주 투어(FORESTELLA N.AMERICA TOUR)를 개최하며 현지 관객들을 만난다.이번 미주 투어는 포레스텔라가 데뷔 후 처음으로 진행하는 해외 단독 공연이다. 지난해 두바이 엑스포 한국관 한국의 날 K-POP 콘서트(Korea National Day K-POP Concert)와..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대세 밴드’ 루시, 7·8일 ‘2023 어썸스테이지 in 부산’ 출격! 새해 첫 콘서트 ‘기대 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22002</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21956"/>
         <updated>2022-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 장장 6개월에 걸친 월드투어를 성공적으로 마무리했다.세븐틴은 지난 28일 자카르타 Gelora Bung Karno Madya Stadium에서 데뷔 후 세 번째 월드투어 ‘SEVENTEEN WORLD TOUR [BE THE SUN]’(이하 ‘BE THE SUN’)의 마지막 공연을 펼쳤다. 이날 공연은 팬들의 폭발적인 반응에 힘입어 추가된 스타디움급 공연이었다.이날 공연에서 세븐틴은 팀을 대표하는 히트곡 무대를 시작으로 각..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 김성규, 내년 2월 단독 콘서트 'LV' 개최 확정...'국보급 보컬리스트'의 귀환]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21953</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21953"/>
-        <updated>2022-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김성규가 새로운 단독 콘서트 'LV'로 팬들과 만난다.&nbsp;소속사 더블에이치티엔이는 29일 오후 4시 28분 공식 SNS를 통해 김성규의 단독 콘서트 'LV'의 공연 일시를 알리는 포스터를 공개했다.&nbsp;공개된 포스터에 따르면 김성규는 오는 2023년 2월 11일과 12일 양일간 서울 광진구 예스24 라이브홀(YES24 LIVE HALL)에서 단독 콘서트 'LV'를 개최한다.&nbsp;앞서 김성규는 지난 25일 크리스마스 선물처럼 깜짝 티저 포스터와 함께 단독 콘서트 개최 소식을 알렸다. 강렬한 배경..]]></content>
     </entry>
 </feed>
