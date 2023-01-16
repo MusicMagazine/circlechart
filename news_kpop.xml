@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-01-16T01:12:24.558Z</updated>
+    <updated>2023-01-16T02:42:43.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[December CIRCLE CHART: YOUNHA, NewJeans, Lim Young Woong, and NCT DREAM Dominate..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22024</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22024"/>
+        <updated>2023-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the December CIRCLE CHART, YOUNHA, NewJeans, Lim Young Woong, and NCT Dream made strong showings.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for December 2022, YOUNHA ‘Event Horizon’, which was released back in March 2022, made a stunning comeback to claim the..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biggest Artists in the 2022 CIRCLE CHART: IVE, BTS, Lim Young Woong, and BLACKPI..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22023</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22023"/>
+        <updated>2023-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Looking back on CIRCLE CHART showings from 2022, we found that IVE, BTS, Lim Young Woong, and BLACKPINK were some of the key players.KMCA, publisher of CIRCLE CHART, announced that "The 2022 CIRCLE CHART was dominated by IVE, BTS, Lim Young Woong, and BLACKPINK.”IVE topped the Global K-pop, Digi..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIVIZ(비비지), 타이틀곡은 ‘PULL UP’…미니 3집 ‘VarioUS’ 트랙리스트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22015</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21995"/>
         <updated>2023-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 53 CIRCLE CHART (previously Gaonchart), NewJeans dominated 3 charts while ATEEZ took the No. 1 spot in the Album Chart.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 53(2022.12.25.~2022.12.31.), NewJeans topped the Global K-pop, Digital, and Streaming Charts with ‘Ditto’.”..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM 'Candy - Winter Special Mini Album' Is No. 1 in the December CIRCLE CH..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21994</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21994"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the December CIRCLE CHART, NCT DREAM 'Candy - Winter Special Mini Album' took the top spot in the monthly Retail Album Chart.'Candy - Winter Special Mini Album' includes a total of 6 tracks including NCT DREAM’s unique take on 'Candy', a song which was originally released ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 스페셜 유닛 부석순, 오는 2월 6일 컴백…5년 만에 돌아온다!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21992</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21992"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴의 스페셜 유닛 부석순(승관, 도겸, 호시)이 약 5년 만에 돌아온다.플레디스 엔터테인먼트는 9일 0시 세븐틴 공식 SNS에 한 장의 티저 이미지를 게재하며 오는 2월 6일 부석순의 첫 번째 싱글 앨범 발매 소식을 알렸다. 부석순의 신보는 지난 2018년 3월 발매된 디지털 싱글 ‘거침없이’ 이후 약 5년 만이다.티저 이미지에는 부석순 ‘거침없이’의 가사인 ‘LADIES AND GENTLEMEN THEY CALL US BSS(부석순)’이라는 문구와 함께 강렬한 붉은빛 육상 트랙이 담겨 있어 신보의 콘셉트와 어떤 연관이 있..]]></content>
     </entry>
 </feed>

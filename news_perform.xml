@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-16T01:12:24.569Z</updated>
+    <updated>2023-01-16T02:42:43.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 더로즈, 3월 대형 음악 페스티벌 '롤라팔루자 남미' 출격…韓 인디 록 밴드 최초]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22022</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22022"/>
+        <updated>2023-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 대형 음악 페스티벌 '롤라팔루자 남미'에 한국 첫 인디 록 밴드로 참여한다.더로즈(김우성, 박도준, 이하준, 이재형)는 오는 3월 17일 아르헨티나 부에노스아이레스, 18일 칠레 산티아고, 24일 콜롬비아 보고타, 26일 브라질 상파울루에서 개최되는 '롤라팔루자 남미' 무대에 오른다.특히 더로즈는 '롤라팔루자 남미'와 콜롬비아 보고타의 에스테레오 피크닉에서 공연하는 최초의 한국 인디 록 밴드로 이름을 올리며 글로벌 관심을 증명했다. 더로즈는 현장을 찾은 관객..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환, 소극장 콘서트 '달과 별 그리고...' 서울 공연 성료! 완성형 아티스트 증명]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22018</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21969"/>
         <updated>2023-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[SG워너비 김진호가 단독 콘서트로 따듯한 연말을 선물했다.김진호는 지난달 29일부터 31일까지 사흘간 서울 노들섬 라이브하우스에서 ‘2022 김진호 콘서트 &lt;듣는 사진전&gt;’을 개최했다.김진호는 코로나 19로 약 3년간 공연 취소 사태가 장기화되면서 무대를 잃었던 동료 제작진 및 출연진들에게 힘을 실어주고자 이번 ‘듣는 사진전’의 연출부터 출연까지 노개런티로 참여했다.약 3년 만에 단독 콘서트로 팬들을 찾은 김진호는 8명의 연주자들과 함께 무대에 올라 묵직한 라이브 무대로 감동을 안겼다. 김진호는 자신의 음악색과 보컬 매력..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스), 'Save me, Kill me' 서울 콘서트 성료…4년 차 완벽 팀워크+솔로 무대까지 '반응 HOT']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21965</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21965"/>
-        <updated>2023-01-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 월드투어의 포문을 힘차게 열었다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난달 30일과 31일 양일간 개최된 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt; IN SEOUL'을 성황리에 마쳤다.이번 콘서트는 지난해 4월 진행한 첫 미주투어 'CIX 1st Concert &lt;REBEL&gt; in U.S.' 이후 오랜만에 글로벌 팬들을 만나는 월드투어다. 뜻깊은 첫 공연을 서울에서 열며 한 해를 뜨겁게 마무리했다.이날 CIX는 '..]]></content>
     </entry>
 </feed>
