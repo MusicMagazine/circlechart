@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-15T23:16:00.412Z</updated>
+    <updated>2023-01-16T01:12:24.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김재환, 소극장 콘서트 '달과 별 그리고...' 서울 공연 성료! 완성형 아티스트 증명]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22018</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22018"/>
+        <updated>2023-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김재환이 소극장 콘서트 '달과 별 그리고...' 서울 공연을 성료했다.&nbsp;&nbsp;김재환은 지난 6일부터 15일까지 서울 서대문구에 위치한 연세대학교 신촌캠퍼스 백주년콘서트홀에서 소극장 콘서트 '달과 별 그리고...'를 개최했다.&nbsp;&nbsp;'달'은 가수가 되고자 했던 꿈과 가수가 된 지금 김재환의 모습, '별'은 언제나 김재환 주위를 밝혀주는 '우리'라는 뜻을 담은 공연으로, 총 6회 차의 공연에서 '바람', '우리의 추억', '파티 투..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라, '첫 해외 단독 공연' 미주 5개 도시 투어 향한 기대…글로벌 행보 박차]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22014</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21965"/>
         <updated>2023-01-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 월드투어의 포문을 힘차게 열었다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난달 30일과 31일 양일간 개최된 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt; IN SEOUL'을 성황리에 마쳤다.이번 콘서트는 지난해 4월 진행한 첫 미주투어 'CIX 1st Concert &lt;REBEL&gt; in U.S.' 이후 오랜만에 글로벌 팬들을 만나는 월드투어다. 뜻깊은 첫 공연을 서울에서 열며 한 해를 뜨겁게 마무리했다.이날 CIX는 '..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴, 월드투어 ‘BE THE SUN’ 6개월 대장정 마침표!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21956</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21956"/>
-        <updated>2022-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 장장 6개월에 걸친 월드투어를 성공적으로 마무리했다.세븐틴은 지난 28일 자카르타 Gelora Bung Karno Madya Stadium에서 데뷔 후 세 번째 월드투어 ‘SEVENTEEN WORLD TOUR [BE THE SUN]’(이하 ‘BE THE SUN’)의 마지막 공연을 펼쳤다. 이날 공연은 팬들의 폭발적인 반응에 힘입어 추가된 스타디움급 공연이었다.이날 공연에서 세븐틴은 팀을 대표하는 히트곡 무대를 시작으로 각..]]></content>
     </entry>
 </feed>
