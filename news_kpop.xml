@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-01-17T23:15:53.375Z</updated>
+    <updated>2023-01-18T01:15:03.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2월 6일 컴백’ 세븐틴 부석순, 신보 ‘SECOND WIND’ 프로모션 스케줄러 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22035</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22035"/>
+        <updated>2023-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 세븐틴의 스페셜 유닛 부석순(승관, 도겸, 호시)이 첫 번째 싱글 앨범 프로모션 스케줄러를 공개했다.세븐틴의 스페셜 유닛 부석순은 오늘(18일) 0시 공식 SNS에 내달 6일 발매되는 첫 번째 싱글 앨범 ‘SECOND WIND’(세컨드 윈드)의 프로모션 스케줄러를 게재하며 본격적인 컴백 카운트다운에 돌입했다.프로모션 스케줄러에 따르면, 부석순은 오는 19일 트레일러를 시작으로 오피셜 포토와 트랙리스트, ‘고잉 부석순(GOING BSS)’, 하이라이트 메들리, 오피셜 뮤직비디오 티저까지 다채로운 콘텐츠를 차례로 공개할 예정이다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[December CIRCLE CHART: YOUNHA, NewJeans, Lim Young Woong, and NCT DREAM Dominate..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22024</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21997"/>
         <updated>2023-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 시그니처(cignature)의 컴백이 일주일 앞으로 다가왔다.시그니처(채솔, 지원, 셀린, 벨, 세미, 도희, 클로이)는 10일 0시 공식 SNS를 통해 세 번째 EP 앨범 'My Little Aurora(마이 리틀 오로라)'의 컴백 D-7 포스터를 공개했다.포스터 속 시그니처는 블랙의 블링블링한 의상을 맞춰 입은 채 자유로운 포즈를 취하고 있다. 카메라를 응시하는 다정한 눈빛과 화사한 미소가 팬들의 설렘을 더하며 일주일 남은 컴백 기대감을 높인다.'My Little Aurora'는 시그니처가 지난..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 53 CIRCLE CHART: NewJeans Top 3 Charts while ATEEZ Reach No. 1 in the Album..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21995</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=21995"/>
-        <updated>2023-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 53 CIRCLE CHART (previously Gaonchart), NewJeans dominated 3 charts while ATEEZ took the No. 1 spot in the Album Chart.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 53(2022.12.25.~2022.12.31.), NewJeans topped the Global K-pop, Digital, and Streaming Charts with ‘Ditto’.”..]]></content>
     </entry>
 </feed>
