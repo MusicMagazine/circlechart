@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-20T01:13:59.424Z</updated>
+    <updated>2023-01-20T02:46:13.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문빈&산하(ASTRO), 3월 18·19일 첫 유닛 팬콘 ‘DIFFUSION’ 개최!…포스터 기습 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22047</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22047"/>
+        <updated>2023-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 유닛으로 첫 단독 팬콘을 개최한다.문빈&amp;산하는 오는 3월 18일과 19일 양일간 팬콘 ‘DIFFUSION’(디퓨전)을 개최하고 팬들과 특별한 시간을 보낸다.지난 19일 0시, 아스트로 공식 SNS를 통해 이번 팬콘의 아트웍 포스터가 공개됐다. 이를 통해 공연명인 ‘DIFFUSION’과 ‘2023.03.18.(SAT)-19(SUN)’라는 공연 날짜가 공개된 가운데, 공연장을 비롯한 다른 정보는 아직 베일에 감춰져 있어 팬들의 궁금증을 자아냈다.오늘(20일) 0시에는 문빈과 산하의 개인 컷이 담긴..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각·2F·소유·이무진, 2월 18일 일본서 합동 콘서트 ‘VOCALIST LIVE’ 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22034</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21998"/>
         <updated>2023-01-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김성규가 단독 콘서트 전석 매진을 기록했다.&nbsp;지난 9일 오후 8시 티켓링크와 예스24티켓을 통해 팬클럽 선예매가 진행된 김성규의 단독 콘서트 '[LV]'는 티켓 오픈과 동시에 오는 2월 11일과 12일 양일 공연 전석이 매진됐다.&nbsp;김성규는 지난해 11월 개최한 솔로 데뷔 10주년 기념 팬미팅 '더 텐(THE TEN)'이 전석 매진으로 추가 회차를 오픈했던 것에 이어, 이번 콘서트 역시도 양일 전석 매진이라는 쾌거를 이루며 'K팝 레전드'의 대체불가한 인기를 증명했다.&nbsp;김성규의 새로운 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['역주행 신화' 윤하, 3월 11·12일 앙코르 콘서트 'c/2023YH' 개최…2월 선예매 시작]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21996</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=21996"/>
-        <updated>2023-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤하가 서울 앙코르 콘서트를 개최한다.윤하는 오는 3월 11일과 12일 양일간 서울 올림픽공원 SK핸드볼경기장에서 '2023 윤하 앵콜 콘서트 〈c/2023YH〉'를 열고 팬들을 다시 만난다.'2023 윤하 앵콜 콘서트 '는 윤하가 지난해 12월 성황리에 마무리한 '2022 윤하 연말 콘서트 〈c/2022YH〉'에 이어 다시 한번 선보이는 앙코르 콘서트다. 서울 올림픽공원 올림픽홀에서 진행된 지난 연말 콘서트보다 더욱 커진 규모로 더 많은 팬들과 호흡할 예정이다.연말 콘서트 예매 당시..]]></content>
     </entry>
 </feed>
