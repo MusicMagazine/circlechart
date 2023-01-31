@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-01-30T23:16:44.427Z</updated>
+    <updated>2023-01-31T01:15:58.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바밍타이거, 정규 앨범 선공개 싱글 ‘Trust Yourself’ 발매 및 뮤직비디오 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22078</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22078"/>
+        <updated>2023-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[얼터너티브 케이팝 그룹 바밍타이거(Balming Tiger)가 새로운 단체 싱글 ’Trust Yourself’를 발매한다. 신곡 ‘Trust Yourself’는 자기 신뢰에 대한 메시지를 던지며 동기부여나 위로가 필요한 이들에게 영감이 되는 노래이자, 올 상반기 발매를 앞두고 있는 크루의 첫 정규 앨범 선공개곡이다.앞서 바밍타이거는 지난 9월 방탄소년단 RM과 함께한 싱글 ‘섹시느낌’으로 빌보드 ‘월드 디지털 송 세일즈’ 및 ‘핫 트렌딩 송즈’ 차트 1위, 아이튠즈 월드와이드 차트 1위에 오르는 등 한국의 인디펜던트 뮤지션으로는 기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이소정, 2월 2일 새 싱글 '오랜만이야 안녕' 발매 확정! 6개월 만 신보 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22075</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22053"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 보라미유가 어쿠루브의 대표곡을 재해석한다.보라미유는 오는 2월 3일 '방구석 캐스팅' 음원 '헤어지던 밤'을 발매한다.'헤어지던 밤'은 지난 2018년 발매된 남성 듀오 어쿠루브의 싱글 '헤어지던 밤'의 타이틀곡이다. 예상치 못한 이별을 맞이하는 마음을 가사에 담았으며, 준비하지 못한 이별의 감정을 곡에 고스란히 녹여냈다.특유의 담백하고 감성적인 보이스로 많은 리스너들의 사랑을 받고 있는 보라미유는 이번에도 본인만의 독보적인 음색으로 곡의 매력을 배가시키며 듣는 이들의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSG워너비 M.O.M, 1년 만에 다시 뭉친다! 2월 11일 신곡 '지금 고백합니다' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22052</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22052"/>
-        <updated>2023-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[MSG워너비 M.O.M(이하 M.O.M)이 다시 뭉친다.M.O.M(별루지(지석진), 강창모(KCM), 박재정, 원슈타인)은 오는 2월 11일 신곡 '지금 고백합니다' 발매를 확정하고 1년 만에 돌아온다.'지금 고백합니다'는 M.O.M이 지난해 2월 발매한 디지털 싱글 '듣고 싶을까' 이후 약 1년 만에 다시 뭉쳐 선보이는 신곡이다. KCM이 앨범 프로듀싱에 참여해 M.O.M 특유의 감성을 녹여낸 곡을 선사할 것으로 기대를 모은다.M.O.M은 지난 2021년 MBC 예능 프로그램 '놀..]]></content>
     </entry>
 </feed>

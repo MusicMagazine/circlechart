@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-30T23:16:44.426Z</updated>
+    <updated>2023-01-31T01:15:58.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비, 멕시코 단독 콘서트 투어 성료! 현지 뉴스 인터뷰까지 적극 글로벌 행보]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22077</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22077"/>
+        <updated>2023-01-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 멕시코 투어로 특별한 추억을 쌓았다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난 26일과 29일(현지 시간) 멕시코 멕시코시티, 몬테레이에서 단독 콘서트 2023 'JUST Be with you in Mexico'(저스트 비 위드 유 인 멕시코)를 개최했다.2023년 첫 번째 단독 공연으로 멕시코 팬들과 만난 저스트비는 'Get Away'(겟 어웨이)와 'DAMAGE'(데미지)로 오프닝을 열었다. 이후 다양한 라이브 퍼포먼스로 멕시코 팬들..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 이솔로몬, 첫 단독 콘서트 '손으로 써 내려간 것들' 성료 "팬 분들께 진심으로 감사"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22070</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22031"/>
         <updated>2023-01-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 정식 데뷔 전 그룹 최초로 제프투어(Zepp Tour)를 진행한다.&nbsp;18일 소속사 n.CH엔터테인먼트는 "그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)이 오는 2월 25일부터 일본 주요 5개 도시를 도는 제프투어를 개최한다"고 밝혔다.&nbsp;&nbsp;엔싸인은 지난해 방송된 채널A 오디션 프로그램 '청춘스타' 최종 우승팀으로, 정식 데뷔 전 최초로 제프투어를 진행하며 글로벌 인기를 입증했다. 엔싸인은 2월 25일 나고야를 시작으로 2월 26일 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 더로즈, 3월 대형 음악 페스티벌 '롤라팔루자 남미' 출격…韓 인디 록 밴드 최초]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22022</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22022"/>
-        <updated>2023-01-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 대형 음악 페스티벌 '롤라팔루자 남미'에 한국 첫 인디 록 밴드로 참여한다.더로즈(김우성, 박도준, 이하준, 이재형)는 오는 3월 17일 아르헨티나 부에노스아이레스, 18일 칠레 산티아고, 24일 콜롬비아 보고타, 26일 브라질 상파울루에서 개최되는 '롤라팔루자 남미' 무대에 오른다.특히 더로즈는 '롤라팔루자 남미'와 콜롬비아 보고타의 에스테레오 피크닉에서 공연하는 최초의 한국 인디 록 밴드로 이름을 올리며 글로벌 관심을 증명했다. 더로즈는 현장을 찾은 관객..]]></content>
     </entry>
 </feed>
