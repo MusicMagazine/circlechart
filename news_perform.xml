@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-01-31T23:16:32.045Z</updated>
+    <updated>2023-02-01T01:22:15.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SG워너비, 4월 단독 콘서트 개최 확정...'韓 레전드 보컬 그룹'의 귀환]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22083</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22083"/>
+        <updated>2023-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 SG워너비(SG Wannabe, 김용준 김진호 이석훈)가 완전체로 돌아온다.&nbsp;SG워너비는 오는 4월 1일과 2일 양일간 서울 올림픽공원 SK핸드볼경기장에서 단독 콘서트 '우리의 노래'를 개최하고 팬들과 만난다.&nbsp;그간 솔로 아티스트로 활발한 활동을 이어온 세 멤버가 SG워너비로서 함께하는 단독 콘서트는 지난 2016년 개최한 전국투어 콘서트 '아워 데이즈(Our Days)' 이후 무려 7년 만으로, 이들의 공연을 손꼽아 기다려온 음악 팬들의 폭발적인 반응이 쏟아지고 있다.&nbsp;SG워너비는 이번 단독 콘서..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 멕시코 단독 콘서트 투어 성료! 현지 뉴스 인터뷰까지 적극 글로벌 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22077</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22033"/>
         <updated>2023-01-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 임재범이 콘서트의 감동을 이어간다.&nbsp;&nbsp;임재범은 오는 2월 11일과 12일 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 2022-23 전국투어 콘서트 '집으로 돌아가는 길...' 서울 앙코르 공연을 개최한다.&nbsp;&nbsp;지난해 10월 서울 공연을 시작으로 전국투어 콘서트의 포문을 연 임재범은 일산, 부산, 대전, 광주, 대구, 수원까지 총 7개 지역을 넘나들며 전국 각지의 팬들과 만났다.&nbsp;&nbsp;특히 이번 콘서트는 2016년 데뷔 30주년 전국투어 콘서트 이후 6년 만에 개최한 콘서트로 팬들의 관심은 어느 때보다 뜨거웠..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign), 정식 데뷔 전 그룹 최초로 日 제프투어 진행]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22031</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22031"/>
-        <updated>2023-01-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 정식 데뷔 전 그룹 최초로 제프투어(Zepp Tour)를 진행한다.&nbsp;18일 소속사 n.CH엔터테인먼트는 "그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)이 오는 2월 25일부터 일본 주요 5개 도시를 도는 제프투어를 개최한다"고 밝혔다.&nbsp;&nbsp;엔싸인은 지난해 방송된 채널A 오디션 프로그램 '청춘스타' 최종 우승팀으로, 정식 데뷔 전 최초로 제프투어를 진행하며 글로벌 인기를 입증했다. 엔싸인은 2월 25일 나고야를 시작으로 2월 26일 ..]]></content>
     </entry>
 </feed>
