@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-03T01:16:13.152Z</updated>
+    <updated>2023-02-03T02:48:30.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['7일 발매' 임한별, 포맨 명곡 '안녕 나야' M/V 티저 공개…폭발적 고음+절절한 감성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22095</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22095"/>
+        <updated>2023-02-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임한별이 폭발적인 고음으로 이목을 집중시켰다.지난 2일 오후 메이저나인 공식 SNS를 통해 임한별이 가창한 'Re:WIND 4MEN Vol.05 안녕 나야' 뮤직비디오 티저 영상이 공개됐다.영상 속 임한별은 "오늘따라 갑자기 네 생각이 나니까"라는 가사와 함께 폭발적인 가창력을 선보이며 단숨에 몰입을 이끌었다. 임한별의 호소력 짙은 보컬과 절절한 표정 연기가 완벽하게 어우러지며 리스너들의 감성을 더욱 자극했다.말미에는 "안녕 나야 잘 지내 내 사랑 안녕"이라는 먹먹한 가사와 함께 섬세..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2023年 1호 男 아이돌’ 8TURN(에잇턴), 오늘(2일) '엠카운트다운' 첫 음방 데뷔! 타이틀곡 'TIC TAC' 활동 본격 스타트]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22090</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22062"/>
         <updated>2023-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[8TURN(에잇턴)이 가요계에 당찬 출사표를 던진다.&nbsp;8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)이 오는 30일 첫 번째 미니앨범 ‘8TURNRISE(에잇턴라이즈)’로 가요계에 첫발을 내디딘다. 정식 데뷔 전부터 증명된 탄탄한 능력치와 견고한 음악성으로 무한 포텐셜을 발휘할 8TURN을 향한 기대감이 최고조에 달하고 있다.#8TURN 세계관의 시작! 화려한 비상을 알리다‘8TURNRISE’는 익숙함에 물든 세상을 깨우는 8TURN의 첫 번째 움직임을 담아낸 앨범이다. 무한한 가능성을 지닌 여덟 멤버가 총 다섯..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부석순 승관, ‘SECOND WIND’ 오피셜 포토 공개…볼수록 빠져드는 깊은 눈빛!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22058</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22058"/>
-        <updated>2023-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐틴의 스페셜 유닛 부석순(승관, 도겸, 호시) 멤버 승관이 신보 ‘SECOND WIND’ 두 번째 버전 오피셜 포토를 통해 강렬한 비주얼을 뽐냈다.부석순은 26일 0시 세븐틴 공식 SNS에 내달 6일 오후 6시에 발매되는 첫 번째 싱글 앨범 ‘SECOND WIND’(세컨드 윈드)의 두 번째 버전 개인 오피셜 포토를 게재했다. ‘사점(Dead Point)’을 지나 앞으로 달려가는 승관이 강한 인상을 남긴다.오피셜 포토 속 승관은 육상 트랙 위에서 ‘볼수록 빠져드는 깊은 눈빛’으로 독보적인 아우라를 발산했다. 도겸에 이어 승관..]]></content>
     </entry>
 </feed>
