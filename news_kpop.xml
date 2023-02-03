@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-03T02:48:30.982Z</updated>
+    <updated>2023-02-03T03:19:56.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 4 CIRCLE CHART: Strong Showings by NewJeans, Kim Hojoong, Song Ga-in, and T..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22098</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22098"/>
+        <updated>2023-02-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 4 CIRCLE CHART (formerly gaonchart) was dominated by NewJeans, Kim Hojoong, Song Ga-in, and TOMORROW X TOGETHER.KMCA, publisher of CIRCLE CHART, announced that “As of week 4(2023.01.22.~2023.01.28.), NewJeans topped the Global K-pop, Digital, and Streaming Charts with ‘Ditto’.”‘Ditto’ is th..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['7일 발매' 임한별, 포맨 명곡 '안녕 나야' M/V 티저 공개…폭발적 고음+절절한 감성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22095</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22067"/>
         <updated>2023-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 3 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by SMTOWN '2022 Winter SMTOWN : SMCU PALACE'.&nbsp;Released on December 26th, 2022, '2022 Winter SMTOWN : SMCU PALACE' sold the most copies as of 2PM (KST) on January 16th (Monday, week 3).A winte..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴), 30일 데뷔 기대되는 이유…#탈신인급 실력 #퍼포먼스 차별화 #Z세대 취향 저격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22062</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22062"/>
-        <updated>2023-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[8TURN(에잇턴)이 가요계에 당찬 출사표를 던진다.&nbsp;8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)이 오는 30일 첫 번째 미니앨범 ‘8TURNRISE(에잇턴라이즈)’로 가요계에 첫발을 내디딘다. 정식 데뷔 전부터 증명된 탄탄한 능력치와 견고한 음악성으로 무한 포텐셜을 발휘할 8TURN을 향한 기대감이 최고조에 달하고 있다.#8TURN 세계관의 시작! 화려한 비상을 알리다‘8TURNRISE’는 익숙함에 물든 세상을 깨우는 8TURN의 첫 번째 움직임을 담아낸 앨범이다. 무한한 가능성을 지닌 여덟 멤버가 총 다섯..]]></content>
     </entry>
 </feed>
