@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-06T23:19:56.341Z</updated>
+    <updated>2023-02-07T01:12:59.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['비아이 프로듀싱→다운·제미나이 피처링' 수비(SOOVI), 첫 EP 'a tempo' 트랙리스트 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22105</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22105"/>
+        <updated>2023-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[화이트 노이즈 클럽이 프로듀싱하는 R&amp;B 아티스트 수비의 새 앨범에 실력파 아티스트들이 함께했다.131레이블은 7일 0시 공식 SNS에 소속 프로듀싱 크루 화이트 노이즈 클럽(White noise club)의 'New Voice Project (뉴 보이스 프로젝트)'로 발매되는 수비(SOOVI)의 EP 'a tempo (아 템포)' 트랙리스트를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 'Missing You (미씽 유) (Feat. Dvwn)'를 비롯해 'Ooh ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 4 CIRCLE CHART: Strong Showings by NewJeans, Kim Hojoong, Song Ga-in, and T..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22098</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22068"/>
         <updated>2023-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 3 CIRCLE CHART was dominated by NewJeans, who topped 4 charts, and TAEYANG with 2 No. 1 rankings.KMCA, publisher of CIRCLE CHART, announced that “As of week 3(2023.01.15.~2023.01.21.), NewJeans topped the Global K-pop, Digital, and Streaming Charts with ‘Ditto’ and also took the top spot in..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 3 CIRCLE CHART: SMTOWN '2022 Winter SMTOWN : SMCU PALACE' Tops the Retail A..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22067</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22067"/>
-        <updated>2023-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 3 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by SMTOWN '2022 Winter SMTOWN : SMCU PALACE'.&nbsp;Released on December 26th, 2022, '2022 Winter SMTOWN : SMCU PALACE' sold the most copies as of 2PM (KST) on January 16th (Monday, week 3).A winte..]]></content>
     </entry>
 </feed>

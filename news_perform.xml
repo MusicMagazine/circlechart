@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-02-06T23:19:56.338Z</updated>
+    <updated>2023-02-07T01:12:59.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘명품 발라더’ 허각, 3월 25·26일 단독 콘서트 ‘공연각: 10주년, 못다한 이야기’ 개최 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22106</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22106"/>
+        <updated>2023-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각이 단독 콘서트로 팬들을 찾아온다.허각은 오는 3월 25일과 26일 양일간 서울 신한pLay 스퀘어 라이브홀에서 2023 단독 콘서트 ‘공연각: 10주년, 못다한 이야기’(이하 ‘공연각’)를 개최한다.소속사 빅플래닛메이드엔터는 지난 6일 오후 ‘공연각’의 개최를 알리는 포스터 이미지를 공개했다. 무대 위 조명과 스탠딩 마이크를 담은 일러스트 이미지가 본 공연을 향한 기대를 높인다.‘공연각’은 허각이 코로나19 때문에 하지 못했던, 약 3년 만에 선보이는 단독 공연이자 데뷔 10주년 리마인드 콘서트다. 지난 2010년 ‘언제..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나, 첫 팬미팅 '여기여기 모여라 YENA Friends' 성료 "행복했던 시간, 더 열심히 활동할 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22102</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22065"/>
         <updated>2023-01-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[차은우가 단독 사진전으로 팬들과 만난다.차은우는 오는 2월 13일부터 26일까지 더 서울라이티움 제1전시장에서 첫 단독 사진전 ‘ARCHIVE’(아카이브)를 개최한다.지난 26일 오후 소속사 판타지오 공식 SNS를 통해 ‘ARCHIVE’의 티저 이미지 2장이 오픈됐다. 공개된 사진에는 차은우의 청량한 비주얼과 싱그러운 분위기가 담겼다.특히 카메라를 손에 들고 벽에 그려진 아트 속 캐릭터 동작을 따라 하는 차은우의 일상적인 모습은 내추럴하면서도 훈훈한 매력 더하며 보는 이들에게 기분 좋은 에너지를 선사했다.차은우는 이번 ‘ARCHIV..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종현, 태국·홍콩서 첫 해외 팬미팅 'FANTASIA' 개최 확정! 글로벌 팬심 저격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22064</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22064"/>
-        <updated>2023-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김종현이 태국과 홍콩에서 현지 팬들에게 소중한 추억을 선물한다.김종현은 오는 2월 25일 태국 방콕 Union Hall2, Union Mall(유니온 홀2, 유니온 몰), 오는 3월 1일 홍콩 MACPHERSON STADIUM(맥퍼슨 스타디움)에서 첫 해외 팬미팅 'FANTASIA'를 열고 팬들과 특별한 시간을 보낸다.처음으로 태국과 홍콩에서 개최하는 팬미팅인 만큼 김종현은 현지 팬들을 가장 가까이서 마주할 뿐만 아니라 공연을 통해 화려한 퍼포먼스와 솔직한 매력까지 가감 없이 모두 보여줄 예정이다.특히 김종현은 감사한..]]></content>
     </entry>
 </feed>
