@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-07T07:14:36.063Z</updated>
+    <updated>2023-02-07T08:20:04.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TOMORROW X TOGETHER 'The Name Chapter: TEMPTATION’ Takes Top Spot in the January..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22111</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22111"/>
+        <updated>2023-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the January CIRCLE CHART, TOMORROW X TOGETHER 'The Name Chapter: TEMPTATION’ topped the monthly Retail Album Chart.‘The Name Chapter: TEMPTATION’ is the 5th mini-album from TOMORROW X TOGETHER. It marks the 1st episode in the new ‘The Name Chapter’ series and tells the story of a youth who st..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 양요섭, '야오키 프로젝트' 음원 '덤덤하게 또, 안녕' 라이브 클립 공개…'믿고 듣는' 완벽 가창력]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22107</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22072"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 신곡 무대와 함께 다채로운 매력을 발산했다.&nbsp;에픽하이(타블로, 투컷, 미쓰라)는 지난 29일 방송된 tvN 예능 프로그램 ‘화사쇼’에 출연해 다양한 무대와 입담을 선보였다.이날 방송에서 MC 화사는 “아직 공개되지 않은 신곡을 이 자리에서 최초 공개하려고 한다. 피처링을 해드렸고 신곡을 ‘화사쇼’에서 공개하신다고 하셨다. 오랜만에 컴백하시는데 조상님, 시조새다”라고 에픽하이를 소개했다.&nbsp;에픽하이는 먼저 지난해 해외 투어에 집중했던 소식을 밝혔다. 타블로는 “집이 그리울 정도로 투어를 했다. 공연 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트 양요섭, '야오키 프로젝트' 음원 '덤덤하게 또, 안녕' M/V 티저 공개 '슬픔 극대화]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22071</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22071"/>
-        <updated>2023-01-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 하이라이트(Highlight) 양요섭이 믿고 듣는 보이스로 울림을 전한다.지난 29일 야오키 공식 유튜브 채널을 통해 양요섭이 참여한 '야오키(YAOKI) 프로젝트'의 두 번째 음원 '덤덤하게 또, 안녕' 뮤직비디오 첫 번째 티저 영상이 공개됐다.영상 시작과 동시에 슬픔에 잠긴 듯한 여자가 등장해 천천히 눈물을 흘린다. 이와 함께 슬픔을 억누르는 듯한 양요섭의 감수성 짙은 보이스가 어우러져 더욱 먹먹한 감정을 자아낸다. 특히 "덤덤하게 또, 안녕"이라는 짧은 한 소절만으로도 이별의 아..]]></content>
     </entry>
 </feed>
