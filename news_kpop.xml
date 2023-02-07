@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-07T01:12:59.771Z</updated>
+    <updated>2023-02-07T02:40:38.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트 양요섭, '야오키 프로젝트' 음원 '덤덤하게 또, 안녕' 라이브 클립 공개…'믿고 듣는' 완벽 가창력]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22107</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22107"/>
+        <updated>2023-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 하이라이트(Highlight) 양요섭이 '믿고 듣는' 발라드로 호평을 얻고 있다.양요섭이 가창한 '야오키(YAOKI) 프로젝트' 두 번째 음원 '덤덤하게 또, 안녕'의 라이브 클립 영상이 지난 6일 야오키 공식 유튜브 채널을 통해 공개됐다.영상 속 양요섭은 원목 인테리어와 은은한 조명이 아련한 느낌을 자아내는 공간에 홀로 앉아 노래를 부르고 있다. 덤덤하면서도 쓸쓸한 표정 연기와 양요섭의 감수성 짙은 목소리가 어우러지며 한층 먹먹한 감성을 선사했다.특히 깊은 감성 보이스로 도입부부터 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비아이 프로듀싱→다운·제미나이 피처링' 수비(SOOVI), 첫 EP 'a tempo' 트랙리스트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22105</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22071"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 하이라이트(Highlight) 양요섭이 믿고 듣는 보이스로 울림을 전한다.지난 29일 야오키 공식 유튜브 채널을 통해 양요섭이 참여한 '야오키(YAOKI) 프로젝트'의 두 번째 음원 '덤덤하게 또, 안녕' 뮤직비디오 첫 번째 티저 영상이 공개됐다.영상 시작과 동시에 슬픔에 잠긴 듯한 여자가 등장해 천천히 눈물을 흘린다. 이와 함께 슬픔을 억누르는 듯한 양요섭의 감수성 짙은 보이스가 어우러져 더욱 먹먹한 감정을 자아낸다. 특히 "덤덤하게 또, 안녕"이라는 짧은 한 소절만으로도 이별의 아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 3 CIRCLE CHART: NewJeans Dominate 4 Charts while TAEYANG Tops 2 Charts]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22068</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22068"/>
-        <updated>2023-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 3 CIRCLE CHART was dominated by NewJeans, who topped 4 charts, and TAEYANG with 2 No. 1 rankings.KMCA, publisher of CIRCLE CHART, announced that “As of week 3(2023.01.15.~2023.01.21.), NewJeans topped the Global K-pop, Digital, and Streaming Charts with ‘Ditto’ and also took the top spot in..]]></content>
     </entry>
 </feed>
