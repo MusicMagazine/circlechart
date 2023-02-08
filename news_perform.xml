@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-02-07T23:15:38.261Z</updated>
+    <updated>2023-02-08T01:14:53.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경서, 3월 25·26일 전국투어 ‘너와 나의 봄’ 서울 콘서트 개최! 15일 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22113</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22113"/>
+        <updated>2023-02-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 경서가 서울에서 첫 전국투어의 포문을 연다.경서는 오는 3월 25일과 26일 양일간 서울 이화여자대학교 삼성홀에서 2023 전국투어 콘서트 ‘너와 나의 봄’을 개최한다.‘너와 나의 봄’은 경서가 데뷔 후 처음으로 선보이는 전국투어다. 경서는 서울에서의 첫 공연을 시작으로 부산, 대구에서 투어를 이어가며 전국 각지의 팬들과 만날 예정이다.특히 솔로 아티스트로서 경서의 개성 짙은 음악이 이번 전국투어를 다채롭게 채울 전망이다. 경서 특유의 보컬 매력과 감성이 어떤 다양한 무대로 펼쳐질지 관심이 모아진다.앞서 지난 1월 ‘경서랑 팬..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘명품 발라더’ 허각, 3월 25·26일 단독 콘서트 ‘공연각: 10주년, 못다한 이야기’ 개최 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22106</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22069"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 첫 유럽 투어를 성료했다.&nbsp;&nbsp;CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 15일부터 29일까지 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt;'를 개최했다.&nbsp;&nbsp;바르샤바를 시작으로 틸뷔르흐, 런던, 파리, 쾰른, 베를린에서 공연을 이어간 CIX는 현지의 많은 팬들과 호흡하며 특별한 추억을 선사했다.&nbsp;&nbsp;CIX는 유럽 투어에서 '순수의 시대(Numb)', '정글', 'Imagine(이매진)', 'Off My ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 2월 첫 단독 사진전 ‘ARCHIVE’ 개최!...티저 이미지 깜짝 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22065</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22065"/>
-        <updated>2023-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[차은우가 단독 사진전으로 팬들과 만난다.차은우는 오는 2월 13일부터 26일까지 더 서울라이티움 제1전시장에서 첫 단독 사진전 ‘ARCHIVE’(아카이브)를 개최한다.지난 26일 오후 소속사 판타지오 공식 SNS를 통해 ‘ARCHIVE’의 티저 이미지 2장이 오픈됐다. 공개된 사진에는 차은우의 청량한 비주얼과 싱그러운 분위기가 담겼다.특히 카메라를 손에 들고 벽에 그려진 아트 속 캐릭터 동작을 따라 하는 차은우의 일상적인 모습은 내추럴하면서도 훈훈한 매력 더하며 보는 이들에게 기분 좋은 에너지를 선사했다.차은우는 이번 ‘ARCHIV..]]></content>
     </entry>
 </feed>
