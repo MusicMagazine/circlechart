@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-08T23:16:03.306Z</updated>
+    <updated>2023-02-09T01:14:10.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현, 솔로 앨범 ‘Truth or Lie’ 비주얼 콘셉트 최초 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22121</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22121"/>
+        <updated>2023-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[오는 27일 솔로 데뷔를 앞두고 있는 황민현이 파격 변신을 예고했다.황민현은 9일 공식 SNS에 미니 1집 ‘Truth or Lie’(트루스 오어 라이)의 오피셜 포토 ‘Hidden’ 버전을 최초 공개했다.사진 속 황민현은 블랙 재킷에 화이트 셔츠를 입은 채 치명적인 아우라를 발산했다. 이전의 그에게서 쉽게 볼 수 없던 옴므파탈 면모와 날카로운 눈빛이 인상적이다. 또한 명확한 컬러 대비는 냉철한 분위기와 그의 양면성을 상징하는 듯 해 이번 신보 콘셉트에 대한 궁금증을 키웠다.&nbsp;&nbsp;황민현은 오는 10일 ‘Hidden’ 버전의 무드 필름..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 신곡 'MBTI' 첫 오피셜 포토 공개! 알렉사와 하이틴 감성 장착 완료]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22115</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22089"/>
         <updated>2023-02-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 4 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by TOMORROW X TOGETHER ‘The Name Chapter: TEMPTATION’.‘The Name Chapter: TEMPTATION’ was the best-selling album as of 4PM (KST) on January 27th (Friday, week 4), the date of its release.‘The Name Chapter: TE..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 네 번째 싱글  ‘Teddy Bear’로 돌아온다! 14일 가요계 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22082</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22082"/>
-        <updated>2023-02-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 2월 14일 컴백을 확정했다.&nbsp;1일 하이업엔터테인먼트는 “스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 14일 네 번째 싱글앨범 ‘Teddy Bear (테디 베어)’ 발매를 확정했다”고 밝혔다.&nbsp;이와 함께 지난달 31일 공식 SNS를 통해 콜라주 이미지를 공개하며 새 싱글명과 컴백일을 오픈했다. 이미지에는 꿈, 믿음, 희망 등 긍정적인 메시지들이 곰돌이 모양으로 콜라주되어 있어 스테이씨만의 감각적이고 키치한 매력을 더했다.스테이씨가 전하는 긍정의 메시지와 에너지가 이목을 사로잡은 가운데 신보..]]></content>
     </entry>
 </feed>

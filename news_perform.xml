@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-02-08T23:16:03.310Z</updated>
+    <updated>2023-02-09T01:14:10.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각, 10주년 리마인드 콘서트 ‘공연각’ 오늘(9일) 티켓 오픈! 특급 소통+무대 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22120</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22120"/>
+        <updated>2023-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각이 단독 콘서트로 특별한 소통을 준비 중이다.9일 오후 8시 온라인 예매사이트 인터파크 티켓을 통해 허각의 단독 콘서트 ‘공연각: 10주년, 못다한 이야기’(이하 ‘공연각’)에 대한 티켓 예매가 시작된다.‘공연각’은 허각이 팬들과 데뷔 10주년을 돌아보기 위해 마련한 리마인드 콘서트다. ‘10주년, 못다한 이야기’라는 부제처럼 허각과 관객들이 추억을 되새기고, 음악으로 가깝게 호흡하는 뜻깊은 자리가 될 예정이다.허각은 2010년 성료한 전국투어에 이어 ‘공연각’이라는 브랜드 콘서트 네이밍을 이어간다. 허각의 고품격 무대가 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경서, 3월 25·26일 전국투어 ‘너와 나의 봄’ 서울 콘서트 개최! 15일 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22113</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22070"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 이솔로몬이 데뷔 후 첫 단독 콘서트를 성황리에 마쳤다.&nbsp;&nbsp;이솔로몬은 지난 28일, 29일 양일간 서울 강동구에 위치한 강동아트센터 대극장 한강에서 첫 번째 단독 콘서트 '손으로 써 내려간 것들'을 개최했다.&nbsp;&nbsp;이날 엘비스 코스텔로의 노래 'She(쉬)'로 오프닝을 연 이솔로몬은 공연장을 찾은 팬들에게 반가운 인사를 전하며 첫 단독 콘서트 개최의 기쁨을 함께 나눴다.&nbsp;&nbsp;소속사에 따르면 이솔로몬은 몰입감 높은 공연을 선보이기 위해 기획 단계부터 직접 참여해 본인의 작업실 같은 공간을 꾸미는데 힘썼다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스), 유럽 투어 'Save me, Kill me' 성료 "뜻깊은 시간, 팬들의 사랑에 보답할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22069</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22069"/>
-        <updated>2023-01-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 첫 유럽 투어를 성료했다.&nbsp;&nbsp;CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 15일부터 29일까지 'CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt;'를 개최했다.&nbsp;&nbsp;바르샤바를 시작으로 틸뷔르흐, 런던, 파리, 쾰른, 베를린에서 공연을 이어간 CIX는 현지의 많은 팬들과 호흡하며 특별한 추억을 선사했다.&nbsp;&nbsp;CIX는 유럽 투어에서 '순수의 시대(Numb)', '정글', 'Imagine(이매진)', 'Off My ..]]></content>
     </entry>
 </feed>
