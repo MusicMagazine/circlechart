@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-02-13T01:17:29.089Z</updated>
+    <updated>2023-02-13T02:47:41.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디셈버 DK, 19일 리메이크 음원 발매 확정! 얀 원곡 '심(心)' 재해석]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22137</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22137"/>
+        <updated>2023-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[디셈버 DK가 얀의 명곡을 재해석한다.DK는 오는 2월 19일 '방구석 캐스팅' 음원 '심(心)'을 발매한다.'심(心)'은 지난 2002년 발매된 얀의 정규앨범 'Another Story (어나더 스토리)'의 수록곡으로, 헤어진 전 연인의 행복을 바라는 남자의 마음을 담았다.특히 애절하면서도 파워풀한 DK의 목소리가 곡의 감정선을 이끌며 몰입도를 높이고, 폭발하듯 터져 나오는 가창력이 더해져 진정성 넘치는 곡을 완성할 전망이다.DK는 그동안 '나와 헤어진 걸 다행이라 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4개 국어 능력자 수비(SOOVI), 화이트 노이즈 클럽 신인 발굴 프로젝트 통해 첫 EP 'a tempo' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22130</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22116"/>
         <updated>2023-02-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 정효빈이 ‘우리의 디데이’ OST 다섯 번째 주자로 출격한다.정효빈은 오는 12일 오후 6시 발매되는 웹드라마 ‘우리의 디데이’(공동 제작 레이벡스, 203프로젝트) OST Part.5 ‘내 사랑’에 가창자로 참여했다.‘내 사랑’은 사랑하는 사람과 행복한 미래를 약속하는 내용을 담은 발라드 곡이다. 잔잔한 멜로디와 로맨틱한 노랫말이 정효빈의 맑은 보컬과 만나 몽글몽글한 설렘을 전한다.특히 정효빈은 감미로운 음색과 섬세한 감수성으로 “내 맘을 한껏 안아준 너의 품에 / 사뿐 내려앉아 쉬는 작은 나비가 될래”라는 사랑스러운 고백을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[015B, 양자역학 소재 신곡 ‘코펜하겐 (Feat. 강민정)’ 발표]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22114</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22114"/>
-        <updated>2023-02-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 그룹 015B(공일오비)가 양자역학 소재 신곡 ‘코펜하겐 (Feat. 강민정)’을 발표한다.이번 신곡 ‘코펜하겐’은 코펜하겐 해석, 슈뢰딩거의 고양이 등 양자역학에 관련된 소재로 만든 노래다. 양자역학은 현대 물리학의 중요 이론 중의 하나로 최근 많은 영화와 음악 등 대중문화에 단골 소재로 이용되고 있다.&nbsp;015B는 2021년 발표한 ‘불확정성의 원리’에 이어, 두 번째로 양자역학을 소재로 노래를 만들었다. 이번 곡의 내용을 쉽게 풀어보자면, 아직 정체성을 세우지 못한 사람이 자신을 발견해 주는 다른 사람을 만나 스스로를 ..]]></content>
     </entry>
 </feed>
