@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-14T08:21:07.450Z</updated>
+    <updated>2023-02-14T09:17:06.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 6 CIRCLE CHART: BSS (SEVENTEEN) '1st Single Album `SECOND WIND`' Tops the R..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22144</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22144"/>
+        <updated>2023-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 6 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by BSS (SEVENTEEN) '1st Single Album `SECOND WIND`'.'1st Single Album `SECOND WIND`' sold the most copies as of 10PM (KST) on February 6th (Monday, week 6), the date of its release.BSS is a s..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황민현, 솔로 앨범 ‘Truth or Lie’ 2차 오피셜 포토 공개...‘냉미남 모먼트 폭발’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22136</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22112"/>
         <updated>2023-02-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[MSG워너비 M.O.M(이하 M.O.M) 박재정이 따듯한 위로를 보냈다.M.O.M(별루지(지석진), 강창모(KCM), 박재정, 원슈타인)은 지난 7일 박재정 개인 SNS를 통해 신곡 '지금 고백합니다'의 뮤직비디오 두 번째 개인 티저 영상을 공개했다.공개된 영상은 슈트 차림의 댄디한 이미지가 돋보이는 박재정의 모습으로 시작된다. 이어 포근함이 느껴지는 박재정의 음색과 "사랑하는 내 사람 / 눈물 날 만큼 고마운 내 사람 / 평생을 그대 하나만 지킬게요" 등 일부 공개된 가사는 공개될 음원을 향한 기대감을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER 'The Name Chapter: TEMPTATION’ Takes Top Spot in the January..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22111</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22111"/>
-        <updated>2023-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the January CIRCLE CHART, TOMORROW X TOGETHER 'The Name Chapter: TEMPTATION’ topped the monthly Retail Album Chart.‘The Name Chapter: TEMPTATION’ is the 5th mini-album from TOMORROW X TOGETHER. It marks the 1st episode in the new ‘The Name Chapter’ series and tells the story of a youth who st..]]></content>
     </entry>
 </feed>
