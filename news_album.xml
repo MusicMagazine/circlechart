@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-02-14T23:16:27.890Z</updated>
+    <updated>2023-02-15T01:16:35.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX 박우진, 첫 솔로 앨범 선공개곡 '나를 그리다' 오늘 전격 발매... 김재환 우정의 피처링 지원사격 '눈길']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22147</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22147"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX (에이비식스) 박우진이 첫 솔로 앨범 발매를 앞두고 수록곡을 선공개한다.&nbsp;브랜뉴뮤직은 오는 2월 27일 발매되는 박우진의 첫 번째 EP 'oWn'의 정식 발매에 앞서 수록곡 '나를 그리다 (Self-Portrait) (Feat. 김재환)'를 오늘(15일) 오후 6시 전격 공개한다고 밝혔다.&nbsp;'나를 그리다 (Self-Portrait)'는 박우진과 그룹 워너원으로 함께 활동한 김재환이 피처링으로 참여한 곡으로, 꿈을 꾸고 살아가는 모든 젊음에 바치는 박우진의 자전적인 가사와 담..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘16일 컴백’ 비오, 신곡명은 ‘Akita’…hartts 피처링 지원사격!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22142</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22123"/>
         <updated>2023-02-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초대형 DJ 서바이벌 'WET!'이 첫 음원 발매 소식을 알리며 화제를 모으고 있다.'WET! : World EDM Trend' (이하 'WET!')은 9일 정오 각종 온라인 음원사이트를 통해 'WET! Episode. 1'을 발매한다.'WET!'만이 가능한 이번 미션곡 음원은 다나카, KARD 등 화제의 아티스트와 국내 대표 DJ 레이블의 만남으로 글로벌 EDM팬들의 귀를 즐겁게 할 예정이다.'WET! Episode. 1'은 'WET!&amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범, 13일 새 싱글 'Yesterday' 발매 확정…트랙리스트 2종 기습 공개 '기대감 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22119</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22119"/>
-        <updated>2023-02-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 박재범이 오는 2월 13일 새로운 싱글로 리스너들을 찾아온다.&nbsp;박재범은 지난 8일과 9일 MORE VISION(모어비전) 공식 SNS를 통해 두 장의 트랙리스트 이미지를 차례로 공개하며 오는 13일 새 싱글 'Yesterday(예스터데이)' 발매를 확정했다.공개된 트랙리스트 이미지에 따르면 이번 싱글에는 싱글명과 동명의 곡 'Yesterday'를 비롯해 마마무 화사가 피처링에 참여한 'Love Is Ugly'까지 두 곡이 수록된다.&nbsp;8일 먼저 공개된 트랙리스트 이미지에는 박재범의 뒷모..]]></content>
     </entry>
 </feed>
