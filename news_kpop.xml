@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-21T02:55:18.663Z</updated>
+    <updated>2023-02-21T03:22:12.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 7 CIRCLE CHART: STAYC 'Teddy Bear' Takes No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22171</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22171"/>
+        <updated>2023-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 7 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by STAYC 'Teddy Bear'.'Teddy Bear' sold the most copies as of 3PM (KST) on February 14th (Tuesday, week 7), the date of its release.‘Teddy Bear’ is a single album from STAYC, full of positive..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX 박우진, 첫 솔로 앨범 'oWn' 트랙리스트 공개...타이틀은 힙합 트랙 'Top Tier']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22167</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22136"/>
         <updated>2023-02-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[솔로 데뷔를 앞둔 황민현이 순백의 ‘냉미남’ 모먼트를 폭발시키며 글로벌 팬들 마음을 설레게 했다.황민현은 13일 공식 SNS에 미니 1집 ‘Truth or Lie’(트루스 오어 라이)의 오피셜 포토 ‘Broken’ 버전을 게재했다.&nbsp;사진 속 그는 깨진 거울과 뾰족한 유리처럼 날카로운 면모를 드러냈다. 조각난 거울 속 다양한 각도로 포착된 그의 여러 무심한 표정은 서늘하다.앞서 흑백 무드로 공개된 오피셜 포토 ‘Hidden’ 버전과 상반된 반전 비주얼에 팬들의 궁금증이 한층 커졌다. 이번 오피셜 포토에 이어 앨범 메시지를 엿볼 수 있..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘4세대 워너비 퀸’ VIVIZ(비비지), 미니 3집 ‘VarioUS’ 활동 성료! 당찬 변신으로 글로벌 화제성 견인]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22134</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22134"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 ‘PULL UP’ 활동으로 ‘워너비 퀸’의 존재감을 입증했다.VIVIZ(은하, 신비, 엄지)는 지난 12일 방송된 SBS ‘인기가요’ 무대를 끝으로 2주간의 세 번째 미니앨범 ‘VarioUS (베리어스)’ 타이틀곡 ‘PULL UP (풀 업)’ 활동을 성공적으로 마쳤다.‘VarioUS’는 VIVIZ의 폭넓은 음악적 스펙트럼과 이제껏 볼 수 없었던 당찬 변신을 담은 앨범이다. 다양한 장르의 음악에 녹아든 VIVIZ만의 톡톡 튀는 팀 컬러가 각종 지표에서 상승세를 견인했다.VIVIZ는 ‘VarioUS’로 25개..]]></content>
     </entry>
 </feed>
