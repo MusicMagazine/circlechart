@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2023-02-22T08:21:15.478Z</updated>
+    <updated>2023-02-22T09:17:00.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케이팝 피지컬 앨범 수출 데이터 리뷰]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22177</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22177"/>
+        <updated>2023-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[위 그래프는 2013년부터 2022년까지 관세청에서 집계한 피지컬 앨범 수출액 연도별 추이를 나타낸 것입니다. 관세청 기준 작년 한 해 케이팝 피지컬 앨범 수출액은 2억 3천138만 9천 달러 (약 2천999억 원)을 기록해 전년대비 4.8% 증가하며 역대 최고치를 기록했습니다.&nbsp;&nbsp;관세청 자료에 따르면 2022년 일본에 대한 수출 비중이 전년 대비 약 1% P 증가, 중국 약 3% P 증가, 미국은 0.4% P 감소한 것으로 나타났습니다.&nbsp; 주요 3대 수출 대상 국가를 제외하고 전년대비 특이사항은 2021년 4위 인도네시아가 9위로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NewJeans 음원 점유율 1위 임영웅 제쳐... - 1월 리뷰(2023)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22125</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21536"/>
         <updated>2022-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 9월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 5.1%를 기록했습니다.&nbsp;&nbsp;2022년 9월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 0.8% 감소, 전년 동기에 비해서는 2.0% 증가했습니다.&nbsp;9월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 13.5% 증가, 작년 9월 대비 19.8% 증가 한 것으로 조사되었습니다.&nbsp;2022년 9월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 BLACKPINK 가 400위권..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKPINK 리뷰]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21482</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21482"/>
-        <updated>2022-09-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 컴백한 블랙핑크가 미국 '빌보드 200' 차트와 영국 오피셜 앨범 차트 'TOP 100'에서 1위를 차지하는 등 케이팝이 전 세계적으로 위상을 떨치고 있습니다. 특히, 이번&nbsp; 블랙핑크의 성과는 보이그룹이 아닌 걸그룹에서 나왔다는 것이 중요한데요, 케이팝 산업이 보이그룹 외에 걸그룹 시장을 통해 지속적인 성장을 이어나갈 수 있다는 확신을 갖게 해주었다는 점에서 그 의의가 크다고 볼 수 있겠습니다. 이번 카드 뉴스에서는 블랙핑크와 관련한 데이터를 살펴보도록 하겠습니다.&nbsp;위 그래프는 데뷔 이후 블랙핑크가..]]></content>
     </entry>
 </feed>
