@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-21T23:16:47.922Z</updated>
+    <updated>2023-02-22T01:14:10.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비, 신곡 'MBTI' 음원 수익 일부 기부…평등→나눔 실천 행보 '훈훈']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22172</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22172"/>
+        <updated>2023-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 음원 수익 일부를 기부하며 나눔 행보를 이어간다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 2월 20일 '세계 사회 정의의 날'을 맞아 최근 발매한 컬래버레이션 앨범 'JUST Be with you Part.1'(저스트 비 위드 유 파트 원)의 음원 수익금 일부를 기부한다.이번 기부금은 저스트비의 음원 수익금 일부와 팬들의 후원을 더한 것으로, 아이들이 양질의 교육을 받고 마음껏 꿈꿀 수 있도록 돕는 '해외 교육지원 사업'에 쓰일 예정이다.저..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 7 CIRCLE CHART: STAYC 'Teddy Bear' Takes No. 1 in Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22171</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22144"/>
         <updated>2023-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 6 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by BSS (SEVENTEEN) '1st Single Album `SECOND WIND`'.'1st Single Album `SECOND WIND`' sold the most copies as of 10PM (KST) on February 6th (Monday, week 6), the date of its release.BSS is a s..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민현, 솔로 앨범 ‘Truth or Lie’ 2차 오피셜 포토 공개...‘냉미남 모먼트 폭발’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22136</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22136"/>
-        <updated>2023-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[솔로 데뷔를 앞둔 황민현이 순백의 ‘냉미남’ 모먼트를 폭발시키며 글로벌 팬들 마음을 설레게 했다.황민현은 13일 공식 SNS에 미니 1집 ‘Truth or Lie’(트루스 오어 라이)의 오피셜 포토 ‘Broken’ 버전을 게재했다.&nbsp;사진 속 그는 깨진 거울과 뾰족한 유리처럼 날카로운 면모를 드러냈다. 조각난 거울 속 다양한 각도로 포착된 그의 여러 무심한 표정은 서늘하다.앞서 흑백 무드로 공개된 오피셜 포토 ‘Hidden’ 버전과 상반된 반전 비주얼에 팬들의 궁금증이 한층 커졌다. 이번 오피셜 포토에 이어 앨범 메시지를 엿볼 수 있..]]></content>
     </entry>
 </feed>
