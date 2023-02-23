@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-23T01:14:27.737Z</updated>
+    <updated>2023-02-23T02:46:04.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[용준형, 새 싱글 'POST IT' 2종 콘셉트 포토 공개 완료! 상처 분장 '눈길']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22178</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22178"/>
+        <updated>2023-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 용준형이 상처 입은 얼굴로 'POST IT'의 분위기를 암시했다.용준형은 22일에 이어 23일 공식 SNS에 새 싱글 'POST IT (포스트 잇)'의 두 번째 콘셉트 포토를 게재하며, 새로운 분위기의 컴백을 예고했다.이번 티저 이미지는 용준형의 얼굴에 낸 상처 분장이 눈길을 사로잡는다. 젖은 머리와 상처 분장이 용준형만의 치명적인 분위기를 강조해 보여준다.또한, 카메라를 응시하는 컷 외에도 바닥에 앉아 있거나 옷가지를 멍한 눈빛으로 바라보는 등 색다른 구도와 포즈가 음악 팬들의 다양한 추측을 불러..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 신곡 'MBTI' 음원 수익 일부 기부…평등→나눔 실천 행보 '훈훈']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22172</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22145"/>
         <updated>2023-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 쇼케이스를 성료하며 본격적인 활동 신호탄을 울렸다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 14일 오후 서울 광진구 예스24 라이브홀에서 네 번째 싱글앨범 'Teddy Bear (테디베어)' 발매 기념 팬 쇼케이스를 개최했다.&nbsp;이번 쇼케이스는 오프라인 뿐만 아니라 스테이씨 공식 유튜브 채널을 통해 동시 생중계되어 더 많은 글로벌 팬들과 함께 했다.&nbsp;이날 스테이씨는 네 번째 싱글앨범 'Teddy Bear'의 수록곡 'Poppy (파피)' 무대로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 6 CIRCLE CHART: BSS (SEVENTEEN) '1st Single Album `SECOND WIND`' Tops the R..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22144</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22144"/>
-        <updated>2023-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 6 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by BSS (SEVENTEEN) '1st Single Album `SECOND WIND`'.'1st Single Album `SECOND WIND`' sold the most copies as of 10PM (KST) on February 6th (Monday, week 6), the date of its release.BSS is a s..]]></content>
     </entry>
 </feed>
