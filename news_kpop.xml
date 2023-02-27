@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-02-26T23:15:47.369Z</updated>
+    <updated>2023-02-27T01:16:11.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 7 CIRCLE CHART: STAYC 'Teddy Bear' Takes No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22189</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22189"/>
+        <updated>2023-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 7 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by STAYC 'Teddy Bear'.'Teddy Bear' sold the most copies as of 3PM (KST) on February 14th (Tuesday, week 7), the date of its release.‘Teddy Bear’ is a single album from STAYC, full of positive..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용준형, 새 싱글 'POST IT' 2종 콘셉트 포토 공개 완료! 상처 분장 '눈길']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22178</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22146"/>
         <updated>2023-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 다채로운 비주얼로 팬심을 사로잡았다.그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)은 지난 13일과 14일 공식 SNS를 통해 프리 데뷔 미니 앨범 'SALTY(솔티)'의 콘셉트 포토 'dreamer(드리머)' 버전을 공개했다.사진 속 엔싸인은 클래식하면서도 캐주얼한 프레피룩을 착장하고 반짝거리는 소년미를 발산하고 있다. 특히 천문학을 연상케 하는 다양한 오브제와 스마트한 이미지의 멤버들이 완벽하게 조화를 이룬다. 이처럼 무대 위 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 새 싱글앨범 'Teddy Bear' 컴백 쇼케이스 성료! "밝고 긍정적 에너지 전달할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22145</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22145"/>
-        <updated>2023-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 쇼케이스를 성료하며 본격적인 활동 신호탄을 울렸다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 14일 오후 서울 광진구 예스24 라이브홀에서 네 번째 싱글앨범 'Teddy Bear (테디베어)' 발매 기념 팬 쇼케이스를 개최했다.&nbsp;이번 쇼케이스는 오프라인 뿐만 아니라 스테이씨 공식 유튜브 채널을 통해 동시 생중계되어 더 많은 글로벌 팬들과 함께 했다.&nbsp;이날 스테이씨는 네 번째 싱글앨범 'Teddy Bear'의 수록곡 'Poppy (파피)' 무대로..]]></content>
     </entry>
 </feed>
