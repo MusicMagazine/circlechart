@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-02T02:53:56.067Z</updated>
+    <updated>2023-03-02T03:24:46.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 8 CIRCLE CHART: Lee Chan Won 'ONE' Takes No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22201</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22201"/>
+        <updated>2023-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 8 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by Lee Chan Won 'ONE'.'ONE' sold the most copies as of 6PM (KST) on February 20th (Monday, week 8), the date of its release.‘ONE’ is the debut solo album from Lee Chan Won. Lee joined forces ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 7 CIRCLE CHART: STAYC 'Teddy Bear' Takes No. 1 in Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22189</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22148"/>
         <updated>2023-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘만능 콘셉트돌’ 엘라스트(E’LAST)의 한계는 어디까지?엘라스트는 지난 14일 공식 SNS 계정을 통해 새 디지털 싱글 ‘Thrill’의 단체 콘셉트 포토 2장을 공개했다.앞서 공개된 개인 콘셉트 포토와 마찬가지로 ‘레이싱’, ‘캐주얼’ 두 가지 버전의 단체컷을 선보인 엘라스트는 독보적인 카리스마와 청량섹시미를 뽐내며 팬들을 설레게 했다.멤버들은 레이서로 변신해 강렬하면서도 여유로움이 넘치는 모습을 발산하는가 하면, 꽃밭 배경에서 컬러풀한 착장과 섹시한 눈빛으로 시선을 사로잡는 등 다채로운 매력으로 새롭게 선보일 콘셉트에 대한 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign), 프리 데뷔 앨범 'SALTY' 콘셉트 포토 공개…반전 매력에 '설렘 ↑]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22146</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22146"/>
-        <updated>2023-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 다채로운 비주얼로 팬심을 사로잡았다.그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)은 지난 13일과 14일 공식 SNS를 통해 프리 데뷔 미니 앨범 'SALTY(솔티)'의 콘셉트 포토 'dreamer(드리머)' 버전을 공개했다.사진 속 엔싸인은 클래식하면서도 캐주얼한 프레피룩을 착장하고 반짝거리는 소년미를 발산하고 있다. 특히 천문학을 연상케 하는 다양한 오브제와 스마트한 이미지의 멤버들이 완벽하게 조화를 이룬다. 이처럼 무대 위 ..]]></content>
     </entry>
 </feed>
