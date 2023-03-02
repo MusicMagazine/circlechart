@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-01T23:16:46.415Z</updated>
+    <updated>2023-03-02T01:21:10.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[문빈&산하(ASTRO), 6월 남미 3개국서 팬콘 ‘DIFFUSION’ 추가 개최 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22196</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22196"/>
+        <updated>2023-03-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 단독 팬콘 ‘DIFFUSION’으로 남미까지 접수한다.문빈&amp;산하는 지난 1일 오전 판타지오 공식 SNS를 통해 첫 번째 팬콘 투어 ‘DIFFUSION’(디퓨전)의 남미 추가 공연 개최를 알리는 포스터 이미지를 공개했다.공개된 포스터 이미지에 따르면 문빈&amp;산하는 오는 6월 3일 칠레 산티아고를 시작으로, 5일 브라질 상파울루, 7일 멕시코 멕시코시티 등 남미 3개 도시에서 팬콘 투어 ‘DIFFUSION’을 개최한다.&nbsp;특히 포스터 하단에 적힌 ‘AND MORE’라는 문구로 공개된 칠레, 브..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[렌, 첫 홍콩 팬콘 ‘THE DAY AFTER’ 성료! 열정 꽉 채운 음악+토크 ‘글로벌 팬심 저격’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22187</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22149"/>
         <updated>2023-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[카더가든이 오는 4월 첫 북미 4개 도시 투어에 나선다.&nbsp;&nbsp;카더가든의 북미 투어 ‘Car, the garden Live in North America’는 4월 6일 로스앤젤레스(Los Angeles)를 시작으로 8일 샌프란시스코(San Francisco), 11일 브루클린(Brooklyn), 13일 토론토(Toronto)까지 총 4개 도시에서 개최된다. 이는 국내 유수의 뮤지션들을 해외에 공연으로 소개한 프로모터의 러브콜로 성사됐다.&nbsp;그간 SNS 등을 통해 해외 팬들의 현지 공연 요청이 쏟아졌다. 이번 투어가 북미 지역에서 카더가든..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신인 밴드 캐치더영, 정식 데뷔 전 3월 16일 첫 단독 콘서트 개최 확정! 20일 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22143</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22143"/>
-        <updated>2023-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 밴드 캐치더영(Catch The Young)이 정식 데뷔 전 첫 단독 공연으로 팬들과 만난다.캐치더영(기훈, 산이, 남현)이 오는 3월 16일 서울 마포구 홍대 롤링홀에서 '캐치더영 단독 콘서트 : 롤링 28주년 기념 공연'을 개최한다.이번 공연은 올해 개관 28주년을 맞이한 롤링홀이 1월부터 6월까지 개최하는 공연으로 화제를 모으고 있다. 캐치더영은 정식 데뷔 전, 공식 발매 곡이 한 곡도 없는 신인 밴드로는 이례적으로 첫 단독 공연을 진행하며 남다른 화제성을 입증하고 있다.또한 다채로운 셋리스트로 가득 채운 ..]]></content>
     </entry>
 </feed>
