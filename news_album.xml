@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-05T23:16:18.095Z</updated>
+    <updated>2023-03-06T01:17:26.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 우디, 오늘(6일) 신곡 ‘Nostalgia’ 발매! 독보적 무드의 감성 치트키 ‘기대’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22210</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22210"/>
+        <updated>2023-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 우디(Woody)가 감성을 저격하는 이별송을 선사한다.&nbsp;우디는 6일 오후 6시 각종 음원 사이트를 통해 더하기 기억 프로젝트의 음원 ‘Nostalgia (노스탤지어)’를 발매한다.&nbsp;지나간 일상에 그리움을 더하고 새로움을 입히는 더하기 기억 프로젝트의 새 음원 ‘Nostalgia’는 밝고 청량한 일렉트로팝 사운드가 매력적인 곡이다. 특히 후렴구에 가미된 트렌디하면서도 묵직한 록 사운드의 조화가 돋보인다.&nbsp;지나간 연인을 향한 그리움을 담은 서정적인 가사 또한 귀를 사로잡는다. “아직 이곳에서 / 우릴 기억해 널 그리워해 /..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIXO(키조), 풋풋 러브송 '내가 바보라서 그래?' 성공적 발매! Basecamp 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22208</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22208"/>
+        <updated>2023-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 아티스트 KIXO(키조)가 봄과 어울리는 사랑 노래로 돌아왔다.KIXO(키조)는 지난 5일 오후 6시 레이블 ATISPAUS(아티스파우스) 합류 후 처음 발매하는 신곡인 '내가 바보라서 그래?'의 음원과 오피셜 애니메이션 영상 본편을 공개했다.'내가 바보라서 그래?'는 풋풋한 사랑 이야기를 담은 어쿠스틱 장르의 곡이다. 듣기 편안한 기타 소리에 KIXO(키조)의 담백한 듯 매력적인 음색이 더해져 봄 시즌과 잘 어울리는 사랑 노래가 탄생했다.노래 속 연인을 향해 KIXO(키조)는 "내가 바보라..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전도연X정경호 '일타 스캔들', 5일 OST 합본 음원+음반 발매…엔딩곡 '안개꽃'→신곡 '그 빛을 믿어요'까지 '풍성']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22205</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22197"/>
         <updated>2023-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 로이킴과 현지가 디즈니+의 오리지널 시리즈 '사랑이라 말해요' OST의 두 번째 주자로 출격해 감성을 더한다.로이킴과 현지가 각각 참여한 디즈니+의 오리지널 시리즈 '사랑이라 말해요 (연출 이광영)'의 두 번째 OST '꽃'과 '왜 그렇게 날 바라봐'가 2일 오후 6시 전 온라인 음원사이트를 통해 발매된다.로이킴이 가창에 참여한 '꽃'은 어두운 현실과 후회로 가득한 과거의 기억에 지치더라도 언젠가 한 송이 꽃을 다시 피울 수 있다는 희망을 진정성 있..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 오늘(28일) ‘월간 윤종신’ 2월호 ‘치유본능’ 발매...“이별을 회복해가는 남자의 심경 담은 곡”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22195</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22195"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 2월호 ‘치유본능’을 발매한다.윤종신은 28일 오후 6시 각종 온라인 음원 사이트를 통해 직접 작사하고, 015B 정석원이 작,편곡한 2023 ‘월간 윤종신’ 2월호 ‘치유본능’을 발매한다.‘치유본능’은 이별의 상처가 서서히 아물어가고 있음을 감각하는 한 남자의 복잡한 심경을 담은 곡이다. 한때 화자의 감정과 기복의 전부였던 사람의 부재가 익숙해진 상황 속에서, 이대로 덤덤해지는 것에 대한 아쉬움과 회복 역시 본능이라는 것을 알기에 가능한 체념, 그리고 문득 찾아올 그리움에 대한 예..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호랑수월가' 유주, 3월 4일 신곡으로 돌아온다…애틋함 아닌 파격적인 저주 발라드]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22194</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22194"/>
-        <updated>2023-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 유주가 '호랑수월가', '난 이별 중'을 잇는 신곡으로 돌아온다.&nbsp;유주는 오는 3월 4일 오후 6시 신곡 '느껴봐 처절히 당해봐 (You’re Fxxked Up!)'를 발매한다.&nbsp;애틋한 발라드가 아닌 파격적인 저주 흑화 발라드로 돌아온 유주의 이번 신곡 '느껴봐 처절히 당해봐'는 가사만큼 화려한 편곡과 섹션 라인, 유주의 휘몰아치는 감정이 '죽을 만큼 네가 싫다'라는 절규와 함께 전해지는 곡이다. 전 남자친구나 전 여자친구에게 있던 안 좋은 감정을 유주가 ..]]></content>
     </entry>
 </feed>
