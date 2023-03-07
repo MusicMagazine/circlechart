@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-07T07:14:48.676Z</updated>
+    <updated>2023-03-07T08:21:52.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[써클차트 뮤직 어워즈 2022 review!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22218</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22218"/>
+        <updated>2023-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[써클차트 뮤직 어워즈 2022가 지난 2월 18일, 올림픽 공원 KSPO DOME에서 개최됐다. 이번 시상식은 STATV와 SPOTV2에서 생방송 되었으며, 아이돌 플러스에서 온라인 생중계됐다.&nbsp;써클차트 뮤직 어워즈는 기존 가온차트 뮤직 어워즈에서 새롭게 개편된 시상식으로, 써클차트가 주최하고 한국음악콘텐츠협회와 SPOTV가 주관하고 있다.[CREATOR BOOTH - 크리에이터 부스]&nbsp;가장 먼저 현장의 열기를 느낄 수 있었던 곳은 크리에이터 부스였다.&nbsp;팬들이 메세지를 남길 수 있는 공간과 굿즈 나눔존, 미니 포토월 등이 준비되었다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 8 CIRCLE CHART: NewJeans Top 3 Charts while Lee Chan Won Tops 4 Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22216</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22165"/>
         <updated>2023-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 6 CIRCLE CHART (formerly gaonchart) was dominated by NewJeans, who topped 3 charts, and BSS (SEVENTEEN), who topped 2 charts.KMCA, publisher of CIRCLE CHART, announced that “As of week 6(2023.02.05.~2023.02.11.), NewJeans topped the Global K-pop Chart with ‘OMG’ and took the No. 1 spot in t..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign), 프리 데뷔 앨범 'SALTY' 하이라이트 메들리 공개…多 장르 완벽 소화]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22159</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22159"/>
-        <updated>2023-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 다채로운 곡 소화력을 증명했다.그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)은 지난 16일 공식 유튜브 채널을 통해 프리 데뷔 미니 앨범 'SALTY(솔티)'의 하이라이트 메들리 영상을 공개했다.영상에는 첫 번째 트랙 'Salty(솔티)'를 시작으로 'BOUNCE!(바운스!)', '필요해 (Need U)', 'Beautiful(뷰티풀)'까지 총 네 곡의 하이라이트 음원이 담겼다. 이와 함..]]></content>
     </entry>
 </feed>
