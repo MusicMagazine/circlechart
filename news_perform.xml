@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-09T23:17:36.877Z</updated>
+    <updated>2023-03-10T01:19:09.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하, 4월 8일 데뷔 첫 日 팬미팅 개최…해외서도 뜨거운 인기]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22228</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22228"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 윤하가 데뷔 첫 일본 팬미팅을 개최한다.10일 소속사 C9엔터테인먼트는 "윤하가 오는 4월 8일 일본 FC LIVE TOKYO에서 '2023 YOUNHA Y.HOLICS FANMEETING in JAPAN(2023 윤하 홀릭스 팬미팅 인 재팬)'을 개최한다"고 밝혔다.'2023 윤하 홀릭스 팬미팅 인 재팬'은 윤하가 데뷔 후 처음으로 개최하는 일본 팬미팅이다. 2004년 일본에서 먼저 데뷔해 음악 활동을 시작한 윤하는 이번 팬미팅을 통해 현지 팬들과 보다 특별하고 소중한 추억을 쌓을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숀(SHAUN), 4월 첫 미주 투어 'On The Road' 개최…미국·캐나다 9개 도시서 공연 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22209</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22164"/>
         <updated>2023-02-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤하가 전국투어를 성황리에 마쳤다.윤하는 지난 18일 부산 벡스코 오디토리움에서 열린 '2022 윤하 콘서트 〈c/2022YH〉'를 끝으로 전국투어 콘서트를 마무리했다.'c/2022YH'는 지난해 서울에서 개최한 '2022 윤하 연말 콘서트 〈c/2022YH〉'의 성원에 힘입어 마련한 전국투어다. 지난 5일 광주를 시작으로 11일 대구, 18일 부산을 순회하며 더 많은 팬들과 추억을 쌓았다.이날 경쾌한 피아노 연주와 함께 등장한 윤하는 '살별'과 '혜성' ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각·2F·소유·이무진, 日 합동 콘서트 ‘VOCALIST LIVE’ 성료…“행복하고 즐거운 시간”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22161</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22161"/>
-        <updated>2023-02-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각, 2F(이프), 소유, 이무진이 합동 콘서트를 성공적으로 마쳤다.허각, 2F(신용재, 김원주), 소유, 이무진은 지난 18일 일본 도쿄 토요스 PIT에서 합동 콘서트 ‘K-CONCERT: VOCALIST LIVE IN JAPAN 2023 (K-콘서트: 보컬리스트 라이브 인 재팬 2023)’을 개최하고 팬들과 만났다.이날 허각, 신용재, 김원주, 소유, 이무진은 5인 5색 보컬로 다채로운 무대를 펼쳤다. 이무진의 ‘비와 당신’, ‘신호등’, 허각의 ‘Hello (헬로)’, ‘나를 잊지 말아요’, 소유의 ‘비가와 (Rain)..]]></content>
     </entry>
 </feed>

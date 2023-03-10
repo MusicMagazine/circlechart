@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-09T23:17:36.886Z</updated>
+    <updated>2023-03-10T01:19:09.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TO1, ‘Hug’ 무대 최초 공개! 선물 같은 비주얼→키치한 감성!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22231</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22231"/>
+        <updated>2023-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 TO1만의 감성으로 재해석된 ‘Hug’ 무대가 최초 공개됐다.&nbsp;TO1(동건, 찬, 지수, 재윤, 제이유, 경호, 다이고, 렌타, 여정)은 지난 9일 방송된 Mnet ‘엠카운트다운’에 출연해 디지털 싱글 ‘Hug’ 무대를 선보였다.이날 키치한 감성이 물씬 느껴지는 스쿨룩을 입고 등장한 TO1은 선물 같은 비주얼과 함께 부드러우면서도 달콤한 퍼포먼스로 이목을 집중시켰다.&nbsp;TO1은 이들만의 감성으로 재해석된 ‘Hug’를 완벽하게 소화하며 밝은 에너지로 무대를 물들였다. 특히, 제이유와 렌타가 참여한 랩 메이킹 구간은 원곡과는 또 다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사랑이라 말해요', 오늘(9일) 선우정아?소각소각 참여 세 번째 OST 발매! 명품 감성으로 노래한 위로 메시지]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22227</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22208"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신예 아티스트 KIXO(키조)가 봄과 어울리는 사랑 노래로 돌아왔다.KIXO(키조)는 지난 5일 오후 6시 레이블 ATISPAUS(아티스파우스) 합류 후 처음 발매하는 신곡인 '내가 바보라서 그래?'의 음원과 오피셜 애니메이션 영상 본편을 공개했다.'내가 바보라서 그래?'는 풋풋한 사랑 이야기를 담은 어쿠스틱 장르의 곡이다. 듣기 편안한 기타 소리에 KIXO(키조)의 담백한 듯 매력적인 음색이 더해져 봄 시즌과 잘 어울리는 사랑 노래가 탄생했다.노래 속 연인을 향해 KIXO(키조)는 "내가 바보라..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전도연X정경호 '일타 스캔들', 5일 OST 합본 음원+음반 발매…엔딩곡 '안개꽃'→신곡 '그 빛을 믿어요'까지 '풍성']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22205</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22205"/>
-        <updated>2023-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['일타 스캔들' OST를 종합선물세트로 만난다.3일 제작사 스튜디오 마음C는 "tvN 토일드라마 '일타 스캔들'(연출 유제원, 극본 양희승)의 OST 합본 음원이 오는 5일 오후 6시 발매된다"고 밝혔다.이번 앨범에는 이주혁 '안개꽃'을 시작으로 그래쓰(GRASS) '오늘은 맑음', 이적 '반대편', 기리보이 '간밤에', 하현상 'Alright(올라이트)', 빈센트블루 'LOVE CODE [1+1=1]'등..]]></content>
     </entry>
 </feed>
