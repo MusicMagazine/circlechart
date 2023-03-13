@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-13T06:21:10.466Z</updated>
+    <updated>2023-03-13T07:14:42.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[February CIRCLE CHART: NewJeans, NCT 127 and Lee Chan Won Dominate the Charts… T..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22239</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22239"/>
+        <updated>2023-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The February CIRCLE CHART saw strong showings by NewJeans, NCT 127, Lee Chan Won and TOMORROW X TOGETHER earned their first Double Million CIRCLE Certification in the Album category.KMCA, publisher of CIRCLE CHART, announced that “In the monthly CIRCLE CHART for February 2023, NewJeans topped total ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 밴드 캐치더영, 16일 첫 단독 콘서트 개최! 김종현→권은비까지 多 아티스트 응원 물결 '기대감 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22230</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22216"/>
         <updated>2023-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 8 CIRCLE CHART (formerly gaonchart) was dominated by NewJeans and Lee Chan Won, who respectively topped 3 and 4 charts.KMCA, publisher of CIRCLE CHART, announced that “As of week 8(2023.02.19.~2023.02.25.), NewJeans topped a total of 3 charts, including the Global K-pop Chart with ‘OMG’ and..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TO1, 디지털 싱글 'Hug' 첫 단체 사운드 포토 공개… 화이트데이 닮은 '달콤 비주얼']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22214</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22214"/>
-        <updated>2023-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 TO1의 선물 같은 비주얼이 베일을 벗었다.TO1(동건, 찬, 지수, 재윤, 제이유, 경호, 다이고, 렌타, 여정)은 7일 0시 공식 SNS를 통해 디지털 싱글 'Hug'의 첫 번째 단체 사운드 포토와 음원 커버를 차례로 공개했다.&nbsp;공개된 사운드 포토 속 아홉 멤버는 올화이트 스타일링으로 첫사랑을 닮은 비주얼을 드러냈다. 순백의 아우라 속 살짝 쥔 꽃 한 송이와 달달한 미소가 화이트데이에 걸맞은 사랑스러움을 한층 배가시켰다.&nbsp;아홉 멤버의 포근한 매력이 시선을 사로잡은 가운데, 함께 흘러나오는 전주의 아카펠라 사운..]]></content>
     </entry>
 </feed>
