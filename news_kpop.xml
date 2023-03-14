@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-13T23:17:15.891Z</updated>
+    <updated>2023-03-14T01:04:57.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘16일 발매’ 코드 쿤스트, 정규 5집 트랙리스트 공개! 타이거 JK·개코→송민호·크러쉬 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22240</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22240"/>
+        <updated>2023-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로듀서 코드 쿤스트(CODE KUNST)가 새 정규앨범으로 웰메이드 17곡을 선보인다.코드 쿤스트는 지난 13일 오후 소속사 AOMG 공식 SNS를 통해 다섯 번째 정규앨범 [Remember Archive (리멤버 아카이브)]의 트랙리스트 포스터를 공개했다.트랙리스트에 따르면, 이번 앨범에는 더블 타이틀곡 ‘Jumper (점퍼) (Feat. 개코, MINO)’와 ‘CIRCLE (써클) (Feat. Crush)’을 비롯해 ‘Remember Archive’, ‘BAD BAD (배드 배드) (Feat. Tabber, 박재범)’, ‘Ho..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[February CIRCLE CHART: NewJeans, NCT 127 and Lee Chan Won Dominate the Charts… T..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22239</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22218"/>
         <updated>2023-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[써클차트 뮤직 어워즈 2022가 지난 2월 18일, 올림픽 공원 KSPO DOME에서 개최됐다. 이번 시상식은 STATV와 SPOTV2에서 생방송 되었으며, 아이돌 플러스에서 온라인 생중계됐다.&nbsp;써클차트 뮤직 어워즈는 기존 가온차트 뮤직 어워즈에서 새롭게 개편된 시상식으로, 써클차트가 주최하고 한국음악콘텐츠협회와 SPOTV가 주관하고 있다.[CREATOR BOOTH - 크리에이터 부스]&nbsp;가장 먼저 현장의 열기를 느낄 수 있었던 곳은 크리에이터 부스였다.&nbsp;팬들이 메세지를 남길 수 있는 공간과 굿즈 나눔존, 미니 포토월 등이 준비되었다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 8 CIRCLE CHART: NewJeans Top 3 Charts while Lee Chan Won Tops 4 Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22216</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22216"/>
-        <updated>2023-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 8 CIRCLE CHART (formerly gaonchart) was dominated by NewJeans and Lee Chan Won, who respectively topped 3 and 4 charts.KMCA, publisher of CIRCLE CHART, announced that “As of week 8(2023.02.19.~2023.02.25.), NewJeans topped a total of 3 charts, including the Global K-pop Chart with ‘OMG’ and..]]></content>
     </entry>
 </feed>
