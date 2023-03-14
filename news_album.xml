@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-14T01:04:57.026Z</updated>
+    <updated>2023-03-14T02:32:58.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이홍기, 김연자 원곡 '아모르 파티' 다시 부른다…22일 리메이크 음원 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22245</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22245"/>
+        <updated>2023-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[FT아일랜드 이홍기가 김연자의 대표곡을 재해석한다.이홍기는 오는 22일 방구석 캐스팅 음원 '아모르 파티'를 발매한다.'아모르 파티'는 지난 2013년 발매된 김연자의 정규앨범 '아모르 파티'의 동명의 타이틀곡이다. '아모르 파티'는 운명의 사랑을 뜻하는 라틴어로, 한 번 사는 인생에서 사랑으로 인해 받은 상처는 중요하지 않고 또 다른 사랑이 나타날 때까지 잘 이겨내자는 희망의 메시지를 담았다.특히 호소력 짙은 목소리로 리스너들의 사랑을 받고 있는 이홍기는 이번에도 파워풀하고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안예은, 인기 웹툰 ‘낮에 뜨는 달’ 감동 잇는다! 19일 애니메이션 출시 전 컬래버 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22243</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22231"/>
         <updated>2023-03-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 TO1만의 감성으로 재해석된 ‘Hug’ 무대가 최초 공개됐다.&nbsp;TO1(동건, 찬, 지수, 재윤, 제이유, 경호, 다이고, 렌타, 여정)은 지난 9일 방송된 Mnet ‘엠카운트다운’에 출연해 디지털 싱글 ‘Hug’ 무대를 선보였다.이날 키치한 감성이 물씬 느껴지는 스쿨룩을 입고 등장한 TO1은 선물 같은 비주얼과 함께 부드러우면서도 달콤한 퍼포먼스로 이목을 집중시켰다.&nbsp;TO1은 이들만의 감성으로 재해석된 ‘Hug’를 완벽하게 소화하며 밝은 에너지로 무대를 물들였다. 특히, 제이유와 렌타가 참여한 랩 메이킹 구간은 원곡과는 또 다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요', 오늘(9일) 선우정아?소각소각 참여 세 번째 OST 발매! 명품 감성으로 노래한 위로 메시지]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22227</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22227"/>
-        <updated>2023-03-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 선우정아와 소각소각이 디즈니+의 오리지널 시리즈 '사랑이라 말해요' OST 세 번째 주자로 합류한다.선우정아와 소각소각이 각각 참여한 디즈니+의 오리지널 시리즈 '사랑이라 말해요 (연출 이광영)'의 세 번째 OST '집에 갈까'와 '너를 담은 그 밤까지도 사랑하겠지'가 9일 정오 전 온라인 음원사이트를 통해 발매된다.선우정아가 가창에 참여한 '집에 갈까'는 극 중 여주인공 이성경의 테마곡으로 아무것도 바라지 않고 늘 같은 자리에서 날 맞이해 주는 집이 주는..]]></content>
     </entry>
 </feed>
