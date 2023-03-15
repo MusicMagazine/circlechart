@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-14T23:15:57.788Z</updated>
+    <updated>2023-03-15T01:14:21.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크래커X치즈, 오늘(15일) 새 싱글 '대화가 필요해' 발매…달콤 쌉싸름 러브송 '봄 감성 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22246</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22246"/>
+        <updated>2023-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 겸 프로듀서 크래커(CRACKER)가 특별한 컬래버레이션으로 찾아온다.크래커는 15일 오후 6시 전 온라인 음원사이트를 통해 싱어송라이터 치즈(CHEEZE)가 피처링에 참여한 새 싱글 '대화가 필요해'를 발매한다.&nbsp;'대화가 필요해'는 연인의 권태기를 감각적으로 풀어낸 곡으로 재즈풍의 사운드와 부드러운 멜로디가 컬래버레이션의 감성을 더한다.크래커 특유의 덤덤하면서 재치 넘치는 노랫말과 치즈의 청아한 보이스가 어우러져 둘만의 독보적인 케미스트리를 완성해냈다.그간 '너의 바다' &amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이홍기, 김연자 원곡 '아모르 파티' 다시 부른다…22일 리메이크 음원 발매 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22245</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22233"/>
         <updated>2023-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최지은이 윤하의 '비밀번호 486'을 재해석한다.13일 소속사 메이저나인은 "최지은이 오는 14일 윤하의 '비밀번호 486'을 리메이크 발매한다"고 밝혔다.이와 함께 지난 12일 오후 공식 SNS를 통해 '비밀번호 486'의 뮤직비디오 티저 영상을 공개하며 음악팬들의 이목을 집중시켰다.영상 속 최지은은 도시의 야경을 배경으로 '비밀번호 486'의 후렴구를 부르고 있다. 스쿨룩 착장으로 풋풋한 매력을 드러낸 최지은은 밝고 경쾌한 보컬로 보는 이들에게 즐거움을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TO1, ‘Hug’ 무대 최초 공개! 선물 같은 비주얼→키치한 감성!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22231</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22231"/>
-        <updated>2023-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 TO1만의 감성으로 재해석된 ‘Hug’ 무대가 최초 공개됐다.&nbsp;TO1(동건, 찬, 지수, 재윤, 제이유, 경호, 다이고, 렌타, 여정)은 지난 9일 방송된 Mnet ‘엠카운트다운’에 출연해 디지털 싱글 ‘Hug’ 무대를 선보였다.이날 키치한 감성이 물씬 느껴지는 스쿨룩을 입고 등장한 TO1은 선물 같은 비주얼과 함께 부드러우면서도 달콤한 퍼포먼스로 이목을 집중시켰다.&nbsp;TO1은 이들만의 감성으로 재해석된 ‘Hug’를 완벽하게 소화하며 밝은 에너지로 무대를 물들였다. 특히, 제이유와 렌타가 참여한 랩 메이킹 구간은 원곡과는 또 다..]]></content>
     </entry>
 </feed>

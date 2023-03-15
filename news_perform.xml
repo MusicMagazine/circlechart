@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-14T23:15:57.791Z</updated>
+    <updated>2023-03-15T01:14:21.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SG워너비, 단독 콘서트 관객 전원에 LED 응원도구 선물...'억대' 통큰 팬사랑 과시]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22247</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22247"/>
+        <updated>2023-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 SG워너비(SG Wannabe, 김용준 김진호 이석훈)가 깜짝 선물로 통 큰 팬 사랑을 펼친다.&nbsp;&nbsp;SG워너비는 오는 31일부터 4월 2일까지 3일간 서울 올림픽공원 핸드볼경기장에서 개최 예정인 '2023 SG워너비 콘서트 : 우리의 노래'(이하 '우리의 노래') 관람객 전원에게 특별 제작한 선물을 증정한다.&nbsp;&nbsp;SG워너비가 준비한 깜짝 선물의 정체는 다름아닌 원격 제어 기능이 탑재된 LED 응원도구로, 제작비만 무려 억 단위에 달해 놀라움을 자아냈다.&nbsp;약 7년 만의 완전체 콘서트를 향한 팬들의 뜨거운..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시온, 용준형 단독 콘서트 ‘LONER’s ROOM’ 1일차 게스트 출격! 신곡 합동 라이브 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22234</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22186"/>
         <updated>2023-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[VIVIZ(비비지)가 홍콩에서의 첫 팬미팅을 성황리에 마쳤다.VIVIZ(은하, 신비, 엄지)는 지난 25일(현지 시간) 홍콩 KITEC ROTUNDA 3에서 단독 팬미팅 ‘2023 THE 1ST VIVID DAYZ in HONG KONG (2023 더 퍼스트 비비드 데이즈 인 홍콩)’을 개최했다.‘2023 THE 1ST VIVID DAYZ’는 VIVIZ의 첫 단독 해외 팬미팅 투어로, 홍콩에서 시작을 알렸다. VIVIZ는 다채로운 무대와 함께 친밀한 소통으로 팬들과 특별한 추억을 쌓았다.이날 ‘LOVEADE (러브에이드)’로 오프닝..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 'The Royal' 앙코르 콘서트 성료! 명품 라이브에 레전드 무대 또 경신]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22185</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22185"/>
-        <updated>2023-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 앙코르 콘서트로 국내에서 또 한번 저력을 드러냈다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 지난 25일과 26일 서울 올림픽공원 SK핸드볼경기장에서 '22-23 The Royal Concert : The palace of Forestella'(더 로얄 콘서트 : 더 팰리스 오브 포레스텔라) 앙코르 콘서트를 성공적으로 개최했다.미주 투어 이후 첫 한국 단독 공연이었던 이번 콘서트에서도 포레스텔라는 명품 라이브와 독보적인 하모니로 관객들에게 귀 호강을 선사했다. 1부 오프닝으..]]></content>
     </entry>
 </feed>
