@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-16T23:16:15.314Z</updated>
+    <updated>2023-03-17T01:13:42.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신예 밴드 캐치더영, 첫 단독 콘서트 성료…완벽 라이브부터 커버 무대까지 '재미+감동 다 잡았다']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22261</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22261"/>
+        <updated>2023-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 밴드 캐치더영(Catch The Young)이 첫 단독 콘서트를 성황리에 마쳤다.캐치더영(기훈, 산이, 남현)은 지난 16일 서울 마포구 홍대 롤링홀에서 '캐치더영 단독 콘서트 &lt;CATCH THE YOUNG WAVE&gt;'를 개최하고 팬들을 만났다.이번 콘서트는 올해 개관 28주년을 맞이한 롤링홀이 1월부터 6월까지 개최하는 공연으로 화제를 모았다. 앞서 캐치더영은 정식 데뷔 전 공식 발매곡이 한 곡도 없는 신인 밴드로는 이례적으로 단독 공연을 개최하며 관심을 이끈 바 있다.이날 캐치더영은 오프닝 무대로 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 이솔로몬, 오늘(16일) 앙코르 콘서트 '손으로 써 내려간 것들' 티켓 오픈…감동+여운 잇는다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22254</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22209"/>
         <updated>2023-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 숀(SHAUN)이 미주 투어를 확정하며 글로벌 팬들을 만난다.숀은 최근 공식 SNS를 통해 첫 번째 미주 투어 'On The Road (온 더 로드)' 포스터 이미지와 투어 일정을 공개했다.공개된 이미지에 따르면 숀의 미주 투어 'On The Road'는 오는 4월 14일부터 24일까지 진행된다. 숀은 로스앤젤리스(Los Angeles), 샌프란시스코(San Francisco), 벤쿠버(Vancouver), 시애틀(Seattle), 토론토(Toronto), 몬트리올(Montreal), 뉴욕(..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['명품 보컬리스트' 이소정, 단독 콘서트 '소정의 선물' 성료 "천천히 단단하게 쌓아가는 가수 될 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22207</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22207"/>
-        <updated>2023-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이소정(드라마하우스스튜디오)이 감동이 가득한 콘서트를 펼쳤다.이소정은 지난 4일 서울 SAC아트홀에서 열린 '이소정 콘서트 - 소정의 선물'을 성황리에 마쳤다.'이소정 콘서트 - 소정의 선물'은 '2021 이소정 콘서트 - 겨울 꽃, 피다' 이후 약 1년 3개월 만에 개최한 단독 콘서트다. 공연기획사 명인엔터테인먼트가 주최하고 ㈜아이크로와 드반이 후원한 이번 콘서트는 공연수익을 ‘사회복지공동모금회 사랑의 열매'에 기부하는 자선 콘서트로 진행해 의미를 더했다.이날 공연에서 이소정..]]></content>
     </entry>
 </feed>

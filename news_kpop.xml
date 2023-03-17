@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-16T23:16:15.318Z</updated>
+    <updated>2023-03-17T01:13:42.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2F 신용재X김원주, 신곡 '헤어질 리 없잖아' 음원 일부 첫 공개! 애절한 이별 감성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22260</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22260"/>
+        <updated>2023-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[보컬 듀오 2F(이프)가 감성적인 노랫말로 컴백에 대한 기대감을 높였다.소속사 밀리언마켓은 지난 16일 오후 공식 SNS를 통해 2F(신용재, 김원주)의 새 더블 싱글 '헤어질 리 없잖아'의 첫 번째 리릭 티저를 공개했다.이번 티저에는 더블 싱글에 수록된 동명의 타이틀곡 '헤어질 리 없잖아'의 멜로디와 가사 일부가 적혀 있다. "헤어질 리 없잖아. 그럴 리가 없잖아. 가슴이 닳게 안던 니가. 날 찾던 니가. 거짓말이 되잖아"라는 애절한 글귀와 아련한 사운드가 벌써부터 감성을 자극한다.신용재..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘16일 발매’ 코드 쿤스트, 정규 5집 트랙리스트 공개! 타이거 JK·개코→송민호·크러쉬 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22240</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22219"/>
         <updated>2023-03-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[오는 3월 18일과 19일 문빈&amp;산하가 첫 단독 팬 콘서트로 팬들과 특별한 시간을 가진다.&nbsp;문빈&amp;산하는 단독 팬콘 투어 ‘DIFFUSION’(디퓨전) 개최를 열흘 앞두고 8일 소속사 판타지오를 통해 일문일답을 공개하며, 차별화된 매력과 팬콘의 관전 포인트를 직접 소개했다.‘DIFFUSION’은 오는 18일과 19일 서울을 시작으로 마닐라·방콕·마카오·타이베이·자카르타·도쿄·오사카 등 아시아 8개 도시와 산티아고·상파울루·멕시코시티 등 남미 3개 도시에서 진행된다.&nbsp;유닛 데뷔 2년 6개월 만에 팬콘 월드 투어 개최를 확..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[써클차트 뮤직 어워즈 2022 review!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22218</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22218"/>
-        <updated>2023-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[써클차트 뮤직 어워즈 2022가 지난 2월 18일, 올림픽 공원 KSPO DOME에서 개최됐다. 이번 시상식은 STATV와 SPOTV2에서 생방송 되었으며, 아이돌 플러스에서 온라인 생중계됐다.&nbsp;써클차트 뮤직 어워즈는 기존 가온차트 뮤직 어워즈에서 새롭게 개편된 시상식으로, 써클차트가 주최하고 한국음악콘텐츠협회와 SPOTV가 주관하고 있다.[CREATOR BOOTH - 크리에이터 부스]&nbsp;가장 먼저 현장의 열기를 느낄 수 있었던 곳은 크리에이터 부스였다.&nbsp;팬들이 메세지를 남길 수 있는 공간과 굿즈 나눔존, 미니 포토월 등이 준비되었다..]]></content>
     </entry>
 </feed>
