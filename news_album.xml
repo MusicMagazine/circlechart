@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-20T23:15:12.727Z</updated>
+    <updated>2023-03-21T01:08:48.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장동윤X주하윤, '오아시스' OST Part 2 '체념' 참여…오늘(21일) 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22273</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22273"/>
+        <updated>2023-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[KBS 2TV 월화드라마 '오아시스' OST의 두 번째 파트가 공개된다.&nbsp;&nbsp;'오아시스' OST 제작사 에이투지엔터테인먼트(팝뮤직)는 "오늘 오후 6시 가수 주하윤과 배우 장동윤이 참여한 '오아시스' OST Part 2 '체념'이 발매된다"고 밝혔다.&nbsp;&nbsp;'오아시스'는 1980년대부터 1990년대까지 이어지는 격변의 대한민국을 배경으로, 자신만의 꿈과 우정 그리고 인생의 단 한 번뿐인 첫사랑을 지키기 위해 치열하게 몸을 내던진 세 청춘들의 이야기를 담..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환, 오늘(20일) 6개월만 컴백! '봄바람'으로 새롭게 꽃피울 '만능 아티스트']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22267</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22255"/>
         <updated>2023-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬리스트 한동근이 오늘(16일) 신곡 ‘그대가 첫사랑인 이유’를 발매한다.지난 13일, 브랜뉴뮤직은 공식 SNS 채널들을 통해 한동근의 새 싱글 ‘그대가 첫사랑인 이유’의 티저 사진을 공개하며 신곡 발매 소식을 전했는데,&nbsp;이어 리릭 티저 영상까지 공개하며 많은 팬들의 이목을 집중시켰다.공개된 티저 사진과 리릭 티저 영상에는&nbsp; ‘그거 알아요 / 알려줄까요 / 그대가 첫사랑인 이유’, ‘보고 있어도 / 보고 싶은 건 / 그대가 첫사랑인 이유’&nbsp;같이 진정한 사랑의 의미를 깨닫게 해 준 소중한 사람에게 바치는 진솔한 가사를 2000년대 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드 쿤스트, 오늘(16일) 정규 5집 [Remember Archive] 발매! 개코-송민호-크러쉬 피처링]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22252</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22252"/>
-        <updated>2023-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 코드 쿤스트(CODE KUNST)의 정규 5집이 베일을 벗는다.코드 쿤스트는 16일 오후 6시 각종 온라인 음원 사이트를 통해 다섯 번째 정규앨범 [Remember Archive (리멤버 아카이브)]를 발매한다.[Remember Archive]는 코드 쿤스트가 지금의 자신을 있게 해준 모든 소중한 기억들을 기록한 앨범이다. 아름답지만 때론 아팠던 사랑, 치기 어린 자신감과 위축감을 오가던 순간들, 거칠고도 진한 동료애까지 다양한 소재를 아우르는 곡들이 코드 쿤스트의 프로페셔널한 내공을 확인시킨다.올해로 데뷔 10년 차를 맞..]]></content>
     </entry>
 </feed>
