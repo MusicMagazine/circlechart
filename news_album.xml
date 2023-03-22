@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-22T01:10:05.738Z</updated>
+    <updated>2023-03-22T02:33:02.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서지원 신곡 ‘기다린 날도 지워질 날도’ 티저 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22282</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22282"/>
+        <updated>2023-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[고 서지원의 새 음반이 27년 만에 발표되는 가운데 신곡 분위기를 엿볼 수 있는 티저 영상이 공개돼 눈길을 사로잡고 있다.&nbsp;지난 21일 오후 6시 국내 여러 음악사이트를 통해 공개된 티저는 40초 분량으로, 한 여성이 등장하면서 시작된다. 서정적인 음악이 배경으로 흐르는 영상에서 해당 여성이 우산을 들고 비 오는 거리를 걷다가 한 아트 갤러리를 찾는다. 여러 그림을 감상하던 여성은 한 스케치 작품에서 걸음을 멈춘다. 그 스케치 작품은 서지원의 초상을 담고 있다. 그리고 음반 제목 ‘Rebirth of Seo Ji Won’과 발매일이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화제의 '명품 조합' 선미-비오, 협업곡 '불이 꺼지고' 오늘 전격 발표!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22279</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22258"/>
         <updated>2023-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘피크타임’ 연합 매치 보컬 경연곡도 음원으로 만날 수 있다.16일 낮 12시 각종 온라인 음원 사이트를 통해 JTBC ‘피크타임(PEAK TIME)’(기획 윤현준, 연출 마건영·박지예)의 2라운드 연합 매치 경연곡 Part.2 음원 2곡이 발매됐다.이번에 발매되는 곡은 보컬 A 유닛의 '한 페이지가 될 수 있게'(원곡 DAY6), 보컬 B 유닛의 '너의 뒤에서'(원곡 박진영) 등 2곡이다. '피크타임'에서만 만날 수 있는 연합 유닛이 자신들만의 색깔로 명곡을 재해석했다.전날(15일) 방송..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑이라 말해요', 오늘(16일) 최유리?우효?오왠 참여 네 번째 OST 발매! 다채롭게 풀어낸 '사랑 이야기']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22257</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22257"/>
-        <updated>2023-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 최유리와 우효, 오왠(O.WHEN)이 디즈니+의 오리지널 시리즈 '사랑이라 말해요' OST 네 번째 주자로 참여해 진한 감성을 선보인다.최유리와 우효, 오왠이 각각 참여한 디즈니+의 오리지널 시리즈 '사랑이라 말해요 (연출 이광영)'의 네 번째 OST '아픈 사랑은 되지 않기를', 'Walk Slow(워크 슬로우)', 'Calling the Star(콜링 더 스타)'가 16일 정오 전 온라인 음원사이트를 통해 발매된다.최유리가 가창에 참여한 '아픈 ..]]></content>
     </entry>
 </feed>
