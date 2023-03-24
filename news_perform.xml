@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-23T23:15:42.077Z</updated>
+    <updated>2023-03-24T01:09:33.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스타일리시 힙합 아티스트’ 레디(Reddy), 4월 1일 단독 콘서트 ‘now or never’ 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22290</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22290"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[힙합 아티스트 레디(Reddy)가 단독 콘서트로 팬들을 찾는다.레디는 오는 4월 1일 서울 마포구 플렉스라운지에서 2023 단독 콘서트 ‘now or never (나우 오어 네버)’를 개최하고 팬들을 만난다.131레이블은 24일 0시 공식 SNS를 통해 ‘now or never’의 트레일러 영상을 공개하며 이번 콘서트에 대한 기대감을 고조시켰다.‘now or never’는 레디가 지난 2018년 선보인 ‘Reddy: Telescope (레디: 텔레스코프)’ 이후 5년 만에 진행하는 단독 콘서트다. 다채로운 무대를 통해 데뷔 13년 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈 출신 류수정, 4월 첫 정규 앨범 'Archive of Emotions' 발표...30일 선공개곡 '명반 예고']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22276</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22251"/>
         <updated>2023-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엘라스트(E’LAST)가 올해 첫 단독 팬미팅을 개최한다.&nbsp;엘라스트의 소속사 이엔터테인먼트는 15일 “엘라스트가 오는 3월 24일 오후 7시 서울 용산구 대원콘텐츠라이브에서 온·오프라인 단독 팬미팅을 열고 전 세계 엘링(팬클럽)과 만난다”고 밝혔다.올해 처음으로 팬들과 오프라인으로 만나는 자리를 마련한 만큼 엘라스트는 이번 팬미팅에서 신곡 ‘Thrill’ 무대를 포함해 새롭고 다양한 이벤트들을 마련할 계획이다.&nbsp;이번 팬미팅의 티켓은 온라인 예매사이트 멜론티켓에서 구입할 수 있으며, 오는 16일부터 22일까지 일반 예매가 진행된..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하, 팬콘 ‘DIFFUSION’ 해외 공연 매진 행렬…글로벌 성장세 과시]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22250</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22250"/>
-        <updated>2023-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[문빈&amp;산하(ASTRO)가 막강한 글로벌 인기를 증명했다.15일 소속사 판타지오는 “문빈&amp;산하의 단독 팬콘 ‘DIFFUSION’(디퓨전) 티켓이 일본 오사카와 도쿄, 대만 타이베이, 멕시코 멕시코시티 등 4개 도시에서 전석 매진을 기록했다”고 밝혔다.‘DIFFUSION’은 문빈&amp;산하가 유닛 데뷔 2년 6개월 만에 처음으로 진행하는 팬콘 월드투어다. 앞서 가장 먼저 오픈된 서울 공연의 티켓이 빠르게 매진된 데 이어 해외에서도 뜨거운 티켓팅 열기가 지속되며 문빈&amp;산하를 향한 전 세계 팬들의 남다른 관심을 실감..]]></content>
     </entry>
 </feed>
