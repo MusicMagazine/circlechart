@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-03-26T23:15:02.483Z</updated>
+    <updated>2023-03-27T01:08:47.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DK(디셈버), '귀호감 프로젝트' 두 번째 음원 '발걸음' M/V 티저 공개…극강의 고음 '전율']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22297</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22297"/>
+        <updated>2023-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 DK(디셈버)가 극강의 고음으로 이목을 집중시켰다.DK는 지난 26일 SUMMIT 공식 SNS 채널에 '귀호감 프로젝트'의 두 번째 음원 '발걸음' 뮤직비디오 티저 영상을 공개했다.영상 시작과 동시에 '발걸음'의 하이라이트 구간을 열창하고 있는 DK의 모습이 눈길을 사로잡는다. DK는 시크한 올블랙 착장으로 깔끔한 비주얼을 선보였고, 딥하고 애절한 감성으로 가슴을 울렸다.특히 "미안해 이렇게 밖에 할 수 없잖니 정말 이럴 수 밖에 / 너처럼 다시 시작할 수 있는 그날이 오길 /..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸그룹 드림노트, 컴백 전 선공개곡 ‘BLUE’로 먼저 만난다!...4월 3일 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22295</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22278"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬 그룹 포맨(4MEN)이 그리운 명곡을 소환한다.소속사 메이저나인은 22일 "포맨(하은, 한빈, 요셉)이 오는 27일 'Made in 4MEN(메이드 인 포맨)' 프로젝트 두 번째 음원 '미친거니'를 발매한다"고 밝혔다.'Made in 4MEN'은 돌아올 수 없는 시간에 대한 그리움을 가진 사람들과 새로운 음악이 필요한 사람들에게 잊히지 않고 계속해서 불렸으면 하는 노래들이 포맨의 목소리로 되살아나는 프로젝트다.&nbsp;2002년 발매된 앤(Ann One)의 '아프고 아픈..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동윤X주하윤, '오아시스' OST Part 2 '체념' 참여…오늘(21일) 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22273</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22273"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[KBS 2TV 월화드라마 '오아시스' OST의 두 번째 파트가 공개된다.&nbsp;&nbsp;'오아시스' OST 제작사 에이투지엔터테인먼트(팝뮤직)는 "오늘 오후 6시 가수 주하윤과 배우 장동윤이 참여한 '오아시스' OST Part 2 '체념'이 발매된다"고 밝혔다.&nbsp;&nbsp;'오아시스'는 1980년대부터 1990년대까지 이어지는 격변의 대한민국을 배경으로, 자신만의 꿈과 우정 그리고 인생의 단 한 번뿐인 첫사랑을 지키기 위해 치열하게 몸을 내던진 세 청춘들의 이야기를 담..]]></content>
     </entry>
 </feed>
