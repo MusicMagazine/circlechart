@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-27T01:08:47.069Z</updated>
+    <updated>2023-03-27T02:33:55.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 11 CIRCLE CHART: NewJeans Top 3 charts While KAI Tops 2 charts]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22300</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22300"/>
+        <updated>2023-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 11 CIRCLE CHART (previously Gaonchart) was dominated by NewJeans, who topped 3 charts, and KAI with 2 No. 1 rankings.&nbsp;&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 11(2023.03.12.~2023.03.18.), NewJeans topped a total of 3 charts, including Global K-pop Chart with ‘OMG’ an..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀, 4월 'SEVEN SINS'로 화려한 컴백...의문의 콘셉트 트레일러 기습 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22293</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22274"/>
         <updated>2023-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 케플러(Kep1er)가 사랑에 빠지고 싶은 사람들을 위한 클럽 멤버를 모집하는 특별한 컴백 이벤트로 글로벌 팬들의 관심을 집중시켰다.&nbsp;케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 21일 0시 공식 SNS를 통해 네 번째 미니앨범 ‘LOVESTRUCK! (러브스트럭)’의 티저 포스터를 공개했다.티저 포스터에는 ‘LOVESTRUCK CLUB’이라는 글자와 고양이 발자국이 새겨진 하트 모양의 자물쇠 이미지가 담겨 있다. 그 아래에는 ‘For everyone who wants to b..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRADE L, 세 번째 EP [UNSTEADY] 활동 순항 중…색다른 콘텐츠+이벤트로 화제성 ing]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22271</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22271"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 TRADE L(트레이드 엘)이 [UNSTEADY]로 폭넓은 스펙트럼을 입증했다.TRADE L은 지난 17일 오후 6시 세 번째 EP [UNSTEADY]를 발매하고, 타이틀곡 ‘I BE LIKE (Feat. SOLE)’와 수록곡 ‘BODY LANGUAGE (Feat. Rad Museum)’, ‘DIE TONIGHT’의 오피셜 라이브 클립을 공개했다. 이어 오후 7시에는 5곡 전곡의 오피셜 오디오 클립을 추가로 공개하며 리스너들의 호평을 이어가고 있다.이와 함께 TRADE L은 하이어뮤직 공식 SNS와 멜론 매거진, 지니 매거..]]></content>
     </entry>
 </feed>
