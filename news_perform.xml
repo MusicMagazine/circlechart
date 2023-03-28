@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-03-27T23:15:28.913Z</updated>
+    <updated>2023-03-28T01:13:35.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘4세대 글로벌 만능돌’ 엘라스트, 데뷔 첫 국내 단독 팬미팅 성료!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22305</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22305"/>
+        <updated>2023-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엘라스트(E’LAST)가 국내 첫 단독 팬미팅을 성공적으로 마무리했다.&nbsp;엘라스트는 지난 24일 서울 용산구 대원콘텐츠라이브홀에서 단독 팬미팅을 열고 엘링(팬덤명)과 만났다.&nbsp;이번 행사는 엘라스트가 데뷔한 후 처음으로 국내에서 개최한 팬미팅이다. 특히 현장에 함께 하지 못한 국내 및 글로벌 팬들을 위해 뮤빗 라이브로 팬미팅을 실시간 생중계하며 온·오프라인으로 활발한 소통을 나눴다.이날 엘라스트는 지난달 발매한 신곡 ‘Thrill’ 무대를 비롯해 다채로운 이벤트로 팬들에게 즐거움을 선사했다. 강렬하고 카리스마 넘치는 퍼포먼스로 팬..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 두 번째 월드투어 'PASSION' 일본 포스터 공개! 스페셜 이벤트 '궁금증 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22299</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22263"/>
         <updated>2023-03-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 슈퍼주니어가 일본 팬들과 'SUPER SHOW 9'로 교감했다.슈퍼주니어는 지난 18일과 19일 일본 사이타마 베루나 돔에서 'SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD'(슈퍼주니어 월드투어 - 슈퍼쇼 9 : 로드) 콘서트를 성공적으로 개최했다.지난해 7월 서울에서 출발해 아시아와 남미 등 총 13개 도시에서 펼쳐진 'SUPER SHOW 9 : ROAD'는 이날 드디어 일본에 상륙했다. 슈퍼주니어와 현지 팬들은 오랜만의 만남에 더욱 열정적인 에너..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 밴드 캐치더영, 첫 단독 콘서트 성료…완벽 라이브부터 커버 무대까지 '재미+감동 다 잡았다']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22261</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22261"/>
-        <updated>2023-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 밴드 캐치더영(Catch The Young)이 첫 단독 콘서트를 성황리에 마쳤다.캐치더영(기훈, 산이, 남현)은 지난 16일 서울 마포구 홍대 롤링홀에서 '캐치더영 단독 콘서트 &lt;CATCH THE YOUNG WAVE&gt;'를 개최하고 팬들을 만났다.이번 콘서트는 올해 개관 28주년을 맞이한 롤링홀이 1월부터 6월까지 개최하는 공연으로 화제를 모았다. 앞서 캐치더영은 정식 데뷔 전 공식 발매곡이 한 곡도 없는 신인 밴드로는 이례적으로 단독 공연을 개최하며 관심을 이끈 바 있다.이날 캐치더영은 오프닝 무대로 ..]]></content>
     </entry>
 </feed>

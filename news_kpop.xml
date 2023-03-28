@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-27T23:15:28.905Z</updated>
+    <updated>2023-03-28T01:13:35.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['4월 컴백' 케플러, 미니 4집 'LOVESTRUCK!' 아이콘택트 버전 콘셉트 포토 공개…'Giddy'한 비주얼!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22304</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22304"/>
+        <updated>2023-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 케플러(Kep1er)가 보기만 해도 'Giddy'(아찔한, 어지러운)한 비주얼로 돌아온다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 28일 0시 공식 SNS를 통해 네 번째 미니앨범 'LOVESTRUCK! (러브스트럭)'의 아이콘택트 버전 유닛과 단체 콘셉트 포토를 공개했다.내추럴한 분위기의 방을 배경으로 케플러는 짙은 눈빛으로 카메라를 바라보며 사랑에 빠져드는 순간을 효과적으로 표현해 시선을 사로잡았다. 특히 케플러는 한층 업그레이드된 청순하고 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 11 CIRCLE CHART: NewJeans Top 3 charts While KAI Tops 2 charts]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22300</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22277"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 첫사랑(CSR)이 열여덟 매력이 가득한 콘셉트 포토를 공개했다.&nbsp;&nbsp;첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 지난 20일과 21일 공식 SNS를 통해 두 번째 미니앨범 'DELIGHT(딜라이트)'의 'JOURNEY' 버전 개인 및 유닛 콘셉트 포토를 게재했다.&nbsp;&nbsp;앞서 'VIVID WHITE' 버전에서 화이트 의상을 맞춰 입고 청순한 분위기를 자아낸 첫사랑은 이번에는 상큼하고 발랄한 모습으로 변신했다. 캐주얼 의상을 자신만의 색깔로 소화한 멤버들은 열여덟 소녀의 밝은 에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ 케플러, “사랑에 빠지고 싶은 사람 모여라”…신보 ‘LOVESTRUCK!’ 티저 포스터 공개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22274</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22274"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 케플러(Kep1er)가 사랑에 빠지고 싶은 사람들을 위한 클럽 멤버를 모집하는 특별한 컴백 이벤트로 글로벌 팬들의 관심을 집중시켰다.&nbsp;케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 21일 0시 공식 SNS를 통해 네 번째 미니앨범 ‘LOVESTRUCK! (러브스트럭)’의 티저 포스터를 공개했다.티저 포스터에는 ‘LOVESTRUCK CLUB’이라는 글자와 고양이 발자국이 새겨진 하트 모양의 자물쇠 이미지가 담겨 있다. 그 아래에는 ‘For everyone who wants to b..]]></content>
     </entry>
 </feed>
