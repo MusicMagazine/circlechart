@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-28T01:13:35.712Z</updated>
+    <updated>2023-03-28T02:37:21.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 12 CIRCLE CHART: Jimin ‘FACE’ Tops the Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22307</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22307"/>
+        <updated>2023-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 12 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by Jimin ‘FACE’.&nbsp;Jimin’s ‘FACE’ has sold the most copies as of 4PM (KST) on March 24th (Friday, week 12).BTS Jimin has released his first official solo album ‘FACE’ which showcases a variety of genres, rang..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4월 컴백' 케플러, 미니 4집 'LOVESTRUCK!' 아이콘택트 버전 콘셉트 포토 공개…'Giddy'한 비주얼!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22304</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22280"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[판타지오 신인 보이그룹이 2023년 상반기 가요계에 출격한다.22일 종합 엔터테인먼트사 판타지오는 "올해 상반기 데뷔를 목표로 준비하고 있다. 정확한 데뷔일은 확정 후 공개할 예정이다. 많은 기대와 관심을 부탁드린다"라고 밝혔다.판타지오는 매니지먼트, 음반 제작, 영화 및 드라마 제작, 해외 공연 사업 등 활발하게 사업 영역을 넓히고 있는 국내 종합 엔터테인먼트사이자 최대 매니지먼트 기업으로, 코스닥 상장기업이다. 국내 최대의 아티스트 네트워크를 토대로 아티스트 매니지먼트, 영화 및 드라마, 음반 제작, 신인 발굴, ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['29일 컴백' 첫사랑(CSR), 'JOURNEY' 버전 개인+유닛 콘셉트 포토 공개 '통통 튀는 18세 동갑내기']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22277</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22277"/>
-        <updated>2023-03-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 첫사랑(CSR)이 열여덟 매력이 가득한 콘셉트 포토를 공개했다.&nbsp;&nbsp;첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 지난 20일과 21일 공식 SNS를 통해 두 번째 미니앨범 'DELIGHT(딜라이트)'의 'JOURNEY' 버전 개인 및 유닛 콘셉트 포토를 게재했다.&nbsp;&nbsp;앞서 'VIVID WHITE' 버전에서 화이트 의상을 맞춰 입고 청순한 분위기를 자아낸 첫사랑은 이번에는 상큼하고 발랄한 모습으로 변신했다. 캐주얼 의상을 자신만의 색깔로 소화한 멤버들은 열여덟 소녀의 밝은 에..]]></content>
     </entry>
 </feed>
