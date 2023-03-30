@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-03-29T23:15:39.822Z</updated>
+    <updated>2023-03-30T01:12:17.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방용국, 신생 기획사 YY엔터테인먼트와 전속계약 체결]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22316</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22316"/>
+        <updated>2023-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 방용국이 YY엔터테인먼트와 새 출발에 나선다.&nbsp;&nbsp;30일 신생 종합 엔터테인먼트사 YY엔터테인먼트는 "최근 방용국과 전속계약을 맺었다. 자사의 첫 영입 아티스트인 만큼 폭넓은 활동을 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;방용국은 2011년 싱글 앨범 'I Remember(아이 리멤버)'로 데뷔한 이후 2012년부터 그룹 B.A.P 리더로 활동했다. 방용국은 뛰어난 작사, 작곡 실력을 바탕으로 B.A.P 앨범 작업에 참여했을 뿐만 아니라 2019년부터 솔로로 전향하면서 자신만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 싱어송라이터 이지카이트(Izykite), 뉴런뮤직과 전속계약 체결! 폴킴·픽보이와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21976</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21622"/>
         <updated>2022-10-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 임슬옹이 웨이크원에 합류했다.26일 웨이크원은 “임슬옹과 최근 전속계약을 체결했다”고 밝혔다.임슬옹은 지난 2008년 보컬 그룹 2am으로 데뷔한 후 훈훈한 외모와 탄탄한 가창력으로 팬들의 꾸준한 사랑을 받고 있다.임슬옹은 가수 활동뿐만 아니라 드라마, 예능, 뮤지컬 등 다양한 분야에서 두각을 드러냈으며 지난 6월 2am 단독 콘서트 ‘2am Concert 22 S/S’ 개최, 8월 2am 새 음원 ‘사랑 그런거’ 발매 등 꾸준한 그룹 활동을 이어가며 독보적인 보컬 그룹으로서 건재함을 입증했다.웨이크원 측은 “임슬옹이 다양한 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차세대 보컬리스트' FIL(필), 제나두엔터와 전속계약 체결…박보람과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21390</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21390"/>
-        <updated>2022-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 FIL(필)이 새둥지를 찾고 활발한 활동을 이어간다.&nbsp;제나두엔터테인먼트는 7일 "최근 가수 FIL(필)과 전속계약을 체결했다"고 밝혔다.&nbsp;FIL(필)은 파워풀한 가창력과 애절한 감정 표현으로 많은 리스너들의 사랑을 받은 아티스트이다. 수많은 히트곡들의 가이드 보컬로 활발히 활동하며 2018년 '내가 널 버리는 거야'로 정식 데뷔했다.&nbsp;&nbsp;이후 FIL(필)은 유명 프로듀서 '빨간양말'의 곡들을 다수 가창하며 호소력 짙은 목소리로 주목을 받았다. 또 뛰어난 곡 해석력으로 리메이크 음원 &amp;#..]]></content>
     </entry>
 </feed>

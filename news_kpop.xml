@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-03-29T23:15:39.817Z</updated>
+    <updated>2023-03-30T01:12:17.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더윈드, 리더 신재원 프로필 공개! 스무 살 메인보컬 활약 기대]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22315</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22315"/>
+        <updated>2023-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 더윈드(The Wind)에 믿음직한 리더 신재원이 함께한다.지난 29일 더윈드(The Wind) 공식 SNS를 통해 리더 신재원의 새로운 프로필 이미지와 영상이 공개돼 K-POP 팬들의 눈길을 사로잡고 있다.신재원은 올해로 갓 스무 살이 된 2004년 3월 2일생으로 더윈드에서 리더와 메인보컬을 맡는다. 멤버 전원이 보컬 포지션을 소화하는 더윈드에서도 메인 보컬이라 탄탄한 가창력을 기대할 수 있다. 신재원은 믿음직스러운 맏형이자 리더로서 더윈드를 이끌어갈 예정이다.농구장과 인도어(INDOOR) 등 두 가지 버전으로 공개된 프로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈 출신 류수정, 독보적 아이덴티티 담은 자작곡으로 컴백...신곡 'Love or Hate' MV 티저 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22314</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22293"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 차준호 황윤성 김동윤 이협 주창욱 김민서)이 한 편의 영화 같은 고퀄리티 트레일러 영상으로 역대급 컴백을 예고했다.&nbsp;&nbsp;소속사 울림엔터테인먼트는 지난 23일 오후 7시 공식 유튜브 채널을 통해 드리핀의 '세븐 신스(SEVEN SINS)' 콘셉트 트레일러를 기습 공개하며 4월 컴백을 알렸다.&nbsp;&nbsp;공개된 영상은 잔잔하면서도 묵직한 피아노 선율과 함께 클래식하고 고풍스러운 서재의 모습을 비추며 시작돼 단번에 시선을 압도했다.&nbsp;더불어 영상 말미 쓸쓸해 보이는 왕좌의 모습과 함께 새 앨범명으로 추정되는..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드, 4월 19일 日 새 싱글 발표...타이틀곡 'CRAYON' MV 티저 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22292</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22292"/>
-        <updated>2023-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, TAG, 배승민, 봉재현, 김지범, 김동현, 홍주찬, 최보민)가 오는 4월 새 싱글로 열도 정복에 나선다.&nbsp;소속사 울림엔터테인먼트는 지난 23일 오후 6시 공식 SNS를 통해 오는 4월 19일 골든차일드 일본 세 번째 싱글 '인비저블 크레용(Invisible Crayon)' 발매 확정 소식을 알렸고, 같은 시각 유니버설 뮤직 재팬 공식 유튜브 채널을 통해 타이틀곡 '크레용(CRAYON)' 뮤직비디오 티저가 공개됐다.&nbsp;공개된 티저는 블랙과 화..]]></content>
     </entry>
 </feed>
