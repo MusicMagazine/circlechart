@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-04-03T05:14:29.591Z</updated>
+    <updated>2023-04-03T06:19:09.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 12 CIRCLE CHART: BTS Jimin Top 3 charts while NewJeans Top 2 charts]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22331</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22331"/>
+        <updated>2023-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 12 CIRCLE CHART (previously Gaonchart) was dominated by Jimin, who topped 3 charts, and NewJeans, who topped 2 charts.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 12(2023.03.19.~2023.03.25.), Jimin topped a total of 3 charts, including Global K-pop, Download and Album Ch..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘K-팝 절대 강자’ 세븐틴, 미니 10집 ‘FML’ 트랙리스트 공개…첫 더블 타이틀곡 예고!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22329</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22315"/>
         <updated>2023-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 더윈드(The Wind)에 믿음직한 리더 신재원이 함께한다.지난 29일 더윈드(The Wind) 공식 SNS를 통해 리더 신재원의 새로운 프로필 이미지와 영상이 공개돼 K-POP 팬들의 눈길을 사로잡고 있다.신재원은 올해로 갓 스무 살이 된 2004년 3월 2일생으로 더윈드에서 리더와 메인보컬을 맡는다. 멤버 전원이 보컬 포지션을 소화하는 더윈드에서도 메인 보컬이라 탄탄한 가창력을 기대할 수 있다. 신재원은 믿음직스러운 맏형이자 리더로서 더윈드를 이끌어갈 예정이다.농구장과 인도어(INDOOR) 등 두 가지 버전으로 공개된 프로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 출신 류수정, 독보적 아이덴티티 담은 자작곡으로 컴백...신곡 'Love or Hate' MV 티저 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22314</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22314"/>
-        <updated>2023-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 류수정이 한층 성숙해진 매력을 품고 가요계에 돌아온다.&nbsp;소속사 하우스오브드림스는 29일 0시 공식 유튜브 채널을 통해 류수정의 첫 번째 정규 앨범 '아카이브 오브 이모션스(Archive of Emotions)' 선공개 타이틀곡인 '러브 오어 헤이트(Love or Hate)'의 뮤직비디오 티저를 공개했다.&nbsp;공개된 영상은 푸른 하늘 아래 뻥 뚫린 도로와 어두운 밤거리, 서로 상반된 분위기의 배경 속에서 불어오는 바람을 느끼며 앞을 향해 걸어가는 류수정의 모습이 분할된 화면으로 동시 재생돼 이목을 집중시..]]></content>
     </entry>
 </feed>
