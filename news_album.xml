@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-03T01:06:52.483Z</updated>
+    <updated>2023-04-03T02:29:09.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[걸그룹 드림노트, 이미지 대변신! 오늘(3일) 정오 선공개곡 'BLUE' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22330</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22330"/>
+        <updated>2023-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 드림노트(DreamNote)가 새로운 페이지를 펼친다.드림노트(유아이, 보니, 라라, 미소, 수민, 은조)는 3일 정오 각종 온라인 음원사이트를 통해 다섯 번째 싱글 ‘Secondary Page(세컨더리 페이지)’의 선공개곡 ‘BLUE(블루)’를 발매한다.‘BLUE’는 밤하늘처럼 공허한 마음을 쓸쓸하고 슬픈 감정으로 노래한 곡이다. 서정적인 가사와 멜로디, 멤버들의 섬세한 보컬이 돋보이며 어쿠스틱 기타 사운드로 감성을 더욱 극대화했다.&nbsp;그동안 밝고 긍정적인 메시지의 노래들을 주로 선보여온 드림노트는 선공개곡 ‘BLUE’를 통..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종신X하림, 오늘(31일) 첫 듀엣곡 '월간 윤종신' 3월호 ‘오랜 친구’ (Duet with 하림)발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22324</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22302"/>
         <updated>2023-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[클래지콰이 호란이 KBS 2TV 월화드라마 '오아시스' OST의 세 번째 주자로 나선다.&nbsp;&nbsp;'오아시스' OST 제작사 에이투지엔터테인먼트(팝뮤직)는 28일 "오늘 낮 12시 클래지콰이 호란이 참여한 '오아시스' OST Part 3 'CHANSON TRISTE(샹송 트리스트)'가 발매된다"고 밝혔다.&nbsp;&nbsp;호란이 직접 작사, 가창에 참여한 'CHANSON TRISTE'는 호란이 오랜만에 목소리를 들려주며 곡의 분위기를 한층 더 끌어올린다.&nbsp;&nbsp;&nbsp;특히 이 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아메바컬쳐 합류’ 페디(Padi), 30일 새 싱글 ‘LEMON’ 발매! 송민호·쏠 피처링]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22301</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22301"/>
-        <updated>2023-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 페디(Padi)가 아메바컬쳐 합류 후 첫 신곡을 발표한다.페디는 오는 30일 새 싱글 ‘LEMON (레몬) (Feat. 쏠(SOLE), 송민호(MINO))’을 발매하고 가요계에 컴백한다.아메바컬쳐는 지난 27일 오후 6시 공식 SNS에 ‘LEMON’의 앨범 커버 이미지를 공개했다. 이를 통해 쏠(SOLE)과 송민호(MINO)의 피처링 참여 소식이 처음으로 베일을 벗었다.또한, 앞서 공개된 페디의 프로필 이미지에 이어 앨범 커버 이미지에도 레드 마젠타가 키 컬러로 활용됐다. 역동적이면서도 포용력을 갖춘 색감처럼 폭넓은 장르 ..]]></content>
     </entry>
 </feed>
