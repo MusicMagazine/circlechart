@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-05T23:12:14.999Z</updated>
+    <updated>2023-04-06T01:05:51.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['싱어게인2' 11호 범승혁, 'SOOM(숨)' 프로젝트 참여! 오늘(6일) '벚꽃이 날리는 여의도에서' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22344</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22344"/>
+        <updated>2023-04-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 범승혁이 'SOOM(숨)' 프로젝트에 참여했다.&nbsp;&nbsp;'SOOM(숨)'은 옛 추억의 향수를 불러일으키도록 아련한 감성에 숨을 불어넣을 노래를 선보이는 프로젝트다. 지난해 9월 자작곡 '알 수 없지만'을 통해 본인만의 음악적 색채를 담아내며 싱어송라이터의 면모를 보여준 범승혁이 가창자로 나선다.&nbsp;범승혁은 JTBC 오디션 프로그램 '싱어게인2' 11호 가수로 출연해 나이가 무색한 성숙한 창법을 구사하며 아티스트로서 독보적인 자질을 인정받았다. 특히 가창하는 노래마다 본인..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지카이트(Izykite), 6일 데뷔 후 첫 미니앨범 'I ZIP' 발매…폴킴 '너를 만나' 작곡가 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22339</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22320"/>
         <updated>2023-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 홀랜드(HOLLAND)가 약 3년 반 만에 돌아온다.홀랜드는 30일 오후 6시 전 온라인 음원사이트를 통해 새 싱글 'NUMBER BOY(넘버 보이)'를 발매한다.'NUMBER BOY'는 홀랜드 특유의 청량하고 매력적인 음색이 돋보이는 일렉트로닉 장르의 곡으로, 홀랜드가 작사가로 이름을 올려 본인의 인생 철학과 가치관을 아름답게 풀어냈다.CIFIKA, 테림이 프로듀싱에 참여했으며, 신희원 감독과 필립 킴 디자이너 등 뛰어난 역량을 지닌 이들이 지원사격에 나서 'NUMBER BOY'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 출신 류수정, 오늘(30일) 자작곡 'Love or Hate' 선공개...싱어송라이터 존재감 완벽 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22318</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22318"/>
-        <updated>2023-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 류수정이 첫 정규 앨범 발매에 앞서 선공개곡을 발표한다.&nbsp;&nbsp;류수정은 30일 오후 6시 각종 음원 사이트를 통해 첫 번째 정규 앨범 '아카이브 오브 이모션스(Archive of Emotions)'의 선공개곡 '러브 오어 헤이트(Love or Hate)'와 '하루 세 번 하늘을 봐' 2곡을 발매한다.&nbsp;&nbsp;'아카이브 오브 이모션스'는 지난 2014년 그룹 러블리즈(Lovelyz)의 보컬로 데뷔해 지난해 9월 독립 레이블 '하우스 오브 드림스(House of Dreams)..]]></content>
     </entry>
 </feed>
