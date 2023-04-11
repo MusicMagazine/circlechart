@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-04-11T01:07:13.849Z</updated>
+    <updated>2023-04-11T02:30:43.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 유럽 첫 방문 예고! 월드투어 'PASSION' 유럽·남미 포스터 공개 '기대감 고조']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22363</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22363"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[위아이(WEi)가 두 번째 월드투어의 추가 지역을 오픈했다.위아이는 최근 공식 SNS를 통해 두 번째 월드투어 'WEi 2ND WORLD TOUR &lt;PASSION&gt;'의 유럽 및 남미 지역 포스터를 차례로 공개했다.공개된 포스터에 따르면 위아이는 오는 5월 20일 영국 런던, 21일 독일 베를린 등 유럽 2개 도시를 찾는다. 이후 6월 4일과 5일, 7일에는 각각 멕시코의 멕시코 시티, 메리다, 몬테레이를 방문해 월드투어를 이어간다. 9일에는 엘살바도르의 산살바도르, 11일에는 코스타리카의 산호세에서 현지 팬..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기, 5월 '아시아 투어 콘서트 “소년, 길을 걷다” - Chapter2' 개최…韓·亞 7개국 순회]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22319</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22272"/>
         <updated>2023-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 이병찬이 첫 단독 콘서트로 팬들을 만난다.이병찬은 오는 4월 15일과 16일 양일간 연세대학교 백주년기념관 콘서트홀에서 '이병찬 첫번째 콘서트 &lt;공명, 211014&gt;'를 개최한다.이번 콘서트는 이병찬이 데뷔 후 처음으로 개최하는 단독 콘서트다. 세상을 향해 처음 노래할 때의 떨림이 모두의 마음을 감동시킬 울림이 되어 오래도록 공명할 때까지 노래하겠다는 의지를 담았다.특히 지난해 10월 개최한 솔로 데뷔 1주년 기념 팬미팅 '이병찬 1st NORANG DAY_ 나빌레라'에 이어 6개월 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용준형, 단독 콘서트 'LONER's ROOM' 성료! "너무 행복한 순간...안정감 느껴"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22266</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22266"/>
-        <updated>2023-03-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 용준형이 단독 콘서트에서 팬들과 특별한 추억을 쌓았다.용준형은 지난 18일과 19일 서울 용산구 블루스퀘어 마스터카드홀에서 2023 단독 콘서트 'LONER's ROOM (로너스 룸)'을 개최하고 팬들과 즐거운 시간을 보냈다.지난해 발매한 EP에 수록된 '차라리 내가 싫다고 해', 'LONELY', '층간 소음'을 연이어 밴드 라이브와 함께 선보인 용준형은 팬들과 인사를 나눈 뒤 다양한 솔로곡 무대로 교감을 펼쳤다.팬들은 용준형의 열정에 뜨거운 함성과 응원법으로 ..]]></content>
     </entry>
 </feed>
