@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-10T23:14:51.962Z</updated>
+    <updated>2023-04-11T01:07:13.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["오열 창법 뺐다" 바이브 윤민수, 오늘(11일) 1년 만의 신곡 '이따 해' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22359</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22359"/>
+        <updated>2023-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[바이브(VIBE) 윤민수의 신곡이 베일을 벗는다.&nbsp;&nbsp;윤민수는 11일 오후 6시 신곡 '이따 해'를 발매한다.&nbsp;&nbsp;'이따 해'는 머리로는 알지만 가슴으로는 받아들일 수 없는 헤어짐 앞에서 하루라도, 1분이라도 미루고 싶어 하는 마음을 담은 곡이다. 바이브의 멤버이자 프로듀서 류재현이 프로듀싱에 참여했으며, 차분히 흐르는 기타 리프와 점점 고조되며 감정을 끌어내는 스트링 사운드로 곡을 가득 채워 기존 바이브 앨범에서 보여줬던 격한 오열 감정 대신 윤민수 특유의 간절한 가성을 디테일하게 살려냈다.&nbsp;특히 '..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘내가 아니라도’ 주호, ‘가장 아름다운 시간이었다’ 음원+M/V 공개! 2023 이별 감성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22358</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22334"/>
         <updated>2023-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엘라스트(E’LAST)가 데뷔 후 처음으로 일본어 버전 음원을 선보인다.&nbsp;엘라스트는 4일 정오 각종 온라인 음원사이트를 통해 디지털 싱글 ‘Thrill’의 일본어 버전 음원을 공개한다.‘Thrill’은 엘라스트가 지난 2월 발매한 곡으로, 박진감 넘치는 비트와 대중적인 멜로디가 인상적인 댄스곡으로 일렉기타 사운드가 더해진 록 감성이 매력적이다.&nbsp;이 곡은 앞서 연애 구도에서 일어날 수 있는 밀고 당기는 감정을 ‘Thrill’이라는 단어에 담아 짜릿한 전개를 그려내며 국내뿐만 아니라 수많은 글로벌 리스너들의 고막도 함께 사로잡았다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장동윤X설인아 주연 '오아시스', 오늘(4일) 배우 추영우 참여 Part 4 OST '오아시스' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22333</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22333"/>
-        <updated>2023-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[KBS 2TV 월화드라마 '오아시스'의 네 번째 OST가 공개된다.&nbsp;&nbsp;4일 '오아시스' OST 제작사 에이투지엔터테인먼트(팝뮤직)는 "오늘 정오 가수 석우와 배우 추영우가 참여한 '오아시스' OST Part 4 '오아시스(prod. 송유담)'가 발매된다"고 밝혔다.&nbsp;&nbsp;'오아시스(prod. 송유담)'는 칼럼(kolumn)의 프로듀서 송유담, 보컬 석우, 작사가 손초롱과 기타리스트 정봉길이 참여한 곡으로, 극 중 각자 힘든 상황속에서 각자의 방식으로 ..]]></content>
     </entry>
 </feed>
