@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-04-13T01:05:59.419Z</updated>
+    <updated>2023-04-13T02:30:42.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 시도' 김장훈, 19일 중증장애인을 위한 ‘누워서 보는 콘서트’ 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22376</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22376"/>
+        <updated>2023-04-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김장훈이 장애인의 날을 하루 앞두고 또 한 번의 선한 영향력을 전파한다.&nbsp;오는 19일 낮 12시 서울 강남구 코엑스 별마당 도서관에서 김장훈의 '누워서 보는 콘서트'가 열린다.'누워서 보는 콘서트'는 4월 20일 장애인의 날을 맞아 하루 전에 열리는 특별 콘서트다. 장애인도 편안하게 공연을 즐길 수 있길 바라는 배리어프리(barrier free)의 일환으로, 국내 최초로 객석 1열에 중증장애인들을 초대하여 누워서 관람할 수 있는 형태로 공연이 진행된다.&nbsp;이날 초대 가족의 차량비와 식사비도 제공되며,..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 유럽 첫 방문 예고! 월드투어 'PASSION' 유럽·남미 포스터 공개 '기대감 고조']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22363</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22275"/>
         <updated>2023-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA['장구의 신' 박서진이 뜨거웠던 단독 콘서트의 열기를 이어간다.&nbsp;박서진은 오는 4월 15일과 16일 양일간 광주광역시 김대중컨벤션센터 다목적홀에서 단독 콘서트 '2023 장구의 신 박서진 쇼(Show)'(이하 '박서진 쇼')를 개최하고 팬들과 만난다.&nbsp;티켓 오픈을 앞두고 공개된 포스터는 화사한 연보라색으로 염색한 강렬한 헤어스타일과 함께 아이돌 못지않은 훈훈한 비주얼을 뽐내는 박서진의 모습을 담고 있어 시선을 사로잡았다.&nbsp;특히 박서진은 이번 '박서진 쇼' 광주 공연 관람객 전..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민가수 이병찬, 4월 첫 단독 콘서트 '공명, 211014' 개최…오늘(21일) 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22272</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22272"/>
-        <updated>2023-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[국민가수 이병찬이 첫 단독 콘서트로 팬들을 만난다.이병찬은 오는 4월 15일과 16일 양일간 연세대학교 백주년기념관 콘서트홀에서 '이병찬 첫번째 콘서트 &lt;공명, 211014&gt;'를 개최한다.이번 콘서트는 이병찬이 데뷔 후 처음으로 개최하는 단독 콘서트다. 세상을 향해 처음 노래할 때의 떨림이 모두의 마음을 감동시킬 울림이 되어 오래도록 공명할 때까지 노래하겠다는 의지를 담았다.특히 지난해 10월 개최한 솔로 데뷔 1주년 기념 팬미팅 '이병찬 1st NORANG DAY_ 나빌레라'에 이어 6개월 ..]]></content>
     </entry>
 </feed>
