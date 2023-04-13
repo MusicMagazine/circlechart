@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-12T23:14:37.388Z</updated>
+    <updated>2023-04-13T01:05:59.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쏠(SOLE)X성시경, 오늘(13일) 듀엣곡 ‘Need you’ 발매! 차세대 봄 캐럴]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22372</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22372"/>
+        <updated>2023-04-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[R&amp;B 아티스트 쏠(SOLE)이 성시경과 함께 봄 캐럴을 준비했다.쏠은 13일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘Need you (with 성시경)’를 발매하고 7개월 만에 컴백한다.‘Need you’는 남녀가 사랑으로 서로를 구원하고 외로움을 극복하는 내용을 담은 곡이다. 산뜻하고 포근한 멜로디와 따듯한 가사가 외로운 나날에 지친 이들에게 위로를 건넨다.특히 쏠과 성시경의 조화로운 음색 시너지가 달콤한 봄 캐럴을 완성했다. 쏠의 유니크한 보컬과 성시경의 호소력 짙은 목소리가 어우러진 웰메이드 하모..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 오늘(12일) 발라드 신곡 '얼잠따' 발매! 장르 한계 지운 '언리미터' 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22368</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22354"/>
         <updated>2023-04-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤딴딴이 경서와 함께 김태우X린의 명곡을 다시 불렀다.10일 오후 6시 각종 온라인 음원 사이트를 통해 윤딴딴이 가창한 웹예능 '차트맨'의 세 번째 음원 '내가 야! 하면 넌 예! (Feat.경서)'가 발매된다.'내가 야! 하면 넌 예!'는 지난 2009년 발매된 김태우의 '내가 야! 하면 넌 예! (With LYN)'를 원곡으로 한다. 14년 만에 MZ 보컬리스트인 윤딴딴과 경서가 리메이크했다.2023년 버전 '내가 야! 하면 넌 예!'는 어쿠스틱한 느낌..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주호, 9일 자작곡 ‘가장 아름다운 시간이었다’ 발매!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22351</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22351"/>
-        <updated>2023-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 주호가 새로운 이별 발라드로 돌아온다.주호는 오는 9일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘가장 아름다운 시간이었다’를 발매하고 4개월 만에 컴백한다.지난 6일 주호의 공식 SNS를 통해 ‘가장 아름다운 시간이었다’ 발매 소식을 알리는 티저 포스터가 공개됐다. 이미지 속 주호는 지그시 눈을 감은 모습으로 신곡의 서정적인 분위기를 예고했다.‘가장 아름다운 시간이었다’는 부족함과 서투름으로 인해 놓쳐버린 연인의 소중함을 깨달아가는 과정을 담은 곡이다. 이별의 아픔을 뒤로한 채 안녕을 빌어주는 성숙한 사랑 ..]]></content>
     </entry>
 </feed>
