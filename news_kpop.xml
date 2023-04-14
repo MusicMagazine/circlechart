@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-04-14T01:07:27.677Z</updated>
+    <updated>2023-04-14T02:30:34.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 D-3' 템페스트, 신보 '폭풍전야' 기대 포인트 셋 #진화된 음악성 #폭풍같은 청춘 #탈신인 존재감]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22381</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22381"/>
+        <updated>2023-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 가요계를 뒤집을 신보로 돌아온다.템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 오는 17일 오후 6시 네 번째 미니앨범 '폭풍전야'를 발매하고 5개월 만에 컴백한다.'거센 폭풍'을 뜻하는 팀명 템페스트의 패기와 에너지를 그대로 담아낸 앨범명 '폭풍전야'에 이목이 쏠리는 가운데, 이번에는 어떤 매력을 무기로 가요계 항해에 나설지 컴백 기대 포인트를 짚어봤다.# 루X화랑 전곡 작사 참여이번 앨범은 '폭풍의 눈'부터 '난장(Dang..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[드리핀, 'SEVEN SINS' 프리뷰 영상 공개...비주얼→음악성 모든 게 '업그레이드']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22380</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22370"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the March CIRCLE CHART, NewJeans topped 3 charts, while TWICE took the top spot in the Album Chart.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “In the monthly CIRCLE CHART for March 2023, NewJeans topped the Global K-pop Chart with ‘OMG’ and topped the Digital, Streaming Chart with ‘Ditto’.&nbsp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KCM, 오늘(12일) 리메이크 음원 '썸데이' 발매…섬세한 감정 표현 '애절 감성 극대화']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22369</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22369"/>
-        <updated>2023-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 KCM이 섬세함 감성과 가창력으로 리스너들의 귀를 사로잡는다.KCM은 12일 오후 6시 각종 온라인 음원사이트를 통해 방구석 캐스팅 음원 '썸데이'를 발매한다.'썸데이'는 지난 2008년 방송된 드라마 '싱글파파는 열애중'의 OST로 시청자들의 사랑을 받은 곡이다. 누군가를 만나 사랑을 하면서 느낄 수 있는 수많은 감정들을 깨닫고, 배우게 되는 한 사람의 이야기를 솔직한 가사에 담아냈다.특히 KCM만의 독보적인 감성에 걸맞게 새로이 편곡된 음악과 "어느 날 그대를 만나서 / 나..]]></content>
     </entry>
 </feed>

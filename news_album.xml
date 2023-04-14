@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-14T01:07:27.675Z</updated>
+    <updated>2023-04-14T02:30:34.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['아티스트 크루' 0WAVE, 오늘(14일) 새 EP 'insatiable <3' 발매…전곡 작업 참여 '완성도 ↑']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22382</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22382"/>
+        <updated>2023-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[파이렛(PYRAT) 소속 아티스트 크루 0WAVE(영웨이브)가 두 달 만에 신보로 돌아온다.0WAVE는 14일 오후 6시 각종 온라인 음원사이트를 통해 새 EP 'insatiable &lt;3 (인새셔블)'을 발매한다.'insatiable &lt;3'은 지난해 12월 첫 EP 'off the wall (오프 더 월)', 지난 2월 두 번째 EP 'balaclava (바라클라바)'에 이어 2달 만에 발매하는 앨범으로, 멤버들이 전곡의 작사 및 작곡에 참여해 0WAVE만의 음악적..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쏠(SOLE)X성시경, 오늘(13일) 듀엣곡 ‘Need you’ 발매! 차세대 봄 캐럴]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22372</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22358"/>
         <updated>2023-04-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 주호가 자작곡으로 한층 깊어진 감성을 전했다.주호는 지난 9일 오후 6시 새 디지털 싱글 ‘가장 아름다운 시간이었다’의 음원과 뮤직비디오를 공개했다.‘가장 아름다운 시간이었다’는 성숙한 이별 이야기를 담은 발라드곡이다. 드라마틱한 감정선을 따라 펼쳐지는 주호의 호소력 짙은 보컬과 깊이 있는 표현력이 듣는 이들의 감성을 자극한다.주호는 폭발적인 고음으로 “가장 아름다운 시간이었다 / 너와 함께했던 그 모든 날들이 내겐 / 이젠 나보다 더 좋은 사람을 만나 / 행복하게 사랑받고 살아”라는 후렴구를 가창하며 애절함을 배가했다.음원과..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MZ 듀엣' 윤딴딴X경서, 오늘(10일) 김태우X린 '내가 야! 하면 넌 예!' 리메이크 곡 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22354</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22354"/>
-        <updated>2023-04-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤딴딴이 경서와 함께 김태우X린의 명곡을 다시 불렀다.10일 오후 6시 각종 온라인 음원 사이트를 통해 윤딴딴이 가창한 웹예능 '차트맨'의 세 번째 음원 '내가 야! 하면 넌 예! (Feat.경서)'가 발매된다.'내가 야! 하면 넌 예!'는 지난 2009년 발매된 김태우의 '내가 야! 하면 넌 예! (With LYN)'를 원곡으로 한다. 14년 만에 MZ 보컬리스트인 윤딴딴과 경서가 리메이크했다.2023년 버전 '내가 야! 하면 넌 예!'는 어쿠스틱한 느낌..]]></content>
     </entry>
 </feed>
