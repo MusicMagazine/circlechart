@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2023-04-17T07:15:28.247Z</updated>
+    <updated>2023-04-17T08:20:04.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY  리뷰]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22390</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22390"/>
+        <updated>2023-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[이번 카드 뉴스에서는 최근 빌보드 HOT100에 오르며 국내 차트에서도 역주행하고 있는 FIFTY FIFTY와 관련한 데이터를 리뷰해 보도록 하겠습니다.&nbsp;'Cupid'의 써클차트 국내 데이터 일간 순위 변화 추이를 살펴보면 4월 1일부터 순위가 상승하기 시작해 4월 12일에는 31위까지 올라온 것으로 나타났습니다. 주간차트에서는 14주차에 111위에 진입해, 15주차에는 100위권 진입이 예상됩니다.피프티 피프티의 'Cupid'는 지난 2월 발매 이후 빌보드 HOT100 100위에 올랐다는 소식이 전해진..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개별 활동이 피지컬 시장에 새로운 성장 동력으로 - 3월 리뷰(2023)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22352</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21841"/>
         <updated>2022-12-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 11월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 16곡을 올려놓으며 (합산)점유율 6.2%를 기록했습니다.&nbsp;&nbsp;&nbsp;2022년 10월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 8.5% 감소, 전년 동기에 비해서는 0.2% 증가했습니다. 참고로, 올해 11월 400위 기준 신규 음원 수는 20곡으로&nbsp; 2021년 11월 58곡, 2020년 11월 52곡, 2019년 11월 64곡, 2018년 11월 67곡에 비해 크게 감소했습니다.&nbsp;11월 앨범 판매량400(1위부터 400위까지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 카타르 월드컵 음악시장에 어떤 영향을 줄까?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21748</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21748"/>
-        <updated>2022-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[4년마다 돌아오는 지구촌 축제인 월드컵이 올해에도 어김없이 찾아왔습니다. 올해는 월드컵 개최지인 카타르의 더운 날씨 탓에 가을과 겨울 사이에 열리게 되었습니다.월드컵과 같이 국민적 관심을 집중적으로 받는 이벤트가 있을 때마다 음악시장은 그에 따른 영향을 받곤 했었는데요, 올해는 어떨지 과거 사례를 바탕으로 살펴보도록 하겠습니다.&nbsp;&nbsp;위 그래프는 2010 남아공 월드컵(6월11일~7월12일) 당시 월별 음원 이용량 추이입니다. 월드컵 경기가 한창인 6월 이용량이 5월 대비 23%&nbsp;감소한 것으로 나타났습니다. 남아공 월드컵에서 우리 국가..]]></content>
     </entry>
 </feed>
