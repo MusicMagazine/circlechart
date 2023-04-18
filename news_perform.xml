@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-04-18T02:30:37.136Z</updated>
+    <updated>2023-04-18T03:15:41.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김윤아, 단독 콘서트 ‘행복한 사랑은 없네’ 재개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22395</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22395"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김윤아가 이화여자대학교 주차장 화재로 연기했던 단독 콘서트를 재개한다.&nbsp;17일 김윤아 소속사 인터파크 엔터테인먼트는 “김윤아가 오는 6월 23일부터 7월 2일까지 서울 연세대학교 백주년기념관 콘서트홀에서 단독 콘서트 ‘행복한 사랑은 없네’를 재개한다”고 밝혔다.&nbsp;소속사 관계자는 “지난 티켓 오픈과 라이브 앨범 발매에 보내주신 성원에 보답하기 위해 당사와 아티스트 모두 최대한 빠르게 콘서트를 재개할 수 있도록 최선을 다했다”고 덧붙였다.&nbsp;앞서 김윤아 단독 콘서트는 4월 21일부터 30일까지 서울 이화여자대학교 삼성홀에서 진행할 예정이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 박창근, 팬미팅 '포그니데이' 성료 "올해 전국투어 예정"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22386</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22296"/>
         <updated>2023-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[장기하가 오는 4월 21일부터 30일까지 무신사 개러지에서 2주간 총 6회에 걸쳐 장기하 단독공연 "해!"를 개최한다.장기하는 단독공연 "해!" 소개 글 서두에 "밴드 공연이 너무 하고 싶었어요."라 말하며, 밴드 편성 공연을 예고했다. 특히 새로이 발매될 신곡 두 곡과 더불어 &lt;공중부양&gt; 수록곡, '장기하와 얼굴들' 때 곡들도 연주할 예정이라 밝히며 팬들의 기대를 모으고 있다.밴드 '장기하와 얼굴들' 10년 활동을 마무리한 장기하는 작년 2월 첫 솔..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스타일리시 힙합 아티스트’ 레디(Reddy), 4월 1일 단독 콘서트 ‘now or never’ 개최!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22290</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22290"/>
-        <updated>2023-03-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 아티스트 레디(Reddy)가 단독 콘서트로 팬들을 찾는다.레디는 오는 4월 1일 서울 마포구 플렉스라운지에서 2023 단독 콘서트 ‘now or never (나우 오어 네버)’를 개최하고 팬들을 만난다.131레이블은 24일 0시 공식 SNS를 통해 ‘now or never’의 트레일러 영상을 공개하며 이번 콘서트에 대한 기대감을 고조시켰다.‘now or never’는 레디가 지난 2018년 선보인 ‘Reddy: Telescope (레디: 텔레스코프)’ 이후 5년 만에 진행하는 단독 콘서트다. 다채로운 무대를 통해 데뷔 13년 ..]]></content>
     </entry>
 </feed>

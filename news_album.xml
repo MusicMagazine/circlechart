@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-18T02:30:37.134Z</updated>
+    <updated>2023-04-18T03:15:41.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모던록밴드 디어클라우드, 23일 신보 '오늘만' 발매… 전 멤버 작사?작곡?편곡 참여 '완성도 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22391</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22391"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 신보를 발표한다.디어클라우드(나인, 이랑, 토근)는 오는 23일 전 온라인 음원사이트를 통해 신보 '오늘만'을 발매한다.&nbsp;디어클라우드는 지난 1월 발매한 'Bye Bye Yesterday(바이 바이 예스터데이)' 이후 약 2개월 만에 '오늘만'을 통해 또 한번 독보적인 스타일과 유니크한 사운드로 돌아온다. 특히 전작과는 또 다른 분위기의 감성을 담아내며 음악적으로 한층 업그레이드된 모습을 보여줄 계획이다.디어클라우드 전 멤버가 작사?작곡?편곡에..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이기광, 오늘(17일) 첫 솔로 정규앨범 'PREDATOR' 발매! 관능적 포식자]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22389</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22364"/>
         <updated>2023-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[한동근이 명품 감성으로 명곡을 재해석한다.한동근은 11일 오후 6시 전 온라인 음원사이트를 통해 '리본 프로젝트'의 열아홉 번째 앨범이자 리메이크 음원인 '다시 사랑한다면'을 발매한다.&nbsp;'새로 풀고 엮어 다시 만나다'란 슬로건 하에 단순 리메이크 이상의 가치를 만들어가는 '리본 프로젝트'의 신곡 '다시 사랑한다면'은 지난 2001년 발매된 도원경의 원곡에 한동근의 애절한 감성을 입혀 재해석한 곡이다.너무 깊은 사랑은 오히려 상처와 후회만 남는다는 깨달음이 한동근..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바밍타이거, 모든 멤버들이 참여한 선공개 싱글 'SOS' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22360</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22360"/>
-        <updated>2023-04-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[얼터너티브 케이팝 그룹 바밍타이거(Balming Tiger)가 올 중순 발매를 앞둔 첫 정규 앨범의 선공개 싱글인 'SOS'를 발매한다. 'SOS'는 빌보드 '월드 디지털 송 세일즈' 차트 1위를 기록한 '섹시느낌 (feat. RM of BTS)'과 'Trust Yourself'의 뒤를 잇는 앨범의 세 번째 선공개 트랙이다.특히, 이번 신곡에는 오메가사피엔(Omega Sapien), 소금(sogumm), 머드 더 스튜던트(Mudd the student), bj원..]]></content>
     </entry>
 </feed>

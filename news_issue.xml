@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-04-18T02:30:37.133Z</updated>
+    <updated>2023-04-18T03:15:41.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯 2' 송민준, 비스타컴퍼니와 공동 전속계약 체결…진정한 트로트 가수로 재탄생 기대]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22392</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22392"/>
+        <updated>2023-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[딥블루엔터테인먼트 소속 가수인 송민준이 TV CHOSUN 자회사인 비스타컴퍼니와 공동 전속계약을 통해 새 출발에 나선다.&nbsp;&nbsp;18일 비스타컴퍼니(대표 안석준)는 "최근 TV CHOSUN '미스터트롯 2-새로운 전설의 시작'(이하 '미스터트롯 2')에 출연한 송민준과 공동 전속계약을 체결했다"라고 밝혔다.&nbsp;&nbsp;지난 2019년 싱글 앨범 '추억 속의 여자'로 데뷔한 송민준은 TV CHOSUN '미스터트롯 2'에 출연해 감동 있는 미성으로 눈도장을 찍었다. 따뜻한 목소리..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방용국, 신생 기획사 YY엔터테인먼트와 전속계약 체결]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22316</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21696"/>
         <updated>2022-11-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘4세대 아이돌’의 NEW 패러다임을 선보일 신인 걸그룹 FIFTY FIFTY(피프티 피프티)가 2022년 하반기 가요계에 야심찬 도전장을 내민다.피프티 피프티는 최근 그룹 공식 오피셜 SNS 계정을 통해 팀의 공식 로고 이미지를 공개하며 11월 정식 데뷔를 알렸다.&nbsp;피프티 피프티는 콘텐츠 전문 크리에이티브 그룹 어트랙트(ATTRAKT)가 제작한 4인조 신인 걸그룹으로, 각기 다른 매력과 컬러를 지닌 4명의 소녀가 팀을 이룬 4세대 아이돌이다.&nbsp;팀명 ‘피프티 피프티’는 확률적으로 반반의 의미 ‘50 vs 50’을 뜻하며 각각 ‘이상..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임슬옹, CJ ENM 레이블 웨이크원과 전속계약 체결!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21622</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21622"/>
-        <updated>2022-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 임슬옹이 웨이크원에 합류했다.26일 웨이크원은 “임슬옹과 최근 전속계약을 체결했다”고 밝혔다.임슬옹은 지난 2008년 보컬 그룹 2am으로 데뷔한 후 훈훈한 외모와 탄탄한 가창력으로 팬들의 꾸준한 사랑을 받고 있다.임슬옹은 가수 활동뿐만 아니라 드라마, 예능, 뮤지컬 등 다양한 분야에서 두각을 드러냈으며 지난 6월 2am 단독 콘서트 ‘2am Concert 22 S/S’ 개최, 8월 2am 새 음원 ‘사랑 그런거’ 발매 등 꾸준한 그룹 활동을 이어가며 독보적인 보컬 그룹으로서 건재함을 입증했다.웨이크원 측은 “임슬옹이 다양한 ..]]></content>
     </entry>
 </feed>
