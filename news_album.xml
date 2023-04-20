@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-20T01:07:11.169Z</updated>
+    <updated>2023-04-20T02:31:10.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈 출신 류수정, 오늘(20일) 첫 정규 앨범 'Archive of Emotions' 발매...'솔직+담백' 한 권의 일기장 같은 앨범]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22406</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22406"/>
+        <updated>2023-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 류수정이 첫 솔로 정규 앨범으로 가수 인생의 제2막을 연다.&nbsp;&nbsp;류수정은 20일 오후 6시 각종 음원 사이트를 통해 첫 번째 정규 앨범 '아카이브 오브 이모션스(Archive of Emotions)'를 발매하고 글로벌 팬들 곁에 돌아온다.&nbsp;'아카이브 오브 이모션스'는 20대 중반에 접어든 류수정이 느끼는 새로운 감정들을 다루고 있다. 류수정은 20대 초반에 썼던 이전의 자작곡들과는 사뭇 다른 분위기의 첫 정규 앨범을 통해 자신이 새롭게 마주한 고민과 생각들을 가감없이 드러냈다.&nbsp;류수정의 첫 정규 앨범..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준X아이유 주연 영화 '드림', 오늘(19일) 선공개 OST ' 드림 (Dream)' 발매…하현상 가창→작사?작곡 참여]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22401</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22367"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤종신의 2021년과 2022년을 담은 ‘행보 2021, 2022 윤종신’이 발매된다.&nbsp;오늘(12일) 발매되는 ‘행보 2021, 2022 윤종신’은 총 3개의 CD로 구성되었으며 2021년 ‘월간 윤종신’을 통해 발표한 14곡과 2022년 ‘월간 윤종신’을 통해 발표된 13곡, 지난해 10월 개최된 콘서트 ‘가을 냄새’의 실황을 담은 ‘가을 냄새 LIVE 2022’ 15곡까지 풍성한 트랙 리스트로 구성되어 음악 팬들의 이목을 끈다.&nbsp;&nbsp;첫 번째 CD에는 윤종신의 기발표 곡을 새로운 편곡과 가창으로 재해석한 리페어(Repair) ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈, 오늘(12일) 신보 'Blank or Black' 발매…6개월 만 본업 컴백 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22366</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22366"/>
-        <updated>2023-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 박지훈이 6개월 만에 가요계로 돌아온다.박지훈은 12일 오후 6시 일곱 번째 미니앨범 'Blank or Black(블랭크 오어 블랙)'을 발매하고 컴백 활동을 시작한다.'Blank or Black'은 지난해 10월 발매한 여섯 번째 미니앨범 'THE ANSWER(디 앤서)' 이후 6개월 만에 선보이는 신보다. 가장 복잡한 미로, 가장 어려운 수수께끼처럼&nbsp; 한 번 발을 들이면 헤어 나오기 어려운 박지훈의 깊은 매력을 담았다.타이틀곡 'Blank Effect (무표정)(블랭크 이펙..]]></content>
     </entry>
 </feed>
