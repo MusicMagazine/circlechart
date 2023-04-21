@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-21T01:07:04.428Z</updated>
+    <updated>2023-04-21T02:32:14.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임상현, 오늘(21일) 황치열 'You Are The Reason' 리메이크 음원 발매 '달콤한 음색']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22408</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22408"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임상현이 섬세한 감성과 가창력으로 리스너들의 귀를 사로잡는다.임상현은 21일 정오 각종 온라인 음원사이트를 통해 NHN벅스 퍼스트핸드 프로젝트 두 번째 음원 'You Are The Reason (유 아 더 리즌)'을 발매한다.'You Are The Reason'은 지난 2021년 황치열이 발매한 앨범 'Be My Reason (비 마이 리즌)'의 수록곡으로, 기적 같은 사랑에 대한 감사가 담긴 곡이다. 임상현 특유의 부드럽고 달콤한 음색과 풍부한 표현력이 더해져 새롭게 재탄생됐다.&nbsp;특..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈 출신 류수정, 오늘(20일) 첫 정규 앨범 'Archive of Emotions' 발매...'솔직+담백' 한 권의 일기장 같은 앨범]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22406</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22368"/>
         <updated>2023-04-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 저스트비(JUST B)가 '얼잠따'로 희망과 위로의 메시지를 전한다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 12일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 '얼어있는 길거리에 잠시라도 따듯한 햇빛이 내리길'을 발매한다.멤버 전도염이 작사·작곡하고, 김상우가 랩메이킹에 참여한 '얼어있는 길거리에 잠시라도 따듯한 햇빛이 내리길'은 저스트비만의 따스함을 그려낸 발라드 곡이다. 삭막하고 차가워진 세상에 조금이나마 삶의 희망과 위로를 전하고 싶은 저스트비..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘(12일), 윤종신의 2년간의 결실 담은 ‘행보 2021, 2022 윤종신’ 발매!... 3개의 CD, 알찬 구성 ‘기대 UP!’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22367</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22367"/>
-        <updated>2023-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신의 2021년과 2022년을 담은 ‘행보 2021, 2022 윤종신’이 발매된다.&nbsp;오늘(12일) 발매되는 ‘행보 2021, 2022 윤종신’은 총 3개의 CD로 구성되었으며 2021년 ‘월간 윤종신’을 통해 발표한 14곡과 2022년 ‘월간 윤종신’을 통해 발표된 13곡, 지난해 10월 개최된 콘서트 ‘가을 냄새’의 실황을 담은 ‘가을 냄새 LIVE 2022’ 15곡까지 풍성한 트랙 리스트로 구성되어 음악 팬들의 이목을 끈다.&nbsp;&nbsp;첫 번째 CD에는 윤종신의 기발표 곡을 새로운 편곡과 가창으로 재해석한 리페어(Repair) ..]]></content>
     </entry>
 </feed>
