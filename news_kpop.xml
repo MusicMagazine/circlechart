@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-04-25T01:09:54.443Z</updated>
+    <updated>2023-04-25T02:32:19.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘컴백 D-1’ EPEX(이펙스), 5th EP 기대 포인트 셋 #사랑 2막 #전설 모티브 #여우 퍼포먼스]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22420</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22420"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 깊어진 사랑 이야기로 돌아온다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 오는 26일 다섯 번째 EP ‘사랑의 서 챕터 2. 성장통’을 발매한다. 다양한 티징 콘텐츠로 이펙스표 독창적인 화법과 신선한 퍼포먼스가 예고돼 컴백 기대감을 고조시키고 있다.# ‘사랑의 서’ 2막이펙스는 ‘사랑의 서 챕터 2. 성장통’으로 첫 이별을 마주한 소년들의 성장통을 이야기한다. 전작 사랑의 서 챕터 1. ‘Puppy Love’에서 첫사랑에 빠지는 과정을 다뤘던 이펙스가 연작을 통해 한층 깊어진 사랑을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방탄소년단, ‘베스티언즈’ OST 타이틀곡은 ‘THE PLANET’…폭발적 시너지 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22417</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22404"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 첫사랑(CSR)이 사랑스러운 매력을 빛냈다.첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 19일 방송된 MBC M '쇼! 챔피언'에 출연해 두 번째 미니앨범 'DELIGHT(딜라이트)' 타이틀곡 '빛을 따라서 (Shining Bright)' 무대를 선보였다.이날 첫사랑은 봄의 요정이 떠오르는 풋풋하고 상큼한 비주얼로 시선을 모았다. 에너지 넘치는 군무와 첫사랑 특유의 청순하고 귀여운 매력이 무대를 봄의 기운으로 꽉 채웠다.연습량이 느껴지는 칼군무와 첫사랑 멤버들의 완벽한..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼! 챔피언' 크랙시, 'NUGUDOM' 활동 성공적 마무리! 막방까지 빛난 압도적 포스]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22403</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22403"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 크랙시(CRAXY)가 'NUGUDOM'으로 압도적인 포스를 입증했다.&nbsp;크랙시(우아, 채이, 카린, 혜진, 수안)는 19일 방송된 MBC M '쇼! 챔피언'에 출연해 네 번째 미니앨범 'XX'의 타이틀곡 'NUGUDOM (누구덤)' 무대를 펼쳤다.이날 크랙시는 강렬한 검은 장미를 배경으로 카리스마 넘치는 스타일링을 선보였다. 멤버들의 에너지 넘치는 퍼포먼스와 함께 탄탄한 가창력과 무대 매너가 눈을 뗄 수 없는 무대를 만들었다.&nbsp;파워 넘치는 안무 역시 무대 보는 재미를 더..]]></content>
     </entry>
 </feed>
