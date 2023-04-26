@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-04-26T01:08:07.572Z</updated>
+    <updated>2023-04-26T02:32:29.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE(유나이트), 오는 5월 17일 컴백 확정...눈부신 청량돌의 귀환]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22426</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22426"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[브랜뉴뮤직의 9인조 보이그룹 YOUNITE(유나이트)가 오는 5월 17일 새 앨범 '빛 : BIT Part.1'으로 컴백한다.유나이트(은호, 스티브, 현승, 은상, 형석, 우노, DEY, 경문, 시온)는 오늘(26일) 자정,&nbsp;공식 SNS 채널들을 통해 이번 신보의 스토리 트레일러 영상을 기습 공개하며 다음 달 17일 컴백을 공식화했다.공개된 유나이트의 이번 스토리 트레일러 영상은 독특한 방식의 드라마 타이즈 트레일러로,&nbsp;레트로한 댄스 동아리로 변신한 유나이트 멤버들의 대화를 통해 작년에 선보인 ‘YOU &amp; I’..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘컴백 D-1’ EPEX(이펙스), 5th EP 기대 포인트 셋 #사랑 2막 #전설 모티브 #여우 퍼포먼스]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22420</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22405"/>
         <updated>2023-04-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 세븐틴(에스쿱스, 정한, 조슈아, 준, 호시, 원우, 우지, 디에잇, 민규, 도겸, 승관, 버논, 디노)이 신보 ‘FML’로 전 세계에 건강한 에너지를 전파한다.세븐틴은 20일 하이브 레이블즈 유튜브 채널에 오는 24일 오후 6시 발매되는 미니 10집 ‘FML’의 하이라이트 메들리 영상을 게재했다. 영상에는 더블 타이틀곡 ‘F*ck My Life’와 ‘손오공’을 비롯해 유닛 곡 ‘Fire’(힙합팀), ‘I Don’t Understand But I Luv U’(퍼포먼스팀), ‘먼지’(보컬팀)와 단체 곡 ‘April shower’..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쇼! 챔피언' 첫사랑(CSR), 4세대 파워러블리 원톱 존재감! 빛을 따라서' 상큼+발랄 무대]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22404</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22404"/>
-        <updated>2023-04-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 첫사랑(CSR)이 사랑스러운 매력을 빛냈다.첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 19일 방송된 MBC M '쇼! 챔피언'에 출연해 두 번째 미니앨범 'DELIGHT(딜라이트)' 타이틀곡 '빛을 따라서 (Shining Bright)' 무대를 선보였다.이날 첫사랑은 봄의 요정이 떠오르는 풋풋하고 상큼한 비주얼로 시선을 모았다. 에너지 넘치는 군무와 첫사랑 특유의 청순하고 귀여운 매력이 무대를 봄의 기운으로 꽉 채웠다.연습량이 느껴지는 칼군무와 첫사랑 멤버들의 완벽한..]]></content>
     </entry>
 </feed>
