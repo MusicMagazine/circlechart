@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-04-25T23:14:34.537Z</updated>
+    <updated>2023-04-26T01:08:07.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이·식케이·레디, 27일 프로젝트 싱글 'TTM' 발매! 스타일리시 힙합 시너지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22425</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22425"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 비아이(B.I), 식케이(Sik-K), 레디(REDDY)가 특별한 컬래버레이션에 나선다.비아이, 식케이, 레디는 오는 27일 오후 6시 각종 온라인 음원 사이트를 통해 남성 라이프 스타일 매거진 에스콰이어와 함께한 프로젝트 싱글 'TTM (WITH ESQUIRE KOREA)'를 발매한다.지난 25일 오후 비아이, 식케이, 레디의 개인 티저 영상이 순차적으로 공개되며 'TTM' 발매 소식이 베일을 벗었다. 세 사람은 공사장을 배경으로 각자가 준비한 벌스를 강렬하게 소화했다. 카메라를 잡아먹을 듯 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별은, 5월 3일 새 싱글 ‘Time+LOVE+Dream’ 발매 확정! 스프링이엔티 전속계약 후 첫 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22424</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22409"/>
         <updated>2023-04-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[밴드 웨이브투어스(wave to earth)가 약 6개월 만에 정규앨범으로 돌아왔다.웨이브투어스(김다니엘, 차순종, 신동규)는 지난 20일 오후 6시 전 온라인 음원사이트를 통해 첫 번째 정규앨범 '0.1 flaws and all.'을 발매했다.'0.1 flaws and all.'은 결함과 그 외의 모든 것이란 주제를 담고 있는 앨범으로, 밝고 팝한 사운드의 'A side'와 어두운 무드를 이끄는 재즈 사운드의 'B side'가 공존한다. 웨이브투어스는 대비되는 두 음악 스타..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임상현, 오늘(21일) 황치열 'You Are The Reason' 리메이크 음원 발매 '달콤한 음색']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22408</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22408"/>
-        <updated>2023-04-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 임상현이 섬세한 감성과 가창력으로 리스너들의 귀를 사로잡는다.임상현은 21일 정오 각종 온라인 음원사이트를 통해 NHN벅스 퍼스트핸드 프로젝트 두 번째 음원 'You Are The Reason (유 아 더 리즌)'을 발매한다.'You Are The Reason'은 지난 2021년 황치열이 발매한 앨범 'Be My Reason (비 마이 리즌)'의 수록곡으로, 기적 같은 사랑에 대한 감사가 담긴 곡이다. 임상현 특유의 부드럽고 달콤한 음색과 풍부한 표현력이 더해져 새롭게 재탄생됐다.&nbsp;특..]]></content>
     </entry>
 </feed>
