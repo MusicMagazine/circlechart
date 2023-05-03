@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-03T02:30:41.859Z</updated>
+    <updated>2023-05-03T03:15:57.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['6월 1일 발매' 비아이, 컴백 전 게릴라 무대 뜬다! 직접 전할 정규 2집 스포일러 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22445</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22445"/>
+        <updated>2023-05-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 비아이(B.I)가 신보 발매에 앞서 오프라인 게릴라 무대로 팬들과 만난다.비아이(B.I)는 3일 0시 소속사 131레이블 공식 SNS에 실존하는 특정 장소의 지역 정보를 담은 스팟 포스터 영상을 공개했다.&nbsp;내달 1일 정규 2집 'TO DIE FOR (투 다이 포)로 컴백하는 비아이는 이번 스팟 포스터를 통해 색다른 앨범 프로모션을 예고했다. 해당 포스터에서 지칭하는 특정 장소는 비아이의 게릴라 스테이지가 펼쳐질 공간으로, 비아이는 이달 7일부터 컴백 전까지 오프라인 각 스팟에서 직접 신곡을 소개하는 자리를 가질 예정..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 글로벌 팬클럽 '스윗(SWITH)' 포스터 공개 완료…오늘(2일)부터 2기 멤버십 모집!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22442</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22426"/>
         <updated>2023-04-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직의 9인조 보이그룹 YOUNITE(유나이트)가 오는 5월 17일 새 앨범 '빛 : BIT Part.1'으로 컴백한다.유나이트(은호, 스티브, 현승, 은상, 형석, 우노, DEY, 경문, 시온)는 오늘(26일) 자정,&nbsp;공식 SNS 채널들을 통해 이번 신보의 스토리 트레일러 영상을 기습 공개하며 다음 달 17일 컴백을 공식화했다.공개된 유나이트의 이번 스토리 트레일러 영상은 독특한 방식의 드라마 타이즈 트레일러로,&nbsp;레트로한 댄스 동아리로 변신한 유나이트 멤버들의 대화를 통해 작년에 선보인 ‘YOU &amp; I’..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백 D-1’ EPEX(이펙스), 5th EP 기대 포인트 셋 #사랑 2막 #전설 모티브 #여우 퍼포먼스]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22420</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22420"/>
-        <updated>2023-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 깊어진 사랑 이야기로 돌아온다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 오는 26일 다섯 번째 EP ‘사랑의 서 챕터 2. 성장통’을 발매한다. 다양한 티징 콘텐츠로 이펙스표 독창적인 화법과 신선한 퍼포먼스가 예고돼 컴백 기대감을 고조시키고 있다.# ‘사랑의 서’ 2막이펙스는 ‘사랑의 서 챕터 2. 성장통’으로 첫 이별을 마주한 소년들의 성장통을 이야기한다. 전작 사랑의 서 챕터 1. ‘Puppy Love’에서 첫사랑에 빠지는 과정을 다뤘던 이펙스가 연작을 통해 한층 깊어진 사랑을..]]></content>
     </entry>
 </feed>
