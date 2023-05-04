@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-04T01:07:23.783Z</updated>
+    <updated>2023-05-04T02:30:34.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 폴킴, 오늘(4일) 라미란X이도현X안은진 주연 '나쁜엄마' OST '너에 대하여' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22454</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22454"/>
+        <updated>2023-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 폴킴이 드라마 '나쁜엄마' OST의 세 번째 주자로 나선다.폴킴이 가창한 JTBC 수목드라마 '나쁜엄마(연출 심나연 / 극본 배세영 / 제작 드라마하우스스튜디오?SLL?필름몬스터)'의 세 번째 OST '너에 대하여'가 4일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'너에 대하여'는 내가 가장 소중히 여기고 사랑하는 당신에게는 언제든 기꺼이 내 한 쪽 어깨를 내어주고 싶고, 늘 함께하고 싶다는 사랑의 마음을 담은 곡이다. 담백한 음악이 폴킴의 감성적인 음색..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사자레코드 스컬 쇼미10 우승 조광일 합류와 함께 레이블 단체곡 ‘Gold' 전격 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22449</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22436"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[출중한 가창력의 소유자 가수 소유가 MBC 금토드라마 ‘조선변호사’의 네 번째 OST 주자로 출격한다.&nbsp;‘조선변호사’(연출 김승호, 이한준/ 극본 최진영/ 제작 피플스토리컴퍼니, 원콘텐츠)의 네 번째 OST Part.4 소유의 ‘시간을 돌려서’가 28일 오후 6시 각종 온라인 음원사이트를 통해 공개된다.&nbsp;‘시간을 돌려서’는 계절의 변화와 함께 찾아오는 그리운 사랑을, 시간을 돌려서라도 다시 찾고 싶은 애절한 마음을 표현한 발라드곡이다.&nbsp;잔잔한 피아노, 서정적인 현악기, 애절한 가사가 더해지며 드라마 속 등장인물들의 섬세한 감정을 극..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 아티스트 화수목(花水木), 오늘(28일) 데뷔 싱글 '파란색(THE BLUE)' 발매! 본격 음악 행보 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22432</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22432"/>
-        <updated>2023-04-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 화수목(花水木)의 데뷔 싱글이 베일을 벗는다.화수목(花水木)은 28일 정오 각종 온라인 음원사이트를 통해 첫 번째 디지털 싱글 '파란색(THE BLUE)'을 발매한다.화수목(花水木)이 위엔터테인먼트에 합류한 후 처음으로 발표하는 신곡 '파란색(THE BLUE)'은 누군가 혹은 무언가를 만난 후 우울하다고 생각되었던 파란색의 의미가 아름다움, 치유와 같이 전혀 다른 감정으로 느껴지는 순간을 담은 곡이다. 화수목(花水木)이 직접 작사와 작곡에 참여해 완성도를 더했다.특히 화수목(花水木)의 목소리와 ..]]></content>
     </entry>
 </feed>
