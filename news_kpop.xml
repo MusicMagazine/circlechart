@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-08T01:06:23.149Z</updated>
+    <updated>2023-05-08T02:32:43.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SEVENTEEN ‘10th Mini Album `FML`' Takes Top Spot in the April CIRCLE CHART Retai..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22461</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22461"/>
+        <updated>2023-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the April CIRCLE CHART, SEVENTEEN’s ‘10th Mini Album `FML`' topped the monthly Retail Album Chart.SEVENTEEN’s ‘10th Mini Album `FML`', which was released on April 24, contains a total of 6 songs, including the double title track ‘F*ck My Life' and ‘Super’, as well as unit songs that s..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘10일 발매’ 윤하, 타이틀곡 ‘바람’ M/V 티저 공개! 황홀한 가창력]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22457</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22442"/>
         <updated>2023-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 더 많은 글로벌 팬들을 만날 준비를 마쳤다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난달 29일부터 지난 1일까지 공식 SNS를 통해 공식 팬클럽 '스윗(SWITH)' 2기(STAYC GLOBAL OFFICIAL FANCLUB SWITH 2nd MEMBERSHIP) 멤버별 포스터를 차례로 공개했다.&nbsp;공개된 포스터는 여섯 멤버를 닮은 컬러와 무드로 각각의 매력을 그려내며 눈길을 끌었다. 수민과 시은은 각각 딸기와 패션후르츠로, 아이사와 세은은 블루베리와 복숭아로, 윤과 재이는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스), 오는 5월 29일 전격 컴백...새 앨범 트레일러 영상 깜짝 공개 눈길]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22439</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22439"/>
-        <updated>2023-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 AB6IX(에이비식스)가 오는 5월 29일 전격 컴백한다.&nbsp;브랜뉴뮤직은 오늘 자정 AB6IX 공식 SNS 채널들에 7TH EP 'THE FUTURE IS OURS : LOST' 트레일러 영상을 깜짝 공개하며 컴백을 공식화했다.&nbsp;공개된 트레일러에는 눈 내리는 정원에 놓인 비석, 흰 관 위에 올려진 시든 꽃, 낙서가 가득한 닫힌 문, 미로 등 의미심장한 메타포가 영상 곳곳에 담겨 팬들의 궁금증을 증폭시켰다. 특히 문에는 'SAVE ME', 'HELP!' 등의 문구가 적혀 긴박한 상황임을 ..]]></content>
     </entry>
 </feed>
