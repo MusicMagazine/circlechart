@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-05-09T01:10:35.782Z</updated>
+    <updated>2023-05-09T02:33:09.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양요섭, 6월 10·11일 솔로 콘서트 'BITTER SWEET' 개최 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22466</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22466"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 양요섭이 6월 솔로 콘서트로 팬들과 만난다.하이라이트 양요섭은 오는 6월 10일과 11일 서울 송파구 올림픽공원 올림픽홀에서 단독 콘서트 'BITTER SWEET'(비터 스윗)을 개최한다.'BITTER SWEET'은 양요섭이 지난 2018년 6월 성료한 '白'(백) 이후 5년여 만에 준비한 솔로 콘서트다. 양요섭은 공연 소개글을 통해 "우리가 함께 했던 그해 여름. 또 한번 선명하게 우리의 가장 아름다울 6월"에 대한 기대감을 높였다.지난 5년간 양요섭은 군 복무를 마치..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스터트롯2' 10인, 전국투어 첫 공연 성료 "이 자리에 세워준 팬분들 잊지 않을 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22458</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22305"/>
         <updated>2023-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엘라스트(E’LAST)가 국내 첫 단독 팬미팅을 성공적으로 마무리했다.&nbsp;엘라스트는 지난 24일 서울 용산구 대원콘텐츠라이브홀에서 단독 팬미팅을 열고 엘링(팬덤명)과 만났다.&nbsp;이번 행사는 엘라스트가 데뷔한 후 처음으로 국내에서 개최한 팬미팅이다. 특히 현장에 함께 하지 못한 국내 및 글로벌 팬들을 위해 뮤빗 라이브로 팬미팅을 실시간 생중계하며 온·오프라인으로 활발한 소통을 나눴다.이날 엘라스트는 지난달 발매한 신곡 ‘Thrill’ 무대를 비롯해 다채로운 이벤트로 팬들에게 즐거움을 선사했다. 강렬하고 카리스마 넘치는 퍼포먼스로 팬..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이, 두 번째 월드투어 'PASSION' 일본 포스터 공개! 스페셜 이벤트 '궁금증 UP’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22299</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22299"/>
-        <updated>2023-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[위아이(WEi) 두 번째 월드투어의 첫 번째 지역이 공개됐다.위아이는 지난 25일 공식 SNS를 통해 두 번째 월드투어 'WEi 2ND WORLD TOUR &lt;PASSION&gt;'의 일본 지역 포스터를 공개했다.공개된 포스터에 따르면 위아이는 오는 4월 21일 도쿄, 4월 23일 오사카 등 일본 2개 도시에서 현지 팬들을 만난다. 이번 일본 지역 월드투어에서만 만나볼 수 있는 스페셜 이벤트 소개 영상도 함께 공개하며 팬들의 궁금증을 한층 높였다.지난해 9월부터 10월까지 이어진 데뷔 첫 월드투어 'FIRS..]]></content>
     </entry>
 </feed>
