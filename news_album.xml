@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-11T23:15:03.148Z</updated>
+    <updated>2023-05-12T01:08:42.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각, 21일 '오늘의 선곡' 다섯 번째 음원 '운다 운다' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22487</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22487"/>
+        <updated>2023-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각이 이별 발라드 '운다 운다'로 5월 가요계에 합류한다.허각은 오는 21일 발매되는 음악 프로젝트 '오늘의 선곡'의 다섯 번째 음원 '운다 운다'에 가창자로 참여했다.'오늘의 선곡'은 지난해 가을 론칭 후 많은 이들의 플레이리스트에 꾸준히 '선곡'되고 있는 음악 프로젝트다. 빅마마 박민혜의 '데리러 와줘 (Come Get Me)', 임한별의 '떠나보낼 준비해 둘걸 그랬어', 이예준의 '니 번호가 뜨는 일', 먼..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투빅, 오늘(11일) 디셈버 원곡 '눈부신 눈물' 리메이크 음원 발매…짙은 애절함으로 재탄생]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22482</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22468"/>
         <updated>2023-05-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 KCM이 감미로운 목소리로 설렘을 자극한다.KCM은 10일 오후 6시 각종 온라인 음원사이트를 통해 데뷔 20주년 기념 프로젝트의 첫 번째 디지털 싱글 '바보라고 불러도'를 발매한다.'바보라고 불러도'는 KCM이 지난 2010년 발매했던 '사랑곰'을 리메이크한 곡으로, 팬들과 보다 편하게 함께 부르고 들을 수 있는 노래로 다가가고자 하는 KCM의 마음을 담아 새롭게 편곡했다.특히 대한민국 대표 작사가 윤사라가 '바보라고 불러도'의 작사에 참여해 힘을 보탰다. 시대를 관통..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D-day' 에이디야, 데뷔곡 'Per' 음원+MV 오늘(9일) 전격 공개!…'요즘 아이들' 매력 발산]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22467</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22467"/>
-        <updated>2023-05-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['5세대 퍼포먼스 그룹' ADYA(에이디야)가 '데뷔'라는 첫 번째 모험을 출발한다.에이디야(연수·서원·세나·채은·승채)는 오늘(9일) 오후 6시 첫 번째 싱글 앨범 'ADYA'를 발표해 정식으로 가요계에 데뷔한다. 그룹명과 동명의 앨범명 'ADYA'는 멤버들의 다양한 도전과 경험에 마주하는 설렘까지의 모습을 단정 짓지 않은 방식으로 표현한 작품이다.&nbsp;데뷔곡 'Per'는 'Perfect'의 줄임말로 경쾌한 드럼과 808베이스를 기반으로 한 트랩 장..]]></content>
     </entry>
 </feed>
