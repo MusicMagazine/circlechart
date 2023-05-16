@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-16T06:20:47.891Z</updated>
+    <updated>2023-05-16T08:18:42.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIRCLE CHART Week 17: IVE, SEVENTEEN Take Home 3 Awards Each!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22517</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22517"/>
+        <updated>2023-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the month of April, JISOO, IVE, and SEVENTEEN were each awarded 2 gold medals in the CIRCLE CHART rankings.&nbsp;KMCA, the publisher of CIRCLE CHART, announced, "In April of 2023, JISOO ranked first in the Global K-pop Chart with her song, “Flower” and also ranked first in the Social Chart 2.0, wi..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드 김동현, '드림하이'로 성공적 뮤지컬 데뷔...]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22497</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22476"/>
         <updated>2023-05-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 DeVita (드비타)가 오는 17일 새 EP [Naughty (너티)]로 컴백한다.AOMG는 지난 9일부터 공식 SNS를 통해 아이디 카드를 시작으로 두 가지 버전의 콘셉트 포토를 공개하며 DeVita의 컴백 소식을 공식화했다. 아이디 카드와 콘셉트 포토는 키치한 디자인과 화사한 색감으로 DeVita의 다채로운 매력을 담고 있다.또한 오늘(11일) 0시에는 이번 EP에 수록되는 신곡 'Ride For Me (라이드 포 미) (Feat. DAWN)'의 뮤직비디오 티저 영상이 깜짝 공개됐다.티저 영상 속 DeV..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM's "UNFORGIVEN" Tops the Retail Album Chart in CIRCLE CHART Week 18]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22475</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22475"/>
-        <updated>2023-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[LE SSERAFIM's "UNFORGIVEN" topped the weekly Retail Album Chart during the 18th week in the CIRCLE CHART rankings (previously Gaonchart).In the 18th chart week, “UNFORGIVEN” saw the highest number of sales on Tuesday at 3 p.m., the same day the song was released.LE SSERAFIM’s first full-..]]></content>
     </entry>
 </feed>
