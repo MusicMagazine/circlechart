@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-17T01:11:49.062Z</updated>
+    <updated>2023-05-17T02:33:09.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['新 음원 강자' 황인욱, 28일 발매 신곡 '이 새벽에 전화하는 건' 리릭 티저 공개 "혹시나 받아줄까봐"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22522</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22522"/>
+        <updated>2023-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 황인욱이 애틋한 신곡 가사 일부를 공개했다.황인욱은 17일 0시 하우엔터테인먼트 공식 SNS를 통해 새 싱글 '이 새벽에 전화하는 건'의 리릭 티저 이미지를 게재했다.리릭 이미지에는 클래식함이 느껴지는 스탠드와 꽃을 배경으로 감각적인 가사들이 적혀 있어 눈길을 끈다. "이제야 알아서 그래 / 그 어떤 말로도 돌릴 수 없겠지만 / 그래도 나 혹시나 받아줄까봐"라는 가사를 통해 이별을 맞이한 한 남자의 후회의 감정을 짐작할 수 있다.황인욱은 '이 새벽에 전화하는 건'을 통해 허스키한 보이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시크릿넘버, 싱글 6집 ‘독사 (DOXA)’ 단체 콘셉트 포토 공개! 위풍당당 여신]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22518</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22481"/>
         <updated>2023-05-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 로키드(Lokid)가 솔직한 가사로 이별을 노래한다.로키드는 11일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '니가 후회할 만큼 유명해져야 해'를 발매한다.'니가 후회할 만큼 유명해져야 해'는 로키드가 지난 3월 발매한 '다시 보고 싶은 영화가 있어' 이후 약 한 달 만에 선보이는 신곡이다. 네가 가는 곳마다 내 노래가 널 따라다녀서 한순간도 날 잊지 않길 바라는 마음을 리드미컬한 음악에 담아냈다.특히 로키드가 직접 작사와 작곡에 참여해 완성도를 높였으며, "난 연예인..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE(유나이트), 새 앨범 '빛 : BIT Part.1' 트랙 샘플러 공개…명곡 맛집]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22478</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22478"/>
-        <updated>2023-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[브랜뉴뮤직의 9인조 보이그룹 YOUNITE(유나이트)가 오는 5월 17일 발매하는 새 앨범 '빛 : BIT Part.1'의 트랙 샘플러 영상을 모두 공개했다.금일(11일) 0시, 유나이트는 공식 SNS 채널들을 통해 새 앨범 '빛 : BIT Part.1'의 다섯 번째 트랙 'SLOGAN'의 샘플러 영상을 공개하며 이번 신보의 모든 트랙 샘플러 공개를 마쳤는데,&nbsp;레트로라는 콘셉트에 충실하면서도 각 트랙의 무드를 제대로 맛볼 수 있는 영상으로 글로벌 팬들의 눈과 귀를 사로잡았다.처음으로 공개된..]]></content>
     </entry>
 </feed>
