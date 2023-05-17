@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-17T02:33:09.872Z</updated>
+    <updated>2023-05-17T03:15:43.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIRCLE CHART Week 19: aespa Tops the Retail Album Rankings with 3rd Mini Album, ..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22524</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22524"/>
+        <updated>2023-05-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[aespa's "MY WORLD - The 3rd Mini Album" topped the weekly Retail Album Chart during week 19 of the CIRCLE CHART rankings (formerly Gaonchart).By Monday at 7 p.m. on the day of its release, "MY WORLD” had the highest number of sales in the 19th week of chart rankings.aespa’s 3rd mini ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['新 음원 강자' 황인욱, 28일 발매 신곡 '이 새벽에 전화하는 건' 리릭 티저 공개 "혹시나 받아줄까봐"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22522</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22483"/>
         <updated>2023-05-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[5세대 신인 보이그룹 더윈드(The Wind)가 'ISLAND'로 꿈을 향한 비상을 시작한다.더윈드(신재원·김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 11일과 12일 공식 유튜브 채널에 첫 번째 미니앨범 'Beginning : The Wind Page'(비기닝 : 더 윈드 페이지) 타이틀곡 'ISLAND'(아일랜드)의 뮤직비디오 티저 영상 두 편을 차례로 공개했다.'ISLAND' 뮤직비디오는 어느 미지의 작은 우주 행성에 살고 있던 더윈드 일곱 멤버들이 새로운 섬을 찾아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로키드, 오늘(11일) 신곡 '니가 후회할 만큼 유명해져야 해' 발매…유니크 감성+솔직함 담았다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22481</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22481"/>
-        <updated>2023-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 로키드(Lokid)가 솔직한 가사로 이별을 노래한다.로키드는 11일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '니가 후회할 만큼 유명해져야 해'를 발매한다.'니가 후회할 만큼 유명해져야 해'는 로키드가 지난 3월 발매한 '다시 보고 싶은 영화가 있어' 이후 약 한 달 만에 선보이는 신곡이다. 네가 가는 곳마다 내 노래가 널 따라다녀서 한순간도 날 잊지 않길 바라는 마음을 리드미컬한 음악에 담아냈다.특히 로키드가 직접 작사와 작곡에 참여해 완성도를 높였으며, "난 연예인..]]></content>
     </entry>
 </feed>
