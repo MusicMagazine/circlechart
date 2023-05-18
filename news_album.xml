@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-18T01:08:24.407Z</updated>
+    <updated>2023-05-18T02:31:53.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FT아일랜드 이홍기, FT아일랜드 대표곡 '한사람만' 다시 부른다! 오늘(18일) 영화 '여름날 우리' 컬래버 음원 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22529</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22529"/>
+        <updated>2023-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[FT아일랜드 이홍기가 FT아일랜드의 대표곡을 16년 만에 다시 부른다.이홍기가 가창한 영화 '여름날 우리' 컬래버레이션 음원 '한사람만 (2023)'이 18일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.6월 28일 개봉을 앞두고 있는 영화 '여름날 우리'의 컬래버레이션 음원은 지나간 명곡을 재해석한 리메이크 곡들로 리스너들을 만난다. '한사람만 (2023)'은 지난 2007년 FT아일랜드의 정규앨범 'Cheerful Sensibility (치어풀 센서빌리티)&amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['차세대 K-소울' 자정(JAJUNG), '귀호감 프로젝트' 세 번째 주자…나비 '잘 된 일이야' 재해석]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22526</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22500"/>
         <updated>2023-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 타이틀곡 ‘Save me, Kill me’로 컴백한다.CIX(BX, 승훈, 배진영, 용희, 현석)는 16일 0시 공식 SNS에 여섯 번째 EP ‘‘OK’ Episode 2 : I’m OK (오케이 에피소드 2 : 아임 오케이)’의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 ‘Save me, Kill me (세이브 미, 킬 미)’를 비롯해 ‘Back to life (백 투 라이프)’, ‘Curtain Call (커튼 콜)’, ‘Color (컬러)’까지 총 4곡이 수록된다.타이틀..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이티 마우스, 1년 9개월 만에 컴백 확정! 23일 신곡 ‘슬램덩크’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22498</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22498"/>
-        <updated>2023-05-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 듀오 마이티 마우스(Mighty Mouth)가 1년 9개월 만에 컴백한다.마이티 마우스(추플렉스, 쇼리)는 오는 23일 정오 각종 온라인 음원 사이트를 통해 새 싱글 ‘슬램덩크’를 발매한다.지난 13일 오후 마이티 마우스는 유튜브 ‘슬램덕후’ 콘텐츠에 출연해 신곡 ‘슬램덩크’ 발매 소식을 직접 전했다. 마이티 마우스는 “‘슬램덩크’의 채소연과 이미지가 비슷한 분이 피처링을 맡았다”며 여성 피처링 아티스트의 참여도 알렸다. 또 “영화 ‘슬램덩크’, ‘리바운드’, ‘에어’의 연이은 개봉에 따라 농구붐 시즌의 에너지를 응축했다”고 ..]]></content>
     </entry>
 </feed>
