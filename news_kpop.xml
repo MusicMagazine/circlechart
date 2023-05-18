@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-17T23:13:47.902Z</updated>
+    <updated>2023-05-18T01:08:24.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 'THE FUTURE IS OURS : LOST' 스토리 필름 첫 번째 이야기, 김동현 편 공개….'궁금증 ..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22527</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22527"/>
+        <updated>2023-05-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 새 앨범 'THE FUTURE IS OURS : LOST'의 스토리 필름을 공개했다.&nbsp;브랜뉴뮤직은 17일 자정 AB6IX 공식 SNS 채널들을 통해 오는 29일 발매되는 7TH EP 'THE FUTURE IS OURS : LOST'의 첫 번째 스토리 필름을 공개했다. 멤버별로 제작된 이번 스토리 필름은 'LOST'라는 앨범 콘셉트에 맞게 각기 다른 공간에서 펼쳐지는 불완전한 상황과 상징적인 오브제 등이 담겨 팬들의 궁금증을 유발했다.&nbsp;가장 먼저 공개된 스토리..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIRCLE CHART Week 19: aespa Tops the Retail Album Rankings with 3rd Mini Album, ..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22524</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22484"/>
         <updated>2023-05-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 DeVita (드비타)가 던 (DAWN), 라치카와 색다른 시너지를 선보였다.AOMG는 지난 11일 공식 유튜브 채널에 DeVita의 새 EP [Naughty (너티)] 수록곡 'Ride For Me (라이드 포 미) (Feat. DAWN)'의 뮤직비디오 본편을 선공개했다.'Ride For Me (Feat. DAWN)'는 DeVita의 소울풀한 음색을 만끽할 수 있는 곡이다. 개성 있는 아티스트 던이 피처링에 참여해 DeVita와 색다른 음악적 케미스트리를 발휘했다.음원보다 먼저 공개된 뮤직비디..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 D-3' 더윈드, 타이틀곡 'ISLAND' M/V 티저 공개! 꿈 향한 비상 시작]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22483</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22483"/>
-        <updated>2023-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[5세대 신인 보이그룹 더윈드(The Wind)가 'ISLAND'로 꿈을 향한 비상을 시작한다.더윈드(신재원·김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 11일과 12일 공식 유튜브 채널에 첫 번째 미니앨범 'Beginning : The Wind Page'(비기닝 : 더 윈드 페이지) 타이틀곡 'ISLAND'(아일랜드)의 뮤직비디오 티저 영상 두 편을 차례로 공개했다.'ISLAND' 뮤직비디오는 어느 미지의 작은 우주 행성에 살고 있던 더윈드 일곱 멤버들이 새로운 섬을 찾아..]]></content>
     </entry>
 </feed>
