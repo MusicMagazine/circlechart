@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-19T01:10:20.740Z</updated>
+    <updated>2023-05-19T02:33:11.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX, 6th EP ‘‘OK’ Episode 2 : I’m OK’ 3종 콘셉트 포토 공개 완료! 비주얼 파라다이스]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22534</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22534"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 3종 콘셉트 포토 공개를 완료했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 18일과 19일 0시 공식 SNS에 여섯 번째 EP ‘‘OK’ Episode 2 : I’m OK (오케이 에피소드 2 : 아임 오케이)’의 마지막 C버전 콘셉트 포토를 공개했다.단체 콘셉트 포토 속 CIX는 순백의 비주얼을 드러냈다. 수풀 사이 아련한 눈빛을 보내는가 하면 어딘가로 향하는 계단을 오르는 CIX의 모습이 신비롭고 유니크한 분위기를 자아낸다. 시크하면서도 청초한 모먼트가 보는 이들의 시선을 이끈다.다섯 멤버의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[렌(최민기) 측 "6월 데뷔 후 첫 솔로 앨범 발매 준비 중, 새로운 도전 기대해달라"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22528</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22489"/>
         <updated>2023-05-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 새 앨범 'THE FUTURE IS OURS : LOST'의 두 번째 콘셉트 포토를 공개했다.&nbsp;브랜뉴뮤직은 15일 자정 AB6IX 공식 SNS 채널들을 통해 오는 29일 발매되는 7TH EP 'THE FUTURE IS OURS : LOST'의 두 번째 콘셉트 포토를 공개하며 새 앨범에 대한 기대감을 더했는데, 사진 속 AB6IX 멤버들은 세련된 올블랙 착장으로 시크한 포스를 드러냈고, 프리즘을 활용한 촬영 기법을 통해 몽환적인 무드를 더했다.&nbsp;개인 사진에서 전웅은 프리즘 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 'THE FUTURE IS OURS : LOST' 첫 번째 콘셉트 포토 공개...'몽환+아련' 매력 발산]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22485</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22485"/>
-        <updated>2023-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 새 앨범 'THE FUTURE IS OURS : LOST'의 첫 번째 콘셉트 포토를 공개했다.&nbsp;브랜뉴뮤직은 12일 자정 AB6IX 공식 SNS 채널들을 통해 오는 29일 발매되는 7TH EP 'THE FUTURE IS OURS : LOST'의 첫 번째 콘셉트 포토를 공개하며 시선을 사로잡았다. 사진 속 AB6IX 멤버들은 신비롭고 스산한 분위기가 느껴지는 공간에서 각자만의 몽환적인 매력을 뽐냈다.&nbsp;개인 사진에서 전웅은 무언가를 회상하는 듯한 아련한 표정과 흰색 셔츠 착장으..]]></content>
     </entry>
 </feed>

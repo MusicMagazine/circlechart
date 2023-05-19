@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-05-19T01:10:20.738Z</updated>
+    <updated>2023-05-19T02:33:11.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방용국, 오늘(19일) 첫 솔로 월드투어 'THE COLORS OF BANG YONG GUK' 본격 돌입!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22530</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22530"/>
+        <updated>2023-05-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 방용국이 월드투어를 본격적으로 시작한다.&nbsp;&nbsp;방용국은 19일과 21일 일본 오사카와 도쿄에서 월드투어 'THE COLORS OF BANG YONG GUK(더 컬러즈 오브 방용국)'을 개최한다.&nbsp;&nbsp;'THE COLORS OF BANG YONG GUK'은 방용국이 솔로 활동을 시작한 이후 처음으로 진행하는 월드투어다. '방용국의 색깔'이라는 주제에 맞게 방용국은 자신만의 다채로운 음악적 색깔을 선보일 예정이다.&nbsp;&nbsp;방용국은 앞서 "이번 투어를 통해 위선적이고 오만한, 거친 여러 가지의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백호, 오늘(12일)부터 미니 콘서트 ‘BAEKHoney Day’ 개최…dOnO들과 달콤한 시간!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22486</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22363"/>
         <updated>2023-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[위아이(WEi)가 두 번째 월드투어의 추가 지역을 오픈했다.위아이는 최근 공식 SNS를 통해 두 번째 월드투어 'WEi 2ND WORLD TOUR &lt;PASSION&gt;'의 유럽 및 남미 지역 포스터를 차례로 공개했다.공개된 포스터에 따르면 위아이는 오는 5월 20일 영국 런던, 21일 독일 베를린 등 유럽 2개 도시를 찾는다. 이후 6월 4일과 5일, 7일에는 각각 멕시코의 멕시코 시티, 메리다, 몬테레이를 방문해 월드투어를 이어간다. 9일에는 엘살바도르의 산살바도르, 11일에는 코스타리카의 산호세에서 현지 팬..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승기, 5월 '아시아 투어 콘서트 “소년, 길을 걷다” - Chapter2' 개최…韓·亞 7개국 순회]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22319</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22319"/>
-        <updated>2023-03-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 이승기가 아시아 투어에 돌입한다.휴먼메이드는 30일 "이승기가 오는 5월 '2023 이승기 아시아 투어 콘서트 “소년, 길을 걷다” - Chapter2'를 개최한다"고 밝혔다.앞서 지난 29일에는 공식 SNS를 통해 포스터와 투어 일정을 공개하며 노래하는 이승기를 기다려온 팬들의 설렘을 더했다.이승기는 이번 투어를 통해 국내는 물론 아시아 7개국을 순회한다. 특유의 솔직한 감성과 깊이 있는 목소리로 노래하는 이승기의 다양한 매력과 울림을 만나볼 수 있다.5월 4일 링크아트센터에서 개최되는 ..]]></content>
     </entry>
 </feed>
