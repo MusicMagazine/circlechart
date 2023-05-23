@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-05-23T01:09:19.809Z</updated>
+    <updated>2023-05-23T02:36:38.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포레스텔라, 新 전국투어 'The Light' 초고속 전석 매진! 크로스오버 최강자 위용]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22543</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22543"/>
+        <updated>2023-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 크로스오버 전체의 티켓 파워를 이끌어가고 있다.포레스텔라(강형호, 고우림, 배두훈, 조민규)의 전국투어 콘서트 'The Light'(더 라이트) 서울 공연은 지난 22일 오후 8시 온라인 예매처 티켓링크를 통해 일반 예매로 오픈된 직후 빠르게 전석 매진을 기록했다.'The Light'는 포레스텔라가 지난해 성료한 'The Beginning : World Tree'(더 비기닝 : 월드 트리), 올해 초까지 펼친 'The Royal Concert ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 두 번째 월드투어 ‘PASSION’ 영국·독일 공연 성료! 열정적 무대 선사 ‘글로벌 팬심 매료’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22541</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22386"/>
         <updated>2023-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 박창근이 팬미팅을 성황리에 마쳤다.&nbsp;&nbsp;박창근은 지난 15일, 16일 양일간 경희대학교 평화의전당에서 2023 박창근 팬미팅 '포그니데이'를 개최했다. 이날 진행은 박창근의 동생 MC꽝이 맡아 편안한 분위기를 이끌었다.&nbsp;&nbsp;이날 박창근은 '그물에 걸리지 않는 저 바람처럼'을 첫 곡으로 선보이며 무대에 등장했다. 팬들과 마주한 박창근은 팬미팅 개최의 기쁨을 드러내며 좋은 시간을 만들어나갈 것을 약속했다.&nbsp;&nbsp;&nbsp;이번 팬미팅은 '그니는 미완성', '포그니 타임', '불러..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스), 日 2개 도시 단독 콘서트 성료! 열도 접수한 ‘Save me, Kill me’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22385</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22385"/>
-        <updated>2023-04-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 일본에서 두 번째 월드투어의 열기를 이어갔다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 13일과 15일 일본 효고, 도쿄에서 ‘CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt; IN JAPAN’을 개최했다.지난해 연말 서울에서 시작해 유럽 6개 도시, 미주 9개 도시에서 열린 ‘CIX 2nd WORLD TOUR &lt;Save me, Kill me&gt;’는 일본에서도 성황리에 진행되며 CIX의 뜨거운 글로벌 인기를 재차 실감케 했다.‘순수의 시대 (Numb)’, ‘F..]]></content>
     </entry>
 </feed>

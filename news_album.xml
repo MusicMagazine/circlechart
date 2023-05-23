@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-23T01:09:19.811Z</updated>
+    <updated>2023-05-23T02:36:38.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[박재범, 오늘(23일) 새 싱글 ‘Candy (Feat. Zion.T)’ 발매! 사탕같은 달콤함 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22545</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22545"/>
+        <updated>2023-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 박재범이 달달한 감성을 담은 신곡으로 돌아온다.&nbsp;박재범은 23일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘Candy (캔디) (Feat. Zion.T)’를 발매한다.‘Candy’는 유쾌하고 댄서블한 사운드와 사탕처럼 달콤한 가사가 특징인 곡으로 차차 말론(Cha Cha Malone)이 프로듀싱을 맡았다. 박재범의 청량한 팝 알앤비 스타일의 보컬과 독보적인 개성을 지닌 자이언티(Zion.T)의 보컬이 한데 어우러지며 완성도와 듣는 재미를 더한다.뮤직비디오 본편도 음원과 함께 23일 오후 6시 베일을 벗는다. 앞서 박..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['VIVIZ 은하 피처링' 마이티 마우스, BPM서 첫 신곡 '슬램덩크' 23일 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22536</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22521"/>
         <updated>2023-05-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA['원조 트롯퀸' 김혜연이 새 앨범으로 돌아온다.&nbsp;김혜연은 17일 정오 각종 음원 사이트를 통해 새 디지털 미니 앨범 '리턴(Return)'을 발매하고 가요계에 컴백한다.&nbsp;'리턴'은 원조 트로트계 아이돌이자 '하늘이 주신 목소리' 수식어를 보유한 김혜연의 독보적 감성과 그 시절 향수를 담은 앨범이다.&nbsp;타이틀곡 '외계인'은 히트 메이커 마경식 작곡가의 작품으로, 사랑에 빠진 매력적인 상대를 외계인에 비유한 가사가 인상적이다. 우주 공간을 연상케 하는 기타 연주로 시..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeVita (드비타), 오늘(17일) 새 EP [Naughty] 발매! GRAY (그레이), 쿠기 (Coogie), 던 (DAWN) 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22520</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22520"/>
-        <updated>2023-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 DeVita (드비타)가 1년 3개월 만에 새 EP로 컴백한다.DeVita는 17일 오후 6시 국내외 전 온라인 음원 사이트를 통해 새 EP [Naughty (너티)]를 발매한다.[Naughty]는 Devita만의 꾸밈없는 표현들로 사랑에 대한 이야기를 담아낸 앨범이다. 특히 매력적인 보이스로 큰 사랑을 받고 있는 DeVita의 꾸준한 팝 사운드 연구가 이번 [Naughty]라는 결과물로 확인될 전망이다.타이틀곡 ‘Naughty’는 중독성있는 멜로디와 함께 반복되는 훅이 포인트인 곡으로, 사랑에 아파하는 이가 사랑 받고 싶..]]></content>
     </entry>
 </feed>
