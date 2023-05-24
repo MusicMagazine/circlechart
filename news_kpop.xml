@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-24T03:15:28.369Z</updated>
+    <updated>2023-05-24T04:17:16.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(G)I-DLE's "I Feel" Tops the Retail Album Chart in Week 20 of the CIRCLE CHART]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22553</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22553"/>
+        <updated>2023-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(G)I-DLE's "I Feel" was able to top the weekly Retail Album Chart during the 20th week of the CIRCLE CHART (formerly Gaonchart).&nbsp;By Monday at 4 p.m., on the day of its release, “I Feel” had the highest number of sales for week 20 of chart rankings.&nbsp;(G)I-DLE's sixth mini-album, “I Fee..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황인욱, 신곡 '이 새벽에 전화하는 건' M/V 티저 공개…명품 보이스 '몰입감 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22551</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22538"/>
         <updated>2023-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 정준일이 특별한 노래방 라이브를 선보였다.&nbsp;정준일은 최근 유튜브 채널 ‘HUP!’에 출연해 노래방에서 다양한 곡을 가창하며 내공 깊은 보컬과 독보적인 감성을 입증했다.&nbsp;이날 정준일과 함께 출연한 김필은 “너무 팬이고 영향도 많이 받았다”며 정준일의 ‘안아줘’를 불렀다. 김필의 노래를 흐뭇하게 감상하던 정준일은 “싱글로 내주시면 안 되냐. 너무 잘한다”며 “바로 옆에서 노래를 들어보는 게 처음인데 이런 호사를 누려본다”며 만족해했다.&nbsp;이어 정준일은 김필의 ‘사랑 하나’를 부르며 화답했다. 정준일은 특유의 담백하고 잔잔한 보컬부터..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, 6th EP ‘‘OK’ Episode 2 : I’m OK’ 3종 콘셉트 포토 공개 완료! 비주얼 파라다이스]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22534</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22534"/>
-        <updated>2023-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 3종 콘셉트 포토 공개를 완료했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 18일과 19일 0시 공식 SNS에 여섯 번째 EP ‘‘OK’ Episode 2 : I’m OK (오케이 에피소드 2 : 아임 오케이)’의 마지막 C버전 콘셉트 포토를 공개했다.단체 콘셉트 포토 속 CIX는 순백의 비주얼을 드러냈다. 수풀 사이 아련한 눈빛을 보내는가 하면 어딘가로 향하는 계단을 오르는 CIX의 모습이 신비롭고 유니크한 분위기를 자아낸다. 시크하면서도 청초한 모먼트가 보는 이들의 시선을 이끈다.다섯 멤버의..]]></content>
     </entry>
 </feed>
