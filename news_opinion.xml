@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2023-05-25T06:18:28.272Z</updated>
+    <updated>2023-05-25T07:14:30.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케이팝 피지컬 앨범 수출 중간 점검]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22554</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22554"/>
+        <updated>2023-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[최근 써클차트가 집계한 TOP400기준 1월부터 4월까지&nbsp; 피지컬 앨범 판매량은 전년동기 대비 1,420만 장이 많은 3,270만 장으로 집계되었습니다. 이는 올해 아직 4개월밖에 지나지 않은 상황에서 전년도 판매량 약 8,000만 장의 40.5%에 해당하는 판매량을 기록한 것입니다.&nbsp;&nbsp;위 그래프는 2022년, 2023년 관세청 피지컬 앨범 수출액 자료에 따른 월별 추이를 나타낸 것입니다. 2023년 1월부터 4월까지 수출금액은 전년도와는 달리 기복 없이&nbsp; 지속적인 증가세를 나타내고 있습니다.&nbsp;관세청 자료에 따른 2023년 1월부터..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 앨범 판매량 다시 월간 1천만 장 돌파! - 4월 리뷰 (2023)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22499</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22017"/>
         <updated>2023-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022년 12월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 14곡을 올려놓으며 (합산)점유율 5.5%를 기록했습니다.&nbsp; 8개월 연속 음원시장 점유율 1위 입니다.&nbsp;&nbsp;&nbsp;2022년 11월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.6% 감소, 전년 동기에 비해서는 6.5% 감소했습니다. 참고로, 올해 12월 400위 기준 신규 음원 수는 48곡으로 2021년 12월 56곡, 2020년 12월 66곡, 2019년 12월 55곡에 비해 다소 감소했습니다.&nbsp;12월 앨범 판매량400(1위..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨범 판매량 리뷰  걸그룹 판매 점유율 급증 - 2022]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21895</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=21895"/>
-        <updated>2022-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[*누적 앨범 판매량: 해당 아티스트의 모든 앨범 판매량 합계*콜라보, 솔로, 유닛 독립된 아티스트로 집계&nbsp;*집계기간: 2022년 1주차~50주차위 그래프는 2013년부터 2022년까지 앨범(Physical) 판매량 400을 나타낸 것입니다. (연간차트 1위부터 400위까지의 판매량 합계, 2022년은 1주차~50주차 까지의 결과임) 올해는 지난해에 비해 (50주차 현재) 앨범 판매량이 30% 증가했으며 12월 말까지 판매량이 집계되면 좀 더 비율이 상승할 것으로 보입니다.2022년 1주차부터 50주차까지 가수별 누적 앨범 판매량 집..]]></content>
     </entry>
 </feed>
