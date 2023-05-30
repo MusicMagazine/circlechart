@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-05-29T23:14:32.925Z</updated>
+    <updated>2023-05-30T01:12:32.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['무결점 보컬' 이예준, 7월 1·2일 단독 콘서트 'SAY YE'S' 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22560</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22560"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이예준이 단독 콘서트로 7월의 문을 연다.이예준은 오는 7월 1일과 2일 서울 성신여대 운정그린캠퍼스 대강당에서 2023 단독 콘서트 'SAY YE'S'(세이 예스)를 개최한다.'SAY YE'S'는 이예준이 지난해 11월 노들섬 라이브하우스에서 진행한 '미친 소리' 이후 8개월 만에 준비한 단독 콘서트다. '미친 소리'는 전석 매진을 기록하며 이예준의 음원에 이은 티켓 파워를 확인시킨 바 있다.오차 없는 가창력의 '무결점 보컬리스트' 이예준은..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 박창근, 6월 17일 전국투어 포문…오늘(24일) 서울 공연 선예매 시작]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22549</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22434"/>
         <updated>2023-04-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 SMMT이 첫 단독 콘서트를 개최한다.SMMT은 오는 29일 서울 용산구 현대카드 언더스테이지에서 첫 단독 콘서트 ‘현대카드 Curated 84 SMMT’을 개최하고 팬들을 만난다.‘현대카드 Curated 84 SMMT’은 지난 2020년 프로듀서로 정식 데뷔한 SMMT이 준비한 첫 단독 콘서트다. 힙합, 재즈, R&amp;B, 하우스 등 다양한 장르를 섭렵한 SMMT의 다채로운 음악을 한자리에서 만날 수 있다.특히 화려한 게스트 라인업이 눈길을 끈다. 앞서 하이어뮤직 공식 SNS를 통해 공개된 포스터에 따르면, 이번 콘서..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤아, 단독 콘서트 ‘행복한 사랑은 없네’ 재개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22395</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22395"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김윤아가 이화여자대학교 주차장 화재로 연기했던 단독 콘서트를 재개한다.&nbsp;17일 김윤아 소속사 인터파크 엔터테인먼트는 “김윤아가 오는 6월 23일부터 7월 2일까지 서울 연세대학교 백주년기념관 콘서트홀에서 단독 콘서트 ‘행복한 사랑은 없네’를 재개한다”고 밝혔다.&nbsp;소속사 관계자는 “지난 티켓 오픈과 라이브 앨범 발매에 보내주신 성원에 보답하기 위해 당사와 아티스트 모두 최대한 빠르게 콘서트를 재개할 수 있도록 최선을 다했다”고 덧붙였다.&nbsp;앞서 김윤아 단독 콘서트는 4월 21일부터 30일까지 서울 이화여자대학교 삼성홀에서 진행할 예정이..]]></content>
     </entry>
 </feed>

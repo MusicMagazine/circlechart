@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-29T23:14:32.917Z</updated>
+    <updated>2023-05-30T01:12:32.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라미란?이도현?안은진 주연 '나쁜엄마', 오늘(30일) OST 음반 예약 판매 시작! 6월 12일 정식 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22565</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22565"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['나쁜엄마' OST 음반이 드라마의 특별한 감성을 이어간다.JTBC 수목드라마 '나쁜엄마(연출 심나연 / 극본 배세영 / 제작 드라마하우스스튜디오?SLL?필름몬스터)'의 OST 음반이 오는 6월 12일 정식 발매된다. 이에 앞서 30일부터 예약 판매가 시작된다.이번 OST 음반에는 극의 진정성을 더한 하진의 'A Dreamy Town(어 드리미 타운)', 외로운 밤을 위로하는 김푸름의 'Good Night(굿나잇)', 늘 함께하고 싶은 마음을 담은 폴킴의 '너의 대하여..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그리즐리, 8개월만 컴백 확정! 6월 새 싱글 '친구 얘긴데' 발매…스키니 브라운 피처링 참여]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22557</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22532"/>
         <updated>2023-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[마지막 방송을 앞둔 MBC 금토드라마 ‘조선변호사’의 오리지널 사운드 트랙이 공개된다.&nbsp;‘조선변호사’(연출 김승호, 이한준/ 극본 최진영/ 제작 피플스토리컴퍼니, 원콘텐츠)의 오리지널 사운드 트랙이 19일 오후 6시 각종 음원사이트를 통해 발매된다.&nbsp;‘조선변호사’ 오리지널 사운드 트랙에는 타이틀곡인 통쾌함을 선사한 비투비 이창섭의 ‘Run away’와 애절한 마음을 표현한 소유의 ‘시간을 돌려서’를 비롯해 록 장르로 강렬함을 더한 난아진의 ‘LEAD’, 사랑스러운 분위기를 그린 보라미유의 ‘우린 다시 봄’ 등이 포함됐다.&nbsp;이 외에도..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FT아일랜드 이홍기, FT아일랜드 대표곡 '한사람만' 다시 부른다! 오늘(18일) 영화 '여름날 우리' 컬래버 음원 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22529</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22529"/>
-        <updated>2023-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[FT아일랜드 이홍기가 FT아일랜드의 대표곡을 16년 만에 다시 부른다.이홍기가 가창한 영화 '여름날 우리' 컬래버레이션 음원 '한사람만 (2023)'이 18일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.6월 28일 개봉을 앞두고 있는 영화 '여름날 우리'의 컬래버레이션 음원은 지나간 명곡을 재해석한 리메이크 곡들로 리스너들을 만난다. '한사람만 (2023)'은 지난 2007년 FT아일랜드의 정규앨범 'Cheerful Sensibility (치어풀 센서빌리티)&amp;#..]]></content>
     </entry>
 </feed>
