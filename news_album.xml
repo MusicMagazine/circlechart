@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-05-30T23:14:19.688Z</updated>
+    <updated>2023-05-31T01:19:18.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아티스트 xooos(수스), 첫 EP 'Made In Heart' 발매→글로벌 페스티벌 출격 'HOT 행보']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22570</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22570"/>
+        <updated>2023-05-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 xooos(수스)가 한층 업그레이드된 음악적 역량으로 돌아왔다.xooos는 지난 30일 전 온라인 음원사이트를 통해 첫 EP 'Made In Heart(메이드 인 하트)'를 발매했다.'Made In Heart'는 xooos가 WAVY 합류 후 첫 행보로 선보인 싱글 'Naked(네이크드)' 이후 약 5개월 만에 발표하는 첫 EP다. WAVY 소속 아티스트이자 프로듀서인 Milena(밀레나)와 xooos가 직접 작사?작곡에 참여해 마음 속 이야기를 충실하게 담아냈다.타이틀곡 '..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라미란?이도현?안은진 주연 '나쁜엄마', 오늘(30일) OST 음반 예약 판매 시작! 6월 12일 정식 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22565</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22533"/>
         <updated>2023-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 우주소녀(WJSN) 설아가 포근한 봄 감성을 예고했다.설아가 가창에 참여한 프로젝트 싱숭생숭(ㅅㅅㅅㅅ)의 네 번째 음원 'Flower (플라워)'가 오는 23일 발매를 확정했다.프로젝트 싱숭생숭(ㅅㅅㅅㅅ)은 마음이 들떠 어수선하고 갈팡질팡하게 만드는 봄에 어울리는 노래들을 골라 들려주는 봄 플레이리스트 프로젝트다.설아가 가창한 'Flower'는 봄처럼 화사하고 예쁜 마음들을 담은 어쿠스틱 기반의 미디엄 템포 곡이다. 조금씩 피어나는 꽃처럼 점차 변해가는 마음을 담은 가사가 리스너들의 마음에 풋풋한 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막방 D-1 ‘조선변호사’, 오늘(19일) 오리지널 사운드 트랙 발매!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22532</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22532"/>
-        <updated>2023-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[마지막 방송을 앞둔 MBC 금토드라마 ‘조선변호사’의 오리지널 사운드 트랙이 공개된다.&nbsp;‘조선변호사’(연출 김승호, 이한준/ 극본 최진영/ 제작 피플스토리컴퍼니, 원콘텐츠)의 오리지널 사운드 트랙이 19일 오후 6시 각종 음원사이트를 통해 발매된다.&nbsp;‘조선변호사’ 오리지널 사운드 트랙에는 타이틀곡인 통쾌함을 선사한 비투비 이창섭의 ‘Run away’와 애절한 마음을 표현한 소유의 ‘시간을 돌려서’를 비롯해 록 장르로 강렬함을 더한 난아진의 ‘LEAD’, 사랑스러운 분위기를 그린 보라미유의 ‘우린 다시 봄’ 등이 포함됐다.&nbsp;이 외에도..]]></content>
     </entry>
 </feed>
