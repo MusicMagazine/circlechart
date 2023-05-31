@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-31T06:24:03.282Z</updated>
+    <updated>2023-05-31T07:16:15.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN's "DARK BLOOD" Tops the Retail Album Chart in Week 21 of the CIRCLE CHAR..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22573</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22573"/>
+        <updated>2023-05-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA["DARK BLOOD" by ENHYPEN topped the weekly Retail Album Chart during week 21 of the CIRCLE CHART (formerly Gaonchart).By Monday at 7 p.m., on the day of its release, "DARK BLOOD" had the highest number of sales for week 21 of chart rankings.ENHYPEN's 4th mini album, "DARK BLOO..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘판타지오 신인’ 루네이트, 데뷔 앨범 ‘CONTINUE?’ 8人 개인컷 공개 완료! 질주 본능 깨웠다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22568</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22553"/>
         <updated>2023-05-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[(G)I-DLE's "I Feel" was able to top the weekly Retail Album Chart during the 20th week of the CIRCLE CHART (formerly Gaonchart).&nbsp;By Monday at 4 p.m., on the day of its release, “I Feel” had the highest number of sales for week 20 of chart rankings.&nbsp;(G)I-DLE's sixth mini-album, “I Fee..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황인욱, 신곡 '이 새벽에 전화하는 건' M/V 티저 공개…명품 보이스 '몰입감 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22551</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22551"/>
-        <updated>2023-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 황인욱이 뮤직비디오 티저를 공개하며 신곡 열기를 이어간다.황인욱은 지난 23일 하우엔터테인먼트 공식 SNS를 통해 새 싱글 '이 새벽에 전화하는 건'의 뮤직비디오 티저를 공개했다.공개된 티저엔 함께 피아노를 연주하고 장난을 치며 시간을 보내는 연인의 모습, 여자의 메시지를 보고 한숨을 쉬는 남자의 모습 등 대비되는 분위기의 장면들이 담겨있어 궁금증을 고조시키고 있다.특히 흘러나오는 멜로디와 어우러지는 "이 새벽에 전화하는 건 / 혼자 술에 취해 받지 않을 전화를"이라는 가사가 팬들의 귀를 사로잡았다..]]></content>
     </entry>
 </feed>
