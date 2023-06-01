@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-05-31T23:14:26.412Z</updated>
+    <updated>2023-06-01T01:44:58.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 미니 6집 'Love Pt.3 : Eternally' 프로모션 플랜 공개…29일 컴백 카운트다운 돌입]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22577</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22577"/>
+        <updated>2023-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)가 본격적인 컴백 카운트다운에 돌입했다.위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 1일 0시 공식 SNS를 통해 여섯 번째 미니앨범 'Love Pt.3 : Eternally'의 프로모션 플랜을 공개했다.공개된 플랜에 따르면 위아이는 오는 2일 'Faith in love A' 버전의 콘셉트 포토를 공개하며 컴백 예열에 나선다. 이후 5일부터 9일까지는 멤버별 티저 영상을, 11일에는 트랙리스트를 공개하며 'Love Pt.3 : Eternally'의 무드..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN's "DARK BLOOD" Tops the Retail Album Chart in Week 21 of the CIRCLE CHAR..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22573</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22555"/>
         <updated>2023-05-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 청춘 드라마 같은 뮤직비디오를 선보인다.CIX(BX, 승훈, 배진영, 용희, 현석)는 26일 0시 공식 유튜브 채널에 여섯 번째 EP ‘‘OK’ Episode 2 : I’m OK (오케이 에피소드 2 : 아임 오케이)’ 타이틀곡 ‘Save me, Kill me (세이브 미, 킬 미)’의 첫 번째 뮤직비디오 티저 영상을 공개했다.영상은 눈물을 흘리고 있는 용희의 모습으로 시작한다. “그때 우리를 생각하면 나도 조금은 살고 싶어졌어”라는 내레이션에 이어 “성스러운 물에서 돌아왔을 때 다시 살아나고 순수해져서 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(G)I-DLE's "I Feel" Tops the Retail Album Chart in Week 20 of the CIRCLE CHART]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22553</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22553"/>
-        <updated>2023-05-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[(G)I-DLE's "I Feel" was able to top the weekly Retail Album Chart during the 20th week of the CIRCLE CHART (formerly Gaonchart).&nbsp;By Monday at 4 p.m., on the day of its release, “I Feel” had the highest number of sales for week 20 of chart rankings.&nbsp;(G)I-DLE's sixth mini-album, “I Fee..]]></content>
     </entry>
 </feed>
