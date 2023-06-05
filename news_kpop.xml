@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-05T01:19:53.370Z</updated>
+    <updated>2023-06-05T02:50:51.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIRCLE CHART Week 21: FIFTY FIFTY, IVE, and ENHYPEN Dominate!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22590</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22590"/>
+        <updated>2023-06-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY, IVE, and ENHYPEN come out on top in the 21st week of CIRCLE CHART (formerly Gaonchart).The publisher of CIRCLE CHART, KMCA, announced that "FIFTY FIFTY was at the top of the Global K-pop Chart in the 21st week (between May 21st, 2023 and May 27th, 2023), while IVE and ENHYPEN were e..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['13일 솔로 데뷔' 렌(최민기), 장발+레트로 무드로 만능 스펙트럼 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22588</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22563"/>
         <updated>2023-05-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 렌(REN, 최민기)이 솔로 데뷔곡으로 'Ready to Move'를 준비했다.렌은 30일 0시 공식 SNS를 통해 오는 6월 13일 발매하는 첫 번째 솔로 미니앨범 'Ren'dezvous'(랑데부)의 트랙리스트 이미지를 공개했다.'Ren'dezvous'는 타이틀곡 'Ready to Move'(레디 투 무브)와 'Autofill'(오토필), 'Imagine More'(이매진 모어)', 'Lullaby (11:03)..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인(n.SSign), 프리 데뷔 리패키지 'Monologue' 발매 기념 日 팬미팅 성료…전석 매진 '기염']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22562</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22562"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 일본 아베마를 접수했다.그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)은 지난 27일 프리 데뷔 미니앨범 리패키지 'Monologue(모놀로그)'를 발매하고 글로벌 팬들의 이목을 집중시켰다.또 같은 날 오후 일본 라인 큐브 시부야 공연장에서 'n.SSign JAPAN FANMEETING 'Monologue'(엔싸인 일본 팬미팅 '모놀로그')를 열고 현지 팬들을 만났다. 이날 팬미팅은 일본 OTT 플랫폼 아베마(..]]></content>
     </entry>
 </feed>
