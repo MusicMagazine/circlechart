@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-04T23:14:23.073Z</updated>
+    <updated>2023-06-05T01:19:53.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' 케이시, 6월 단독 콘서트서 '사실말야내가말야그게그러니까말이야' 무대 최초 공개! '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22587</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22587"/>
+        <updated>2023-06-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 케이시(Kassy)가 팬들에게 신곡 무대를 최초로 공개한다.케이시는 지난 4일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '사실말야내가말야그게그러니까말이야'를 발매하며 성공적인 컴백을 알렸다.'사실말야내가말야그게그러니까말이야'는 포크, 알앤비 풍의 발라드 곡으로, 살랑거리는 여름 바람이 느껴지는 멜로디에 케이시의 목소리를 더해 완성도를 높였다. 케이시는 차별화된 감성으로 사랑에 빠진 한 여자가 솔직한 마음을 취중진담으로 고백하는 이야기로 리스너들의 감성을 저격했다.케이시는 오는 16일부터 1..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘6월 29일 컴백’ 위아이, 쇼콘 개최 확정! 미니 6집 ‘Love Pt.3 : Eternally’ 열기 잇는다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22572</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22530"/>
         <updated>2023-05-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 방용국이 월드투어를 본격적으로 시작한다.&nbsp;&nbsp;방용국은 19일과 21일 일본 오사카와 도쿄에서 월드투어 'THE COLORS OF BANG YONG GUK(더 컬러즈 오브 방용국)'을 개최한다.&nbsp;&nbsp;'THE COLORS OF BANG YONG GUK'은 방용국이 솔로 활동을 시작한 이후 처음으로 진행하는 월드투어다. '방용국의 색깔'이라는 주제에 맞게 방용국은 자신만의 다채로운 음악적 색깔을 선보일 예정이다.&nbsp;&nbsp;방용국은 앞서 "이번 투어를 통해 위선적이고 오만한, 거친 여러 가지의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백호, 오늘(12일)부터 미니 콘서트 ‘BAEKHoney Day’ 개최…dOnO들과 달콤한 시간!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22486</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22486"/>
-        <updated>2023-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 백호가 팬들과 달콤한 시간을 보낸다.백호는 오늘(12일)부터 14일까지 3일간 서울 광장동 예스24라이브홀에서 ‘2023 BAEKHO MINI CONCERT “BAEKHoney Day’ IN SEOUL’(이하 ‘BAEKHoney Day’)를 개최한다. 이는 지난해 7월 단독 오프라인 팬미팅 ‘BAEKATION’ 이후 약 10개월 만에 국내 팬들과 만나는 자리다.오랜만에 팬들과 만나는 시간인 만큼 백호는 최상의 무대를 선보이기 위해 맹연습을 거듭해왔다. 라이브 밴드는 물론 다채로운 구성을 준비했다고 소속사 측은 전했다.앞서 백호..]]></content>
     </entry>
 </feed>

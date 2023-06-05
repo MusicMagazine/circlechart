@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-04T23:14:23.082Z</updated>
+    <updated>2023-06-05T01:19:53.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['13일 솔로 데뷔' 렌(최민기), 장발+레트로 무드로 만능 스펙트럼 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22588</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22588"/>
+        <updated>2023-06-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 렌(REN, 최민기)이 트렌디한 매력을 발산했다.&nbsp;렌은 5일 0시 공식 SNS를 통해 첫 번째 솔로 미니앨범 'Ren'dezvous'(랑데부)의 SEASON(시즌) 버전 콘셉트 포토를 공개했다.&nbsp;앞서 공개된 SEED(시드) 버전에 이어 이날 처음으로 베일을 벗은 SEASON 콘셉트 포토 속 렌은 만개한 매력을 선보였다.장발 헤어와 꽃 메이크업으로 연출한 렌의 키치한 비주얼이 눈길을 사로잡는다. 선글라스와 부츠컷 팬츠는 레트로한 느낌을 풍긴다.렌은 록 스타처럼 자유분방한 매력을 드러내다가도 깊이 있는 눈빛과..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이시, 신곡 '사실말야내가말야그게그러니까말이야' M/V 티저 공개…빈티지 감성 '궁금증 고조']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22583</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22562"/>
         <updated>2023-05-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA['청춘스타' 우승팀 엔싸인(n.SSign)이 일본 아베마를 접수했다.그룹 엔싸인(현, 준혁, 도하, 한준, 희원, 성윤, 카즈타)은 지난 27일 프리 데뷔 미니앨범 리패키지 'Monologue(모놀로그)'를 발매하고 글로벌 팬들의 이목을 집중시켰다.또 같은 날 오후 일본 라인 큐브 시부야 공연장에서 'n.SSign JAPAN FANMEETING 'Monologue'(엔싸인 일본 팬미팅 '모놀로그')를 열고 현지 팬들을 만났다. 이날 팬미팅은 일본 OTT 플랫폼 아베마(..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['6월 1일 발매' 비아이, 영화 같은 정규 2집 'TO DIE FOR' 에피소드 필름 티저 공개! 청춘의 단면]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22561</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22561"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 비아이(B.I)가 정규 2집 발매에 앞서 신곡 9곡의 이야기를 담은 에피소드 필름을 선보인다.&nbsp;비아이는 29일 0시 131레이블 공식 유튜브 채널에 두 번째 정규앨범 'TO DIE FOR (투 다이 포)'의 에피소드 필름을 예고하는 티저 영상을 공개했다.이번 에피소드 필름은 정규 2집의 더블 타이틀곡 '겁도없이 (Dare to Love) (feat. BIG Naughty)', 'Die for love (다이 포 러브) (feat. Jessi)'를 비롯해 'To Die (투 ..]]></content>
     </entry>
 </feed>
