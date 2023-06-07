@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-07T05:13:32.836Z</updated>
+    <updated>2023-06-07T06:18:16.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[aespa ‘MY WORLD’ - The 3rd Mini Album ‘Takes Top Spot in the May CIRCLE CHART Re..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22596</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22596"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the May CIRCLE CHART, aespa ‘MY WORLD - The 3rd Mini Album’ took the No. 1 spot in the monthly Retail Album Chart.&nbsp;Released on May 8th, ‘MY WORLD ? The 3rd Mini Album’ features 6 tracks that tell the story of Season 2 of aespa’s fictional universe as the members make their way back to the REAL WO..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 한 달 차 신인' 에이디야, 'Per' 킬링 포인트→완벽했던 순간 직접 밝혔다!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22592</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22567"/>
         <updated>2023-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[8TURN(에잇턴)이 색다른 스포일러 이미지로 팬들의 시선을 끌었다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 29일과 30일 오후 공식 SNS를 통해 두 번째 미니앨범 'UNCHARTED DRIFT (언차티드 드리프트)'의 스포일러 이미지를 공개했다.공개된 이미지에는 'rain wice wist', '공주와 왕자의 운명적인 공통점', '막내의 First', '론럼림', '일주일 중 3일만 만나자', '슬픔을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIRCLE CHART Week 20: FIFTY FIFTY, IVE, and (G)I-DLE Come Out on Top!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22566</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22566"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[FIFTY FIFTY, IVE, and (G)I-DLE made key gains in the 20th week of CIRCLE CHART (formerly Gaonchart).KMCA, the publisher of CIRCLE CHART, announced that "FIFTY FIFTY topped the Global K-pop Chart in the 20th week (between May 14th, 2023 and May 20th, 2023), IVE was able to win two gold medals, an..]]></content>
     </entry>
 </feed>
