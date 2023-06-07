@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-06T23:14:57.327Z</updated>
+    <updated>2023-06-07T01:23:42.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['데뷔 한 달 차 신인' 에이디야, 'Per' 킬링 포인트→완벽했던 순간 직접 밝혔다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22592</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22592"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ADYA(에이디야)가 'Per'로 '퍼'펙트한 첫 번째 단추를 끼웠다.&nbsp;그룹 에이디야(연수·서원·세나·채은·승채)는 최근 싱글 앨범 'ADYA'의 타이틀곡 'Per'를 발표하고 본격적으로 '데뷔'라는 모험에 나섰다. 'Per'는 'Perfect'의 줄임말로 새로운 도전과 모험을 출발하는 모습을 단정 짓지 않은 그들만의 방식으로 표현한 곡이다.이번 노래는 그들이 건네는 첫 번째 인사다. 처음으로 대중 앞에 서서 다양한 도전과 경험에 마..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIRCLE CHART Week 21: FIFTY FIFTY, IVE, and ENHYPEN Dominate!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22590</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22566"/>
         <updated>2023-05-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[FIFTY FIFTY, IVE, and (G)I-DLE made key gains in the 20th week of CIRCLE CHART (formerly Gaonchart).KMCA, the publisher of CIRCLE CHART, announced that "FIFTY FIFTY topped the Global K-pop Chart in the 20th week (between May 14th, 2023 and May 20th, 2023), IVE was able to win two gold medals, an..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌(최민기), 첫 솔로앨범 'Ren'dezvous' 트랙리스트 공개! 5곡 완성도 기대 UP]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22563</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22563"/>
-        <updated>2023-05-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 렌(REN, 최민기)이 솔로 데뷔곡으로 'Ready to Move'를 준비했다.렌은 30일 0시 공식 SNS를 통해 오는 6월 13일 발매하는 첫 번째 솔로 미니앨범 'Ren'dezvous'(랑데부)의 트랙리스트 이미지를 공개했다.'Ren'dezvous'는 타이틀곡 'Ready to Move'(레디 투 무브)와 'Autofill'(오토필), 'Imagine More'(이매진 모어)', 'Lullaby (11:03)..]]></content>
     </entry>
 </feed>

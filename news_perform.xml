@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-06T23:14:57.328Z</updated>
+    <updated>2023-06-07T01:23:42.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 일본?유럽→북미까지 두 번째 월드투어 'PASSION' 성료! "더 좋은 무대로 보답할 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22593</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22593"/>
+        <updated>2023-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)가 두 번째 월드투어를 성공적으로 마무리했다.위아이는 지난달 24일 뉴욕, 25일 시카고, 28일 덴버, 29일 샌프란시스코, 31일 로스앤젤레스, 6월 4일 멕시코 시티에서 두 번째 월드투어 'WEi 2ND WORLD TOUR &lt;PASSION&gt;'을 개최하고 팬들을 만났다.이날 위아이는 웅장한 무대에서 등장해 'Spray (스프레이)'와 'ROSE (로즈)'로 공연의 시작을 알렸다. 또한 '모 아님 도', 'Higher Ground (하이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백' 케이시, 6월 단독 콘서트서 '사실말야내가말야그게그러니까말이야' 무대 최초 공개! '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22587</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22537"/>
         <updated>2023-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 단독 팬미팅을 성황리에 마쳤다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 19일부터 21일까지 3일간 서울 광진구 예스24 라이브홀에서 2023년 단독 팬미팅 'SWITH Gelato Factory (스윗 젤라토 팩토리)'를 열고 팬들을 만났다.'SWITH Gelato Factory'는 스테이씨가 지난해 8월 개최한 데뷔 첫 팬미팅 이후 약 9개월 만에 국내에서 개최하는 팬미팅이다. 오랜만에 팬들을 만나는 만큼 이날 공연장은 더욱 뜨거운 열기로 가득 채워졌다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방용국, 오늘(19일) 첫 솔로 월드투어 'THE COLORS OF BANG YONG GUK' 본격 돌입!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22530</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22530"/>
-        <updated>2023-05-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 방용국이 월드투어를 본격적으로 시작한다.&nbsp;&nbsp;방용국은 19일과 21일 일본 오사카와 도쿄에서 월드투어 'THE COLORS OF BANG YONG GUK(더 컬러즈 오브 방용국)'을 개최한다.&nbsp;&nbsp;'THE COLORS OF BANG YONG GUK'은 방용국이 솔로 활동을 시작한 이후 처음으로 진행하는 월드투어다. '방용국의 색깔'이라는 주제에 맞게 방용국은 자신만의 다채로운 음악적 색깔을 선보일 예정이다.&nbsp;&nbsp;방용국은 앞서 "이번 투어를 통해 위선적이고 오만한, 거친 여러 가지의 ..]]></content>
     </entry>
 </feed>
