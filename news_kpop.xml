@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-09T08:17:51.842Z</updated>
+    <updated>2023-06-09T09:14:10.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[May CIRCLE CHART: FIFTY FIFTY, IVE, and aespa Dominate the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22607</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22607"/>
+        <updated>2023-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY, IVE, and aespa made strong showings in the May CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for May 2023, FIFTY FIFTY took the top spot in the Global K-pop Chart while both IVE and aespa topped two charts respectively.”FIFTY FIFTY topped ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['29일 컴백' 위아이, 미니 6집 'Love Pt.3 : Eternally' 멤버별 티저 영상 공개 완료…청량 끝판왕]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22606</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22583"/>
         <updated>2023-06-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA['신예' 류민희가 딩고와 손잡고 두 번째 신곡을 발매한다.&nbsp;딩고 뮤직은 오는 3일 오후 6시 각종 음원 사이트를 통해 류민희의 신곡 '너 지금 취했나봐'를 공개한다.&nbsp;'너 지금 취했나봐'는 사랑을 시작하는 연인의 달콤한 감정을 그려낸 곡이다. 류민희 특유의 유니크한 음색과 폭발적인 가창력을 온전히 느낄 수 있으며, 더운 날씨에 시원하게 들을 수 있는 이지리스닝 곡이다.&nbsp;지난해 방송된 K-POP 서바이벌 프로그램 '청춘스타'에서 아이유를 쏙 빼닮은 외모로 화제가 된 류민희는 현..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이시, 신곡 '사실말야내가말야그게그러니까말이야' M/V 티저 공개…빈티지 감성 '궁금증 고조']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22582</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22582"/>
-        <updated>2023-06-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 케이시(Kassy)가 듣자마자 빠져드는 목소리로 음악팬들의 감성을 저격한다.&nbsp;케이시는 지난 1일 오후 공식 SNS를 통해 새 싱글 '사실말야내가말야그게그러니까말이야'의 뮤직비디오 티저 영상을 공개했다.&nbsp;공개된 영상은 시작부터 독특한 영상미로 몰입감을 선사하고 있다. 통통 튀는 색감과 엎질러진 커피, 냉장고 안에 붙어있는 남자의 사진 등 독특한 오브제들은 스타일리시하면서 빈티지한 감성을 한층 끌어올렸고, 영상 말미 서로 마주 보고 미소 짓는 남녀의 모습이 궁금증을 고조시켰다.&nbsp;특히 경쾌한 리듬감과 어우러지는 케이시..]]></content>
     </entry>
 </feed>
