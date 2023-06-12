@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-06-11T23:15:13.984Z</updated>
+    <updated>2023-06-12T01:22:27.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지아, 가슴 아픈 이별 이야기로 돌아온다! 22일 새 싱글 ‘사랑하지 않아서 그랬니’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22612</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22612"/>
+        <updated>2023-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 지아가 가슴 아픈 이별 이야기로 돌아온다.지아는 오는 22일 새 싱글 ‘사랑하지 않아서 그랬니’를 발매한다.지난 11일 플렉스엠 공식 SNS에는 지아의 신보 소식을 전하는 티저 영상이 공개됐다. 공개된 영상에는 쓸쓸하고 아련한 음악과 함께 눈물이 가득한 눈으로 정면을 바라보는 여자들의 모습이 담겨있어 궁금증을 자아냈다.신곡 ‘사랑하지 않아서 그랬니’는 지난 4월 발매 후 지금까지 음원 차트에서 좋은 성적을 유지하고 있는 임한별의 ‘사랑하지 않아서 그랬어’의 답가 버전으로 원곡 가수인 임한별이 직접 프로젝트를 제안하였고, 가사와..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DK(디셈버), 오늘(9일) 신곡 '같이 살자' 발매…바이브 류재현 프로듀싱 참여 '시너지 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22604</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22586"/>
         <updated>2023-06-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 다이아(DIA) 출신 백예빈이 홀로서기에 나선다.5일 소속사 냠냠엔터테인먼트는 "백예빈이 오는 14일 첫 싱글 '비행구름'을 발매한다"고 밝혔다.백예빈은 그룹 다이아에서 메인보컬을 맡았던 매력적인 음색의 소유자로, 이번 '비행구름' 또한 백예빈의 보이스에 어울리는 청량한 느낌으로 선보일 예정이다.특히 '비행구름'은 백예빈이 솔로 가수로 첫 발을 내딛는 의미 있는 곡으로, 그를 믿어주고 기다려 준 팬들을 향한 마음이 담겼다.백예빈은 지난해 냠냠엔터테인먼트와 전속계약을 맺고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종현(JR), ASMR 드라마 '소리사탕' 첫 번째 OST 가창자…오늘(5일) '별' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22585</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22585"/>
-        <updated>2023-06-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김종현(JR)이 ASMR 드라마 '소리사탕' OST의 첫 번째 주자로 나선다.김종현이 참여한 '소리사탕-나를 채우는 너의 소리'(극본 김은예/연출 강희주/기획·제작 n.CH 엔터테인먼트, 이하 '소리사탕')의 첫 번째 OST '별'이 오늘 정오 발매된다.'별'은 주인공 강해성 역을 맡은 김종현이 가창한 곡이다. 김종현은 편안하고 차분한 목소리로 또 다른 매력을 선보일 뿐만 아니라, 극 중 캐릭터의 색깔을 선명히 했다.특히 세계 최초 ASMR 드라마로 이목을..]]></content>
     </entry>
 </feed>
