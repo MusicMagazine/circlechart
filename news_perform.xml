@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-12T22:14:15.656Z</updated>
+    <updated>2023-06-13T01:25:21.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘아시아 스타’ 김재중, 亞 투어 ‘ in Macau’ 공연 성료]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22619</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22619"/>
+        <updated>2023-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[김재중이 마카오 콘서트를 성황리에 마무리했다.&nbsp;김재중은 지난 10일, 11일 양일에 걸쳐 마카오에서 2023 아시아 투어 콘서트 ‘&lt;J-PARTY&gt; in Macau(&lt;제이-파티&gt; 인 마카오)’를 개최, 팬들과 뜻깊은 시간을 보냈다.&nbsp;’&lt;J-PARTY&gt;‘는 지난 1월과 3월 서울과 대만 타이베이에서 개최되었고, 김재중은 이번 6월 마카오 공연으로 다시 한번 팬들을 만났다. 또한 김재중은 마카오 공연을 전석 매진시켜 추가 공연을 할 만큼 ’아시아 스타‘다운 저력을 보여줬다.&nbsp;오랜만에 공연으로 마카오를 찾..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 일본?유럽→북미까지 두 번째 월드투어 'PASSION' 성료! "더 좋은 무대로 보답할 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22593</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22541"/>
         <updated>2023-05-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 위아이(WEi)가 2023년 첫 유럽투어를 성황리에 마쳤다.위아이는 지난 20일 영국 런던, 21일 독일 베를린에서 두 번째 월드투어 ‘WEi 2ND WORLD TOUR &lt;PASSION&gt;’을 개최했다.이날 위아이는 ‘Spray (스프레이)’와 ‘ROSE (로즈)’로 오프닝 무대를 열고 팬들과 첫인사를 나눴다. 위아이는 “올해 유럽투어는 처음인데 너무 행복하고 설렌다. 잊지 못할 그날을 저희가 선사해 드리겠다”고 팬들과 함께하게 된 소감부터 전했다.이어 ‘모 아님 도’, ‘Higher Ground (하이어 그라운드)’..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 단독 팬미팅 'SWITH Gelato Factory' 성료! 남다른 팬사랑 "행복하게 해드릴 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22537</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22537"/>
-        <updated>2023-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 단독 팬미팅을 성황리에 마쳤다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 19일부터 21일까지 3일간 서울 광진구 예스24 라이브홀에서 2023년 단독 팬미팅 'SWITH Gelato Factory (스윗 젤라토 팩토리)'를 열고 팬들을 만났다.'SWITH Gelato Factory'는 스테이씨가 지난해 8월 개최한 데뷔 첫 팬미팅 이후 약 9개월 만에 국내에서 개최하는 팬미팅이다. 오랜만에 팬들을 만나는 만큼 이날 공연장은 더욱 뜨거운 열기로 가득 채워졌다...]]></content>
     </entry>
 </feed>
