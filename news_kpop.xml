@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-14T07:13:55.023Z</updated>
+    <updated>2023-06-14T08:18:20.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 23 CIRCLE CHART: Stray Kids '★★★★★ (5-STAR)' at Top of Retail Album Chart f..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22625</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22625"/>
+        <updated>2023-06-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 23 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by Stray Kids '★★★★★ (5-STAR)' for the 2nd consecutive week.Released on June 2nd, '★★★★★ (5-STAR)' sold the most copies as of 5PM (KST) on June 8th (Thursday, week 23).'★★★★★ (5-STAR)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘K트롯 여신’ 김소연, 컴백 확정…데뷔 싱글 이후 8개월 만]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22623</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22613"/>
         <updated>2023-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[8TURN(에잇턴)이 미니 2집의 스토리 트레일러를 공개하며 컴백 기대감을 한층 높였다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 12일 오후 공식 SNS를 통해 두 번째 미니앨범 'UNCHARTED DRIFT (언차티드 드리프트)'의 스토리 트레일러 영상을 공개했다.&nbsp;공개된 영상은 한 편의 하이틴 영화를 방불케 하는 공간에서 시작되어 드라마틱한 영상미와 긴장감 넘치는 연출로 도입부부터 강렬한 임팩트를 선사했다.&nbsp;책상 위 단잠을 청하던 여덟 멤버들은 각자의 꿈 속으로 떨어진다. 현실인 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['29일 컴백' 위아이, 미니 6집 트랙리스트 공개…초호화 작가진→장대현 참여 '완성도 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22611</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22611"/>
-        <updated>2023-06-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi)의 미니 6집 트랙리스트가 베일을 벗었다.위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 11일 공식 SNS를 통해 여섯 번째 미니앨범 'Love Pt.3 : Eternally'의 트랙리스트를 공개했다.저녁 노을과 여유로운 해변의 분위기를 담아낸 트랙리스트 이미지에 따르면 이번 앨범에는 타이틀곡 '질주(OVERDRIVE)'를 비롯해 'Be alright (chillin')', 'Thriller', '너의 행성 (All Da..]]></content>
     </entry>
 </feed>
