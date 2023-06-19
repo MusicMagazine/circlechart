@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-06-18T23:15:07.874Z</updated>
+    <updated>2023-06-19T01:16:43.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['고등래퍼2' 달군 키프클랜 원년 멤버 빈첸X임수, 7월 2일 컬래버 앨범 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22638</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22638"/>
+        <updated>2023-06-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[키프클랜 원년 멤버 빈첸과 임수가 새 앨범을 발매한다.&nbsp;19일 로맨틱팩토리는 "Mnet '고등래퍼 2'로 신드롬을 일으켰던 힙합크루 키프클랜의 원년멤버 빈첸과 임수가 7월 2일 컬래버레이션 앨범을 발표한다"라며 "앨범명은 추후 공개할 예정"이라고 밝혔다.&nbsp;&nbsp;총 4곡으로 구성된 이번 앨범은 타이틀곡인 'sOs(에스오에스)'를 비롯해, 'Rose &amp; White(로즈 앤 화이트)', 'LaLaLa(라라라)', 'More(모어)'가 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준수(XIA), 오늘(16일) 영화 '여름날 우리' 컬래버 음원 '축가' 발매…'영화 감동X몰입도 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22634</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22603"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹사운드 잔나비가 특별한 협업을 예고했다.잔나비는 오는 21일 전 온라인 음원사이트를 통해 '헤리티지 뮤직 프로젝트' 음원 'pony(포니)'를 발매한다.'헤리티지 뮤직 프로젝트'는 시간이 흘러도 변치 않는 기억 속 앞으로의 삶을 지탱하고 나아가게끔 하는 가치인 '헤리티지'를 재조명하는 음악 프로젝트다.&nbsp;향수를 자극하는 노랫말과 따뜻한 정서의 음악들로 세대를 불문한 팬층으로부터 사랑받는 잔나비가 저마다의 헤리티지를 찾도록 도울 계획이다.잔나비와 현대자동차가 협업한 곡 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란?이도현?안은진 주연 ‘나쁜엄마’, 오늘(8일) 온라인 컴필레이션 발매…웰메이드 OST 가득]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22601</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22601"/>
-        <updated>2023-06-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[‘나쁜엄마’ 온라인 컴필레이션이 드라마의 여운을 잇는다.&nbsp;JTBC 수목드라마 ‘나쁜엄마(연출 심나연 / 극본 배세영 / 제작 드라마하우스스튜디오?SLL?필름몬스터)’의 온라인 컴필레이션이 8일 정오 각종 온라인 음원사이트를 통해 발매된다.이번 앨범에는 하진의 ‘A Dreamy Town (어 드리미 타운)’, 김푸름의 ‘Good Night (굿나잇)’, 폴킴의 ‘너의 대하여’, 멜로망스의 ‘다시 사랑할 수 있게’, 제휘의 ‘The Road not Taken (더 로드 낫 테이큰)’, 이문세의 ‘사랑을 말해요’, 리오의 ‘말해주자’, ..]]></content>
     </entry>
 </feed>
