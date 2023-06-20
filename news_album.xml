@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-06-19T23:15:33.394Z</updated>
+    <updated>2023-06-20T01:14:34.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['활동명 변경'  1000°(천도), 오늘(20일) 신곡 '독한X' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22641</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22641"/>
+        <updated>2023-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 1000°(천도)의 신곡이 베일을 벗는다.&nbsp;&nbsp;1000°(천도)는 20일 정오 새 싱글 '독한X'를 발매한다.&nbsp;&nbsp;'독한X'는 헤어지고 독하게 살고 있는 것 같지만 속으로는 그렇지 않다는 이야기를 담은 발라드곡이다. 임영웅, EXO 백현, EXO-CBX(첸백시), NCT 도영, 오마이걸, 멜로망스, 10CM, 헤이즈, 청하 등의 노래를 작사, 작곡 및 프로듀싱한 Sticky H가 프로듀싱을 맡아 완성도를 높였다.&nbsp;&nbsp;1000°(천도)는 최근 활동명을 바꾸고 새로운 활동을 예고했다. 앞서 다양한 곡..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고등래퍼2' 달군 키프클랜 원년 멤버 빈첸X임수, 7월 2일 컬래버 앨범 발매 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22638</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22604"/>
         <updated>2023-06-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 DK(디셈버)가 바이브(VIBE) 류재현과 만나 폭발적인 감성 시너지를 선보인다.DK는 9일 오후 6시 신곡 '같이 살자'를 발매한다.'같이 살자'는 사랑하는 사람에게 전하는 진정성 넘치는 세레나데다. 나의 마지막 순간과 그 사람의 마지막 순간까지도 함께 나누고 싶은 진심 어린 마음을 따스하면서도 청량한 감성으로 표현했다.특히 바이브 류재현 프로듀싱팀 VIP(VIBE IN PLAY)가 총괄 프로듀싱에 참여해 DK와 환상적인 감성 시너지를 선보일 예정이다.DK는 그간 '나와 헤어진 걸 다행이라..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 X 현대자동차, 21일 '헤리티지 뮤직 프로젝트' 음원 'pony' 공개…특별한 협업으로 전할 '아날로그 감성']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22603</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22603"/>
-        <updated>2023-06-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹사운드 잔나비가 특별한 협업을 예고했다.잔나비는 오는 21일 전 온라인 음원사이트를 통해 '헤리티지 뮤직 프로젝트' 음원 'pony(포니)'를 발매한다.'헤리티지 뮤직 프로젝트'는 시간이 흘러도 변치 않는 기억 속 앞으로의 삶을 지탱하고 나아가게끔 하는 가치인 '헤리티지'를 재조명하는 음악 프로젝트다.&nbsp;향수를 자극하는 노랫말과 따뜻한 정서의 음악들로 세대를 불문한 팬층으로부터 사랑받는 잔나비가 저마다의 헤리티지를 찾도록 도울 계획이다.잔나비와 현대자동차가 협업한 곡 ..]]></content>
     </entry>
 </feed>
