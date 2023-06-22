@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-21T23:14:47.723Z</updated>
+    <updated>2023-06-22T01:26:37.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트, 8월 日 쇼콘 'T-OUR' 개최 확정…오사카·도쿄 팬 만난다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660"/>
+        <updated>2023-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 국내에 이어 일본에서도 콘서트를 연다.소속사는 22일 "템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)가 8월 일본 오사카와 도쿄에서 '2023 TEMPEST SHOW CON [T-OUR]'(이하 'T-OUR')를 개최한다"고 밝혔다.'T-OUR'는 지난해 3월 데뷔한 템페스트가 1년 5개월여 만에 처음으로 개최하는 단독 콘서트다. 템페스트만의 에너지와 열정, 이야기가 가득 담긴 퍼포먼스부터 히든 스테이지까지 다양한 무대를 선사하며 팬들..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4세대 핫템' 템페스트, 8월 데뷔 첫 국내 콘서트 'T-OUR' 개최 "너무나 꿈꿔왔던 순간"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22644</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22572"/>
         <updated>2023-05-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 위아이(WEi)가 쇼콘(SHOW-CON)을 개최하며 글로벌 팬들과 소통한다.위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 30일 공식 SNS를 통해 오는 6월 28일 개최되는 2023 쇼콘 ‘Eternal Sunshine (이터널 선샤인)’ 포스터를 공개했다.&nbsp;공개된 포스터에 따르면 위아이는 오는 6월 29일 여섯 번째 미니앨범 ‘Love Pt.3 : Eternally’ 발매를 하루 앞두고 쇼콘을 개최하며 팬들과 소통한다. 찬란한 청춘의 에너지가 느껴지는 위아이의 모습과 아기자기한 포인트를 더한 포스터가 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스) 월드 투어 'THE FUTURE' 개최지 공개...7월 15일 마카오 시작으로 총 12개 도시 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22571</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22571"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 월드 투어 콘서트 'THE FUTURE'의 개최 도시를 공개했다.&nbsp;브랜뉴뮤직은 어제(30일) 오후 2시 AB6IX 공식 SNS 채널들을 통해 2023 AB6IX WORLD TOUR 'THE FUTURE'의 개최 도시가 명시된 포스터 이미지를 깜짝 공개하며 눈길을 끌었는데, 공개된 포스터에 따르면 AB6IX는 오는 7월 15일 마카오를 시작으로 8월 10일 오사카, 12일 도쿄, 18일 뉴저지 20일 애틀란타, 22일 탬파, 25일 댈러스, 27일 시카고, 29일 몬트리올,..]]></content>
     </entry>
 </feed>
