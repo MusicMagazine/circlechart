@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-23T01:34:15.515Z</updated>
+    <updated>2023-06-23T03:06:03.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스, 데뷔 첫 日 투어 확정…열도 진출 본격화]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22662</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22662"/>
+        <updated>2023-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 블리처스(BLITZERS, 진화, 고유, 주한, 샤, 크리스, 루탄, 우주)가 데뷔 이래 첫 일본 투어에 나선다.&nbsp;소속사 우조엔터테인먼트는 22일 정오 공식 SNS를 통해 블리처스의 눈부신 비주얼이 담긴 첫 단독 일본 투어와 팬콘서트 포스터를 공개하고 본격적인 일본 진출 소식을 알렸다.&nbsp;공지에 따르면 블리처스는 오는 7월 21일부터 9월 10일까지 '2023 블리처스 서머 라이브 인 재팬 '스타트 업'(2023 BLITZERS SUMMER LIVE IN JAPAN 'START UP')'..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트, 8월 日 쇼콘 'T-OUR' 개최 확정…오사카·도쿄 팬 만난다!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22587"/>
         <updated>2023-06-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 케이시(Kassy)가 팬들에게 신곡 무대를 최초로 공개한다.케이시는 지난 4일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '사실말야내가말야그게그러니까말이야'를 발매하며 성공적인 컴백을 알렸다.'사실말야내가말야그게그러니까말이야'는 포크, 알앤비 풍의 발라드 곡으로, 살랑거리는 여름 바람이 느껴지는 멜로디에 케이시의 목소리를 더해 완성도를 높였다. 케이시는 차별화된 감성으로 사랑에 빠진 한 여자가 솔직한 마음을 취중진담으로 고백하는 이야기로 리스너들의 감성을 저격했다.케이시는 오는 16일부터 1..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘6월 29일 컴백’ 위아이, 쇼콘 개최 확정! 미니 6집 ‘Love Pt.3 : Eternally’ 열기 잇는다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22572</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22572"/>
-        <updated>2023-05-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi)가 쇼콘(SHOW-CON)을 개최하며 글로벌 팬들과 소통한다.위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 30일 공식 SNS를 통해 오는 6월 28일 개최되는 2023 쇼콘 ‘Eternal Sunshine (이터널 선샤인)’ 포스터를 공개했다.&nbsp;공개된 포스터에 따르면 위아이는 오는 6월 29일 여섯 번째 미니앨범 ‘Love Pt.3 : Eternally’ 발매를 하루 앞두고 쇼콘을 개최하며 팬들과 소통한다. 찬란한 청춘의 에너지가 느껴지는 위아이의 모습과 아기자기한 포인트를 더한 포스터가 ..]]></content>
     </entry>
 </feed>
