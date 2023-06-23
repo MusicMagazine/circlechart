@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-23T04:20:06.659Z</updated>
+    <updated>2023-06-23T05:15:56.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 24 CIRCLE CHART: BTS, (G)-IDLE, Lim Young Woong, and ATEEZ All Over the Cha..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22669</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22669"/>
+        <updated>2023-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 24 CIRCLE CHART (formerly gaonchart) was dominated by BTS, (G)-IDLE, Lim Young Woong, and ATEEZ.KMCA, publisher of CIRCLE CHART, announced that “As of week 24(2023.06.11.~2023.06.17.), various artists including BTS, (G)-IDLE, Lim Young Woong, and ATEEZ made strong showings in the charts.”BT..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['27일 컴백' 최예나, 신보 'HATE XX' 하이라이트 메들리 공개…다채로운 감정선에 주목!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22667</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22647"/>
         <updated>2023-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[ㅍ그룹 위아이(WEi)가 청량함의 정석을 선보였다.&nbsp;위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 19일, 21일 0시 공식 SNS를 통해 여섯 번째 미니앨범 ‘Love Pt.3 : Eternally’의 Eternal love A, B 버전의 콘셉트 포토를 각각 공개했다.&nbsp;Eternal love A 버전에는 위아이가 야자수 나무를 배경으로 싱그러운 에너지를 발산하는 모습이 담겨 있다. 화이트와 블루 색감, 체크 포인트가 돋보이는 의상이 시원한 느낌을 선사했으며 자연광 아래 빛나는 위아이의 훈훈한 비주얼이 시선을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이나믹 듀오, 정규 10집 앞두고 Part.1 트랙리스트 공개! 타이틀곡은 '19']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22646</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22646"/>
-        <updated>2023-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 듀오 다이나믹 듀오가 '19'로 정규 10집의 포문을 연다.다이나믹 듀오(개코, 최자)는 지난 20일 오후 아메바컬쳐 공식 SNS를 통해 정규 10집의 첫 번째 디지털 싱글 '2 Kids On The Block - Part.1'(투 키즈 온 더 블럭 파트 원)의 트랙리스트 이미지를 공개했다.트랙리스트를 통해 '19'라는 이번 싱글 타이틀곡명이 최초로 공개됐다. '2 Kids On The Block - Part.1'에는 'Intro'(인트로)에 이어 '..]]></content>
     </entry>
 </feed>
