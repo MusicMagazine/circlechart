@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-25T23:16:12.111Z</updated>
+    <updated>2023-06-26T01:26:16.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[잔나비, 신곡 'pony' 리릭 비디오 공개…빈티지 감성 제대로 살린 무대 '감동 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22670</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22670"/>
+        <updated>2023-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹사운드 잔나비가 신곡 'pony'의 빛바랜 감성을 고스란히 전했다.&nbsp;잔나비는 지난 25일 오후 공식 SNS 계정을 통해 지난 21일 발매한 신곡 'pony(포니)'의 리릭 비디오를 게재했다.&nbsp;이날 공개된 영상에는 'pony'의 뮤직비디오 본편 속 여주인공이 열광하던 '대학가요제' 공연이 펼쳐졌다. 무대 아래 관객이 촬영한 듯한 카메라 무빙 속 빈티지한 색감과 거친 노이즈가 아날로그 감성을 더하는 가운데, 잔나비가 선사하는 'pony' 무대가 아득한 향수를 자..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 24 CIRCLE CHART: BTS, (G)-IDLE, Lim Young Woong, and ATEEZ All Over the Cha..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22669</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22648"/>
         <updated>2023-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최예나(YENA)가 전 세대를 사로잡을 힙한 매력을 발산했다.최예나는 21일 0시 공식 SNS를 통해 두 번째 싱글 앨범 'HATE XX(헤이트 엑스엑스)'의 리릭 포스터 두 장을 게재했다.먼저 첫 번째 포스터에는 타이틀곡 'Hate Rodrigo (Feat. 우기 ((여자)아이들))(헤이트 로드리고)'의 가사가 담겼다. "Oh my god! You’re my star / I'm not jealousy Rodrigo"라는 가사에서 동경하는 대상을 향한 최예나만의 귀여운 질투심을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘29일 컴백’ 위아이, 여름 닮은 청량 에너지+비주얼…미니 6집 콘셉트 포토 공개 완료!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22647</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22647"/>
-        <updated>2023-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ㅍ그룹 위아이(WEi)가 청량함의 정석을 선보였다.&nbsp;위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 지난 19일, 21일 0시 공식 SNS를 통해 여섯 번째 미니앨범 ‘Love Pt.3 : Eternally’의 Eternal love A, B 버전의 콘셉트 포토를 각각 공개했다.&nbsp;Eternal love A 버전에는 위아이가 야자수 나무를 배경으로 싱그러운 에너지를 발산하는 모습이 담겨 있다. 화이트와 블루 색감, 체크 포인트가 돋보이는 의상이 시원한 느낌을 선사했으며 자연광 아래 빛나는 위아이의 훈훈한 비주얼이 시선을..]]></content>
     </entry>
 </feed>
