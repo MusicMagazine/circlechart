@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-06-26T23:16:28.208Z</updated>
+    <updated>2023-06-27T01:27:15.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이처, 최유정X김종현 주연 '소리사탕' OST 세 번째 주자…오늘(27일) 'Fly High' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22674</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22674"/>
+        <updated>2023-06-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 네이처(NATURE)가 세계최초 ASMR 드라마 '소리사탕' OST에 참여했다.&nbsp;&nbsp;네이처가 가창한 '소리사탕-나를 채우는 너의 소리'(극본 김은예/연출 강희주/기획·제작 n.CH 엔터테인먼트, 이하 '소리사탕')의 세 번째 OST 'Fly High(플라이 하이)'가 27일 발매된다.&nbsp;'Fly High'는 네이처의 폭발하는 가창력이 돋보이는 미디움 템포의 팝 곡으로, 너른 평원처럼 펼쳐지는 시원한 기타 사운드가 네이처의 당당한 매력을 배가시켰다. 특히 희망찬..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백지영 X 엔플라잉 유회승, 듀엣 성사! 오늘(26일) 영화 ‘여름날 우리’ 컬래버 음원 ‘새벽 가로수길’ 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22673</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22654"/>
         <updated>2023-06-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김연지가 비가 오면 생각날 명곡으로 찾아온다.22일 메이저나인은 "비가 오면 생각나는 뮤직 프로젝트 'Sing In The Rain(싱 인 더 레인)'의 첫 번째 주자로 가수 김연지가 참여해 오는 25일 '비가 오면 마음껏 울어도 되니까'를 발매한다"고 밝혔다.&nbsp;이에 앞서 지난 21일 메이저나인 공식 SNS 채널에 '비가 오면 마음껏 울어도 되니까' 뮤직비디오 티저 영상이 공개됐다.영상 시작과 동시에 세차게 쏟아지는 빗소리가 들리고, 청순한 모습의 김연지가 등장해 곡의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비, 오늘(21일) 신곡 'pony' 발매…아날로그 감성 더한 '올드팝']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22651</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22651"/>
-        <updated>2023-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹사운드 잔나비가 신곡 'pony'로 리스너들과 추억 여행을 떠난다.잔나비는 21일 오후 6시 전 온라인 음원사이트를 통해 '헤리티지 뮤직 프로젝트' 음원 'pony(포니)'를 발매한다.'pony'는 보컬 최정훈의 어린 시절과 어머니와의 추억을 함께 그려낸 곡이다. 옛 시절 어머니의 애창곡들부터 자동차 뒷좌석에서 듣던 노래들로 품게 된 싱어송라이터의 꿈까지 소중한 추억을 회상하며 꿈을 향해 앞으로 나아가는 이야기를 담아냈다.&nbsp;잔나비가 'pony'로 공유할 익숙..]]></content>
     </entry>
 </feed>
