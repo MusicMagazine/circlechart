@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-27T23:16:20.927Z</updated>
+    <updated>2023-06-28T01:26:45.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 25 CIRCLE CHART: ATEEZ 'THE WORLD EP.2 : OUTLAW (MINIRECORD)' Rises to No. ..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22684</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22684"/>
+        <updated>2023-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 25 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by ATEEZ 'THE WORLD EP.2 : OUTLAW (MINIRECORD)'.Released on June 16th, 'THE WORLD EP.2 : OUTLAW (MINIRECORD)' sold the most copies as of 7PM (KST) on June 19th (Monday, week 25).&nbsp;'THE WO..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['29일 컴백' 위아이, 미니 6집 타이틀곡 '질주(OVERDRIVE)' M/V 티저 공개 완료…독보적 '청량 힐링']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22675</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22653"/>
         <updated>2023-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 24 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by SEVENTEEN '10th Mini Album `FML`'.Released on April 24th, '10th Mini Album `FML`' sold the most copies as of 3PM (KST) on June 16th (Friday, week 24).‘FML’ is the 10th mini-album from SEV..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['26일 컴백' 8TURN(에잇턴), 두 번째 미니앨범 트랙리스트 공개! 타이틀곡은 'EXCEL']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22652</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22652"/>
-        <updated>2023-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[8TURN(에잇턴)이 8TURN만의 색을 가득 담은 음악을 예고했다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 20일 공식 SNS를 통해 두 번째 미니앨범 'UNCHARTED DRIFT (언차티드 드리프트)'의 트랙리스트를 공개했다.트랙리스트에 따르면 타이틀곡 'EXCEL (엑셀)'을 비롯해 'WORLD (월드)', 'WALK IT OUT (워크 잇 아웃)', 'SKETCH (스케치)', 'ING (아이엔지)'까지 ..]]></content>
     </entry>
 </feed>
