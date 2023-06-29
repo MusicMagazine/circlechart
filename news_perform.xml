@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-06-28T23:18:10.763Z</updated>
+    <updated>2023-06-29T03:30:07.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유승우, 뮤지컬 '신의 손가락' 첫 공연 성료..."여러분의 일상이 '한스 안데르센'처럼 빛나길"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22689</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22689"/>
+        <updated>2023-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 유승우가 뮤지컬 '신의 손가락' 첫 공연을 성황리에 마무리했다.&nbsp;유승우는 지난 28일 오후 8시 대학로 드림아트센터 2관에서 열린 뮤지컬 '신의 손가락'에서 한스 안데르센 역으로 관객들과 만났다.&nbsp;'신의 손가락'은 덴마크의 동화작가이자 창작동화의 아버지라 불리는 한스 크리스티안 안데르센의 젊은 시절에 대해 다룬 작품이다. 그의 신인 시절부터 동화작가로 기반을 다지는 과정을 통해 관객들에게 위로와 용기를 전한다.&nbsp;'신의 손가락'에서 주인공 한스 안데르센 역을 맡은 유승우는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트, '파크 뮤직 페스티벌' 완전체 무대! 여름 도심 빛낸 명품 라이브]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22672</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22619"/>
         <updated>2023-06-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김재중이 마카오 콘서트를 성황리에 마무리했다.&nbsp;김재중은 지난 10일, 11일 양일에 걸쳐 마카오에서 2023 아시아 투어 콘서트 ‘&lt;J-PARTY&gt; in Macau(&lt;제이-파티&gt; 인 마카오)’를 개최, 팬들과 뜻깊은 시간을 보냈다.&nbsp;’&lt;J-PARTY&gt;‘는 지난 1월과 3월 서울과 대만 타이베이에서 개최되었고, 김재중은 이번 6월 마카오 공연으로 다시 한번 팬들을 만났다. 또한 김재중은 마카오 공연을 전석 매진시켜 추가 공연을 할 만큼 ’아시아 스타‘다운 저력을 보여줬다.&nbsp;오랜만에 공연으로 마카오를 찾..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이, 일본?유럽→북미까지 두 번째 월드투어 'PASSION' 성료! "더 좋은 무대로 보답할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22593</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22593"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi)가 두 번째 월드투어를 성공적으로 마무리했다.위아이는 지난달 24일 뉴욕, 25일 시카고, 28일 덴버, 29일 샌프란시스코, 31일 로스앤젤레스, 6월 4일 멕시코 시티에서 두 번째 월드투어 'WEi 2ND WORLD TOUR &lt;PASSION&gt;'을 개최하고 팬들을 만났다.이날 위아이는 웅장한 무대에서 등장해 'Spray (스프레이)'와 'ROSE (로즈)'로 공연의 시작을 알렸다. 또한 '모 아님 도', 'Higher Ground (하이..]]></content>
     </entry>
 </feed>
