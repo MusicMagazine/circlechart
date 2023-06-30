@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-06-29T23:15:57.962Z</updated>
+    <updated>2023-06-30T01:27:10.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신인 밴드 ‘채무자들’, 장기하, 혁오, 카더가든과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22693</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22693"/>
+        <updated>2023-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 밴드 '채무자들'이 장기하, 혁오, 카더가든 등이 소속된 두루두루 아티스트 컴퍼니(이하 두루두루)에 합류했다. 두루두루는 오늘 공식 SNS를 통해 '채무자들'의 새로운 프로필 사진을 공개하며 이 같은 사실을 알렸다. 두루두루의 새로운 음악가 합류는 지난 2021년 싱어송라이터 '임금비' 영입 소식 이후 약 2년여 만이다.'채무자들'은 임상준(보컬, 기타), 김의찬(기타, 키보드), 조휴연(베이스), 최양업(드럼) 총 네 명으로 구성된 얼터너티브 록 밴드로 지난해 2월 첫..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예 싱어송라이터 셀린(Celine), 제나두엔터테인먼트와 전속]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22595</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890"/>
         <updated>2022-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[MNH엔터테인먼트가 내년 1월 첫 보이그룹을 선보인다.20일 MNH엔터테인먼트는 “자사에서 처음으로 선보이는 신인 보이그룹 ‘B.O.M (Boys Of MNH) (가칭)’이 내년 초 데뷔를 확정했다”라고 밝혔다.B.O.M은 청하, 임상현, VVON(본) 등 다양한 장르의 아티스트들이 소속된 MNH엔터테인먼트가 야심차게 내놓은 K-POP 유망주이자 2023년 첫 보이그룹이다. 한국인 멤버 8명으로 구성되어 있으며, Mnet ‘아이랜드(I-LAND)와 Mnet ‘소년24’ 출신으로 국내외 두터운 팬덤을 일찍이 확보한 멤버(조경민, 문재..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 출신 케이, 에이투지 엔터테인먼트(팝뮤직)와 전속계약 체결…윤상·에일리·첫사랑(CSR)과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21805</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21805"/>
-        <updated>2022-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 러블리즈 출신 케이(Kei)가 새 둥지를 찾았다.2일 에이투지 엔터테인먼트(팝뮤직)는 "러블리즈 출신 케이와 최근 전속계약을 체결했다"라고 밝혔다.&nbsp;2014년 그룹 러블리즈의 메인보컬로 데뷔한 케이는 'Ah-Choo(아츄)', 'Destiny (나의 지구)' 등을 비롯한 수많은 곡을 히트시키며 큰 사랑을 받았다. 이후 솔로 앨범 'OVER AND OVER(오버 앤드 오버)'뿐만 아니라 다채로운 OST에 참여하며 활발한 활동을 펼쳤다. 또한 '서른 즈음에',..]]></content>
     </entry>
 </feed>

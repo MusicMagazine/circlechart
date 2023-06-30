@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-06-29T23:15:57.974Z</updated>
+    <updated>2023-06-30T01:27:10.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포레스텔라, 신곡 'White Night (백야)' 4人 티저 전체 공개! 콘셉츄얼 비주얼]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22694</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22694"/>
+        <updated>2023-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 신비로운 비주얼로 'White Night (백야)'의 무드를 예고했다.포레스텔라(조민규, 배두훈, 고우림, 강형호)는 지난 29일 오후 공식 SNS에 새 디지털 싱글 'White Night (백야)'(화이트 나이트)의 이미지 티저 여러 장을 게재했다.티저 속 포레스텔라 네 멤버는 각기 신비롭고 웅장한 분위기를 전달하고 있다. 푸른 배경과 어우러진 이들의 깊이 있는 눈빛과 콘셉츄얼한 스타일링이 'White Night (백야)'에 대한 기대감을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 더블 타이틀곡 ‘Voyager’ 퍼포먼스 MV 추가 공개!…‘와일드 청량’ 눈도장]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22688</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22663"/>
         <updated>2023-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신인 밴드 캐치더영(Catch The Young)이 데뷔 전 거리에서 팬들을 먼저 만난다.23일 에버모어엔터테인먼트는 "캐치더영(기훈, 산이, 남현, 정모, 준용)이 하반기 정식 데뷔를 앞두고 전국 버스킹 투어를 진행한다"고 밝혔다. 이와 함께 공식 SNS를 통해 버스킹 공지문을 게재하며 팬들의 기대감을 한층 끌어올렸다.공지문에 따르면 캐치더영은 오는 25일 부산 해운대를 시작으로 다음 달 9일까지 광주와 전주, 대전 지역을 차례대로 찾아 거리의 수많은 리스너들에게 확실한 눈도장을 찍을 계획이다.캐치더영은 딕펑스의 &amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 호기심 해결사 출격! 新 자컨 ‘호기심자윤’ 28일 그랜드 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22657</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22657"/>
-        <updated>2023-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC) 확신의 예능 캐릭터 윤이 새로운 자체제작 콘텐츠를 예고했다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 21일 오후 공식 유튜브 채널을 통해 새 자체제작 콘텐츠 ‘호기심자윤’ 티저 영상을 공개했다.공개된 영상에는 ‘궁금한 거 다 해결해드립니다! 호기심자윤’이란 명함과 함께 ‘궁금 주의’, ‘대박 지금까지 이런 호기심은 없었다’, ‘자윤아 알려줘’, ‘궁금했는데 I라서 물어보지 못했다면?’, ‘호기심 대 모집’, ‘갑자기 궁금했던 모든 것 물어볼 사람 궁금한 사람 하나도 안 궁금해도 가능’,..]]></content>
     </entry>
 </feed>
