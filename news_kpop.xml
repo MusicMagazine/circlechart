@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-04T23:16:54.861Z</updated>
+    <updated>2023-07-05T01:26:12.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이칠린, 신곡 'KICK-START' 비트+가사 일부 스포일러...'청량+펑키' 하이틴 무드]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22711</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22711"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아이칠린(ICHILLIN', 이지, 지윤, 재키, 주니, 채린, 예주, 초원)의 신곡 가사 일부가 베일을 벗었다.&nbsp;&nbsp;소속사 케이엠이엔티는 지난 3일 오후 6시 공식 유튜브 채널을 통해 아이칠린의 두 번째 미니 앨범 '아임 온 잇!(I'M ON IT!)' 타이틀곡 '킥 스타트(KICK-START)'의 리릭 스포일러 비디오를 공개했다.&nbsp;&nbsp;공개된 영상은 경쾌한 휘슬 소리와 함께 시작된 '킥 스타트'의 신나는 비트 위로 영어 가사 일부가 흘러나와 눈과 귀를 동시에 사로잡았다.&nbsp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 아름다운동행 홍보대사 위촉…스리랑카 학교에 책걸상 기부 ‘훈훈’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22703</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22675"/>
         <updated>2023-06-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 위아이(WEi)가 타이틀곡 '질주(OVERDRIVE)'의 신나는 분위기를 예고했다.&nbsp;위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 최근 공식 SNS를 통해 여섯 번째 미니앨범 'Love Pt.3 : Eternally' 타이틀곡 '질주(OVERDRIVE)'의 뮤직비디오 1?2차 티저 영상을 모두 공개했다.&nbsp;뜨거운 여름의 청량한 감성이 묻어나는 뮤직비디오 티저 영상 속 여섯 멤버는 따사로운 햇살 아래 여유를 만끽하고 있는 모습으로 싱그러운 에너지를 전한다.&nbsp;휴양지를 배경으..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비, 신곡 'pony' 리릭 비디오 공개…빈티지 감성 제대로 살린 무대 '감동 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22670</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22670"/>
-        <updated>2023-06-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹사운드 잔나비가 신곡 'pony'의 빛바랜 감성을 고스란히 전했다.&nbsp;잔나비는 지난 25일 오후 공식 SNS 계정을 통해 지난 21일 발매한 신곡 'pony(포니)'의 리릭 비디오를 게재했다.&nbsp;이날 공개된 영상에는 'pony'의 뮤직비디오 본편 속 여주인공이 열광하던 '대학가요제' 공연이 펼쳐졌다. 무대 아래 관객이 촬영한 듯한 카메라 무빙 속 빈티지한 색감과 거친 노이즈가 아날로그 감성을 더하는 가운데, 잔나비가 선사하는 'pony' 무대가 아득한 향수를 자..]]></content>
     </entry>
 </feed>
