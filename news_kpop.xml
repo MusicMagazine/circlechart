@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-05T08:21:46.917Z</updated>
+    <updated>2023-07-05T09:17:35.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids '★★★★★ (5-STAR)' Is No. 1 in the June CIRCLE CHART Retail Album Chart..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22712</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22712"/>
+        <updated>2023-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the June CIRCLE CHART, Stray Kids '★★★★★ (5-STAR)' took the top spot in the monthly Retail Album Chart.&nbsp;&nbsp;Released on June 2nd, '★★★★★ (5-STAR)' is the 3rd studio album from Stray Kids. The album enjoyed 2 consecutive weeks, from week 22 to 23, at the top of the Retail Album Chart...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이칠린, 신곡 'KICK-START' 비트+가사 일부 스포일러...'청량+펑키' 하이틴 무드]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22711</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22684"/>
         <updated>2023-06-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[For the week 25 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by ATEEZ 'THE WORLD EP.2 : OUTLAW (MINIRECORD)'.Released on June 16th, 'THE WORLD EP.2 : OUTLAW (MINIRECORD)' sold the most copies as of 7PM (KST) on June 19th (Monday, week 25).&nbsp;'THE WO..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['29일 컴백' 위아이, 미니 6집 타이틀곡 '질주(OVERDRIVE)' M/V 티저 공개 완료…독보적 '청량 힐링']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22675</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22675"/>
-        <updated>2023-06-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi)가 타이틀곡 '질주(OVERDRIVE)'의 신나는 분위기를 예고했다.&nbsp;위아이(장대현, 김동한, 유용하, 김요한, 강석화, 김준서)는 최근 공식 SNS를 통해 여섯 번째 미니앨범 'Love Pt.3 : Eternally' 타이틀곡 '질주(OVERDRIVE)'의 뮤직비디오 1?2차 티저 영상을 모두 공개했다.&nbsp;뜨거운 여름의 청량한 감성이 묻어나는 뮤직비디오 티저 영상 속 여섯 멤버는 따사로운 햇살 아래 여유를 만끽하고 있는 모습으로 싱그러운 에너지를 전한다.&nbsp;휴양지를 배경으..]]></content>
     </entry>
 </feed>
