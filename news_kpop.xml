@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-06T23:16:33.963Z</updated>
+    <updated>2023-07-07T01:26:55.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘25일 컴백’ 아일리원, 수록곡 무대 선공개 → 컴백 예열!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22721</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22721"/>
+        <updated>2023-07-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 ‘꽃이 피었습니다’ 선공개 무대를 펼친다.&nbsp;아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)이 오는 10일 진행되는 arirang TV(아리랑 티비)의 음악프로그램 ‘Simply K-Pop(심플리 케이팝)’에 출연해 컴백을 앞두고 팬들을 만난다.&nbsp;10일 유튜브 생중계되는 ‘심플리 케이팝’에서 아일리원은 25일 발매하는 두 번째 미니 앨범 ‘New Chapter(뉴 챕터)’의 수록곡을 컴백에 앞서 처음 선보이고 팬들과 함께 소통하는 시간을 가진다.두 번째 미니앨범의 수록곡 ‘꽃이 피었습니다’는 컴백을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids '★★★★★ (5-STAR)' Is No. 1 in the June CIRCLE CHART Retail Album Chart..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22712</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22686"/>
         <updated>2023-06-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김재환이 신곡 '개이득' 챌린지 열기를 이어가고 있다.&nbsp;&nbsp;김재환은 최근 여섯 번째 미니앨범 'J.A.M(잼)'을 발매하고 타이틀곡 '개이득 (Feat. BOBBY)' 챌린지를 진행하며 SNS 상에서 뜨거운 반응을 모으고 있다.&nbsp;&nbsp;'개이득 (Feat. BOBBY)'은 속이 뻥 뚫릴 만큼 시원하고 파워풀한 김재환의 보컬, 한 번만 들어도 흥얼거릴 만큼 중독적인 멜로디를 지닌 강렬한 곡이다. 지금까지 김재환이 선보였던 음악과는 180도 다른 분위기의 곡으로, 흥을 돋우는 통통..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 25 CIRCLE CHART: ATEEZ 'THE WORLD EP.2 : OUTLAW (MINIRECORD)' Rises to No. ..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22684</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22684"/>
-        <updated>2023-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[For the week 25 CIRCLE CHART (previously Gaonchart), the weekly Retail Album Chart was topped by ATEEZ 'THE WORLD EP.2 : OUTLAW (MINIRECORD)'.Released on June 16th, 'THE WORLD EP.2 : OUTLAW (MINIRECORD)' sold the most copies as of 7PM (KST) on June 19th (Monday, week 25).&nbsp;'THE WO..]]></content>
     </entry>
 </feed>
