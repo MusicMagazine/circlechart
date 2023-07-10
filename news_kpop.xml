@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-10T01:25:03.608Z</updated>
+    <updated>2023-07-10T03:01:21.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The CIRCLE CHART Wrap-Up for the First Half of 2023: NewJeans, SEVENTEEN, Lim Yo..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22730</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22730"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Korea’s pop music chart, CIRCLE CHART (formerly gaonchart), released a chart that summarizes standings for the first half of 2023.In the CIRCLE CHART for the first half of 2023, NewJeans placed at No. 1 in 3 charts while SEVENTEEN, Lim Young Woong, and BLACKPINK each topped separate charts.NewJeans ..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June CIRCLE CHART: (G)I-DLE, Stray Kids, and Lim Young Woong Make Strong Showing..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22729</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22729"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(G)I-DLE, Stray Kids, and Lim Young Woong dominated the June CIRCLE CHART, while SEVENTEEN received certification for selling 5 million copies in the Album category.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for June 2023, both (G)I-DLE and Lim Young Woong toppe..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8월 9일 데뷔' 엔싸인(n.SSign), 마지막 새 멤버 공개…美 출신 래퍼 에디 합류]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22727</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22699"/>
         <updated>2023-07-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 8TURN(에잇턴)이 글로벌 존재감을 드러내고 있다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난달 26일 두 번째 미니앨범 'UNCHARTED DRIFT (언차티드 드리프트)'를 발매하고 뜨거운 관심과 함께 컴백 첫 주 활동을 성공적으로 마쳤다.&nbsp;8TURN은 한층 뚜렷해진 팀 색깔과 성장한 역량으로 완성도 높은 무대를 만들었다. 8TURN 특유의 에너제틱한 분위기는 여덟 악동들의 장난기 가득한 매력을 배가시키며 매 무대마다 독보적인 임팩트를 선사했다. 다이내믹한 사운드와 화려한 퍼포..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인(n.SSign), 8월 정식 데뷔 확정! n.CH엔터테인먼트 "엔싸인, 8월 초 데뷔 목표로 준비 박차"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22698</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22698"/>
-        <updated>2023-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 정식 데뷔를 확정했다.3일 소속사 n.CH엔터테인먼트는 "엔싸인이 오는 8월 초 정식 데뷔를 확정했다"고 밝혔다.이와 함께 소속사 공식 SNS를 통해 엔싸인의 정식 데뷔를 알리는 커밍순 이미지를 공개했다.&nbsp;이미지에는 'n.SSign DEBUT ALBUM &lt;BIRTH OF COSMO&gt;(엔싸인 데뷔 앨범 &lt;버스 오브 코스모&gt;)'라는 문구와 함께 8월로 데뷔시기가 공개돼 있어 팬들의 반가움을 자아냈다.앞서 소속사는 "엔싸인을 '청춘스타'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 25 CIRCLE CHART: (G)-IDLE Top 3 Charts while ATEEZ and Lim Young Woong Both..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22696</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22696"/>
-        <updated>2023-06-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 25 CIRCLE CHART (formerly gaonchart) was dominated by (G)-IDLE, ATEEZ, and Lim Young Woong.KMCA, publisher of CIRCLE CHART, announced that “As of week 25 (2023.06.18.~2023.06.24.), (G)-IDLE topped 3 charts while ATEEZ and Lim Young Woong topped 2 charts respectively.”&nbsp;‘Queencard’, the title..]]></content>
     </entry>
 </feed>
