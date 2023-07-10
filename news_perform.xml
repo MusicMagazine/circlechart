@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-07-09T23:15:38.016Z</updated>
+    <updated>2023-07-10T01:25:03.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민가수 박창근, '우리들 꿈에 관한 이야기' 대구 공연 성료 "팬들의 꿈 응원"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22728</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22728"/>
+        <updated>2023-07-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[국민가수 박창근이 대구 팬들에게 특별한 추억을 선사했다.&nbsp;&nbsp;박창근은 지난 8일, 9일 대구 엑스코 오디토리움에서 2023 박창근 콘서트 '우리들 꿈에 관한 이야기'를 개최했다.&nbsp;이날 오프닝 무대로 '푸른 바다와 그대 꿈에 관한 이야기'를 가창한 박창근은 시작부터 팬들에게 깊은 감동을 안기며 특별한 시간을 꾸밀 것을 약속했다.&nbsp;&nbsp;이어 '무지개내린 날개위의 순간', '주저하는 연인들을 위해', '나는 사랑에 빠졌어요', '늪', '비가 오면&amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트, 5년 만에 완전체로 돌아온다...31일 새 앨범 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22718</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660"/>
         <updated>2023-06-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 국내에 이어 일본에서도 콘서트를 연다.소속사는 22일 "템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)가 8월 일본 오사카와 도쿄에서 '2023 TEMPEST SHOW CON [T-OUR]'(이하 'T-OUR')를 개최한다"고 밝혔다.'T-OUR'는 지난해 3월 데뷔한 템페스트가 1년 5개월여 만에 처음으로 개최하는 단독 콘서트다. 템페스트만의 에너지와 열정, 이야기가 가득 담긴 퍼포먼스부터 히든 스테이지까지 다양한 무대를 선사하며 팬들..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['4세대 핫템' 템페스트, 8월 데뷔 첫 국내 콘서트 'T-OUR' 개최 "너무나 꿈꿔왔던 순간"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22644</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22644"/>
-        <updated>2023-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 데뷔 첫 단독 콘서트로 팬들을 만난다.소속사는 20일 "템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)가 8월 12일과 13일 양일간 서울 올림픽공원 SK올림픽핸드볼경기장에서 '2023 TEMPEST SHOW CON [T-OUR] in Seoul'(이하 'T-OUR')을 개최한다"고 밝혔다.이에 앞서 지난 19일 템페스트 공식 SNS 채널에 멤버들의 콘서트 개최 안내 영상이 공개돼 이목을 집중시켰다.&nbsp;영상 속 템페스트는 "너무나 꿈꿔왔던 순간이..]]></content>
     </entry>
 </feed>
