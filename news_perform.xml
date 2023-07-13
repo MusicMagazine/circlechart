@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-07-12T23:16:19.854Z</updated>
+    <updated>2023-07-13T01:28:44.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트, 단독 콘서트 초고속 전석 매진...대체불가 인기 증명]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22745</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22745"/>
+        <updated>2023-07-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 단독 콘서트 전석 매진으로 폭발적 인기를 입증했다.&nbsp;&nbsp;지난 12일 오후 8시 멜론티켓을 통해 예매가 진행된 '2023 인피니트 콘서트 '컴백 어게인'(2023 INFINITE CONCERT 'COMEBACK AGAIN')'(이하 '컴백 어게인')은 티켓 오픈과 동시에 전석이 매진됐다.&nbsp;&nbsp;'컴백 어게인'은 솔로 아티스트로 다방면에서 활발한 활동을 이어온 여섯 멤버가 지난 2016년..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민가수 박창근, '우리들 꿈에 관한 이야기' 대구 공연 성료 "팬들의 꿈 응원"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22728</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22662"/>
         <updated>2023-06-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 블리처스(BLITZERS, 진화, 고유, 주한, 샤, 크리스, 루탄, 우주)가 데뷔 이래 첫 일본 투어에 나선다.&nbsp;소속사 우조엔터테인먼트는 22일 정오 공식 SNS를 통해 블리처스의 눈부신 비주얼이 담긴 첫 단독 일본 투어와 팬콘서트 포스터를 공개하고 본격적인 일본 진출 소식을 알렸다.&nbsp;공지에 따르면 블리처스는 오는 7월 21일부터 9월 10일까지 '2023 블리처스 서머 라이브 인 재팬 '스타트 업'(2023 BLITZERS SUMMER LIVE IN JAPAN 'START UP')'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[템페스트, 8월 日 쇼콘 'T-OUR' 개최 확정…오사카·도쿄 팬 만난다!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22660"/>
-        <updated>2023-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 국내에 이어 일본에서도 콘서트를 연다.소속사는 22일 "템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)가 8월 일본 오사카와 도쿄에서 '2023 TEMPEST SHOW CON [T-OUR]'(이하 'T-OUR')를 개최한다"고 밝혔다.'T-OUR'는 지난해 3월 데뷔한 템페스트가 1년 5개월여 만에 처음으로 개최하는 단독 콘서트다. 템페스트만의 에너지와 열정, 이야기가 가득 담긴 퍼포먼스부터 히든 스테이지까지 다양한 무대를 선사하며 팬들..]]></content>
     </entry>
 </feed>
