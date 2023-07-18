@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-07-17T23:15:09.267Z</updated>
+    <updated>2023-07-18T01:47:34.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 후이, 오늘(18일) 신곡 ‘Whale’ 발매…한여름 수놓을 ‘청량 보이스’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22764</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22764"/>
+        <updated>2023-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 펜타곤 후이의 신곡 ‘Whale’이 베일을 벗는다.&nbsp;후이가 가창에 참여한 ‘더하기 기억’의 플레이 프로젝트 두 번째 음원 ‘Whale (웨일)’이 18일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.‘Whale’은 시원한 여름밤의 분위기를 표현한 일렉트로팝 장르 아래 청량한 기타 사운드와 서정적인 가사를 담아낸 곡이다. 구간별로 각기 다른 분위기가 펼쳐지는 드라마틱한 곡 전개와 후이의 청량하면서도 감미로운 보컬이 어우러져 듣는 재미를 더한다.&nbsp;특히 “오랜 기다림 같은 방백 / 밤이 짙은 항해 / 보랏빛 바다를 건너 흘러가..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레디, 오늘(17일) 새 싱글 'Tap Tap Tap (feat. BOBBY)' 발매! 스타일리시 힙합의 진수]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22756</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22742"/>
         <updated>2023-07-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[작곡가 라엘(Ra.L)이 드라마 '기적의 형제' OST의 두 번째 주자로 나선다.라엘(Ra.L)이 가창에 참여한 JTBC 수목드라마 '기적의 형제 (연출 박찬홍 / 극본 김지우 / 제작 MI?SLL)' 두 번째 OST 'History and Mystery (히스토리 앤 미스터리)'가 13일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'History and Mystery'는 차분하지만 묵직하고 깊은 감정을 담은 곡으로, 비춰지지 않는 한편의 어둡고 그늘진 마음을 표현해 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주소녀 설아, 16일 신곡 '곰인형' 발매 확정…린 원곡과는 또 다른 매력 '기대감 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22740</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22740"/>
-        <updated>2023-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 우주소녀(WJSN) 설아가 더하기 기억 프로젝트의 가창차로 합류한다.설아는 오는 16일 더하기 기억 프로젝트의 음원 '곰인형' 발매를 확정했다.지나간 일상에 기억을 더하고, 새로움을 입히는 더하기 기억 프로젝트의 신곡 '곰인형'은 지난 2012년 발매된 린의 원곡에 레트로한 팝 발라드 요소를 입혀 새롭게 재탄생됐다.풍성한 밴드 세션들 위로 설아의 청아한 보컬이 더해져 원곡의 애절한 감성을 한층 풍부하게 살렸으며, '함께 본 영화표를 태우고 / 네가 사준 곰인형을 패도 / 엉엉 울어 봐도 후련..]]></content>
     </entry>
 </feed>

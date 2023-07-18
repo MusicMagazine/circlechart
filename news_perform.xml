@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-07-17T23:15:09.266Z</updated>
+    <updated>2023-07-18T01:47:34.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 9월부터 유럽 16개 도시 투어 'LOVE OR DIE' 개최! 글로벌 영향력 ing]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22760</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22760"/>
+        <updated>2023-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 비아이(B.I)가 하반기 첫 유럽 투어에 나선다.비아이는 오는 9월과 10월 유럽 16개 도시에서 2023 B.I 1ST EUROPE TOUR 'LOVE OR DIE (러브 오어 다이)'를 개최한다.'LOVE OR DIE'는 오는 9월 19일 네덜란드 위트레흐트를 시작으로 21일 룩셈부르크 룩셈부르크, 23일 프랑스 파리, 25일 스페인 바르셀로나, 27일 스위스 취리히, 28일 이탈리아 밀라노, 30일 폴란드 바르샤바, 10월 3일 에스토니아 탈린, 5일 핀란드 헬싱키, 7일 스웨덴 스톡홀름,..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스), 월드투어 'THE FUTURE' 마카오 공연 성료...완벽 퍼포먼스로 '글로벌 인기' 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22758</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22697"/>
         <updated>2023-07-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[김윤아가 단독 콘서트를 성황리에 마무리했다.&nbsp;지난 6월 23일부터 7월 2일까지 서울 연세대학교 백주년기념관 콘서트홀에서 열린 단독 콘서트 ‘행복한 사랑은 없네’가 6일간 5,000여명의 관객을 동원하며 성황리에 마무리됐다.김윤아는 직접 번역한 ‘루이 아라공(Louis Aragon)’의 시 ‘행복한 사랑은 없네’를 읊은 후 동명의 곡을 첫 곡으로 공연의 서막을 열었다. 이어 ‘행복한 사랑은 없다’는 사랑론에 대해 이야기하는 방식으로 공연을 이어갔다.김윤아는 ‘가끔씩’, ‘비밀의 정원’에 이어 ‘담’, ‘Tango of 2’를 부르며..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유승우, 뮤지컬 '신의 손가락' 첫 공연 성료..."여러분의 일상이 '한스 안데르센'처럼 빛나길"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22689</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22689"/>
-        <updated>2023-06-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 유승우가 뮤지컬 '신의 손가락' 첫 공연을 성황리에 마무리했다.&nbsp;유승우는 지난 28일 오후 8시 대학로 드림아트센터 2관에서 열린 뮤지컬 '신의 손가락'에서 한스 안데르센 역으로 관객들과 만났다.&nbsp;'신의 손가락'은 덴마크의 동화작가이자 창작동화의 아버지라 불리는 한스 크리스티안 안데르센의 젊은 시절에 대해 다룬 작품이다. 그의 신인 시절부터 동화작가로 기반을 다지는 과정을 통해 관객들에게 위로와 용기를 전한다.&nbsp;'신의 손가락'에서 주인공 한스 안데르센 역을 맡은 유승우는..]]></content>
     </entry>
 </feed>
