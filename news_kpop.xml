@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-21T01:14:40.809Z</updated>
+    <updated>2023-07-21T02:35:05.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김재중, 미래 K-POP 이끌 스타 직접 찾는다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22779</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22779"/>
+        <updated>2023-07-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[iNKODE(인코드)가 글로벌 엔터테인먼트사로써 본격적인 행보에 나선다.&nbsp;가수 겸 배우 김재중과 노현태 대표가 설립한 기획사 인코드는 지난 18일 오디션 관련 공식 SNS 계정을 오픈했다. 이후 글로벌 오디션 커밍쑨 포스터를 게재한 뒤 19일(어제) 필리핀 마닐라 오디션 포스터를 전격 공개했다.&nbsp;글로벌 오디션 ‘iNKODE 2023 ON-LINE AUDITION(인코드 2023 온라인 오디션)’ 커밍쑨 포스터에는 ‘ARE U iNKODE?’라는 강렬한 문구와 함께 ‘THE NEXT K-POP STAR’라고 적혀있어 다가올 글로벌 오..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, 8월 2일 컴백 확정...'서머 퀸'의 화려한 귀환]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22776</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22763"/>
         <updated>2023-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 첫 콘셉트 포토가 베일을 벗었다.&nbsp;&nbsp;소속사 인피니트 컴퍼니는 18일 0시 공식 SNS를 통해 인피니트의 일곱 번째 미니 앨범 '비긴(13egin)'의 첫 번째 콘셉트 포토를 공개했다.&nbsp;&nbsp;공개된 이미지는 어느 공연장의 좌석에 앉아 어딘가를 응시하는 인피니트의 모습을 담고 있다. 인피니트는 각자의 개성이 돋보이는 차분한 톤의 캐주얼 슈트로 댄디하면서도 세련된 스타일링을 완성해 글로벌 팬들의 폭발적인 반응을 이끌어냈다.&nbsp;&nbsp;멤버들의 치명적인 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘26일 컴백’ 소유, ‘Summer Recipe’ 콘셉트 포토 추가 공개! 매혹적인 아우라]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22762</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22762"/>
-        <updated>2023-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 소유가 매혹적인 아우라로 컴백에 대한 기대감을 높였다.소유는 지난 17일 오후 6시 소속사 빅플래닛메이드엔터 공식 SNS를 통해 두 번째 미니앨범 ‘Summer Recipe’(써머 레시피)의 세 번째 콘셉트 포토를 공개했다.이번 콘셉트 포토에서 소유는 매혹적인 자태를 선보였다. 나뭇잎 그림자와 함께 신비로운 무드를 발산한 소유는 포토제닉한 포즈를 더해 치명적인 컷을 완성했다. 계절감을 한껏 살린 의상이 그의 업그레이드된 비주얼을 더욱 돋보이게 만든다.여름을 자신만의 매력으로 표현한 소유의 남다른 소화력도 확인할 수 있다. 소유..]]></content>
     </entry>
 </feed>
