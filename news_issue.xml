@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-07-24T23:14:16.941Z</updated>
+    <updated>2023-07-25T01:19:05.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO), 131레이블 전격 합류! 하반기 정식 데뷔]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22788</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22788"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO)가 131레이블에 전격 합류했다.25일 131레이블은 "감미로운 보컬과 랩 실력을 겸비한 다재다능한 루키 아티스트 리오(LEO)와 최근 전속계약을 체결했다. 전 세계를 무대로 나아갈 리오의 무궁무진한 음악 활동을 주목해달라"라고 밝혔다.이와 함께 25일 0시 131레이블 공식 SNS를 통해 리오의 새로운 프로필 이미지가 공개됐다. 리오만의 시크한 분위기와 훈훈한 비주얼이 글로벌 팬들의 이목을 집중시켰다.리오는 호주 시드니에서 성장한 2002년생 한국계 호주인이다. 어린 시절부터 밴드..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신인 밴드 ‘채무자들’, 장기하, 혁오, 카더가든과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22693</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930"/>
         <updated>2022-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 임정민(태령)이 이리온엔터테인먼트에서 새로운 활동을 시작한다.27일 이리온엔터테인먼트는 "걸그룹 루나솔라 출신 태령(임정민)과 최근 전속계약을 체결했다. 태령은 본명 임정민으로 2023년 컴백을 준비하고 있다"라고 밝혔다.임정민은 이리온엔터테인먼트를 통해 "저의 생일에 좋은 소식을 전해드릴 수 있어 기쁘다. 새로운 보금자리에서 좋은 음악을 열심히 준비하겠다"라는 뜻깊은 소감을 전했다.이어 "팬분들과 새로운 콘셉트로 빨리 만날 날을 기대하고 있다. 이제 루나솔라 태령이 아닌 임정민으로 기억해주..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B.O.M(가칭), 내년 초 정식 데뷔…2023년 1호 男아이돌 출격!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21890"/>
-        <updated>2022-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[MNH엔터테인먼트가 내년 1월 첫 보이그룹을 선보인다.20일 MNH엔터테인먼트는 “자사에서 처음으로 선보이는 신인 보이그룹 ‘B.O.M (Boys Of MNH) (가칭)’이 내년 초 데뷔를 확정했다”라고 밝혔다.B.O.M은 청하, 임상현, VVON(본) 등 다양한 장르의 아티스트들이 소속된 MNH엔터테인먼트가 야심차게 내놓은 K-POP 유망주이자 2023년 첫 보이그룹이다. 한국인 멤버 8명으로 구성되어 있으며, Mnet ‘아이랜드(I-LAND)와 Mnet ‘소년24’ 출신으로 국내외 두터운 팬덤을 일찍이 확보한 멤버(조경민, 문재..]]></content>
     </entry>
 </feed>
