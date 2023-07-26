@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-07-25T23:12:41.149Z</updated>
+    <updated>2023-07-26T01:13:54.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에버글로우, 8월 18일 컴백 확정! 1년 8개월 만 돌아온다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22795</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22795"/>
+        <updated>2023-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에버글로우(EVERGLOW)가 1년 8개월 만에 컴백한다.26일 소속사는 "에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)가 오는 8월 18일로 컴백을 확정하고 막바지 준비 중"이라고 밝혔다.&nbsp;이에 앞서 에버글로우는 공식 SNS를 통해 커밍순 포스터를 기습 공개했다. 각 개별 포스터에서 에버글로우 멤버들은 베일에 싸인 채 실루엣만을 공개해 눈길을 모았다. 특히 저마다의 포즈로 서로 다른 매력을 발산하며 신보에 대한 궁금증을 더했다.에버글로우의 이번 컴백은 지난 2021년 12월 발매한 세 번째 미니앨범 &amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘8월 16일 컴백’ 스테이씨, 타이틀곡은 ‘Bubble’…미니 3집 ‘TEENFRESH’ 스케줄러 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22790</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22772"/>
         <updated>2023-07-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 신곡에 대한 기대감을 높이고 있다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 17일과 18일 공식 SNS 및 유튜브 계정을 통해 두 번째 미니앨범 ‘New Chapter(뉴 챕터)’ 타이틀곡 ‘MY COLOR(마이 컬러)’ 엘바, 나유의 개인 뮤직비디오 티저 영상을 게재했다.&nbsp;17일 공개된 티저에서는 스쿨룩을 입은 엘바의 모습이 눈길을 끈다. 특히 아름다운 선율의 멜로디가 엘바의 청순한 비주얼을 더욱 극대화시켜 보는 이들을 설레게 만든다.&nbsp;나유는 개인 티저 영상 속에서 한층 더 깊어진..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타이푼, 5년 5개월 만 신곡 발매! 거북이 '비행기' 리메이크]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22771</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22771"/>
-        <updated>2023-07-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 타이푼(TYPHOON)이 5년 5개월 만에 뭉쳤다.&nbsp;&nbsp;웰메이드 음악 시리즈 '레시피 프로젝트'의 네 번째 주자로 타이푼(솔비, 우재, 지환)이 참여해 23일 '비행기'를 발매한다.&nbsp;&nbsp;'레시피 프로젝트'는 누군가에게 언젠가 꼭 들려주고 싶었던 이 세상의 수많은 이야기들을 각각 하나의 감성 레시피로 만들어 들려주는 웰메이드 음악 시리즈다.&nbsp;&nbsp;2006년 거북이가 발매한 '비행기'는 현재까지도 많은 사랑을 받고 있는 명곡으로, 여름과 어울리는 '비행기'와 여름에 ..]]></content>
     </entry>
 </feed>
