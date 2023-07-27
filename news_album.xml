@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-07-26T23:13:51.830Z</updated>
+    <updated>2023-07-27T01:05:46.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클래지콰이, 오늘(27일) 정오 새 싱글 'Static' 발매…재만X케이 객원보컬 참여]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22800</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22800"/>
+        <updated>2023-07-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 클래지콰이가 27일 정오 새 싱글 'Static(스태틱)(feat. 재만(JAEMAN), Kei(케이))'을 발매한다.&nbsp;&nbsp;'Static'은 오랜만에 선보이는 클래지콰이만의 일렉트로닉, 팝 스타일의 음악으로, 사랑하는 연인이 서로에게 잠시 소원해지는 과정을 거쳐 한층 더 깊은 사랑을 나누는 내용을 담았다.&nbsp;&nbsp;이번 싱글의 남자 보컬로는 어반자카파로 데뷔해 방탄소년단(BTS), 폴킴, 십센치(10CM), 이하이 등 다양한 아티스트의 곡과 OST에 작사·작곡 및 편곡으로 참여한 다재다능한 싱어송라이터 재만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이홍기, 오늘(26일) '비도 오고 그래서' 발매…헤이즈 명곡 리메이크 '기대감 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22797</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22780"/>
         <updated>2023-07-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[플라워 고유진의 컬래버레이션 음원이 베일을 벗는다.고유진은 21일 오후 6시 각종 온라인 음원사이트를 통해 영화 '여름날 우리'의 컬래버레이션 음원 '걸음이 느린 아이 (2023)'를 발매한다.'걸음이 느린 아이 (2023)'는 지난 2004년 발매된 고유진의 정규앨범 '신생아 (新生我)'의 타이틀곡으로, 사랑하는 사이지만 서로를 향한 마음의 속도가 달라 멀어져 버린, 결국 이별하게 되는 이야기를 담고 있다. '걸음이 느린 아이'는 19년이 지나 한층 깊어진 고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홀리뱅, 퍼포먼스 음원 'FTF (Face To Face)' 오늘(21일) 발매! 전원 녹음·편곡 등 직접 참여]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22778</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22778"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[댄스 크루 홀리뱅(HolyBang)의 퍼포먼스 음원이 베일을 벗는다.홀리뱅은 21일 오후 6시 각종 온라인 음원사이트를 통해 퍼포먼스 음원 'FTF (Face To Face)'를 발매한다.'FTF (Face To Face)'는 지난 2021년 화제의 중심에 있던 댄스 경연 프로그램 Mnet '스트릿 우먼 파이터'에서 우승을 차지함과 동시에 박재범이 설립한 MORE VISION(모어비전)의 소속 아티스트로 합류하며 대중에게 큰 관심을 받은 홀리뱅의 오리지널 퍼포먼스 음원이다.홀리뱅의 걸스힙합..]]></content>
     </entry>
 </feed>
