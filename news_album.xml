@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-07-27T23:14:09.637Z</updated>
+    <updated>2023-07-28T01:07:09.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 로시(Rothy), 8월 2일 신곡 'Rain Drive' 발매…쓸쓸한 분위기 극대화]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22809</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22809"/>
+        <updated>2023-07-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 로시(Rothy)가 짙은 감정선이 돋보이는 신곡으로 돌아온다.로시(Rothy)는 오는 8월 2일 각종 온라인 음원사이트를 통해 '더하기 기억' 플레이 프로젝트의 세 번째 음원 'Rain Drive (레인 드라이브)'를 발매한다.'Rain Drive'는 블루지하고 몽환적인 사운드를 통해 비 내리는 밤의 쓸쓸하면서도 낭만적인 감성을 표현한 일렉트로 팝 트랙으로, 일상의 지루하고 고단한 시간들을 장마에 비유해 무던하고 여유 있게 빗길을 헤쳐 나간다는 메시지를 담았다.로시(Rothy)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클래지콰이, 오늘(27일) 정오 새 싱글 'Static' 발매…재만X케이 객원보컬 참여]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22800</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22782"/>
         <updated>2023-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 더 막강해진 ‘틴프레시’로 돌아온다.&nbsp;24일 하이업엔터테인먼트는 “스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 8월 16일 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’를 발매한다”고 밝혔다. 이와 함께 공식 SNS를 통해 컴백 포스터를 공개했다.&nbsp;공개된 포스터에는 싱그러운 오렌지색 배경 위로 귀엽고 아기자기한 무드의 앨범명 ‘TEENFRESH’ 타이포그래피가 담겨 있다. 여기에 ‘Coming Soon (커밍순)’이라는 글귀가 조화를 이루며 곧 다가올 스테이씨 컴백에 기대감을 높였다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 고유진, 오늘(21일) 영화 '여름날 우리' 컬래버 음원 '걸음이 느린 아이 (2023)' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22780</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22780"/>
-        <updated>2023-07-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[플라워 고유진의 컬래버레이션 음원이 베일을 벗는다.고유진은 21일 오후 6시 각종 온라인 음원사이트를 통해 영화 '여름날 우리'의 컬래버레이션 음원 '걸음이 느린 아이 (2023)'를 발매한다.'걸음이 느린 아이 (2023)'는 지난 2004년 발매된 고유진의 정규앨범 '신생아 (新生我)'의 타이틀곡으로, 사랑하는 사이지만 서로를 향한 마음의 속도가 달라 멀어져 버린, 결국 이별하게 되는 이야기를 담고 있다. '걸음이 느린 아이'는 19년이 지나 한층 깊어진 고..]]></content>
     </entry>
 </feed>
