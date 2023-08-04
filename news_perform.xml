@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-08-03T23:13:52.535Z</updated>
+    <updated>2023-08-04T01:10:38.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832"/>
+        <updated>2023-08-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing그룹 케플러(Kep1er)가 팬들과 동화 같은 만남을 갖는다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 3일 공식 SNS를 통해 오는 10월 도쿄 첫 단독 팬미팅 ‘Kep1er JAPAN FAN MEETING - Fairy Fantasia’ 개최 소식을 알렸다.개최 소식과 함께 공개된 포스터에 따르면, 이번 팬미팅은 오는 10월 27일, 28일 양일간 일본 도쿄 가든 시어터에서 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모던록밴드 디어클라우드, 오늘(31일) 새 싱글 '섬' 발매…8월 단독 콘서트서 무대 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22813</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22757"/>
         <updated>2023-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 박창근이 수원에서 특별한 공연을 펼쳤다.&nbsp;&nbsp;&nbsp;박창근은 지난 15일, 16일 경기도 수원시 경기아트센터에서 2023 박창근 콘서트 '우리들 꿈에 관한 이야기'를 개최했다.&nbsp;이날 박창근은 '푸른 바다와 그대 꿈에 관한 이야기'를 가창하며 오프닝을 열었다. 이어 '무지개내린 날개위의 순간', '주저하는 연인들을 위해', '나는 사랑에 빠졌어요', '저산에 계절 바뀌어도', '운명' 등의 곡으로 촉촉한 감성을 선사했다.&nbsp;&nbsp;박창근은 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트, 단독 콘서트 초고속 전석 매진...대체불가 인기 증명]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22745</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22745"/>
-        <updated>2023-07-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 단독 콘서트 전석 매진으로 폭발적 인기를 입증했다.&nbsp;&nbsp;지난 12일 오후 8시 멜론티켓을 통해 예매가 진행된 '2023 인피니트 콘서트 '컴백 어게인'(2023 INFINITE CONCERT 'COMEBACK AGAIN')'(이하 '컴백 어게인')은 티켓 오픈과 동시에 전석이 매진됐다.&nbsp;&nbsp;'컴백 어게인'은 솔로 아티스트로 다방면에서 활발한 활동을 이어온 여섯 멤버가 지난 2016년..]]></content>
     </entry>
 </feed>
