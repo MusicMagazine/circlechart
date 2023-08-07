@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-08-07T02:30:26.784Z</updated>
+    <updated>2023-08-07T03:15:31.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각·신용재·임한별, 9월 '허용별 콘서트 : 보컬 전쟁]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 합동 공연으로 뭉친다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'이 오는 9월 9일 서울 올림픽공원 올림픽홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최한다.'허용별' 프로젝트는 방송 프로그램과 유튜브 콘텐츠에 동반 출연하는 등 남다른 친분을 쌓아온 허각과 신용재, 임한별이 지속적인 음악적 교류를 통해 기획한 프로젝트다.이번 공연에서 세 사람은 현장을 찾은 관객들에게 환상적인 시간을 선물할 예정..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22758"/>
         <updated>2023-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 마카오 콘서트를 성황리에 마무리했다.&nbsp;&nbsp;AB6IX는 지난 15일 마카오 브로드웨이 씨어터(Broadway Theatre)에서 월드투어 콘서트 'THE FUTURE' in MACAU를 개최, 풍성한 세트 리스트와 완성도 높은 무대로 약 120분의 러닝타임을 가득 채웠다.&nbsp;&nbsp;AB6IX는 '공명 (共鳴) (Resonance)'과 'SAVIOR', 'ABSOLUTE', 'BLOOM' 등 파워풀한 무대로 포문을 열며 팬들의 뜨거운 함성을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민가수 박창근, '우리들 꿈에 관한 이야기' 수원 공연 성료 "팬들과 계속 만나는 것이 꿈"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22757</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22757"/>
-        <updated>2023-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[국민가수 박창근이 수원에서 특별한 공연을 펼쳤다.&nbsp;&nbsp;&nbsp;박창근은 지난 15일, 16일 경기도 수원시 경기아트센터에서 2023 박창근 콘서트 '우리들 꿈에 관한 이야기'를 개최했다.&nbsp;이날 박창근은 '푸른 바다와 그대 꿈에 관한 이야기'를 가창하며 오프닝을 열었다. 이어 '무지개내린 날개위의 순간', '주저하는 연인들을 위해', '나는 사랑에 빠졌어요', '저산에 계절 바뀌어도', '운명' 등의 곡으로 촉촉한 감성을 선사했다.&nbsp;&nbsp;박창근은 ..]]></content>
     </entry>
 </feed>

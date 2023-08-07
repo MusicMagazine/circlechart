@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-08-07T02:30:26.788Z</updated>
+    <updated>2023-08-07T03:15:31.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Aylah(아일라), 4개월 만에 컴백 확정! 8일 두 번째 싱글 ‘Stupid Cupid’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22842</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22842"/>
+        <updated>2023-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 싱어송라이터 Aylah(아일라)가 4개월 만에 컴백한다.Aylah(아일라)는 오는 8일 오후 6시 두 번째 디지털 싱글 ‘Stupid Cupid(스튜핏 큐피드)’를 발매한다.지난 5일 Aylah(아일라)의 공식 유튜브 채널에 ‘Stupid Cupid’ 발매 소식을 알리는 첫 번째 뮤직비디오 티저가 공개됐다. Aylah(아일라)는 본명인 안세은으로 등장해 짝사랑에 빠진 소녀의 모습을 표현하며 뮤직비디오 본편을 향한 궁금증을 높였다.이번 ‘Stupid Cupid’는 지난해 여름 Aylah(아일라)가 직접 작사, 작곡해 완성한 노래..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['고막 남친' 지진석, 웹드라마 '준과 준' OST 참여...오늘(3일) 'Love Breeze' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22835</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22812"/>
         <updated>2023-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 이우가 '레시피 프로젝트'로 진한 감성을 선사한다.&nbsp;&nbsp;이우가 참여한 웰메이드 음악 시리즈 '레시피 프로젝트'의 다섯 번째 음원 '틈'이 31일 오후 6시 발매된다.&nbsp;&nbsp;'레시피 프로젝트'는 누군가에게 언젠가 꼭 들려주고 싶었던 이 세상의 수많은 이야기들을 각각 하나의 감성 레시피로 만들어 들려주는 웰메이드 음악 시리즈다. 앞서 스윗소로우가 앤드의 'Wish You're My Girl(위시 유어 마이 걸)'을, 코요태가 루머스의 'Storm(스톰..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 로시(Rothy), 8월 2일 신곡 'Rain Drive' 발매…쓸쓸한 분위기 극대화]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22809</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22809"/>
-        <updated>2023-07-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 로시(Rothy)가 짙은 감정선이 돋보이는 신곡으로 돌아온다.로시(Rothy)는 오는 8월 2일 각종 온라인 음원사이트를 통해 '더하기 기억' 플레이 프로젝트의 세 번째 음원 'Rain Drive (레인 드라이브)'를 발매한다.'Rain Drive'는 블루지하고 몽환적인 사운드를 통해 비 내리는 밤의 쓸쓸하면서도 낭만적인 감성을 표현한 일렉트로 팝 트랙으로, 일상의 지루하고 고단한 시간들을 장마에 비유해 무던하고 여유 있게 빗길을 헤쳐 나간다는 메시지를 담았다.로시(Rothy)..]]></content>
     </entry>
 </feed>
