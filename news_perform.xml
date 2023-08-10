@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-08-10T01:09:52.800Z</updated>
+    <updated>2023-08-10T02:34:25.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김종현, 9월 뮤직 페스티벌 '학교2023-지금콘서트' 출격! 올라운더 존재감 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22856</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22856"/>
+        <updated>2023-08-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 및 배우 김종현이 뮤직 페스티벌로 팬들을 만난다.김종현은 오는 9월 2일 서울 올림픽공원 SK올림픽핸드볼경기장에서 개최되는 뮤직 페스티벌 '학교2023-지금콘서트'에 출연한다.'학교2023-지금콘서트'는 국내 최초로 학교와 교복을 콘셉트로 한 페스티벌이다. '과거의 나의 모습으로 지금을 즐겨라'라는 주제로 전 연령층이 함께 참여할 수 있는 부스와 다양한 무대로 구성된다.가수 활동부터 연기 활동까지 장르를 넘나들며 한계 없는 활약을 펼치고 있는 김종현은 이번 공연을 통해 오랜만에 관객들..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각·신용재·임한별, 9월 '허용별 콘서트 : 보컬 전쟁]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22760"/>
         <updated>2023-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 비아이(B.I)가 하반기 첫 유럽 투어에 나선다.비아이는 오는 9월과 10월 유럽 16개 도시에서 2023 B.I 1ST EUROPE TOUR 'LOVE OR DIE (러브 오어 다이)'를 개최한다.'LOVE OR DIE'는 오는 9월 19일 네덜란드 위트레흐트를 시작으로 21일 룩셈부르크 룩셈부르크, 23일 프랑스 파리, 25일 스페인 바르셀로나, 27일 스위스 취리히, 28일 이탈리아 밀라노, 30일 폴란드 바르샤바, 10월 3일 에스토니아 탈린, 5일 핀란드 헬싱키, 7일 스웨덴 스톡홀름,..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스), 월드투어 'THE FUTURE' 마카오 공연 성료...완벽 퍼포먼스로 '글로벌 인기' 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22758</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22758"/>
-        <updated>2023-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 마카오 콘서트를 성황리에 마무리했다.&nbsp;&nbsp;AB6IX는 지난 15일 마카오 브로드웨이 씨어터(Broadway Theatre)에서 월드투어 콘서트 'THE FUTURE' in MACAU를 개최, 풍성한 세트 리스트와 완성도 높은 무대로 약 120분의 러닝타임을 가득 채웠다.&nbsp;&nbsp;AB6IX는 '공명 (共鳴) (Resonance)'과 'SAVIOR', 'ABSOLUTE', 'BLOOM' 등 파워풀한 무대로 포문을 열며 팬들의 뜨거운 함성을 ..]]></content>
     </entry>
 </feed>
