@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-14T00:57:53.136Z</updated>
+    <updated>2023-08-14T01:48:29.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정효빈, 1년 5개월 만에 컴백 확정! 15일 신곡 ‘지금 우리의 여름처럼’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869"/>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 정효빈이 1년 5개월 만에 신곡으로 컴백한다.정효빈은 오는 15일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘지금 우리의 여름처럼’을 발매한다.지난 12일 오후 정효빈의 공식 유튜브 채널에 ‘지금 우리의 여름처럼’의 뮤직비디오 티저 영상이 공개됐다. 정효빈 특유의 맑고 감미로운 음색으로 “쓸쓸한 가을바람 불어도 / 새하얀 겨울 눈꽃 쌓여와도 / 지금처럼만 곁에 있어 줄래 / 언제나처럼 사랑할 테니까”라는 음원 일부 구간이 펼쳐져 귓가를 사로잡는다.또한, 정효빈은 뮤직비디오 속 여주인공으로 분해 두근거리는 사랑의 시작을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유주(YUJU), 16일 신곡 'Rewind' 발매 확정! 특별한 이별 감성 선사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22863</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22851"/>
         <updated>2023-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[요즘 아이들' ADYA(에이디야)가 8월 16일 컴백을 확정 지었다.&nbsp;&nbsp;소속사 스타팅하우스엔터테인먼트는 9일 0시 공식 SNS를 통해 에이디야의 커밍순 티저를 공개했다.&nbsp;&nbsp;이미지에는 'COMING SOON', 'RELEASE ON 2023.08.16'이라는 발매 정보가 담겼다. 에이디야는 오는 16일 신곡으로 ADAY(에이데이, 팬덤명)를 만날 예정이다.&nbsp;&nbsp;특히 네온으로 주변을 둘러쌓은 'ADYA'의 로고와 함께 화려한 조명을 뒤로하고 보이는 실루엣이 궁금증을 자극했다. '요..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렌, 팬콘 'Ren'dezvous' 트레일러 깜짝 공개! 만개한 매력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22846</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22846"/>
-        <updated>2023-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 렌(REN, 최민기)이 팬 콘서트 개최에 앞서 트레일러로 기대를 높였다.렌은 지난 7일 공식 유튜브 채널을 통해 2023 REN FAN CONCERT 'Ren'dezvous'(2023 렌 팬 콘서트 '랑데부')의 트레일러 영상을 공개했다.트레일러에서 렌은 싱그러운 정원을 거닐고 있다. 눈부신 햇살 아래 렌의 청초한 매력과 신비로운 분위기가 이목을 사로잡는다. 미소를 띤 표정에서 팬들과의 만남을 앞둔 벅찬 설렘이 고스란히 전해진다.또한, 렌의 첫 솔로 미니앨범 'Ren'dezvo..]]></content>
     </entry>
 </feed>
