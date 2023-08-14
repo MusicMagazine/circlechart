@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-08-13T23:13:46.696Z</updated>
+    <updated>2023-08-14T00:57:53.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하, 정규 4집 ‘Supersonic’ 11년 만에 LP로 듣는다! 명반 감동 ing]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22864</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22864"/>
+        <updated>2023-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 윤하의 명반 ‘Supersonic’을 LP로 만난다.14일 소속사 C9엔터테인먼트는 “윤하의 정규 4집 ‘Supersonic(슈퍼소닉)’이 LP 앨범으로 발매된다. 이달 11일부터 오는 9월 15일까지 자사몰 Ci MALL에서 예약 판매를 진행 중이다”라고 밝혔다.윤하는 지난 2012년에 발표한 정규 4집 ‘Supersonic’을 11년 만에 LP 앨범으로 새롭게 선보인다. 이는 윤하가 국내 데뷔 17년 만에 처음으로 정식 발매하는 LP 형식의 앨범이라 더욱 의미가 남다르다.‘Supersonic’은 타이틀곡 ‘Run(런)’뿐만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이디야, 첫 리메이크 도전!…16일 '왜 불러(What’s Up?)' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22855</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22842"/>
         <updated>2023-08-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신예 싱어송라이터 Aylah(아일라)가 4개월 만에 컴백한다.Aylah(아일라)는 오는 8일 오후 6시 두 번째 디지털 싱글 ‘Stupid Cupid(스튜핏 큐피드)’를 발매한다.지난 5일 Aylah(아일라)의 공식 유튜브 채널에 ‘Stupid Cupid’ 발매 소식을 알리는 첫 번째 뮤직비디오 티저가 공개됐다. Aylah(아일라)는 본명인 안세은으로 등장해 짝사랑에 빠진 소녀의 모습을 표현하며 뮤직비디오 본편을 향한 궁금증을 높였다.이번 ‘Stupid Cupid’는 지난해 여름 Aylah(아일라)가 직접 작사, 작곡해 완성한 노래..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고막 남친' 지진석, 웹드라마 '준과 준' OST 참여...오늘(3일) 'Love Breeze' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22835</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22835"/>
-        <updated>2023-08-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 지진석이 웹드라마 '준과 준' OST를 부른다.&nbsp;웹드라마 '준과 준'의 OST 제작을 맡은 우조엔터테인먼트는 3일 오후 6시 각종 음원 사이트를 통해 지진석의 '러브 브리즈(Love Breeze)'를 공개한다.&nbsp;&nbsp;'준과 준'은 아이돌 출신 인턴사원 이준과 플러팅 천재 본부장 최준의 좌충우돌 오피스 로맨틱 코미디를 그린 드라마다. 지난해 전 세계에 동시 방영돼 뜨거운 반응을 일으킨 웹드라마 '겨울 지나 벚꽃'의 제작사 더블유스토리의 차기작으로 큰 사랑을 받고..]]></content>
     </entry>
 </feed>
