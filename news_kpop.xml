@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-16T00:56:50.259Z</updated>
+    <updated>2023-08-16T01:45:41.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘29일 컴백’ 시그니처, 히트곡 메이커 라이언 전과 손 잡았다! 네 번째 EP 트랙리스트 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 시그니처(cignature)가 새 타이틀곡 ‘안녕, 인사해’로 돌아온다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 16일 0시 공식 SNS를 통해 네 번째 EP 앨범 ‘그해 여름의 우리(Us in the Summer)’의 트랙리스트 이미지를 공개했다.공개된 트랙리스트에 따르면, 이번 앨범에는 타이틀곡 ‘안녕, 인사해(Smooth Sailing)’를 비롯해 ‘어젯밤 이야기(Mess With My Mind)’, ‘Sorry So Sorry(쏘리 쏘 쏘리)’, ‘Little Me(리틀 미)’ 등 총 4곡이 수록된다.타이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정효빈, 1년 5개월 만에 컴백 확정! 15일 신곡 ‘지금 우리의 여름처럼’ 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22852"/>
         <updated>2023-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 새 앨범 재킷 촬영 비하인드가 공개됐다.&nbsp;&nbsp;소속사 인피니트 컴퍼니는 지난 8일 오후 6시 공식 유튜브 채널을 통해 인피니트의 일곱 번째 미니 앨범 '비긴(13egin)'의 재킷 비하인드 영상을 공개했다.&nbsp;&nbsp;공개된 영상은 '비긴'의 재킷 사진 촬영에 임하는 인피니트의 다양한 모습과 인터뷰를 담고 있어 글로벌 팬들의 뜨거운 반응을 불러왔다.&nbsp;&nbsp;가장 먼저 스튜디오에 도착한 엘은 이른 아침부터 고생하는 스태프와 멤버들을 위해 양..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['요즘 아이들' 에이디야, 16일 컴백 확정…네온 글씨+실루엣 궁금증↑]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22851</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22851"/>
-        <updated>2023-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[요즘 아이들' ADYA(에이디야)가 8월 16일 컴백을 확정 지었다.&nbsp;&nbsp;소속사 스타팅하우스엔터테인먼트는 9일 0시 공식 SNS를 통해 에이디야의 커밍순 티저를 공개했다.&nbsp;&nbsp;이미지에는 'COMING SOON', 'RELEASE ON 2023.08.16'이라는 발매 정보가 담겼다. 에이디야는 오는 16일 신곡으로 ADAY(에이데이, 팬덤명)를 만날 예정이다.&nbsp;&nbsp;특히 네온으로 주변을 둘러쌓은 'ADYA'의 로고와 함께 화려한 조명을 뒤로하고 보이는 실루엣이 궁금증을 자극했다. '요..]]></content>
     </entry>
 </feed>
