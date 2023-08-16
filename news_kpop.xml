@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-16T01:45:41.579Z</updated>
+    <updated>2023-08-16T02:18:58.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[July CIRCLE CHART: NewJeans Dominate 4 Charts while Stray Kids Certify for 5Mill..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22876</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22876"/>
+        <updated>2023-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[NewJeans, NCT DREAM, EXO, and Lim Young Woong were the top performers in the July CIRCLE CHART, while Stray Kids received certification for selling 5 million copies in the Album category.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for July 2023, NewJeans topped 4..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘29일 컴백’ 시그니처, 히트곡 메이커 라이언 전과 손 잡았다! 네 번째 EP 트랙리스트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22857"/>
         <updated>2023-08-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[5세대 신인 보이그룹 더윈드(The Wind)가 '여름방학'으로 '수록곡 맛집' 타이틀을 이어간다.더윈드(신재원·김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 지난 8일과 9일 방송된 SBS MTV '더쇼', MBC M '쇼! 챔피언'에서 첫 번째 싱글 'Ready(레디) : 여름방학'의 타이틀곡 'WE GO'(위 고)와 함께 수록곡 '여름방학' 무대를 선보였다. 또한, '여름방학'으로 M2 '릴레이 댄스..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트, 새 앨범 '13egin' 재킷 비하인드 필름 공개..."오랜만에 집밥 먹는 느낌" 찰떡 호흡]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22852</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22852"/>
-        <updated>2023-08-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 새 앨범 재킷 촬영 비하인드가 공개됐다.&nbsp;&nbsp;소속사 인피니트 컴퍼니는 지난 8일 오후 6시 공식 유튜브 채널을 통해 인피니트의 일곱 번째 미니 앨범 '비긴(13egin)'의 재킷 비하인드 영상을 공개했다.&nbsp;&nbsp;공개된 영상은 '비긴'의 재킷 사진 촬영에 임하는 인피니트의 다양한 모습과 인터뷰를 담고 있어 글로벌 팬들의 뜨거운 반응을 불러왔다.&nbsp;&nbsp;가장 먼저 스튜디오에 도착한 엘은 이른 아침부터 고생하는 스태프와 멤버들을 위해 양..]]></content>
     </entry>
 </feed>
