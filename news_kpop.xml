@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-18T00:57:10.031Z</updated>
+    <updated>2023-08-18T01:44:47.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 32 CIRCLE CHART: TREASURE '2ND FULL ALBUM `REBOOT`' Reaches No. 1 in Retail..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22887</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22887"/>
+        <updated>2023-08-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 32 CIRCLE CHART, the weekly Retail Album Chart was topped by TREASURE '2ND FULL ALBUM `REBOOT`', which sold a total of 297,920 copies at retailers.&nbsp;Released on July 28th, TREASURE '2ND FULL ALBUM `REBOOT`' was the top seller as of 5PM (KST) on August 9th (Wednesday, week..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버글로우, 오늘(18일) 신보 'ALL MY GIRLS' 발매…1년 8개월만 컴백 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22886</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22863"/>
         <updated>2023-08-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 유주(YUJU)가 그루비한 감성으로 돌아온다.유주(YUJU)가 가창에 참여한 '더하기 기억'의 플레이 프로젝트 네 번째 음원 'Rewind(리와인드)'가 오는 16일 발매를 확정했다.'더하기 기억'의 플레이 프로젝트는 '지나간 일상에 그리움을 더하고 새로움을 입힌다'는 슬로건 아래 좋은 음악들을 소개하고 있다. 유주가 참여한 'Rewind'는 그루비한 비트 위로 쌓아 올려진 플러크 사운드가 인상적인 미디엄 템포의 뭄바톤 트랩 스타일 장르의 곡이다.유주 특유..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ Aylah(아일라), 자작곡 ‘Stupid Cupid’ 비하인드 인터뷰 공개! “20살에 느낀 생소한 감정”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22862</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22862"/>
-        <updated>2023-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신예 싱어송라이터 Aylah(아일라)가 ‘Stupid Cupid’의 작업 비하인드를 전했다.Aylah(아일라)는 10일 오후 공식 유튜브 채널에 두 번째 디지털 싱글 ‘Stupid Cupid(스튜핏 큐피드)’의 비하인드 인터뷰 영상을 공개했다.이번 영상은 Aylah(아일라)의 앨범 작업 비하인드와 인터뷰를 담고 있다. 이와 함께 ‘Stupid Cupid’ 녹음 과정과 뮤직비디오 촬영 현장도 공개돼 음악 팬들을 즐겁게 하고 있다.먼저 Aylah(아일라)는 “음악에 어느 순간 흥미가 생겨 고등학교 때부터 꾸준히 곡을 쓰기 시작했다. 지..]]></content>
     </entry>
 </feed>
