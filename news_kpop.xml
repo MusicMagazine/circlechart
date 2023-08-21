@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-21T01:45:26.140Z</updated>
+    <updated>2023-08-21T02:18:24.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, ‘Bubble’ 컴백 기념 게릴라 공연 성료! “스테이씨 음악 알릴 기회 생겨 행복해”]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22893</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22893"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 게릴라 공연을 성공리에 마치며 뜻깊은 시간을 가졌다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 19일 서울 반포한강공원 세빛섬에서 무료 게릴라 공연을 개최했다.&nbsp;이날 현장에는 최근 발매된 스테이씨의 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’의 타이틀곡 ‘Bubble (버블)’ 무대를 보기 위해 모인 팬들과 공원을 찾은 일반 시민들까지 운집하며 콘서트 현장을 방불케 하는 뜨거운 분위기가 형성됐다.&nbsp;스테이씨는 먼저 ‘Teddy Bear (테디베어)’ 무대로 이날 게릴라 공연의 포문..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['24일 발매' 허각,신용재,임한별, '허용별' 프로젝트 신곡 'Happiness' M/V 티저만으로 귀호강 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22876"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[NewJeans, NCT DREAM, EXO, and Lim Young Woong were the top performers in the July CIRCLE CHART, while Stray Kids received certification for selling 5 million copies in the Album category.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for July 2023, NewJeans topped 4..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘29일 컴백’ 시그니처, 히트곡 메이커 라이언 전과 손 잡았다! 네 번째 EP 트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872"/>
-        <updated>2023-08-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 시그니처(cignature)가 새 타이틀곡 ‘안녕, 인사해’로 돌아온다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 16일 0시 공식 SNS를 통해 네 번째 EP 앨범 ‘그해 여름의 우리(Us in the Summer)’의 트랙리스트 이미지를 공개했다.공개된 트랙리스트에 따르면, 이번 앨범에는 타이틀곡 ‘안녕, 인사해(Smooth Sailing)’를 비롯해 ‘어젯밤 이야기(Mess With My Mind)’, ‘Sorry So Sorry(쏘리 쏘 쏘리)’, ‘Little Me(리틀 미)’ 등 총 4곡이 수록된다.타이..]]></content>
     </entry>
 </feed>
