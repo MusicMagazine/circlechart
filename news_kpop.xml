@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-20T23:13:22.912Z</updated>
+    <updated>2023-08-21T00:57:21.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['글로벌 루키' 리오(LEO), 美 LA 'KIIS FM K팝 빌리지' 역대급 데뷔 무대 성료!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22888</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22888"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO)가 성공적인 데뷔 무대를 가졌다.리오는 19일(현지 시간) 미국 로스엔젤레스에서 열린 'KIIS FM K-POP VILLAGE AT KCON LA 2023 (키스 FM 케이팝 빌리지 앳 케이콘 LA 2023)'에서 화려한 데뷔 무대를 선보였다.'KIIS FM K-POP VILLAGE'는 세계 최대 규모의 K컬처 페스티벌인 'KCON LA 2023' 기간 중 진행된 공연으로, 리오는 미국 메이저 방송국 iHeartMedia(아이하트미디어)의 초청을 받아 참..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 32 CIRCLE CHART: TREASURE '2ND FULL ALBUM `REBOOT`' Reaches No. 1 in Retail..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22887</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869"/>
         <updated>2023-08-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 정효빈이 1년 5개월 만에 신곡으로 컴백한다.정효빈은 오는 15일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘지금 우리의 여름처럼’을 발매한다.지난 12일 오후 정효빈의 공식 유튜브 채널에 ‘지금 우리의 여름처럼’의 뮤직비디오 티저 영상이 공개됐다. 정효빈 특유의 맑고 감미로운 음색으로 “쓸쓸한 가을바람 불어도 / 새하얀 겨울 눈꽃 쌓여와도 / 지금처럼만 곁에 있어 줄래 / 언제나처럼 사랑할 테니까”라는 음원 일부 구간이 펼쳐져 귓가를 사로잡는다.또한, 정효빈은 뮤직비디오 속 여주인공으로 분해 두근거리는 사랑의 시작을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유주(YUJU), 16일 신곡 'Rewind' 발매 확정! 특별한 이별 감성 선사]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22863</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22863"/>
-        <updated>2023-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 유주(YUJU)가 그루비한 감성으로 돌아온다.유주(YUJU)가 가창에 참여한 '더하기 기억'의 플레이 프로젝트 네 번째 음원 'Rewind(리와인드)'가 오는 16일 발매를 확정했다.'더하기 기억'의 플레이 프로젝트는 '지나간 일상에 그리움을 더하고 새로움을 입힌다'는 슬로건 아래 좋은 음악들을 소개하고 있다. 유주가 참여한 'Rewind'는 그루비한 비트 위로 쌓아 올려진 플러크 사운드가 인상적인 미디엄 템포의 뭄바톤 트랩 스타일 장르의 곡이다.유주 특유..]]></content>
     </entry>
 </feed>
