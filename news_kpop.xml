@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-21T00:57:21.028Z</updated>
+    <updated>2023-08-21T01:45:26.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['24일 발매' 허각,신용재,임한별, '허용별' 프로젝트 신곡 'Happiness' M/V 티저만으로 귀호강 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 듣자마자 빠져드는 목소리로 음악팬들의 감성을 저격한다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'은 지난 17일부터 19일까지 플렉스엠 공식 SNS를 통해 신곡 'Happiness (해피니스)'의 뮤직비디오 개인 티저 영상을 공개했다.공개된 영상 속 허각과 신용재, 임한별은 폭발적인 가창력을 선보이며 단숨에 몰입감을 높였다. 결혼식장으로 보이는 배경과 블랙 수트, 호소력 짙은 보컬이 완벽하게 어우러지며 리스너들의 감성을 더욱 자극했다.특히 "사랑해 이 말..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['글로벌 루키' 리오(LEO), 美 LA 'KIIS FM K팝 빌리지' 역대급 데뷔 무대 성료!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22888</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22872"/>
         <updated>2023-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 시그니처(cignature)가 새 타이틀곡 ‘안녕, 인사해’로 돌아온다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 16일 0시 공식 SNS를 통해 네 번째 EP 앨범 ‘그해 여름의 우리(Us in the Summer)’의 트랙리스트 이미지를 공개했다.공개된 트랙리스트에 따르면, 이번 앨범에는 타이틀곡 ‘안녕, 인사해(Smooth Sailing)’를 비롯해 ‘어젯밤 이야기(Mess With My Mind)’, ‘Sorry So Sorry(쏘리 쏘 쏘리)’, ‘Little Me(리틀 미)’ 등 총 4곡이 수록된다.타이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정효빈, 1년 5개월 만에 컴백 확정! 15일 신곡 ‘지금 우리의 여름처럼’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22869"/>
-        <updated>2023-08-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 정효빈이 1년 5개월 만에 신곡으로 컴백한다.정효빈은 오는 15일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘지금 우리의 여름처럼’을 발매한다.지난 12일 오후 정효빈의 공식 유튜브 채널에 ‘지금 우리의 여름처럼’의 뮤직비디오 티저 영상이 공개됐다. 정효빈 특유의 맑고 감미로운 음색으로 “쓸쓸한 가을바람 불어도 / 새하얀 겨울 눈꽃 쌓여와도 / 지금처럼만 곁에 있어 줄래 / 언제나처럼 사랑할 테니까”라는 음원 일부 구간이 펼쳐져 귓가를 사로잡는다.또한, 정효빈은 뮤직비디오 속 여주인공으로 분해 두근거리는 사랑의 시작을 ..]]></content>
     </entry>
 </feed>
