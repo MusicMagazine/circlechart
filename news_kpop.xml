@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-22T09:14:16.611Z</updated>
+    <updated>2023-08-22T10:14:59.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22893"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 게릴라 공연을 성공리에 마치며 뜻깊은 시간을 가졌다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 19일 서울 반포한강공원 세빛섬에서 무료 게릴라 공연을 개최했다.&nbsp;이날 현장에는 최근 발매된 스테이씨의 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’의 타이틀곡 ‘Bubble (버블)’ 무대를 보기 위해 모인 팬들과 공원을 찾은 일반 시민들까지 운집하며 콘서트 현장을 방불케 하는 뜨거운 분위기가 형성됐다.&nbsp;스테이씨는 먼저 ‘Teddy Bear (테디베어)’ 무대로 이날 게릴라 공연의 포문..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범키, 24일 컴백 확정...티저 이미지 깜짝 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22890</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22890"/>
+        <updated>2023-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 범키가 새 싱글로 돌아온다.브랜뉴뮤직은 지난 17일 공식 SNS 채널들을 통해 범키의 새 싱글 티저 이미지를 깜짝 공개하며 범키의 컴백 소식을 전했는데,&nbsp;공개된 이미지에는 나무 위에 붙어져 있는 종이 위로 물음표와 함께 'amazing, nice, fine, chill, good, fresh'라는 문구가 적혀있어&nbsp;신곡에 대한 궁금증을 자아냈다. 또한 ‘2023.08.24 6PM (KST) RELEASE’라는 발매 시기가 공개되며 많은 음악팬들의 이목을 집중시켰다.이어 다음날엔 'Hey BUMKEY'..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['24일 발매' 허각,신용재,임한별, '허용별' 프로젝트 신곡 'Happiness' M/V 티저만으로 귀호강 예고]]></title>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22883"/>
         <updated>2023-08-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이나믹 듀오가 '뮤직뱅크'에 출연한다.다이나믹 듀오(개코, 최자)는 오늘(18일) 방송되는 KBS 2TV 음악 프로그램 '뮤직뱅크'에서 'AEAO'로 스페셜 무대를 선보인다.'AEAO'는 지난 2014년 발매된 곡이자 최근 글로벌 모바일 숏폼 플랫폼 틱톡(TikTok)에서 화제를 모으며 글로벌 음악 차트를 역주행 중인 힙합 트랙이다. 틱톡 메인 차트에서 꾸준한 상승세를 보이며 8월 2주차 2위를 기록했고, 스포티파이 데일리 바이럴 50 글로벌 및 한국 차트에서도 한달째 안정..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-1' 에버글로우, 신보 'ALL MY GIRLS' 하이라이트 메들리 공개…'SLAY'한 음악 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22880</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22880"/>
-        <updated>2023-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에버글로우(EVERGLOW)가 중독성 넘치는 음악으로 돌아온다.에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)는 지난 16일 공식 SNS를 통해 네 번째 싱글 앨범 'ALL MY GIRLS (올 마이 걸스)'의 하이라이트 메들리 영상을 공개했다.영상에는 첫 번째 트랙 'SLAY(슬레이)'부터 'Oh Ma Ma God(오 마 마 갓)', 'Make Me Feel(메이크 미 필)'까지 총 세 곡의 하이라이트 음원이 담겼다. 이와 함께 에버글로우의 유니크한 매력이 돋보이..]]></content>
     </entry>
 </feed>
