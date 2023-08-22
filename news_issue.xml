@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-08-22T00:57:59.929Z</updated>
+    <updated>2023-08-22T01:48:39.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마이네임 출신 강준규, YY엔터테인먼트와 손잡았다…방용국·배나라와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897"/>
+        <updated>2023-08-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[배우 강준규가 YY엔터테인먼트에서 새 출발을 시작한다.22일 YY엔터테인먼트는 "최근 강준규와 전속계약을 체결했다"라며 "음악, 연기를 넘나드는 다재다능함과 뛰어난 외모의 소유자인 강준규에게 큰 가능성을 보고 그와 동행을 결정했다"라고 밝혔다.5인조 보이그룹 마이네임으로 데뷔해 국내외 팬들에게 사랑을 받아온 강준규는 배우 전향 후 연극 '일등급인간', 영화 '특송', 드라마 '별똥별' 등에 출연해 눈도장을 찍었다. 또 강준규는 오는 30일 개봉 예정인 공포영화 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO), 131레이블 전격 합류! 하반기 정식 데뷔]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22788</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952"/>
         <updated>2022-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유튜브에서 활발한 음악 활동 펼쳐온 xooos(수스)가 글로벌 뮤직 레이블로 떠오르고 있는 WAVY(웨이비)에 합류한다.WAVY는 지난 28일 공식 SNS를 통해 xooos의 프로필 사진을 업로드하며 영입 소식을 밝혔다. 앞서 WAVY는 핑크 컬러가 돋보이는 명함 이미지를 공개했고, 새로운 아티스트의 합류를 예고하며 음악팬들의 궁금증을 자극했다.xooos는 100만명 이상의 구독자를 보유한 아티스트다. xooos가 부른 찰리푸스의 'Light Switch' 커버 영상은 조회 수 3천만 회 이상을 기록했고, 커버 영상을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프듀' 출신 임정민(태령), 이리온엔터 전속계약 체결…위앤유와 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21930"/>
-        <updated>2022-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 임정민(태령)이 이리온엔터테인먼트에서 새로운 활동을 시작한다.27일 이리온엔터테인먼트는 "걸그룹 루나솔라 출신 태령(임정민)과 최근 전속계약을 체결했다. 태령은 본명 임정민으로 2023년 컴백을 준비하고 있다"라고 밝혔다.임정민은 이리온엔터테인먼트를 통해 "저의 생일에 좋은 소식을 전해드릴 수 있어 기쁘다. 새로운 보금자리에서 좋은 음악을 열심히 준비하겠다"라는 뜻깊은 소감을 전했다.이어 "팬분들과 새로운 콘셉트로 빨리 만날 날을 기대하고 있다. 이제 루나솔라 태령이 아닌 임정민으로 기억해주..]]></content>
     </entry>
 </feed>
