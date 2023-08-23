@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-23T07:13:44.898Z</updated>
+    <updated>2023-08-23T08:18:00.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 33 CIRCLE CHART: JIHYO (TWICE) ‘ZONE’ Takes Top Spot in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22905</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22905"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[For the week 33 CIRCLE CHART, the weekly Retail Album Chart was topped by JIHYO (TWICE) ‘ZONE’, which sold a total of 330,710 copies at retailers.`ZONE' was the top seller as of 4PM (KST) on the date of its release, August 18th (Friday, week 33).‘ZONE’ is the solo debut album by JIHYO (TWICE). I..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황인욱, 신곡 ‘부산에서 만난 그 여자’ M/V 티저 공개! 리얼리티 발라드 ‘공감 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22904</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 듣자마자 빠져드는 목소리로 음악팬들의 감성을 저격한다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'은 지난 17일부터 19일까지 플렉스엠 공식 SNS를 통해 신곡 'Happiness (해피니스)'의 뮤직비디오 개인 티저 영상을 공개했다.공개된 영상 속 허각과 신용재, 임한별은 폭발적인 가창력을 선보이며 단숨에 몰입감을 높였다. 결혼식장으로 보이는 배경과 블랙 수트, 호소력 짙은 보컬이 완벽하게 어우러지며 리스너들의 감성을 더욱 자극했다.특히 "사랑해 이 말..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글로벌 루키' 리오(LEO), 美 LA 'KIIS FM K팝 빌리지' 역대급 데뷔 무대 성료!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22888</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22888"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO)가 성공적인 데뷔 무대를 가졌다.리오는 19일(현지 시간) 미국 로스엔젤레스에서 열린 'KIIS FM K-POP VILLAGE AT KCON LA 2023 (키스 FM 케이팝 빌리지 앳 케이콘 LA 2023)'에서 화려한 데뷔 무대를 선보였다.'KIIS FM K-POP VILLAGE'는 세계 최대 규모의 K컬처 페스티벌인 'KCON LA 2023' 기간 중 진행된 공연으로, 리오는 미국 메이저 방송국 iHeartMedia(아이하트미디어)의 초청을 받아 참..]]></content>
     </entry>
 </feed>
