@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-08-24T00:56:43.081Z</updated>
+    <updated>2023-08-24T01:44:53.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엠씨더맥스 이수, 전국투어 콘서트 '기행문' 추가 지역 오픈! 대구?전주?창원 방문 예고…9월 1일 예매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22911</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22911"/>
+        <updated>2023-08-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엠씨더맥스(M.C the MAX) 이수가 팬들을 만나기 위한 여행을 떠난다.2023-24 엠씨더맥스 이수 콘서트 '기행문'의 2차 지역 티켓 판매 공지가 지난 23일 오후 예매처 멜론 티켓과 공식 SNS를 통해 공개됐다.오는 9월 2일?3일 대전에서 포문을 여는 '기행문'은 같은 달 9일 울산, 16일?17일 부산으로 이어진다. 여기에 추가로 대구, 전주, 창원 지역의 방문을 예고하며 팬들의 기대감을 한층 끌어올리고 있다.이날 새롭게 오픈된 2차 지역 공연들은 각각 오는 10월 14일?15일 대구 영남대..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트, 7년 만 완전체 콘서트 성료..."최고의 하루를 만들어 준 팬들에 감사, 디너쇼까지 함께해"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22892</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22811"/>
         <updated>2023-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[국민가수 박창근이 전국투어를 성황리에 마쳤다.박창근은 지난 29일, 30일 충남대학교 정심화홀에서 열린 2023 박창근 콘서트 '우리들 꿈에 관한 이야기' 대전 공연을 끝으로 약 2개월간의 전국투어를 마무리했다.이날 박창근은 '푸른 바다와 그대 꿈에 관한 이야기' 무대를 오프닝으로 대전 관객과 만났다. 특히 대전에서는 처음 진행하는 공연인 만큼 "견우직녀가 만난 것처럼 정성스럽게 노래를 주고받는 자리로 만들고 싶다"라고 특별한 소감을 밝혔다.&nbsp;박창근은 '나는 사랑에 빠졌어요'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방용국, 월드투어 'THE COLORS OF BANG YONG GUK' 성료 "응원해 주시는 팬 덕분에 행복"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22807</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22807"/>
-        <updated>2023-07-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 방용국이 첫 월드투어의 대장정을 마무리했다.&nbsp;&nbsp;방용국은 지난 26일 태국 방콕에서 개최한 'THE COLORS OF BANG YONG GUK(더 컬러즈 오브 방용국)'을 끝으로 약 2개월 간의 월드투어 여정을 마쳤다.&nbsp;&nbsp;'THE COLORS OF BANG YONG GUK'은 방용국이 솔로 활동을 시작한 이후 처음으로 진행한 월드투어다. 지난 5월 일본 오사카를 시작으로, 미국 10개 도시(졸리엣, 보스턴, 뉴욕, 샬럿, 애틀랜타, 오스틴, 댈러스, 덴버, 로스앤젤레스, 오클랜드), 유럽 5개 도시(..]]></content>
     </entry>
 </feed>

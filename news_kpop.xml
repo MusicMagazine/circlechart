@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-24T00:56:43.084Z</updated>
+    <updated>2023-08-24T01:44:53.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치, 9월 6일 새 싱글 'BOOM'으로 컴백...'역대급 비주얼' 무빙 포스터 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22910</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22910"/>
+        <updated>2023-08-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 로켓펀치(Rocket Punch, 연희, 쥬리, 수윤, 윤경, 소희, 다현)가 업그레이드된 매력을 담은 신보로 컴백한다.&nbsp;소속사 울림엔터테인먼트는 24일 0시 공식 유튜브 채널을 통해 로켓펀치의 세 번째 싱글 '붐(BOOM)' 두 번째 무빙 포스터를 공개했다.&nbsp;공개된 무빙 포스터 영상은 교실 문을 열고 나오는 윤경, 다현의 모습과 함께 시작됐다. 복도를 따라 힘차게 걸어가던 두 사람의 손짓에 쥬리와 소희, 연희와 수윤이 차례로 합류하고, 여섯 멤버 완전체가 된 로켓펀치의 당당한 발걸음이 이어져 시선을 압도했다.&nbsp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 33 CIRCLE CHART: JIHYO (TWICE) ‘ZONE’ Takes Top Spot in Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22905</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22890"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 범키가 새 싱글로 돌아온다.브랜뉴뮤직은 지난 17일 공식 SNS 채널들을 통해 범키의 새 싱글 티저 이미지를 깜짝 공개하며 범키의 컴백 소식을 전했는데,&nbsp;공개된 이미지에는 나무 위에 붙어져 있는 종이 위로 물음표와 함께 'amazing, nice, fine, chill, good, fresh'라는 문구가 적혀있어&nbsp;신곡에 대한 궁금증을 자아냈다. 또한 ‘2023.08.24 6PM (KST) RELEASE’라는 발매 시기가 공개되며 많은 음악팬들의 이목을 집중시켰다.이어 다음날엔 'Hey BUMKEY'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['24일 발매' 허각,신용재,임한별, '허용별' 프로젝트 신곡 'Happiness' M/V 티저만으로 귀호강 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22889"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 듣자마자 빠져드는 목소리로 음악팬들의 감성을 저격한다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'은 지난 17일부터 19일까지 플렉스엠 공식 SNS를 통해 신곡 'Happiness (해피니스)'의 뮤직비디오 개인 티저 영상을 공개했다.공개된 영상 속 허각과 신용재, 임한별은 폭발적인 가창력을 선보이며 단숨에 몰입감을 높였다. 결혼식장으로 보이는 배경과 블랙 수트, 호소력 짙은 보컬이 완벽하게 어우러지며 리스너들의 감성을 더욱 자극했다.특히 "사랑해 이 말..]]></content>
     </entry>
 </feed>
