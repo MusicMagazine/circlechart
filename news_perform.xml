@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-08-25T01:50:55.560Z</updated>
+    <updated>2023-08-25T02:20:00.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에버글로우, 美 케이콘으로 컴백→미주 투어 개최까지…글로벌돌의 화려한 귀환]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22913</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22913"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에버글로우(EVERGLOW)가 미주 투어에 돌입한다.&nbsp;25일 소속사는 "에버글로우(이유, 시현, 미아, 온다, 아샤, 이런)가 오는 11월 미주 10개 도시를 순회하는 '2023 EVERGLOW US TOUR ALL MY GIRLS(2023 에버글로우 유에스 투어 올 마이 걸스)'를 개최한다"라고 밝혔다.&nbsp;에버글로우는 11월 1일 뉴헤이븐을 시작으로 3일 뉴욕, 6일 애틀랜타, 8일 워싱턴 D.C, 10일 세인트피터즈버그, 13일 루이빌, 15일 시카고, 17일 덴버, 20일 샌프란시스코, 22일 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠씨더맥스 이수, 전국투어 콘서트 '기행문' 추가 지역 오픈! 대구?전주?창원 방문 예고…9월 1일 예매 시작]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22911</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22813"/>
         <updated>2023-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 신곡을 발매하며 깊어진 감성을 전한다.디어클라우드(나인, 이랑, 토근)는 31일 정오 각종 온라인 음원사이트를 통해 새 싱글 '섬'을 발매한다.'섬'은 디어클라우드가 올해 세 번째로 발매하는 디지털 싱글이자 지난 4월 '오늘만' 이후 약 3개월 만에 선보이는 신보다. 디어클라우드만의 음악적 색깔이 돋보이는 곡으로 인간의 외로움을 섬에 빗대어 표현한 가사가 특징이다.디어클라우드는 '섬' 발매에 이어 오는 8월 3일 현대카드 언더 스..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민가수 박창근, 서울→대전 5개 도시 전국투어 성료 "또 다른 공연에서 만나요"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22811</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22811"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[국민가수 박창근이 전국투어를 성황리에 마쳤다.박창근은 지난 29일, 30일 충남대학교 정심화홀에서 열린 2023 박창근 콘서트 '우리들 꿈에 관한 이야기' 대전 공연을 끝으로 약 2개월간의 전국투어를 마무리했다.이날 박창근은 '푸른 바다와 그대 꿈에 관한 이야기' 무대를 오프닝으로 대전 관객과 만났다. 특히 대전에서는 처음 진행하는 공연인 만큼 "견우직녀가 만난 것처럼 정성스럽게 노래를 주고받는 자리로 만들고 싶다"라고 특별한 소감을 밝혔다.&nbsp;박창근은 '나는 사랑에 빠졌어요'..]]></content>
     </entry>
 </feed>

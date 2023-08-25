@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-25T01:50:55.558Z</updated>
+    <updated>2023-08-25T02:20:00.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign), 美 타임스퀘어→日 6개 도시 전광판 장식…데뷔와 동시에 글로벌 인기 HOT!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22915</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22915"/>
+        <updated>2023-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 글로벌 눈도장을 제대로 찍었다.지난 9일 데뷔 앨범 'BIRTH OF COSMO(버스 오브 코스모)'를 발매한 엔싸인은 최근 한국, 미국, 일본의 대형 전광판을 장식하며 눈길을 끌고 있다.엔싸인은 서울 홍대입구역부터 미국 뉴욕 타임스퀘어, 일본 도쿄 시부야, 아이치 나고야, 오사카 도톤보리, 오키나와 나하, 후쿠오카 하카타, 홋카이도 삿포로 등 주요 도시 6곳의 전광판에 입성해 글로벌 위상을 드러냈다. 특히 화려한 뉴욕 거리 한복판에 엔싸인의 뮤직비디오가 재생되며 K팝 팬들의 이목을 집중..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로켓펀치, 9월 6일 새 싱글 'BOOM'으로 컴백...'역대급 비주얼' 무빙 포스터 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22910</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22893"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 게릴라 공연을 성공리에 마치며 뜻깊은 시간을 가졌다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 19일 서울 반포한강공원 세빛섬에서 무료 게릴라 공연을 개최했다.&nbsp;이날 현장에는 최근 발매된 스테이씨의 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’의 타이틀곡 ‘Bubble (버블)’ 무대를 보기 위해 모인 팬들과 공원을 찾은 일반 시민들까지 운집하며 콘서트 현장을 방불케 하는 뜨거운 분위기가 형성됐다.&nbsp;스테이씨는 먼저 ‘Teddy Bear (테디베어)’ 무대로 이날 게릴라 공연의 포문..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범키, 24일 컴백 확정...티저 이미지 깜짝 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22890</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22890"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 범키가 새 싱글로 돌아온다.브랜뉴뮤직은 지난 17일 공식 SNS 채널들을 통해 범키의 새 싱글 티저 이미지를 깜짝 공개하며 범키의 컴백 소식을 전했는데,&nbsp;공개된 이미지에는 나무 위에 붙어져 있는 종이 위로 물음표와 함께 'amazing, nice, fine, chill, good, fresh'라는 문구가 적혀있어&nbsp;신곡에 대한 궁금증을 자아냈다. 또한 ‘2023.08.24 6PM (KST) RELEASE’라는 발매 시기가 공개되며 많은 음악팬들의 이목을 집중시켰다.이어 다음날엔 'Hey BUMKEY'..]]></content>
     </entry>
 </feed>
