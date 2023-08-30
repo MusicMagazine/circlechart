@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-30T00:58:17.939Z</updated>
+    <updated>2023-08-30T01:50:36.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러, 9월 25일 미니 5집 'Magic Hour'로 컴백 확정…글로벌 상승세 잇는다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22927</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22927"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 케플러(Kep1er)가 9월 25일 다섯 번째 미니 앨범으로 전격 컴백하며 글로벌 상승세를 이어간다.&nbsp;케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 30일 0시 공식 SNS를 통해 티저 이미지를 깜짝 공개했다. 황혼이 지는 듯 오렌지, 핑크, 퍼플, 블루가 어우러져 마법같이 펼쳐진 하늘빛 색채 위로 컴백일인 9월 25일과 다섯 번째 미니 앨범 'Magic Hour (매직 아워)'가 새겨져 있다.&nbsp;그간 러블리하고 에너제틱한 퍼포먼스로 폭넓은 장르 소화력을 증명해 온 케..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['9월 13일 프리데뷔' 파우(POW), 5인 5색 첫 이미지 티저 공개! K-POP 핫플 뜬다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22926</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22904"/>
         <updated>2023-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 황인욱이 리얼리티 발라드를 선보인다.황인욱은 지난 22일 오후 소속사 하우엔터테인먼트 공식 유튜브 채널을 통해 새 디지털 싱글 ‘부산에서 만난 그 여자’의 뮤직비디오 티저 영상을 공개했다.부산을 배경으로 촬영된 영상은 한 여자를 애타게 찾고 있는 남자의 모습을 담고 있다. 이와 함께 두 사람의 행복했던 옛 추억들이 그려져 쓸쓸한 분위기를 배가한다.특히 황인욱의 허스키한 보컬로 “혹시 부산에서 만난 그 여자를 본적있나요 / 혹시 부산에서 만난 그 여자를 알고있나요 / 그때 함께갔던 서면도 / 우리가 처음만난 광안리 / 어디에도 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 강예서, 영화 ‘스즈메의 문단속’ 주제가 커버 영상 공개! 청아한 보이스 ‘감성 저격’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22903</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22903"/>
-        <updated>2023-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 케플러(Kep1er)의 강예서가 커버 영상으로 보컬 실력을 입증했다.&nbsp;케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 지난 22일 공식 유튜브 채널을 통해 강예서가 가창한 RADWIMPS (래드윔프스) 의 ‘すずめ(Suzume) (feat. Toaka(토아카/十明)’ 커버 영상을 공개했다.&nbsp;‘すずめ (스즈메)’는 신카이 마코토 감독의 영화 ‘스즈메의 문단속’의 주제곡으로 국내외 큰 사랑을 받은 바 있다. 몽환적이면서도 서정적인 허밍으로 도입부부터 이목을 사로잡은 강예서는 특유의 맑고..]]></content>
     </entry>
 </feed>
