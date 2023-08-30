@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-08-29T23:12:50.178Z</updated>
+    <updated>2023-08-30T00:58:17.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['9월 13일 프리데뷔' 파우(POW), 5인 5색 첫 이미지 티저 공개! K-POP 핫플 뜬다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22926</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22926"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 보이그룹 파우(POW)가 5인 5색 다채로운 매력의 프리 데뷔 활동을 예고했다.파우(요치, 현빈, 정빈, 동연, 홍)는 29일과 30일 공식 SNS를 통해 멤버들의 ID 카드와 개인 및 단체 이미지 티저를 공개했다.오는 9월 13일 프리 데뷔를 선언한 파우는 특별한 취향으로 자신들을 직접 소개했다. 특히 요치는 고향 THAI, 현빈은 ZEBRA, 정빈은 POSITIVE ENERGY, 동연은 LOVE, 홍은 I LOVE YOU 등 각자가 가장 좋아하는 단어로 5인 5색 매력 포인트를 짚어 눈길을 끈다.함께 공개된 이미지 티저에서..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['글로벌 루키' 리오, 데뷔 싱글 'One Look' M/V 본편 공개! 美 LA 배경]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22923</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22903"/>
         <updated>2023-08-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 케플러(Kep1er)의 강예서가 커버 영상으로 보컬 실력을 입증했다.&nbsp;케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 지난 22일 공식 유튜브 채널을 통해 강예서가 가창한 RADWIMPS (래드윔프스) 의 ‘すずめ(Suzume) (feat. Toaka(토아카/十明)’ 커버 영상을 공개했다.&nbsp;‘すずめ (스즈메)’는 신카이 마코토 감독의 영화 ‘스즈메의 문단속’의 주제곡으로 국내외 큰 사랑을 받은 바 있다. 몽환적이면서도 서정적인 허밍으로 도입부부터 이목을 사로잡은 강예서는 특유의 맑고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이디야, 디바 원곡 디테일 제대로…신곡 '왜 불러(What’s Up?)' M/V 속 힙한 세기말 감성]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22900</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22900"/>
-        <updated>2023-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 ADYA(에이디야)가 세대를 아우르는 매력으로 시선을 사로잡고 있다.에이디야(연수·서원·세나·채은·승채)는 지난 16일 신곡 '왜 불러(What’s Up?)'를 발매하고 활발한 음악 활동을 펼치고 있다.'왜 불러(What’s Up?)'는 90년대 후반 선풍적인 인기를 끌었던 디바의 '왜불러'를 재해석한 곡이다. 원곡의 포인트 안무는 에이디야만의 통통 튀는 에너지로 표현하고, 인트로와 제스처 등 직접 안무에 참여해 '5세대 퍼포먼스 그룹'의 역량을 제대로 드러냈다.에이디야..]]></content>
     </entry>
 </feed>
