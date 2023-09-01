@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-01T08:18:05.093Z</updated>
+    <updated>2023-09-01T09:14:14.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비, 10월 단독 콘서트 'QUEEN' 개최...'글로벌 대세' 상승세 이어간다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22941</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22941"/>
+        <updated>2023-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 권은비가 오는 10월 단독 콘서트를 개최한다.소속사 울림엔터테인먼트는 1일 오후 2시 공식 SNS를 통해 '2023 권은비 세 번째 콘서트 '퀸'(2023 KWON EUNBI 3rd CONCERT 'QUEEN')'(이하 '퀸') 개최 소식을 알렸다.공지에 따르면 권은비는 오는 10월 7일과 8일 양일간 서울 용산구에 위치한 블루스퀘어 마스터카드홀에서 단독 콘서트 '퀸'을 열고 글로벌 팬들과 만난다.권은비는 지난해 6월 솔로 아티스트로 데뷔한 지 약 1년 만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버글로우, 美 케이콘으로 컴백→미주 투어 개최까지…글로벌돌의 화려한 귀환]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22913</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832"/>
         <updated>2023-08-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing그룹 케플러(Kep1er)가 팬들과 동화 같은 만남을 갖는다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 3일 공식 SNS를 통해 오는 10월 도쿄 첫 단독 팬미팅 ‘Kep1er JAPAN FAN MEETING - Fairy Fantasia’ 개최 소식을 알렸다.개최 소식과 함께 공개된 포스터에 따르면, 이번 팬미팅은 오는 10월 27일, 28일 양일간 일본 도쿄 가든 시어터에서 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모던록밴드 디어클라우드, 오늘(31일) 새 싱글 '섬' 발매…8월 단독 콘서트서 무대 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22813</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22813"/>
-        <updated>2023-07-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 신곡을 발매하며 깊어진 감성을 전한다.디어클라우드(나인, 이랑, 토근)는 31일 정오 각종 온라인 음원사이트를 통해 새 싱글 '섬'을 발매한다.'섬'은 디어클라우드가 올해 세 번째로 발매하는 디지털 싱글이자 지난 4월 '오늘만' 이후 약 3개월 만에 선보이는 신보다. 디어클라우드만의 음악적 색깔이 돋보이는 곡으로 인간의 외로움을 섬에 빗대어 표현한 가사가 특징이다.디어클라우드는 '섬' 발매에 이어 오는 8월 3일 현대카드 언더 스..]]></content>
     </entry>
 </feed>

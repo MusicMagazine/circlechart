@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-01T08:18:05.096Z</updated>
+    <updated>2023-09-01T09:14:14.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 34 CIRCLE CHART: Jung Kook, NewJeans, and PLAVE Dominate the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22940</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22940"/>
+        <updated>2023-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 34 CIRCLE CHART (formerly gaonchart) was dominated by Jung Kook, NewJeans, and PLAVE.KMCA, publisher of CIRCLE CHART, announced that “As of week 34 (2023.08.20.~2023.08.26.), Jung Kook kept up a 2-week hold on the No. 1 spot of the Global K-pop Chart while NewJeans and PLAVE topped 3 and 2 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['뮤직인더트립' 이무진, 일상 탈출 꿈꾸는 감성 뮤지션 변신! 나 홀로 '강진 여행']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22939</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22922"/>
         <updated>2023-08-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 다채로운 프로모션으로 연일 뜨거운 반응을 잇고 있다.&nbsp;스테이씨는 최근 세 번째 미니앨범 ‘TEENFRESH (틴프레시)’를 발매하고 독보적인 틴프레시 에너지와 긍정적인 메시지를 담아낸 타이틀곡 ‘Bubble (버블)’로 활발한 활동을 펼치고 있다. 특히 참신한 챌린지와 다채로운 프로모션을 선보이며 화력을 더해가고 있다.&nbsp;스테이씨는 공식 SNS를 통해 다양한 챌린지를 진행 중이다. 포인트 안무가 돋보이는 퍼포먼스 챌린지와 ‘버블 버블 버블’ 발음 챌린지, 스테이씨의 귀여운 매력과 케미를 엿볼 수 있는 잔소..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 33 CIRCLE CHART: Jung Kook is No.1 in Global K-pop Chart, NewJeans Top 4 Ch..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22916</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22916"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 33 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, NewJeans, and JIHYO (TWICE).KMCA, publisher of CIRCLE CHART, announced that “As of week 33 (2023.08.13.~2023.08.19.), Jung Kook took the No. 1 spot in the Global K-pop Chart while NewJeans and JIHYO (TWICE) topped 4 and ..]]></content>
     </entry>
 </feed>
