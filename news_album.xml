@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-08-31T23:14:33.591Z</updated>
+    <updated>2023-09-01T01:01:59.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에일리, 오늘(1일) 1년 6개월만 신곡 '잡아줄게' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22938</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22938"/>
+        <updated>2023-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 에일리가 1년 6개월 만에 신곡으로 돌아온다.&nbsp;&nbsp;에일리는 1일 오후 6시 새 싱글 '잡아줄게(I'll hold you)'를 발매한다.&nbsp;&nbsp;'잡아줄게'는 가사에 온전히 집중하게 만드는 간결한 악기 구성과 에일리의 담백한 보컬이 인상적인 발라드곡이다. 후반부 웅장한 스트링 사운드와 어우러지는 폭발적인 에일리의 가창력은 듣는 이들에게 용기를 전한다.&nbsp;&nbsp;또한 앨범 커버 이미지에는 각자의 이유로 바닷속에 잠긴 것처럼, 깊은 어둠에 잠긴 이들에게 전하는 위로의 의미를 담았으며 빛과 함께 찾아온 누군가의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동근, 오늘(31일) 신곡 '과거로 돌아간다면' 발매…매력적 보컬 '완성도 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22936</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22921"/>
         <updated>2023-08-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 에일리가 소름 돋는 가창력으로 이목을 집중시켰다.&nbsp;지난 28일 소속사 A2Z엔터테인먼트(팝뮤직) 공식 SNS를 통해 에일리의 새 싱글 '잡아줄게(I‘ll hold you)' 라이브 티저 영상이 공개됐다.&nbsp;흑백 버전으로 제작된 영상은 차분한 분위기 속 온전히 에일리의 보이스에 집중하게 한다. 에일리는 스탠드 마이크 앞에서 열창하며 혼자서도 압도적인 존재감을 발산하고 있다.&nbsp;&nbsp;특히 에일리만이 소화 가능한 안정적인 초고음과 폭발적인 성량이 귓가를 사로잡으며 듣는 이들에게 전율을 선사한다.&nbsp;'잡아줄게'는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라 측 "9월 신곡 'KOOL' 발매, 데뷔 이래 처음 시도하는 장르·콘셉트"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22920</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22920"/>
-        <updated>2023-08-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 9월 'KOOL'로 컴백한다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 9월 새 디지털 싱글 'KOOL'(쿨)을 발매하고, 음악 팬들에게 새로운 모습을 보여줄 예정이다.오늘(28일) 0시 포레스텔라 공식 SNS를 통해 'KOOL'의 컴백 트레일러가 공개됐다. 힙한 스타일링의 멤버 고우림이 이국적인 공간에 들어가 미소 짓는 모습이 눈길을 사로잡는다. 이어 포레스텔라의 새로운 로고와 함께 'KOOL'이라는 신곡명과 '..]]></content>
     </entry>
 </feed>
