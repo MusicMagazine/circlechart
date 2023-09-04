@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-09-04T00:59:05.978Z</updated>
+    <updated>2023-09-04T01:52:52.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러, 데뷔 첫 유닛곡 예고… 라이브→퍼포먼스 성장 담은 'Magic Hour' 전곡 트랙명 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22943</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22943"/>
+        <updated>2023-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 케플러(Kep1er)가 신곡 'Galileo'로 돌아온다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 4일 0시 공식 SNS를 통해 오는 25일 발매될 미니 5집 'Magic Hour (매직 아워)'의 트랙리스트를 게재했다.&nbsp;공개된 트랙리스트에 따르면 이번 앨범에는 타이틀곡 'Galileo(갈릴레오)'를 비롯해 'The Door(더 도어)', 'Love on Lock(러브 온 록)', 'Tropical..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시온X십센치, 넬의 ‘기억을 걷는 시간’ 리메이크… 10일 음원 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22942</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22925"/>
         <updated>2023-08-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[한국 힙합의 살아있는 레전드이자, 힙합씬을 넘어 가요계에 새로운 패러다임을 제시한 버벌진트가 2년만에 신보를 들고 돌아온다.29일 버벌진트의 소속사 아더사이드는 오는 9월 7일 여덟 번째 정규 앨범 [K-XY : INFP]을 발매한다고 밝혔다. 버벌진트의 정규 앨범 발매는 2021년 공개된 [변곡점] 이후 약 2년여 만이다.버벌진트는 이 소식과 함께 지난 21일 여덟 번째 정규 앨범의 트랙리스트와 오피셜 커버, 그리고 피처링진을 공개했는데,&nbsp;음악팬들은 과연 이번 앨범을 통해 버벌진트가 어떤 이야기를 전달할지 관심이 쏠렸다.타이틀곡 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시그니처, 오늘(29일) 네 번째 EP '그해 여름의 우리' 발매! 윤하 쇼케이스 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22924</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22924"/>
-        <updated>2023-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 시그니처(cignature)가 소녀감성을 품고 돌아온다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 29일 오후 6시 네 번째 EP '그해 여름의 우리(Us in the Summer)'를 발매한다.'그해 여름의 우리'는 모든 것이 처음이라 혼란스럽지만 숨차게 달리고 있는 청춘의 한복판에 놓여진 소녀들의 이야기를 다룬 앨범이다. 아주 사소한 사랑의 이야기부터, 마음 가는 대로의 이별, 그리고 내밀한 자아에 대한 이야기까지 소녀들의 작고 소박한 이야기들을 아기자기하게 담아냈다.타이틀곡 ..]]></content>
     </entry>
 </feed>

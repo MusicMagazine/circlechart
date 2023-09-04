@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-04T00:59:05.980Z</updated>
+    <updated>2023-09-04T01:52:52.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엠씨더맥스 이수, 전국투어 콘서트 '기행문' 본격 시작! 팬들과 약속 위한 여정 떠난다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22945</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22945"/>
+        <updated>2023-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[엠씨더맥스(M.C the MAX) 이수가 전국투어를 시작했다.이수는 지난 2일과 3일 양일간 충남대학교 대덕캠퍼스 국제문화회관 정심화홀에서 2023-24 엠씨더맥스 이수 콘서트 '기행문' 대전 공연을 열고 팬들을 만났다.전국투어의 시작을 알리는 첫 공연인 만큼 팬들의 관심을 더욱 뜨거웠다. 이수는 특유의 감성과 경이로운 가창력으로 오랜 기간 사랑을 받은 수많은 히트곡부터 그간 수많은 리스너들을 웃고 울렸던 명곡들까지 명품 라이브 무대를 선사하며 관객들과 호흡했다.특히 이수는 앞선 2022-23 콘서트 '겨울나기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, 10월 단독 콘서트 'QUEEN' 개최...'글로벌 대세' 상승세 이어간다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22941</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836"/>
         <updated>2023-08-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 합동 공연으로 뭉친다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'이 오는 9월 9일 서울 올림픽공원 올림픽홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최한다.'허용별' 프로젝트는 방송 프로그램과 유튜브 콘텐츠에 동반 출연하는 등 남다른 친분을 쌓아온 허각과 신용재, 임한별이 지속적인 음악적 교류를 통해 기획한 프로젝트다.이번 공연에서 세 사람은 현장을 찾은 관객들에게 환상적인 시간을 선물할 예정..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22832"/>
-        <updated>2023-08-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[케플러, 10월 도쿄 첫 단독 팬미팅 ‘Fairy Fantasia’ 개최 확정… 日 대세 존재감 행보ing그룹 케플러(Kep1er)가 팬들과 동화 같은 만남을 갖는다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 3일 공식 SNS를 통해 오는 10월 도쿄 첫 단독 팬미팅 ‘Kep1er JAPAN FAN MEETING - Fairy Fantasia’ 개최 소식을 알렸다.개최 소식과 함께 공개된 포스터에 따르면, 이번 팬미팅은 오는 10월 27일, 28일 양일간 일본 도쿄 가든 시어터에서 ..]]></content>
     </entry>
 </feed>
