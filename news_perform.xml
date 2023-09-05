@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-05T00:57:35.498Z</updated>
+    <updated>2023-09-05T01:46:56.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['4세대 핫템' 템페스트, 30일 마카오서 단독 콘서트 'T-OUR' 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22948</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22948"/>
+        <updated>2023-09-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 첫 단독 콘서트 열기를 마카오로 이어간다.&nbsp;&nbsp;템페스트(한빈, 형섭, 혁, 은찬, 루, 화랑, 태래)는 오는 30일 마카오 브로드웨이 극장에서 '2023 TEMPEST SHOW CON [T-OUR] in MACAU'(이하 'T-OUR')를 개최한다.&nbsp;&nbsp;&nbsp;'T-OUR(티 아워)'는 템페스트가 데뷔 후 처음으로 개최한 단독 콘서트다. 템페스트는 앞서 서울, 일본 오사카와 도쿄에서 공연을 개최해 팬들과 만났다. 특히 매 무대 다른 셋 리스트와 미공개곡 무대를 최초로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠씨더맥스 이수, 전국투어 콘서트 '기행문' 본격 시작! 팬들과 약속 위한 여정 떠난다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22945</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22856"/>
         <updated>2023-08-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 및 배우 김종현이 뮤직 페스티벌로 팬들을 만난다.김종현은 오는 9월 2일 서울 올림픽공원 SK올림픽핸드볼경기장에서 개최되는 뮤직 페스티벌 '학교2023-지금콘서트'에 출연한다.'학교2023-지금콘서트'는 국내 최초로 학교와 교복을 콘셉트로 한 페스티벌이다. '과거의 나의 모습으로 지금을 즐겨라'라는 주제로 전 연령층이 함께 참여할 수 있는 부스와 다양한 무대로 구성된다.가수 활동부터 연기 활동까지 장르를 넘나들며 한계 없는 활약을 펼치고 있는 김종현은 이번 공연을 통해 오랜만에 관객들..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각·신용재·임한별, 9월 '허용별 콘서트 : 보컬 전쟁]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22836"/>
-        <updated>2023-08-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 합동 공연으로 뭉친다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'이 오는 9월 9일 서울 올림픽공원 올림픽홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최한다.'허용별' 프로젝트는 방송 프로그램과 유튜브 콘텐츠에 동반 출연하는 등 남다른 친분을 쌓아온 허각과 신용재, 임한별이 지속적인 음악적 교류를 통해 기획한 프로젝트다.이번 공연에서 세 사람은 현장을 찾은 관객들에게 환상적인 시간을 선물할 예정..]]></content>
     </entry>
 </feed>
