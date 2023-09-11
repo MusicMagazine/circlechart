@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-11T00:58:49.867Z</updated>
+    <updated>2023-09-11T01:53:12.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스), ‘불안의 서’ 챕터 2. ‘Can We Surrender?’ 스토리 필름 공개! 학교폭력에 맞선다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22969</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22969"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 학교폭력에 목소리를 낸다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 11일 0시 공식 SNS와 유튜브 채널을 통해 여섯 번째 EP 불안의 서 챕터 2. ‘Can We Surrender?(캔 위 서렌더?)’의 스토리 필름 영상을 공개했다.스토리 필름 속 이펙스는 비밀스럽게 계단을 오르내리거나 복면을 쓴 사람들에게 쫓기는 모습으로 박진감을 자아낸다. 사람들 틈에서 저항하는 뮤, 휴대폰으로 촬영 당하는 아민, 환한 불빛을 내뿜고 있는 예왕의 모습도 궁금증을 더한다.이와 함께 영어 내레이션..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['20일 컴백' 템페스트, 신보 '폭풍 속으로' 콘셉트 포토 공개 완료…거침없는 질주본능]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22963</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22944"/>
         <updated>2023-09-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 아이브(IVE)와 리더 안유진이 '2023 올해의 브랜드 대상' 수상 겹경사를 맞았다.&nbsp;아이브는 '2023 올해의 브랜드 대상'에서 올해의 여자아이돌로 선정됐다. 안유진 또한 올해의 여자 예능돌 부문을 수상하는 영광을 안았다.&nbsp;한국소비자포럼이 주관하는 '올해의 브랜드 대상'은 매년 대국민 소비자 투표를 통해 한 해를 빛낸 최고의 브랜드를 선정하고 시상하는 행사로, 올해로 21주년을 맞이했다. 대한민국 소비자라면 누구나 투표에 참여할 수 있다.&nbsp;지난 7월 3일부터 16일까지 진행된 대국..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 34 CIRCLE CHART: Jung Kook, NewJeans, and PLAVE Dominate the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22940</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22940"/>
-        <updated>2023-09-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 34 CIRCLE CHART (formerly gaonchart) was dominated by Jung Kook, NewJeans, and PLAVE.KMCA, publisher of CIRCLE CHART, announced that “As of week 34 (2023.08.20.~2023.08.26.), Jung Kook kept up a 2-week hold on the No. 1 spot of the Global K-pop Chart while NewJeans and PLAVE topped 3 and 2 ..]]></content>
     </entry>
 </feed>
