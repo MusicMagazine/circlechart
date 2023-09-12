@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-12T00:57:06.479Z</updated>
+    <updated>2023-09-12T01:46:53.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[송가인-멜로망스 김민석, 권은비 콘서트 지원사격...'특급 대세'들의 만남]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22977</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22977"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 권은비가 막강 게스트들의 지원 사격 속에 단독 콘서트를 펼친다.&nbsp;&nbsp;소속사 울림엔터테인먼트는 11일 공식 SNS를 통해 '2023 권은비 세 번째 콘서트 '퀸'(2023 KWON EUNBI 3rd CONCERT 'QUEEN')'(이하 '퀸') 게스트로 멜로망스 김민석, 트로트 여신 송가인이 함께한다고 발표했다.&nbsp;공연 첫날인 7일에는 멜로망스 김민석이 무대에 올라 권은비의 단독 콘서트를 응원한다. 김민석은 뛰어난 가창력과 짙은 감성으로 가요계의 '고막 남친'으..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각·신용재·임한별, 첫 합동 공연 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"' 성료]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22971</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22892"/>
         <updated>2023-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 7년 만의 완전체 단독 콘서트를 성황리에 마무리했다.&nbsp;인피니트는 지난 19일과 20일 양일간 서울 올림픽공원 체조경기장(KSPO DOME)에서 단독 콘서트 '컴백 어게인(COMEBACK AGAIN)'을 개최하고 팬들과 만났다.&nbsp;&nbsp;'컴백 어게인'은 솔로 아티스트로 다방면에서 활발한 활동을 이어온 여섯 멤버가 지난 2016년 개최한 '그 해 여름 3' 이후 무려 7년 만에 인피니트 완전체로 함께하는 단독 콘서트..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 공연 내내 '빛' 그 자체…'The Light' 6th 인천 공연 성대한 마무리]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22891</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22891"/>
-        <updated>2023-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 'The Light'로 짜릿한 감동을 선사하고 있다.포레스텔라(조민규, 배두훈, 고우림, 강형호)는 지난 19일과 20일 송도컨벤시아에서 2023 전국투어 콘서트 'The Light'(더 라이트) 인천 공연을 개최했다.두 달째 성황리에 진행 중인 'The Light' 투어는 서울, 청주, 광주, 창원, 대구에 이어 여섯 번째 지역인 인천에 상륙했다. 포레스텔라는 이번 인천 공연에서도 '빛의 근원', '빛의 다양성'..]]></content>
     </entry>
 </feed>
