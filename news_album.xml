@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-09-11T23:15:09.903Z</updated>
+    <updated>2023-09-12T00:57:06.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘크러쉬 피처링’ 쿠기, 오늘(12일) 새 싱글 ‘Right Now’ 발매! 트렌디X솔직담백 감성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22975</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22975"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 쿠기(Coogie)가 ‘Right Now’로 여름의 대미를 장식한다.12일 오후 6시 각종 온라인 음원 사이트를 통해 쿠기의 새 디지털 싱글 ‘Right Now(라잇 나우) (Feat. Crush)’가 발매된다.‘Right Now’는 쿠기가 5개월 만에 선보이는 신곡이다. 크러쉬(Crush)가 피처링으로 지원사격을 펼쳤으며, 곡 전반에 쿠기의 트렌디한 감각이 묻어있다.또한, “간 보는 거 난 재미없어, 너가 아니면 의미 없어. 지금 Right now. I need you Right now”라는 솔직담백한 가사에서도 쿠기만의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시온X십센치, ‘기억을 걷는 시간’ 리메이크 음원 반응 폭발!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22970</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22955"/>
         <updated>2023-09-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 서머송의 새로운 획을 긋는다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 6일 낮 12시 국내외 전 온라인 음원 사이트를 통해 스핀오프 디지털 싱글 'KOOL'(쿨)을 발매한다.여름의 끝자락을 장식할 'KOOL'은 펑키하면서 그루브한 올드 스쿨 신스 라인과 경쾌한 베이스 라인이 인상적인 업 템포 곡이다. 하이라이트, 트와이스, NCT, 스트레이 키즈 등 K-POP 대표 아이돌 그룹과 협업해온 Andreas Ohrn, Didrik Thott, KZ, 김..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 신곡 'KOOL' M/V 티저 공개! 깜짝 퍼포먼스+랩 도전]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22951</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22951"/>
-        <updated>2023-09-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 'KOOL' 뮤직비디오에서 새로운 모습을 보여준다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 오늘(5일) 오후 6시 공식 유튜브 채널에 스핀오프 디지털 싱글 'KOOL'(쿨)의 뮤직비디오 본편을 선공개한다.'KOOL' 뮤직비디오는 올드 아메리칸 콘셉트 아래 포레스텔라의 물오른 비주얼과 케미스트리를 담아냈다. 또한, 멤버들의 깜짝 퍼포먼스와 랩 실력까지 만날 수 있다.지난 4일 멤버별로 제작된 'KOOL' 뮤직비디오 티저 ..]]></content>
     </entry>
 </feed>
