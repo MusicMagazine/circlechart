@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-13T00:59:11.094Z</updated>
+    <updated>2023-09-13T01:53:20.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['데뷔 D-1' 엘즈업, 첫 미니앨범 '7+UP' 하이라이트 메들리 공개…타이틀곡은 'CHEEKY']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22982</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22982"/>
+        <updated>2023-09-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 엘즈업(EL7Z UP)이 타이틀곡 'CHEEKY'로 데뷔 활동을 펼친다.&nbsp;&nbsp;&nbsp;엘즈업(휘서, 나나, 유키, 케이, 여름, 연희, 예은)은 지난 12일 공식 SNS를 통해 첫 번째 미니앨범 '7+UP(세븐 플러스 업)'의 하이라이트 메들리 영상을 공개했다.&nbsp;&nbsp;공개된 영상에는 첫 번째 트랙 'Die for You(다이 포 유)'를 비롯해 'CHEEKY(치키)', 'Undercover(언더커버)', 'Hideaway(하이드어웨이)', 'Cl..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파우(POW), 오늘(13일) 프리 데뷔! 'Favorite'표 유러피안 유스 컬처 출격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22979</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22954"/>
         <updated>2023-09-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 EPEX(이펙스)가 강렬한 컴백을 예고했다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 6일 0시 공식 SNS와 유튜브 채널을 통해 여섯 번째 EP 불안의 서 챕터 2. ‘Can We Surrender?(캔 위 서렌더?)’의 로고 모션 영상을 공개했다.영상은 ‘CRASH’, ‘DUCK’, ‘위험해’라는 경고 문구에 이어 쇠사슬에 묶여 있는 인형의 모습으로 시작된다. 그 뒤로도 ‘GET OUT OF MY WAY’, ‘RIGHT NOW’, ‘COLD BLOOD KILLER’, ‘BOOM’이라는 문구가 이어지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러, 미니 5집 'Magic Hour' 홈페이지 오픈… 25일 컴백 본격 스포일러 예고!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22952</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22952"/>
-        <updated>2023-09-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 케플러(Kep1er)가 특별한 홈페이지로 컴백에 대한 기대감을 높인다.오는 25일 다섯 번째 미니 앨범 'Magic Hour'를 발매하는 케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 6일 컴백 프로모션을 함께할 홈페이지 'Hello Kep1er'를 깜짝 공개했다.앨범명에 맞춰 'Magic Hour' 시간에 공개된 'Hello Kep1er'의 첫 화면에는 샤오팅이 나타나 무언가를 들여다보는 모습이 담겨 있어 시선을 사로잡는다..]]></content>
     </entry>
 </feed>
