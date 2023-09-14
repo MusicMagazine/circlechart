@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-13T23:14:15.323Z</updated>
+    <updated>2023-09-14T00:58:17.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘17일 발매’ 지아, 새 싱글 ‘그냥 그렇게 됐어’ 오디오 티저 공개…명품 이별 발라드 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22987</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22987"/>
+        <updated>2023-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 지아가 독보적인 가창력으로 신보 기대감을 높였다.플렉스엠은 지난 13일 공식 SNS를 통해 지아의 새 싱글 ‘그냥 그렇게 됐어’ 오디오 티저를 공개했다.공개된 티저에는 한 연인의 즐거웠던 모습과 서로 엇갈리는 모습들이 필름처럼 연출된 이미지가 담겨있다. 지아는 ‘그냥 그렇게 됐어’의 하이라이트 구간을 목소리 하나만으로 소화하며 한층 더 드라마틱한 분위기를 극대화했다.특히 지아는 호소력 짙은 음색, 탄탄하고 폭발적인 고음을 선보이며 또 한 번 ‘믿고 듣는’ 지아표 명품 발라드 탄생을 예고했다.‘그냥 그렇게 됐어’는 지아가 지난 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 36 CIRCLE CHART: V 'Layover' Takes Top Spot in Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22983</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22959"/>
         <updated>2023-09-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 EPEX(이펙스)가 여섯 번째 EP에서 스펙터클한 비주얼 변신을 선보인다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 7일 0시 공식 SNS를 통해 여섯 번째 EP 불안의 서 챕터 2. ‘Can We Surrender?(캔 위 서렌더?)’의 첫 번째 단체 콘셉트 포토를 공개했다.공개된 이미지 속 이펙스는 교실을 배경으로 다크한 카리스마를 발산하고 있다. 서늘한 눈빛을 장착한 여덟 멤버의 압도적인 비주얼 시너지가 눈길을 사로잡는다. 유니크한 교복 착장과 스모키 메이크업이 이펙스의 강렬한 무드를 배가한다.바..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 27일 정식 데뷔 확정…일본서 데뷔 쇼케이스 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22957</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22957"/>
-        <updated>2023-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Mnet '보이즈 플래닛' 참가자로 구성된 4인조 보이그룹 TOZ(티오지)가 오는 27일 정식 데뷔한다.&nbsp;&nbsp;7일 TOZ(티오지)의 소속사 YY엔터테인먼트는 공식 SNS를 통해 TOZ(안토니, 하루토, 유토, 타쿠토)의 앨범 발매를 알리는 커밍순 포스터를 공개했다.&nbsp;&nbsp;노을빛으로 가득한 포스터에는 TOZ의 데뷔 날짜가 적혀 있어 발매 기대감을 자아낸다. 그리고 포스터 하단에는 표지판 그림을 넣어 TOZ의 새로운 여정을 표현했고, 상단에는 앨범명 'FLARE(플레어)'가 감각적인 글씨체로 적혀 있다.&nbsp;&nbsp;소속사..]]></content>
     </entry>
 </feed>
