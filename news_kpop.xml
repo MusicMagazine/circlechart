@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-15T00:59:31.228Z</updated>
+    <updated>2023-09-15T01:53:48.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 두 번째 콘셉트 포토 공개…'소년미+성숙미' 공존]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22990</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22990"/>
+        <updated>2023-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 TOZ(티오지)가 데뷔 앨범의 두 번째 콘셉트 포토를 공개했다.&nbsp;&nbsp;TOZ(안토니, 하루토, 유토, 타쿠토)는 14일, 15일 0시 공식 SNS를 통해 데뷔 앨범 'FLARE(플레어)'의 두 번째 콘셉트 포토를 공개하며 다양한 매력을 선보였다.&nbsp;&nbsp;멤버들은 분홍빛이 감도는 트위드 슈트와 순수함이 느껴지는 흰색 캐주얼 의상을 입고 각자의 개성을 드러냈다. 주사위를 던지며 미소를 짓고 있는 안토니와 하얀 셔츠를 입고 자연스러운 미소를 지으며 누워있는 하루토, 편하게 쇼파에 앉아 여유로운 웃음을 짓고 있는 유토, 장난스러..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘17일 발매’ 지아, 새 싱글 ‘그냥 그렇게 됐어’ 오디오 티저 공개…명품 이별 발라드 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22987</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22962"/>
         <updated>2023-09-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the August CIRCLE CHART, YOUNGTAK 'FORM' topped the monthly Retail Album Chart by selling 587,153 copies at retailers.&nbsp;&nbsp;In his 2nd studio album 'FORM', YOUNGTAK showcases the full breadth of his musical talents through a total of 10 self-written tracks.The No. 2 spot of the monthl..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스), ‘불안의 서’ 챕터 2. ‘Can We Surrender?’ 교복 비주얼 첫 공개! 압도적 다크美]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22959</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22959"/>
-        <updated>2023-09-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 여섯 번째 EP에서 스펙터클한 비주얼 변신을 선보인다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 7일 0시 공식 SNS를 통해 여섯 번째 EP 불안의 서 챕터 2. ‘Can We Surrender?(캔 위 서렌더?)’의 첫 번째 단체 콘셉트 포토를 공개했다.공개된 이미지 속 이펙스는 교실을 배경으로 다크한 카리스마를 발산하고 있다. 서늘한 눈빛을 장착한 여덟 멤버의 압도적인 비주얼 시너지가 눈길을 사로잡는다. 유니크한 교복 착장과 스모키 메이크업이 이펙스의 강렬한 무드를 배가한다.바..]]></content>
     </entry>
 </feed>
