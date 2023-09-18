@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-09-18T01:52:46.874Z</updated>
+    <updated>2023-09-18T02:21:12.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이프릴 출신 이진솔, 220엔터와 전속계약 체결...활동 제2막 시동]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22998</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22998"/>
+        <updated>2023-09-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이프릴(APRIL) 출신 이진솔이 220엔터테인먼트와 전속계약을 체결했다.&nbsp;18일 220엔터테인먼트는 "가수 이진솔과 전속계약을 체결했다. 뛰어난 보컬 실력은 물론 밝고 사랑스러운 매력으로 대중의 큰 사랑을 받아온 이진솔을 당사의 새 식구로 맞이하게 돼 기쁘다"라고 밝혔다.&nbsp;이어 "다재다능한 끼와 재능을 소유한 이진솔이 음악은 물론 연기, 예능, MC 등 다양한 영역에서 자신의 역량을 펼칠 수 있도록 물심양면으로 서포트 할 예정이다"라고 덧붙이며 앞으로의 활동에 대한 전폭적인 지원을 예고했다.&nbsp;지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이네임 출신 강준규, YY엔터테인먼트와 손잡았다…방용국·배나라와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21970"/>
         <updated>2023-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보이그룹 엘라스트(E'LAST)의 멤버 승엽이 국가의 부름을 받았다.엘라스트(라노, 최인, 승엽, 백결, 로민, 원혁, 원준, 예준)의 소속사 이엔터테인먼트는 3일 “승엽이 오는 31일 육군 28사단 신병교육대로 현역 입대한다”고 밝혔다.승엽은 이날 엘라스트 공식 SNS 계정을 통해 손으로 직접 쓴 자필 편지를 게재하며 팬들에게 입대 소식을 알렸다.승엽은 “2023년 계묘년이 시작되는 이 시점에 나라의 부름을 받아 1월 31일에 군대에 가게 됐다. 너무 갑작스러운 이야기라 엘링(팬덤명)에게 많이 미안하다”며 “2020년 6월..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아티스트 xooos(수스), 콜드 수장 뮤직 레이블 WAVY(웨이비) 합류!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21952"/>
-        <updated>2022-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[유튜브에서 활발한 음악 활동 펼쳐온 xooos(수스)가 글로벌 뮤직 레이블로 떠오르고 있는 WAVY(웨이비)에 합류한다.WAVY는 지난 28일 공식 SNS를 통해 xooos의 프로필 사진을 업로드하며 영입 소식을 밝혔다. 앞서 WAVY는 핑크 컬러가 돋보이는 명함 이미지를 공개했고, 새로운 아티스트의 합류를 예고하며 음악팬들의 궁금증을 자극했다.xooos는 100만명 이상의 구독자를 보유한 아티스트다. xooos가 부른 찰리푸스의 'Light Switch' 커버 영상은 조회 수 3천만 회 이상을 기록했고, 커버 영상을..]]></content>
     </entry>
 </feed>
