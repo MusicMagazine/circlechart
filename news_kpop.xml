@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-19T02:22:10.895Z</updated>
+    <updated>2023-09-19T03:14:57.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 36 CIRCLE CHART: Jung Kook, AKMU, and V Dominate the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23008</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23008"/>
+        <updated>2023-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 36 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, AKMU, and V.KMCA, publisher of CIRCLE CHART, announced that “As of week 36 (2023.09.03.~2023.09.09.), Jung Kook topped the Global K-pop Chart while both AKMU and V topped 3 charts, respectively."Jung Kook kept up his..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['솔로 컴백 D-1' 록킹돌 로아, 세 번째 싱글 'SKIP OUT' M/V 티저 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23006</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22982"/>
         <updated>2023-09-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 엘즈업(EL7Z UP)이 타이틀곡 'CHEEKY'로 데뷔 활동을 펼친다.&nbsp;&nbsp;&nbsp;엘즈업(휘서, 나나, 유키, 케이, 여름, 연희, 예은)은 지난 12일 공식 SNS를 통해 첫 번째 미니앨범 '7+UP(세븐 플러스 업)'의 하이라이트 메들리 영상을 공개했다.&nbsp;&nbsp;공개된 영상에는 첫 번째 트랙 'Die for You(다이 포 유)'를 비롯해 'CHEEKY(치키)', 'Undercover(언더커버)', 'Hideaway(하이드어웨이)', 'Cl..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파우(POW), 오늘(13일) 프리 데뷔! 'Favorite'표 유러피안 유스 컬처 출격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22979</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22979"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신예 보이그룹 파우(POW)가 본격적인 활동을 시작한다.파우(요치, 현빈, 정빈, 동연, 홍)는 13일 오후 6시 국내외 전 온라인 음원 사이트를 통해 프리 데뷔 싱글 'Favorite (페이버릿)'의 음원을 발매한다.'Favorite'은 파우의 시작을 알리는 프리 데뷔 싱글이다. 파우는 'Favorite' 활동에 이어 곧바로 10월 11일 첫 번째 EP를 발매하며 하반기 내내 힘찬 행보를 이어갈 계획이다.히트 프로듀싱 크루 화이트 노이즈 클럽이 참여한 'Favorite'은 ..]]></content>
     </entry>
 </feed>
