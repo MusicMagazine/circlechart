@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-09-19T00:59:16.694Z</updated>
+    <updated>2023-09-19T01:54:05.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BIG Naughty(서동현), 행복한 감정 담은 ‘Vancouver 2’로 깜짝 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23007</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23007"/>
+        <updated>2023-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 BIG Naughty(서동현)가 ‘Vancouver 2’로 돌아온다.빅나티는 오는 19일 새 디지털 싱글 ‘Vancouver 2’(밴쿠버 2)를 발매한다.‘Vancouver’는 지난해 6월 발매된 빅나티의 R&amp;B 미니앨범 ‘낭만’의 수록곡으로, 첫사랑에 대한 아련한 감정을 진솔하게 풀어내 리스너들의 큰 사랑을 받았다. ‘Vancouver 2’에서 이를 잇는 서사를 확인할 수 있을 것으로 보인다.오늘(18일) 오후 6시 소속사 하이어뮤직 공식 SNS를 통해 ‘Vancouver 2’ 뮤직비디오 티저 영상이 공개됐다. 빅..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나비, 21일 ‘잊혀지다’ 리메이크곡 발매! 대학 축제서 라이브로 깜짝 선공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23001</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22981"/>
         <updated>2023-09-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 위아이(WEi) 김요한이 성숙한 가을 감성을 담아낸 비주얼을 선보였다.&nbsp;김요한은 13일 0시 공식 SNS를 통해 새 싱글 ‘Blue in You (블루 인 유)’의 신곡 ‘그대 안의 블루(Duet With CHEEZE(치즈))’ 첫 번째 콘셉트 포토를 공개했다.&nbsp;공개된 이미지 속 김요한은 부드러우면서도 싱그러운 비주얼로 이목을 사로잡았다. 차분한 베이지톤 의상을 소화한 김요한은 한낮의 여유로운 분위기와 어우러지며 나른한 매력을 더했다. 김요한은 초가을에 걸맞은 한층 깊어진 분위기로 신곡에 대한 기대감을 높였다.&nbsp;‘그대 안의 블..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠(SOLE), 18일 리메이크 앨범 ‘A Love Supreme’ 발매! 나미→김건모 명곡 재해석]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22980</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22980"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[R&amp;B 아티스트 쏠(SOLE)이 오는 18일 리메이크 앨범을 발매한다.쏠은 지난 12일 오후 소속사 아메바컬쳐 공식 SNS를 통해 18일 발매하는 새 EP ‘A Love Supreme(어 러브 슈프림)’의 트랙리스트를 공개했다.이번 EP에는 리메이크 음원들이 수록된다. 더블 타이틀곡 ‘가까이 하고 싶은 그대 (Original by 나미)’, ‘아름다운 이별 (Original by 김건모)’을 비롯해 ‘Love Supreme (Original by 김반장과 윈디시티)’, ‘기다리다 (Original by 패닉)’, ‘마음을 잃..]]></content>
     </entry>
 </feed>
