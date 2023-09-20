@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-09-20T00:58:59.688Z</updated>
+    <updated>2023-09-20T01:52:21.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비, 10월 9일 미니 4집 '÷ (NANUGI)' 발매 확정! 11개월 만 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23010</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23010"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 '÷ (NANUGI)'로 10월 가요계에 합류한다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 오는 10월 9일 네 번째 미니앨범 '÷ (NANUGI)'(나누기)를 발매한다.'÷ (NANUGI)'는 저스트비가 지난해 11월 발매한 미니 3집 '= (NEUN)'(는) 이후 11개월 만에 준비한 신보다. '='에 이어 '÷'라는 새로운 기호와 이를 한글 발음 그대로 표기한 앨범명이 저스트비의 또 다른 메시..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BIG Naughty(서동현), 행복한 감정 담은 ‘Vancouver 2’로 깜짝 컴백]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23007</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22984"/>
         <updated>2023-09-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 후디(Hoody)가 4년 만에 두 번째 정규앨범을 선보인다.후디는 오는 21일 두 번째 정규앨범 [항해]를 발매하고 9개월 만에 컴백한다.지난 13일 후디는 소속사 AOMG 공식 SNS를 통해 [항해]의 첫 티저 영상을 공개했다. 흰색 원피스를 착용한 후디는 넓은 초원을 자유로이 뛰어다니는 모습이다. 탁 트인 풍경과 뛰어난 영상미가 감탄을 부르는 가운데, ‘Hoody’, ‘2nd Studio Album’, ‘항해’, ‘2023 09 21’이라는 문구로 컴백을 공식화했다.[항해]는 후디가 지난 2019년 발매한 [Depart..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이 김요한, 22일 치즈와 ‘그대 안의 블루’ 리메이크 음원 발매! 첫 콘셉트 포토 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22981</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=22981"/>
-        <updated>2023-09-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 위아이(WEi) 김요한이 성숙한 가을 감성을 담아낸 비주얼을 선보였다.&nbsp;김요한은 13일 0시 공식 SNS를 통해 새 싱글 ‘Blue in You (블루 인 유)’의 신곡 ‘그대 안의 블루(Duet With CHEEZE(치즈))’ 첫 번째 콘셉트 포토를 공개했다.&nbsp;공개된 이미지 속 김요한은 부드러우면서도 싱그러운 비주얼로 이목을 사로잡았다. 차분한 베이지톤 의상을 소화한 김요한은 한낮의 여유로운 분위기와 어우러지며 나른한 매력을 더했다. 김요한은 초가을에 걸맞은 한층 깊어진 분위기로 신곡에 대한 기대감을 높였다.&nbsp;‘그대 안의 블..]]></content>
     </entry>
 </feed>
