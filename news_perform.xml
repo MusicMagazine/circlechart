@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-21T00:58:41.405Z</updated>
+    <updated>2023-09-21T01:51:17.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 유럽 16개 도시 투어에 '전석 매진' 행렬…네덜란드서 첫 공연 성료]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23016</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23016"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 아티스트 비아이(B.I)가 유럽 투어의 닻을 올렸다.비아이는 지난 19일 네덜란드 위트레흐트에서의 첫 공연을 시작으로 2023 B.I 1ST EUROPE TOUR 'LOVE OR DIE (러브 오어 다이)'에 돌입했다.'LOVE OR DIE'는 네덜란드 위트레흐트에 이어 21일 룩셈부르크 룩셈부르크, 23일 프랑스 파리, 25일 스페인 바르셀로나, 27일 스위스 취리히, 28일 이탈리아 밀라노, 30일 폴란드 바르샤바, 10월 3일 에스토니아 탈린, 5일 핀란드 헬싱키, 7일 스웨덴 스톡홀름, 8..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김장훈, '누워서 보는 콘서트 in 대구공항' 26일 개최! 와상 장애인 화장실 설치 이뤘다! ‘선한 영향력의 힘’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23014</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22977"/>
         <updated>2023-09-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 권은비가 막강 게스트들의 지원 사격 속에 단독 콘서트를 펼친다.&nbsp;&nbsp;소속사 울림엔터테인먼트는 11일 공식 SNS를 통해 '2023 권은비 세 번째 콘서트 '퀸'(2023 KWON EUNBI 3rd CONCERT 'QUEEN')'(이하 '퀸') 게스트로 멜로망스 김민석, 트로트 여신 송가인이 함께한다고 발표했다.&nbsp;공연 첫날인 7일에는 멜로망스 김민석이 무대에 올라 권은비의 단독 콘서트를 응원한다. 김민석은 뛰어난 가창력과 짙은 감성으로 가요계의 '고막 남친'으..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각·신용재·임한별, 첫 합동 공연 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"' 성료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22971</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22971"/>
-        <updated>2023-09-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각, 신용재, 임한별이 첫 합동 공연을 성황리에 마무리했다.허각, 신용재, 임한별이 결성한 프로젝트 그룹 '허용별'은 지난 9일 서울 올림픽공원 올림픽홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최하고 팬들을 만났다.이날 허각과 신용재, 임한별은 3인 3색 보컬로 다채로운 무대를 꾸몄다. 지난 8월 발매된 신곡 'Happiness (해피니스)'로 공연의 시작을 알린 '허용별'은 따뜻하면서 스윗한 감성과 독보적인 가창..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-21T00:58:41.401Z</updated>
+    <updated>2023-09-21T01:51:17.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 37 CIRCLE CHART: V 'Layover' Tops Retail Album Chart for 2nd Consecutive We..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23015</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23015"/>
+        <updated>2023-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 37 CIRCLE CHART, the weekly Retail Album Chart was topped for the 2nd week in a row by V ‘Layover’, which sold a total of 109,730 copies at retailers.&nbsp;Released on September 8th, `Layover' was the top seller as of 12PM (KST) on September 13th (Wednesday, week 37).'Layover' is ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스), ‘불안의 서’ 챕터 2. ‘Can We Surrender?’ 콘셉트 포토 전체 공개 완료! 강인한 소년미]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23012</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22990"/>
         <updated>2023-09-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 TOZ(티오지)가 데뷔 앨범의 두 번째 콘셉트 포토를 공개했다.&nbsp;&nbsp;TOZ(안토니, 하루토, 유토, 타쿠토)는 14일, 15일 0시 공식 SNS를 통해 데뷔 앨범 'FLARE(플레어)'의 두 번째 콘셉트 포토를 공개하며 다양한 매력을 선보였다.&nbsp;&nbsp;멤버들은 분홍빛이 감도는 트위드 슈트와 순수함이 느껴지는 흰색 캐주얼 의상을 입고 각자의 개성을 드러냈다. 주사위를 던지며 미소를 짓고 있는 안토니와 하얀 셔츠를 입고 자연스러운 미소를 지으며 누워있는 하루토, 편하게 쇼파에 앉아 여유로운 웃음을 짓고 있는 유토, 장난스러..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘17일 발매’ 지아, 새 싱글 ‘그냥 그렇게 됐어’ 오디오 티저 공개…명품 이별 발라드 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22987</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=22987"/>
-        <updated>2023-09-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 지아가 독보적인 가창력으로 신보 기대감을 높였다.플렉스엠은 지난 13일 공식 SNS를 통해 지아의 새 싱글 ‘그냥 그렇게 됐어’ 오디오 티저를 공개했다.공개된 티저에는 한 연인의 즐거웠던 모습과 서로 엇갈리는 모습들이 필름처럼 연출된 이미지가 담겨있다. 지아는 ‘그냥 그렇게 됐어’의 하이라이트 구간을 목소리 하나만으로 소화하며 한층 더 드라마틱한 분위기를 극대화했다.특히 지아는 호소력 짙은 음색, 탄탄하고 폭발적인 고음을 선보이며 또 한 번 ‘믿고 듣는’ 지아표 명품 발라드 탄생을 예고했다.‘그냥 그렇게 됐어’는 지아가 지난 ..]]></content>
     </entry>
 </feed>
