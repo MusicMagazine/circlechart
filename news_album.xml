@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-09-25T03:15:01.195Z</updated>
+    <updated>2023-09-25T04:17:21.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['청춘스타' TOP7 종한, 오늘(25일) 새 싱글 '걸' 발매…"소개팅 실패 후 후회 담은 곡"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23032</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23032"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['청춘스타' 종한(JONGHAN)이 위트 있는 새 싱글을 선보인다.종한은 25일 정오 각종 음원 사이트를 통해 새 싱글 '걸'을 발매한다.&nbsp;'걸'은 매력적인 기타 리프와 간결한 드럼 리듬, 후렴구의 서정적인 코드 진행과 멜로디가 인상적인 미디엄 템포의 곡이다.&nbsp;특히 종한이 직접 작사, 작곡에 참여해 싱어송라이터로서 능력을 증명했다. 소개팅에 실패했던 나를 돌아보며 후회하는 마음을 '걸'이라는 제목과 재치 있는 가사들로 풀어내 듣는 이들에게 위트를 선사한다.앞서 종한은 '..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['음원 강자' 케이시, 조영수 작곡 '너 밖엔 없더라' 리메이크 확정…10월 3일 발매 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23031</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23031"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 케이시(Kassy)가 리메이크 음원으로 가을을 찾는다.케이시는 지난 24일 오후 공식 SNS를 통해 오는 10월 3일 새 싱글 '너 밖엔 없더라' 발매 소식과 함께 앨범 재킷 이미지를 공개했다.&nbsp;폴라로이드 네 컷으로 구성된 앨범 재킷은 따뜻하면서도 쓸쓸한 감성의 빈티지한 무드를 자아내고 있다. 케이시의 가을을 닮은 비주얼과 로맨틱한 표정 연출 또한 신곡에 대한 기대감을 높이고 있다.케이시는 지난 4월 발매한 새 싱글 '사실말야내가말야그게그러니까말이야' 이후 약 4개월 만에 리메이크 음원 '너..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['MZ 대세' 21학번, 오늘(25일) 신곡 '타임머신' 발매…가을 감성 저격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23028</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23028"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 21학번이 25일 신곡 '타임머신'을 발매한다.&nbsp;지난 4월 '코인 노래방' 발매 후 5개월 만에 컴백하는 21학번은 '타임머신'을 통해 학창 시절의 순수했던 감성을 전한다. 어쿠스틱한 밴드 사운드와 추억을 회상하게 하는 노랫말은 마치 타임슬립을 한 것처럼 그 시절을 떠올리게 한다.&nbsp;특히 '타임머신'은 일본에서 가장 주목받고 있는 아티스트이자 국내에서도 큰 인기를 끌고 있는 일본 싱어송라이터 아이묭(Aimyon)의 수많은 곡을 작업한 토시미 난세키(Toshimi Nanse..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['WET!' 우승자 DJ 준코코 X AOA 출신 초아, 21일 컬래버 음원 'Butterfly' 발매…파워풀 쾌감 선사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23024</id>
@@ -53,26 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23017"/>
         <updated>2023-09-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 나비(Navi)가 12년 만에 ‘잊혀지다’를 정식 리메이크 한다.21일 오후 6시 각종 온라인 음원 사이트를 통해 나비가 참여한 웹예능 ‘차트맨’의 다섯 번째 음원 ‘잊혀지다’가 발매된다.나비는 자신이 데뷔한 2011년과 같은 해 발매된 프로듀서 정키의 ‘잊혀지다 (Feat. 양다일)’를 재해석한다. 그때의 감성을 되살리면서도 나비만의 깊은 해석을 담아낸 2023년 버전 ‘잊혀지다’가 많은 이들의 공감을 이끌 것으로 기대된다.특히 나비는 호소력 짙은 음색으로 이별 후 느끼는 후회와 그리움을 전하며 리스너들의 마음을 적실 예정이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스트비, 10월 9일 미니 4집 '÷ (NANUGI)' 발매 확정! 11개월 만 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23010</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23010"/>
-        <updated>2023-09-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 '÷ (NANUGI)'로 10월 가요계에 합류한다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 오는 10월 9일 네 번째 미니앨범 '÷ (NANUGI)'(나누기)를 발매한다.'÷ (NANUGI)'는 저스트비가 지난해 11월 발매한 미니 3집 '= (NEUN)'(는) 이후 11개월 만에 준비한 신보다. '='에 이어 '÷'라는 새로운 기호와 이를 한글 발음 그대로 표기한 앨범명이 저스트비의 또 다른 메시..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG Naughty(서동현), 행복한 감정 담은 ‘Vancouver 2’로 깜짝 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23007</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23007"/>
-        <updated>2023-09-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 BIG Naughty(서동현)가 ‘Vancouver 2’로 돌아온다.빅나티는 오는 19일 새 디지털 싱글 ‘Vancouver 2’(밴쿠버 2)를 발매한다.‘Vancouver’는 지난해 6월 발매된 빅나티의 R&amp;B 미니앨범 ‘낭만’의 수록곡으로, 첫사랑에 대한 아련한 감정을 진솔하게 풀어내 리스너들의 큰 사랑을 받았다. ‘Vancouver 2’에서 이를 잇는 서사를 확인할 수 있을 것으로 보인다.오늘(18일) 오후 6시 소속사 하이어뮤직 공식 SNS를 통해 ‘Vancouver 2’ 뮤직비디오 티저 영상이 공개됐다. 빅..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나비, 21일 ‘잊혀지다’ 리메이크곡 발매! 대학 축제서 라이브로 깜짝 선공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23001</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23001"/>
-        <updated>2023-09-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 나비(Navi)가 2023년 버전 ‘잊혀지다’를 선보인다.나비는 오는 21일 음악 웹예능 ‘차트맨’의 다섯 번째 음원 ‘잊혀지다’를 발매한다.'차트맨'은 두 가수가 서로의 곡을 재해석해 부르는 음악 예능이다. 세 번째 프로젝트에서는 나비와 양다일이 서로의 곡을 재해석한 리메이크곡을 선보일 예정이다.&nbsp;21일 먼저 발매되는 '잊혀지다'는 지난 2011년 발매된 프로듀서 정키의 ‘잊혀지다 (Feat. 양다일)’를 나비의 목소리로 리메이크한 음원이다.이어 오는 10월 12일에는 양다일이 다시 부른 나비 원..]]></content>
     </entry>
 </feed>

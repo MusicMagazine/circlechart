@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-09-25T03:15:01.190Z</updated>
+    <updated>2023-09-25T04:17:21.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 데뷔 첫 월드투어 'TEENFRESH' 서울 공연 성료! "앞으로도 예쁜 추억 많이 만들자"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23034</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23034"/>
+        <updated>2023-09-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 첫 번째 월드투어의 포문을 화려하게 열었다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 23일과 24일 양일간 서울 올림픽공원 올림픽홀에서 첫 번째 월드투어 'TEENFRESH(틴프레시)'를 개최하고 팬들을 만났다.이번 공연은 스테이씨의 데뷔 첫 월드투어의 시작을 알리는 단독 콘서트다. 이날 스테이씨는 'SO BAD(쏘 배드)', 'RUN2U(런투유)', 'Poppy(파피)'로 공연의 포문을 열고 팬들과 인사를 나눴다.이어 스테이씨는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비아이, 유럽 16개 도시 투어에 '전석 매진' 행렬…네덜란드서 첫 공연 성료]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23016</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22989"/>
         <updated>2023-09-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 DeVita(드비타)가 데뷔 3년 만에 첫 단독 콘서트를 개최한다.DeVita는 오는 10월 15일 서울 용산구 현대카드 UNDERSTAGE에서 첫 번째 단독 콘서트 현대카드 Curated 88 DeVita [DeVita 1st Concert : Homecoming] 을 개최한다.'Homecoming'은 DeVita가 지난 2020년 첫 EP 'CREME (크렘)'으로 데뷔한 이후 3년 만에 진행하는 첫 번째 단독 콘서트다. DeVita만의 음악 세계를 구현한 개성 있는 공연이 예고돼 기대를 모..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인-멜로망스 김민석, 권은비 콘서트 지원사격...'특급 대세'들의 만남]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22977</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=22977"/>
-        <updated>2023-09-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 권은비가 막강 게스트들의 지원 사격 속에 단독 콘서트를 펼친다.&nbsp;&nbsp;소속사 울림엔터테인먼트는 11일 공식 SNS를 통해 '2023 권은비 세 번째 콘서트 '퀸'(2023 KWON EUNBI 3rd CONCERT 'QUEEN')'(이하 '퀸') 게스트로 멜로망스 김민석, 트로트 여신 송가인이 함께한다고 발표했다.&nbsp;공연 첫날인 7일에는 멜로망스 김민석이 무대에 올라 권은비의 단독 콘서트를 응원한다. 김민석은 뛰어난 가창력과 짙은 감성으로 가요계의 '고막 남친'으..]]></content>
     </entry>
 </feed>
