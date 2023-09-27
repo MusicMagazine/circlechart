@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-09-27T07:13:28.823Z</updated>
+    <updated>2023-09-27T08:18:37.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 38 CIRCLE CHART: D.O. 'Expectation ? The 2nd Mini Album’ Takes Top Spot in ..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23047</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23047"/>
+        <updated>2023-09-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 38 CIRCLE CHART, the weekly Retail Album Chart was topped by D.O. 'Expectation ? The 2nd Mini Album’, which sold a total of 43,011 copies at retailers.'Expectation ? The 2nd Mini Album’ was the top seller as of 4PM (KST) on the date of its release, September 18th (Monday, week 38..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[god, 18년 만에 공식 팬클럽 Fan god 모집! 직접 밝힌 5色 소감 [전문]]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23045</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23026"/>
         <updated>2023-09-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘인(Whee In)이 본격적인 컴백 카운트다운에 돌입했다.&nbsp;소속사 더라이브는 22일 0시 공식 SNS를 통해 휘인의 첫 번째 정규 앨범 '인 더 무드(IN the mood)'의 프로모션 스케줄러를 공개했다.&nbsp;공개된 스케줄러는 붉은 석류를 쥐고 있는 휘인의 두 손을 클로즈업한 이미지로 단번에 시선을 사로잡았다. 흙과 자갈이 어우러진 차분한 배경과 극명한 대비를 이루는 강렬한 색감의 석류, 흰 옷소매 끝으로 드러난 손가락과 빈티지한 액세서리의 조화가 신비롭고 몽환적인 무드를 자아냈다.&nbsp;컴백 스케줄러에 따르면 오는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트나인, 1년 6개월 공백 깬다…10월 컴백 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23025</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23025"/>
-        <updated>2023-09-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 1년 6개월 만에 돌아온다.22일 소속사 마루기획은 "고스트나인(손준형, 이신, 최준성, 이강성, 프린스, 이우진, 이진우)이 10월 말 컴백을 목표로 새 미니앨범을 준비 중"이라고 밝혔다.이번 앨범은 지난해 4월 발매한 여섯 번째 미니앨범 'ARCADE : V(아케이드 : 브이)' 이후 1년 6개월 만에 선보이는 신보다.&nbsp;전작 이후 고스트나인은 다채로운 서바이벌 방송을 통해 존재감을 펼쳤다. 먼저 프로듀싱 배틀 프로그램인 KBS 2TV 'Listen-UP (리슨업..]]></content>
     </entry>
 </feed>
