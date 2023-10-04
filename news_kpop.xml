@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-03T23:14:12.627Z</updated>
+    <updated>2023-10-04T01:00:38.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴), 자체 예능 프로그램 '상금 사냥꾼' 13일 첫 공개! 운동부터 예능까지 통통 튀는 만능 '럭비돌' 탄생 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23049</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23049"/>
+        <updated>2023-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[8TURN(에잇턴)이 자체 예능 콘텐츠로 글로벌 팬들을 만난다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 3일 공식 유튜브 채널을 통해 자체 예능 프로그램 '상금 사냥꾼 -8HUNTERS-'의 티저 영상을 공개했다.공개된 티저는 뉴스의 한 장면을 보는 듯한 영상으로 팬들의 이목을 사로잡았다. 이어 장수군 '한우랑 사과랑' 축제의 '한우 곤포 나르기 대회'에 등장한 8TURN은 진지하게 대회에 임하는 열정적인 모습을 드러내며 본편을 향한 궁금증을 고조시켰다.8..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 38 CIRCLE CHART: D.O. 'Expectation ? The 2nd Mini Album’ Takes Top Spot in ..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23047</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23027"/>
         <updated>2023-09-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 TOZ(티오지)가 감각적인 데뷔 앨범을 예고했다.TOZ(안토니, 하루토, 유토, 타쿠토)는 21일 오후 6시 공식 SNS를 통해 데뷔 앨범 'FLARE(플레어)'의 하이라이트 메들리 영상을 공개했다.영상에는 타이틀곡 'Magic Hour(매직 아워)'부터 'CHIPS(칩스)', 'DUNK(덩크)', 'Happily ever after(해필리 에버 애프터)', 'Peach Peach(피치 피치)'까지 완성도 높은 다섯 곡의 음원 일부가 담겨 있..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 휘인, '역대급 컴백' 카운트다운...첫 정규 앨범 'IN the mood' 프로모션 스케줄러 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23026</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23026"/>
-        <updated>2023-09-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 휘인(Whee In)이 본격적인 컴백 카운트다운에 돌입했다.&nbsp;소속사 더라이브는 22일 0시 공식 SNS를 통해 휘인의 첫 번째 정규 앨범 '인 더 무드(IN the mood)'의 프로모션 스케줄러를 공개했다.&nbsp;공개된 스케줄러는 붉은 석류를 쥐고 있는 휘인의 두 손을 클로즈업한 이미지로 단번에 시선을 사로잡았다. 흙과 자갈이 어우러진 차분한 배경과 극명한 대비를 이루는 강렬한 색감의 석류, 흰 옷소매 끝으로 드러난 손가락과 빈티지한 액세서리의 조화가 신비롭고 몽환적인 무드를 자아냈다.&nbsp;컴백 스케줄러에 따르면 오는 ..]]></content>
     </entry>
 </feed>
