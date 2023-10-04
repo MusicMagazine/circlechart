@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-04T01:00:38.538Z</updated>
+    <updated>2023-10-04T01:56:08.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 38 CIRCLE CHART: Jung Kook, AKMU, D.O., and EVNNE Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23053</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23053"/>
+        <updated>2023-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 38 CIRCLE CHART (formerly gaonchart) was dominated by Jung Kook, AKMU, D.O., and EVNNE.KMCA, publisher of CIRCLE CHART, announced that “As of week 38 (2023.09.17.~2023.09.23.), Jung Kook topped the Global K-pop Chart. Meanwhile, AKMU topped 4 charts, D.O. dominated 2 charts, and EVNNE rose ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8TURN(에잇턴), 자체 예능 프로그램 '상금 사냥꾼' 13일 첫 공개! 운동부터 예능까지 통통 튀는 만능 '럭비돌' 탄생 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23049</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23029"/>
         <updated>2023-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘인(Whee In)의 새 앨범 트랙리스트가 베일을 벗었다.&nbsp;&nbsp;소속사 더라이브는 25일 0시 공식 SNS를 통해 휘인의 첫 번째 정규 앨범 '인 더 무드(IN the mood)'의 트랙리스트를 공개했다.&nbsp;&nbsp;트랙리스트에 따르면 휘인의 새 앨범 '인 더 무드'에는 동명의 타이틀곡 '인 더 무드'를 비롯해 '아이 노우 아이 노우 아이 노우 (비욘드)(I Know I Know I Know (Beyond))', '17', '불꽃 (Spark)', &amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 데뷔 앨범 'FLARE' 하이라이트 메들리 공개…감각적인 음악 향연]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23027</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23027"/>
-        <updated>2023-09-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 TOZ(티오지)가 감각적인 데뷔 앨범을 예고했다.TOZ(안토니, 하루토, 유토, 타쿠토)는 21일 오후 6시 공식 SNS를 통해 데뷔 앨범 'FLARE(플레어)'의 하이라이트 메들리 영상을 공개했다.영상에는 타이틀곡 'Magic Hour(매직 아워)'부터 'CHIPS(칩스)', 'DUNK(덩크)', 'Happily ever after(해필리 에버 애프터)', 'Peach Peach(피치 피치)'까지 완성도 높은 다섯 곡의 음원 일부가 담겨 있..]]></content>
     </entry>
 </feed>
