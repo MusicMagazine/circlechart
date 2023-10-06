@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-06T01:00:00.802Z</updated>
+    <updated>2023-10-06T01:54:09.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['AI+휴먼' 슈퍼카인드, 18일 미니 1집 'Profiles of the Future (Λ) : 70%' 발매!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23061</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23061"/>
+        <updated>2023-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A-idol 그룹 슈퍼카인드가 첫 번째 완전체 활동에 나선다.슈퍼카인드(세진, 승, 대이먼, 유진, 건, 시오, JDV)는 오는 18일 낮 12시 각종 온라인 음원 사이트를 통해 첫 번째 미니앨범 'Profiles of the Future (Λ) : 70% (프로파일스 오브 더 퓨처 (Λ) : 70%)'을 발매한다.지난해 6월 정식 데뷔한 슈퍼카인드는 휴먼 멤버 PRID(프리드, 대이먼·유진·건·시오·JDV)와 AI 멤버 NUKE(누크, 세진·승)가 함께 활동하는 최초의 K-POP 아이돌 그룹이다. 데뷔곡 'W..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘현, 오늘(5일) 2년 만에 신곡 ‘모르는 사이가 되자’ 발매! 드라마틱 이별송]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23057</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23038"/>
         <updated>2023-09-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 DK(디셈버)와 김연지가 듀엣으로 호흡을 맞춘다.DK와 김연지가 가창에 참여한 복학가왕 프로젝트 세 번째 음원 '혼자 왔어요'가 오는 10월 3일 정식 발매된다.DK와 김연지가 복학가왕 프로젝트를 통해 리메이크하는 '혼자 왔어요'는 지난 2010년 발매된 디셈버의 첫 정규앨범 'A Story To The Sky (어 스토리 투 더 스카이)'의 수록곡이다. 아름다운 음색이 인상적인 DK와 김연지가 만나 13년 만에 듀엣곡으로 재해석해 선보인다.특히 '혼자 왔어요'는 이별한..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘스타' TOP7 종한, 오늘(25일) 새 싱글 '걸' 발매…"소개팅 실패 후 후회 담은 곡"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23032</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23032"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' 종한(JONGHAN)이 위트 있는 새 싱글을 선보인다.종한은 25일 정오 각종 음원 사이트를 통해 새 싱글 '걸'을 발매한다.&nbsp;'걸'은 매력적인 기타 리프와 간결한 드럼 리듬, 후렴구의 서정적인 코드 진행과 멜로디가 인상적인 미디엄 템포의 곡이다.&nbsp;특히 종한이 직접 작사, 작곡에 참여해 싱어송라이터로서 능력을 증명했다. 소개팅에 실패했던 나를 돌아보며 후회하는 마음을 '걸'이라는 제목과 재치 있는 가사들로 풀어내 듣는 이들에게 위트를 선사한다.앞서 종한은 '..]]></content>
     </entry>
 </feed>
