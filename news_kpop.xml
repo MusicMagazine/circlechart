@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-05T23:14:44.597Z</updated>
+    <updated>2023-10-06T01:00:00.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파우(POW), 첫 EP 오프라인 팝업 '파우 하우스' 론칭! 신곡 무대 최초 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23059</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23059"/>
+        <updated>2023-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 보이그룹 파우(POW)가 데뷔와 동시에 이색 프로모션을 진행한다.파우(요치, 현빈, 정빈, 동연, 홍)는 오는 12일부터 14일까지 서울 성동구 모처에서 'POW HOUSE (파우 하우스)'를 운영한다.'POW HOUSE'는 파우의 첫 번째 EP 'Favorite (페이버릿)'에 대한 이야기를 보고 들을 수 있는 특별한 공간이다. 다섯 멤버들의 찬란했던 여름날 추억을 아카이빙하고, 팬들과 이를 공유하기 위해 마련됐다.특히 'POW HOUSE' 마지막 날인 14일 오후 8..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B.A.P 출신 문종업, 기습 컴백 암시? 로고 모션 공개 ‘궁금증 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23056</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23036"/>
         <updated>2023-09-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직의 대표 청량돌 YOUNITE(유나이트)가 10월 컴백을 알렸다.오늘(26일) 0시, 유나이트(은호, 스티브, 현승, 은상, 형석, 우노, DEY, 경문, 시온)는 공식 SNS 채널들을 통해&nbsp;새 앨범 ‘빛 : BIT Part.2’의 티저 이미지를 공개하며 오는 10월 17일 컴백을 공식화했다.공개된 티저 이미지에는 지난 앨범의 타이틀곡 ‘WATERFALL’의 뮤직비디오 쿠키 영상에 등장한 삐삐가 재등장하며 이번 앨범이 전작 ‘빛 : BIT Part.1’과 이어지게 될 것임을 예고했는데,&nbsp;삐삐 화면에 나타난 ‘LOVE IT’..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백 D-1’ 케플러, 신보 ‘Magic Hour’ 기대 포인트 공개 #사랑 이야기 #퍼포먼스 영점 조준 #데뷔 후 첫 유닛곡]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23035</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23035"/>
-        <updated>2023-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 케플러(Kep1er)의 컴백이 하루 앞으로 다가왔다.케플러(최유진, 샤오팅, 마시로, 김채현, 김다연, 히카루, 휴닝바히에, 서영은, 강예서)는 오는 25일 다섯 번째 미니 앨범 ‘Magic Hour (매직 아워)’를 발표한다. 지난 4월 발표한 미니 4집 ‘LOVESTRUCK!’ 이후 약 5개월 만에 신보로, 다양한 콘셉트 포토와 러블리하고 키치한 매력을 보여주며 뜨거운 관심을 받고 있는 케플러의 새 앨범 기대 포인트를 짚어봤다.# 온 세상이 사랑을 중심으로 돌고 있는 마법 같은 순간…케플러의 사랑 이야기케플러는 ‘LOVES..]]></content>
     </entry>
 </feed>
