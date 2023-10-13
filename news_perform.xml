@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-13T01:01:36.354Z</updated>
+    <updated>2023-10-13T01:58:30.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['명품 보컬' 린, 12월 단독 콘서트 'HOME' 부산 공연 확정…오늘(13일) 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23083</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23083"/>
+        <updated>2023-10-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 린의 단독 콘서트가 부산에서도 개최된다.오는 12월 9일 부산 KBS홀에서 개최되는 2023 린 콘서트 'HOME (홈)' 티켓이 13일 오후 2시부터 온라인 예매사이트 멜론티켓을 통해 단독으로 오픈된다.다음 달 18일, 19일 서울에서 포문을 여는 'HOME'은 12월 부산으로 이어지며 뜨거운 감동을 다시 한번 나눈다. "함께 써내려갈 우리의 한 페이지, 따뜻한 추억으로 남을 린의 &lt;HOME&gt;으로 여러분을 초대합니다"란 소개말처럼 린은 찬바람을 잊게 할 따뜻한 음악 이야기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에픽하이, 데뷔 20주년 기념 콘서트 오늘(12일) 티켓 오픈! '바비' 패러디 '애비' 포스터 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23079</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23013"/>
         <updated>2023-09-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이나믹 듀오, 여전한 티켓 파워! 4년 만의 단독 콘서트 초고속 전석 매진 ‘기염’다이나믹 듀오가 변함없는 티켓 파워를 보여줬다.다이나믹 듀오(개코, 최자)의 단독 콘서트 ‘가끔씩 오래 보자’는 지난 19일 오후 8시 온라인 예매처 인터파크 티켓을 통해 오픈된 지 3분 만에 3회차 공연 모두 전석 매진을 기록했다.‘가끔씩 오래 보자’는 다이나믹 듀오가 4년 만에 선보이는 단독 콘서트다. 다이나믹 듀오는 지난 2013년 발매한 정규 7집 수록곡명을 공연 타이틀로 정해 뜻깊은 소통을 예고했다. 화제의 ‘황조지(황정민, 조승우, 지진희..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONLEE(온리, 이승환), 일본 팬미팅 ‘뉴 챕터 인 도쿄’ 성황리에 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23005</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23005"/>
-        <updated>2023-09-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ONLEE(온리)가 일본 팬들과 뜻깊은 추억을 선사했다.&nbsp;온리(이승환)는 지난 18일 일본 도쿄 야마노홀에서 ‘2023 Lee seung hwan Fanmeeting New Chapter in Tokyo(이승환 팬미팅 뉴 챕터 인 도쿄)를 성황리에 마무리했다.&nbsp;2회차로 진행된 이번 공연은 약 1400명의 관객이 공연장을 가득 채웠고 일본 현지 매체에서도 많은 관심을 받으며 화제를 모았다.&nbsp;학교를 콘셉트로 진행된 이번 팬미팅에 팬들의 반응은 뜨거웠다. 온리는 가디건과 헤드셋으로 포인트를 준 스쿨룩 느낌의 착장을 입고 등장, 반장 역할..]]></content>
     </entry>
 </feed>
