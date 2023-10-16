@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-16T01:00:56.355Z</updated>
+    <updated>2023-10-16T01:58:05.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, 11월 2일 새 싱글 'Feel me' 발매 확정...'퍼포먼스 맛집' 진가 증명한다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23089</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23089"/>
+        <updated>2023-10-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, TAG, 배승민, 봉재현, 김지범, 김동현, 홍주찬, 최보민)가 새 싱글로 화려한 귀환을 예고했다.골든차일드는 오는 11월 2일 오후 6시 각종 음원 사이트를 통해 세 번째 싱글 '필 미(Feel me)'를 발매하고 글로벌 팬들 곁에 돌아온다.골든차일드의 컴백은 지난해 8월 발매한 여섯 번째 미니 앨범 '아우라(AURA)' 이후 약 1년 3개월 만으로, '필 미'는 지난 2020년 발매한 '펌프 잇 업(Pump It U..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스터트롯2' TOP3 진해성, 19일 신곡 '사랑에게' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23082</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23054"/>
         <updated>2023-10-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[로꼬 (Loco)가 6년 만에 정규앨범을 선보인다.로꼬는 오는 17일 국내외 전 온라인 음원 사이트를 통해 두 번째 정규앨범 [WEAK]를 발매한다.[WEAK]는 로꼬가 지난 2017년 발매한 정규 1집 [BLEACHED] 이후 6년 만에 내놓는 정규앨범이다.AOMG는 공식 SNS를 통해 로꼬의 정규 2집 [WEAK] 발매 소식을 알리는 2종의 이미지 티저를 공개했다. 티저 속 로꼬는 붉게 물들인 헤어와 피어싱 등 파격적인 비주얼 속, 뒤통수에 새긴 'WEAK'이라는 글씨를 통해 앨범명을 선보여 신보에 대한 궁금증을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘4세대 청순돌’ 아일리원, 10월 24일 컴백! 핑클 ‘내 남자친구에게’ 리메이크한다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23052</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23052"/>
-        <updated>2023-10-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[‘4세대 청순돌’ 걸그룹 아일리원(ILY:1)이 원조 청순돌인 핑클 곡을 리메이크한다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 오는 10월 24일 오후 6시 디지털 싱글 ‘내 남자친구에게 (To My Boyfriend)’를 발매한다.아일리원은 4일 자정 공식 SNS를 통해 커밍순 포스터를 게재하며 컴백에 대한 기대감을 높였다.&nbsp;공개된 2종의 포스터에는 곳곳에 적힌 ‘ily:1’이 마치 아일리원만의 놀이공원을 연상케 만들고 대관람차와 회전목마 등이 보기만 해도 설렘을 자극한다.&nbsp;분홍색과 보라색이 섞인 듯 오묘한 컬러감의..]]></content>
     </entry>
 </feed>

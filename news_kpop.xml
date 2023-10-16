@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-16T01:00:56.363Z</updated>
+    <updated>2023-10-16T01:58:05.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아일리원(ILY:1), ‘내 남자친구에게(To My Boyfriend)’ 콘셉트 포토 공개...첫사랑 느낌]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23088</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23088"/>
+        <updated>2023-10-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 아일리원(ILY:1)이 독보적인 사랑스러움을 뽐냈다.아일리원(아라, 리리카, 하나, 로나, 나유, 엘바)은 지난 15일 공식 SNS 및 유튜브 계정을 통해 디지털 싱글 ‘내 남자친구에게(To My Boyfriend)’ 첫 번째 콘셉트 포토를 공개했다.첫 번째 콘셉트 포토 중 단체 포토는 놀이공원 배경 아래에서 아일리원만의 러블리함으로 가득 채웠다.1세대 청순 걸그룹 핑클의 곡을 리메이크하게 된 아일리원은 콘셉트 포토에서도 1세대 걸그룹들의 대표 아이템 중 하나였던 ‘레그워머’는 물론 당시 핑클의 스타일링과 비슷한 가방으로 그..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September CIRCLE CHART: Jung Kook, V, and AKMU Rule the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23086</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23072"/>
         <updated>2023-10-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘인(Whee In)이 올가을 가요계를 뒤흔들 새 앨범으로 돌아온다.&nbsp;휘인은 오는 12일 오후 6시 각종 음원 사이트를 통해 첫 번째 정규 앨범 '인 더 무드(IN the mood)'를 발매한다.&nbsp;휘인의 컴백은 지난해 4월 발매한 스페셜 싱글 '디데이(D-DAY)' 이후 약 1년 6개월 만이다. 업그레이드된 음악과 비주얼로 역대급 스케일의 컴백을 예고한 휘인을 향해 글로벌 팬들의 폭발적인 관심이 쏟아지고 있다.&nbsp;# 독보적 아이덴티티, 믿고 듣는 '보컬 퀸'&nbsp;휘인의 새 앨범 '인..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 밀레나, 독보적 분위기 담은 새 프로필 이미지 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23071</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23071"/>
-        <updated>2023-10-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 겸 아티스트 밀레나(Milena)가 유니크한 무드로 시선을 사로잡았다.밀레나는 최근 공식 SNS 채널을 통해 새 프로필 이미지를 공개했다.공개된 이미지는 밀레나만의 독보적이면서도 강렬한 매력을 고스란히 담아냈다. 밀레나는 자연스러운 시선처리와 포즈로 분위기의 깊이를 더했다.밀레나는 프로필 이미지 공개에 이어 지난 2일 새 싱글 ‘Mean (민)’을 발매했다. ‘Mean’은 단어가 갖고 있는 여러 의미를 사용하여 직접 작사한 곡으로, 사랑하는 대상과의 상황들을 한 단어의 복수적인 의미를 활용해 가사에 담아내 듣는 재미를 높였..]]></content>
     </entry>
 </feed>
