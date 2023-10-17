@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-16T23:14:43.441Z</updated>
+    <updated>2023-10-17T01:00:03.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 팬 콘서트 티켓 오픈 3분 만에 전석 매진! 화려한 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23094</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23094"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 2년 만의 팬 콘서트로 티켓 파워를 발휘했다.에이스의 단독 팬 콘서트 'OVERTURN'(오버턴)은 지난 16일 오후 8시 예스24 티켓을 통해 일반 예매가 오픈된지 3분 만에 초고속 전석 매진을 기록했다.'OVERTURN'은 에이스의 새로운 활동의 포문을 여는 팬 콘서트다. 현재 성실하게 군 복무 중인 막내 강유찬을 제외하고, 군 복무를 마친 박준희·이동훈·와우·김병관이 팬들에게 먼저 인사를 전할 예정이다.에이스는 공연 포스터에도 'RETURN TO K-POP'..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라, 야외 단독 페스티벌 성료! 미발매 신곡 'Chagall's Dream' 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23090</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23034"/>
         <updated>2023-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 첫 번째 월드투어의 포문을 화려하게 열었다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 23일과 24일 양일간 서울 올림픽공원 올림픽홀에서 첫 번째 월드투어 'TEENFRESH(틴프레시)'를 개최하고 팬들을 만났다.이번 공연은 스테이씨의 데뷔 첫 월드투어의 시작을 알리는 단독 콘서트다. 이날 스테이씨는 'SO BAD(쏘 배드)', 'RUN2U(런투유)', 'Poppy(파피)'로 공연의 포문을 열고 팬들과 인사를 나눴다.이어 스테이씨는..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비아이, 유럽 16개 도시 투어에 '전석 매진' 행렬…네덜란드서 첫 공연 성료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23016</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23016"/>
-        <updated>2023-09-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[글로벌 아티스트 비아이(B.I)가 유럽 투어의 닻을 올렸다.비아이는 지난 19일 네덜란드 위트레흐트에서의 첫 공연을 시작으로 2023 B.I 1ST EUROPE TOUR 'LOVE OR DIE (러브 오어 다이)'에 돌입했다.'LOVE OR DIE'는 네덜란드 위트레흐트에 이어 21일 룩셈부르크 룩셈부르크, 23일 프랑스 파리, 25일 스페인 바르셀로나, 27일 스위스 취리히, 28일 이탈리아 밀라노, 30일 폴란드 바르샤바, 10월 3일 에스토니아 탈린, 5일 핀란드 헬싱키, 7일 스웨덴 스톡홀름, 8..]]></content>
     </entry>
 </feed>

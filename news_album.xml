@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-16T23:14:43.445Z</updated>
+    <updated>2023-10-17T01:00:03.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로꼬, 오늘(16일) 정규 2집 [WEAK] 발매! 고경표·민니 ((여자)아이들) MV 출연]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23093</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23093"/>
+        <updated>2023-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[로꼬가 오늘 오후 6시 국내외 전 온라인 음원 사이트를 통해 정규 2집 [WEAK]로 돌아온다.[WEAK]은 로꼬가 지난 2017년 발매한 [BLEACHED] 이후 6년 만에 선보이는 정규앨범이다. 더블 타이틀곡 'BROKEN IPHONE (Feat. 우원재)', 'NOT OK (Feat. 민니 ((여자)아이들))'를 비롯해 '픽픽', '바다가 보이는 창문', 'HEEE ! (Feat. Lil Cherry)', '이대로만 (Feat. 죠지)', &amp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드, 11월 2일 새 싱글 'Feel me' 발매 확정...'퍼포먼스 맛집' 진가 증명한다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23089</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23057"/>
         <updated>2023-10-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘현이 신곡 ‘모르는 사이가 되자’를 발매한다.휘현은 5일 오후 6시 각종 온라인 음원 사이트를 통해 다섯 번째 싱글 ‘모르는 사이가 되자’를 발매한다.‘모르는 사이가 되자’는 이별을 당한 사람의 쓸쓸한 심정을 담아낸 곡이다. 마지막 인사에 흐르는 눈물을 주체할 수 없고, 차라리 서로를 몰랐던 때로 돌아가고 싶은 마음을 솔직하게 표현했다.특히 휘현은 트렌디한 음색으로 음역대를 자유롭게 넘나들며 드라마틱한 전개를 이끈다. 감정선이 차츰차츰 격정적으로 변해가다 후반부에 이르러 사운드가 화려하게 몰아치는 편곡은 휘현의 깊이 있는 감..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로꼬, 6년 만에 정규앨범 컴백! 17일 정규 2집 [WEAK] 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23054</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23054"/>
-        <updated>2023-10-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[로꼬 (Loco)가 6년 만에 정규앨범을 선보인다.로꼬는 오는 17일 국내외 전 온라인 음원 사이트를 통해 두 번째 정규앨범 [WEAK]를 발매한다.[WEAK]는 로꼬가 지난 2017년 발매한 정규 1집 [BLEACHED] 이후 6년 만에 내놓는 정규앨범이다.AOMG는 공식 SNS를 통해 로꼬의 정규 2집 [WEAK] 발매 소식을 알리는 2종의 이미지 티저를 공개했다. 티저 속 로꼬는 붉게 물들인 헤어와 피어싱 등 파격적인 비주얼 속, 뒤통수에 새긴 'WEAK'이라는 글씨를 통해 앨범명을 선보여 신보에 대한 궁금증을 ..]]></content>
     </entry>
 </feed>
