@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-19T00:59:55.454Z</updated>
+    <updated>2023-10-19T01:54:34.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김장훈, 업그레이드 초고음 장전…연말 콘서트 '종합선물세트' 오늘(19일) 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23106</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23106"/>
+        <updated>2023-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김장훈이 올 겨울 낭만을 가득 담은 연말 공연으로 돌아온다.김장훈은 오는 12월 매주 금토일에 총 12회에 걸쳐 서울 중구 CKL스테이지에서 2023 연말 콘서트 '종합선물세트'를 개최한다.이번 연말 콘서트는 '공연의 신' 김장훈 특유의 열정적인 에너지와 독보적인 무대 장악력이 담긴 종합선물세트와 같은 구성과 스케일로 펼쳐진다.&nbsp;먼저 김장훈은 한층 진화된 가창력과 댄스 퍼포먼스를 예고했다. 실제 김장훈은 다양한 활동 틈틈이 보컬 레슨과 발성 연습, 댄스 수업까지 성실하게 준비하며, 이전보다 업그레이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스터트롯2' 송민준, 팬미팅 티켓 오픈 2분 만 전석 매진…뜨거운 팬덤 화력]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23100</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23046"/>
         <updated>2023-09-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이나믹 듀오가 단독 콘서트 추가 공연으로 더 많은 팬들과 함께한다.&nbsp;다이나믹 듀오의 단독 콘서트 ‘가끔씩 오래 보자’ 추가 공연은 지난 26일 오후 8시 인터파크 티켓을 통해 오픈된 직후 초고속으로 전석 매진을 기록했다.&nbsp;다이나믹 듀오가 4년 만에 개최하는 단독 콘서트 ‘가끔씩 오래 보자’는 앞서 11월 24일 오후 8시, 25일 오후 6시, 26일 오후 5시 등 3회차 공연이 티켓 오픈 3분 만에 전석 매진을 기록하며 뜨거운 관심을 입증했다. 이후 더 많은 팬들과 함께하기 위해 11월 25일 오후 1시 30분 공연 추가를 결정했..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스, 10월 국내 첫 팬콘서트 개최 확정...글로벌 팬 위한 온라인 생중계까지]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23041</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23041"/>
-        <updated>2023-09-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 블리처스(BLITZERS, 진화, 고유, 주한, 샤, 크리스, 루탄, 우주)가 국내 첫 팬콘서트를 개최한다.소속사 우조엔터테인먼트는 27일 오전 10시 공식 SNS를 통해 블리처스의 국내 첫 팬콘서트 '에이 투 지(A to z)' 개최 소식을 알렸다.공연 소식과 더불어 공개된 포스터는 오려 붙인 듯한 블리처스의 사진을 알파벳이 둘러싸고 있는 빈티지한 디자인으로 시선을 사로잡았다. 멤버들은 각자의 개성을 살린 형형색색의 캐주얼한 스타일링으로 힙한 분위기를 발산하며 글로벌 팬들을 설레게 만들었다.앞서 지난 2일 일본..]]></content>
     </entry>
 </feed>
