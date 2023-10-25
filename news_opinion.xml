@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2023-10-25T06:19:18.319Z</updated>
+    <updated>2023-10-25T07:14:56.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가요인가? 팝인가? 넘쳐나는 영어 가사]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23132</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23132"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2000년대 초부터 증가하기 시작한 우리&nbsp; 대중가요 속 영어 가사가 최근 들어 크게 증가하고 있는 것으로 나타났습니다.&nbsp;이번 조사에서는 2018년과 2023년 상반기 TOP 400에 오른 아이돌 노래에 한정하여 영어 가사의 비중을 살펴보고, 이들 노래 한 곡에 참여하는 작사, 작곡, 편곡자 수의 변화에 대해서도 알아보도록 하겠습니다.&nbsp;2018년 상반기 114곡(걸그룹 38, 보이그룹 76)2023년 상반기 87곡( 걸그룹 63, 보이그룹 24)*가사 수집 및 텍스트 마이닝 처리*전체 영어 가사 곡 제외2023년 상반기 케이팝 한 곡..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을엔 발라드?  글쎄... - 9월 리뷰 (2023)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23091</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22602"/>
         <updated>2023-06-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 5월 TOP400 가수별 써클지수 점유율 조사에서 IVE (아이브)가 400위권 내 총 7곡을 올려놓으며 (합산)점유율 6.4%로 1위에 올랐습니다.&nbsp;2023년 5월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 10.1% 증가, 전년 동기에 비해서 0.7% 감소했습니다.&nbsp;2023년 5월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 2.9% 감소, 전년 동기에 비해서 10.1% 증가했습니다.&nbsp;2023년 5월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 aespa가 400위..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이팝 피지컬 앨범 수출 중간 점검]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22554</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22554"/>
-        <updated>2023-05-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 써클차트가 집계한 TOP400기준 1월부터 4월까지&nbsp; 피지컬 앨범 판매량은 전년동기 대비 1,420만 장이 많은 3,270만 장으로 집계되었습니다. 이는 올해 아직 4개월밖에 지나지 않은 상황에서 전년도 판매량 약 8,000만 장의 40.5%에 해당하는 판매량을 기록한 것입니다.&nbsp;&nbsp;위 그래프는 2022년, 2023년 관세청 피지컬 앨범 수출액 자료에 따른 월별 추이를 나타낸 것입니다. 2023년 1월부터 4월까지 수출금액은 전년도와는 달리 기복 없이 지속적인 증가세를 나타내고 있습니다.&nbsp;관세청 자료에 따른 2023년 1월부터 ..]]></content>
     </entry>
 </feed>
