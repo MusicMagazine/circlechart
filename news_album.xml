@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-26T00:58:41.058Z</updated>
+    <updated>2023-10-26T01:51:16.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백아연, 2년 2개월 만에 돌아온다…11월 6일 새 싱글 'LIME (I’m So)' 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23136</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23136"/>
+        <updated>2023-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 백아연이 2년 2개월 만에 돌아온다.소속사 이든엔터테인먼트는 26일 "백아연이 오는 11월 6일 여섯 번째 디지털 싱글 'LIME (I’m So)(라임 (아임 쏘))'를 발매한다"라고 밝혔다.같은 날 0시에는 백아연 공식 틱톡 채널을 통해 짧은 무빙 포스터 영상이 공개돼 팬들의 이목을 집중시켰다.영상 시작과 동시에 산뜻한 라임 컬러 배경이 눈길을 사로잡는다. 곧이어 칵테일 잔을 든 손 그림자가 나타났고, 그 위로 새 싱글명 'LIME (I’m So)'와 함께 11월 6일로 발매일이 공..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드, 11월 2일 세 번째 싱글 'Feel me' 발표...'전역' 리더 이대열 팀 활동 복귀]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23131</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23105"/>
         <updated>2023-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 아스트로(ASTRO, 판타지오 소속) 진진이 음악적 역량을 담은 ‘Wave in my heart’를 공개한다.19일 오후 6시 각종 온라인 음원 사이트를 통해 진진이 참여한 프로젝트 with KozyPop(위드 코지팝)의 새로운 싱글 ‘Wave in my heart (Feat. YUNHWAY)’(웨이브 인 마이 하트)가 발매된다.‘Wave in my heart’는 청량한 일렉 기타 사운드를 기반으로 한 딥 하우스 스타일의 곡으로, 진진이 작사·작곡은 물론, 편곡까지 전반적인 프로듀싱을 맡아 음악적 감각과 역량을 가득 담아낸 노..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FT아일랜드, ‘사랑하는 법을 몰라서’ 16년 만 리메이크…27일 음원 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23104</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23104"/>
-        <updated>2023-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 FT아일랜드가 16년 만에 ‘사랑하는 법을 몰라서’를 리메이크한다.&nbsp;FT아일랜드가 가창한 복학가왕 프로젝트 다섯 번째 음원 ‘사랑하는 법을 몰라서 (2023)’가 오는 27일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.복학가왕 프로젝트는 가왕대 음악 동아리를 배경으로 한 세계관 속에서 복학한 레전드 가왕이 찬란했던 그 시절을 재조명하고 추억하는 프로젝트다.&nbsp;‘사랑하는 법을 몰라서’는 2007년 발매된 FT아일랜드의 데뷔 앨범이자 정규 1집 ‘Cheerful Sensibility (치어풀 센서빌리티)’의 수록곡이다. F..]]></content>
     </entry>
 </feed>
