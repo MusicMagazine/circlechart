@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-27T00:59:04.844Z</updated>
+    <updated>2023-10-27T01:51:54.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[FT아일랜드, 오늘(27일) 리메이크 신곡 ‘사랑하는 법을 몰라서’ 발매…16년 만 재해석]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23141</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23141"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 FT아일랜드가 16년 만에 리메이크한 ‘사랑하는 법을 몰라서’가 베일을 벗는다.FT아일랜드가 가창한 복학가왕 프로젝트 다섯 번째 음원 ‘사랑하는 법을 몰라서 (2023)’가 27일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.‘사랑하는 법을 몰라서’는 2007년 발매된 FT아일랜드의 데뷔 앨범이자 정규 1집 ‘Cheerful Sensibility (치어풀 센서빌리티)’의 수록곡으로, 사랑하는 사람에게 잘해주지 못한 미안함과 후회를 담아낸 곡이다.&nbsp;FT아일랜드는 발매 당시 큰 사랑을 받았던 ‘사랑하는 법을 몰라서’를 16..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백아연, 2년 2개월 만에 돌아온다…11월 6일 새 싱글 'LIME (I’m So)' 발매 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23136</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23107"/>
         <updated>2023-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 서기가 독보적 감성의 신곡으로 돌아온다.서기가 가창에 참여한 새벽테잎 프로젝트 신곡 '우리의 마지막 회'가 오는 22일 각종 온라인 음원사이트를 통해 발매된다.새벽테잎 프로젝트는 아침이 밝아오기 직전 가장 어두운 새벽, 더욱 빛나는 아티스트들의 음악을 담아낸 프로젝트다.'우리의 마지막 회'는 두 사람이 서로의 순간을 공유하고 공감하며, 지켜주고 싶다는 감정을 담은 곡이다. 어려운 시간을 보내고 있는 연인을 서로 지지하며 함께 극복해 나갈 날들을 약속하는 가사가 리스너들에게 깊은 울림을 전할 예정이다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘래퍼 윤훼이 피처링’ 아스트로 진진, 오늘(19일) 자체 프로듀싱 신곡 ‘Wave in my heart’ 발매!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23105</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23105"/>
-        <updated>2023-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아스트로(ASTRO, 판타지오 소속) 진진이 음악적 역량을 담은 ‘Wave in my heart’를 공개한다.19일 오후 6시 각종 온라인 음원 사이트를 통해 진진이 참여한 프로젝트 with KozyPop(위드 코지팝)의 새로운 싱글 ‘Wave in my heart (Feat. YUNHWAY)’(웨이브 인 마이 하트)가 발매된다.‘Wave in my heart’는 청량한 일렉 기타 사운드를 기반으로 한 딥 하우스 스타일의 곡으로, 진진이 작사·작곡은 물론, 편곡까지 전반적인 프로듀싱을 맡아 음악적 감각과 역량을 가득 담아낸 노..]]></content>
     </entry>
 </feed>

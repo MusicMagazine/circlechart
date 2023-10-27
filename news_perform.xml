@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-27T00:59:04.833Z</updated>
+    <updated>2023-10-27T01:51:54.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[권은비, 글로벌 팬들과 연말 함께한다...12월 日 두 번째 단독 팬미팅 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23140</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23140"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소속사 울림엔터테인먼트는 지난 26일 오후 6시 공식 SNS를 통해 '권은비 팬미팅 인 재팬 '루비스 룸 2'(KWON EUNBI Fanmeeting in Japan 'RUBI's ROOM 2')'(이하 '루비스 룸 2') 개최 소식을 알렸다.공지에 따르면 권은비는 오는 12월 9일 일본 도쿄 휴릭홀에서 두 번째 단독 팬미팅 '루비스 룸 2'를 개최하고 현지 팬들과 만난다.공연 소식과 함께 공개된 포스터는 따스한 햇살 아래 철로를 배경으로 권은비의 아름다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이즈플래닛 출신 정이찬, 임준서 일본 합동 팬미팅 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23137</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23087"/>
         <updated>2023-10-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[DeVita는 지난 15일 오후 7시 서울 용산구 현대카드 UNDERSTAGE에서 첫 번째 단독 콘서트 현대카드 Curated 88 DeVita [DeVita 1st Concert : Homecoming (홈커밍)]을 성공적으로 개최했다.'Homecoming'은 DeVita가 데뷔 3년 만에 처음으로 진행한 단독 콘서트다. 앞서 예매 시작과 동시에 전석 매진을 기록하며 DeVita의 음악과 무대를 향한 관객들의 기대감을 입증했다.이에 화답하듯 DeVita는 'Homecoming'에서 첫 인트로 곡으로 미..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['명품 보컬' 린, 12월 단독 콘서트 'HOME' 부산 공연 확정…오늘(13일) 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23083</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23083"/>
-        <updated>2023-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 린의 단독 콘서트가 부산에서도 개최된다.오는 12월 9일 부산 KBS홀에서 개최되는 2023 린 콘서트 'HOME (홈)' 티켓이 13일 오후 2시부터 온라인 예매사이트 멜론티켓을 통해 단독으로 오픈된다.다음 달 18일, 19일 서울에서 포문을 여는 'HOME'은 12월 부산으로 이어지며 뜨거운 감동을 다시 한번 나눈다. "함께 써내려갈 우리의 한 페이지, 따뜻한 추억으로 남을 린의 &lt;HOME&gt;으로 여러분을 초대합니다"란 소개말처럼 린은 찬바람을 잊게 할 따뜻한 음악 이야기..]]></content>
     </entry>
 </feed>
