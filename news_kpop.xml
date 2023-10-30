@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-30T00:59:57.770Z</updated>
+    <updated>2023-10-30T01:56:43.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드, 'Feel me' MV 2차 티저 공개...경쾌 사운드+포인트 안무 '초강력 중독성']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23146</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23146"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, TAG, 배승민, 봉재현, 김지범, 김동현, 홍주찬, 최보민)가 뮤직비디오 티저를 통해 신곡 안무를 최초 공개했다.소속사 울림엔터테인먼트는 30일 0시 공식 유튜브 채널을 통해 골든차일드의 세 번째 싱글 '필 미(Feel me)'의 동명 타이틀곡 '필 미' 두 번째 뮤직비디오 티저를 공개했다.공개된 영상은 골든차일드만의 아지트에 모인 멤버들이 침대에 누워 장난을 치거나 잡지를 읽고, 과자를 나눠 먹는 등 휴식을 즐기는 모습과 함께 시작돼 글..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스), 日 최대 프로 댄스 대회 ‘D리그’ 앰배서더로 개막전 출격! 핫한 글로벌 존재감]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23143</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23126"/>
         <updated>2023-10-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Z세대 걸그룹 록킹돌(Rocking doll) 로아가 신곡 음원 일부를 최초 공개하며 발매 열기를 더하고 있다.록킹돌 로아는 25일 공식 SNS를 통해 첫 번째 미니앨범 'LIAR(라이어)'의 동명의 타이틀곡 'LIAR' 뮤직비디오 티저 영상을 공개했다.공개된 영상은 미러볼과 책 등 소품들이 흐트러진 방에서 거울을 향해 걸어가는 로아의 뒷모습으로 시작해 시선을 사로잡고 있다. 이어 영상은 쌓여있는 다이너마이트와 함께 카리스마 넘치는 레드 레더 스타일링을 한 로아의 모습으로 마무리돼 곧 공개될 뮤직비디오 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밴드돌' 캐치더영, 11월 데뷔 앞두고 수록곡 '선인장 소년' M/V 선공개…본격 활동 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23125</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23125"/>
-        <updated>2023-10-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['밴드돌' 캐치더영(Catch The Young)이 수록곡 뮤직비디오를 선공개하며 기대감을 끌어올렸다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 25일 정오 공식 SNS를 통해 데뷔앨범 'Catch The Young : Fragments of Youth (캐치더영 : 프래그먼츠 오브 유스)' 수록곡 '선인장 소년'의 뮤직비디오를 선공개했다.공개된 뮤직비디오는 막이 열리고 위에서 쏟아지는 가시를 피해 도망치는 소년의 모습으로 시작된다. 텅 빈 객석 앞 무대에 오른 캐치더영이 신비로운 무드..]]></content>
     </entry>
 </feed>

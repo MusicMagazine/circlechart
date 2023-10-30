@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-10-30T00:59:57.765Z</updated>
+    <updated>2023-10-30T01:56:43.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘명품 보컬’ 장혜진, 오늘(30일) 인기 웹툰 ‘선녀외전’ 컬래버 음원 ‘가슴 아파도’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23147</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23147"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 장혜진이 명품 보컬로 웹툰 ‘선녀외전’의 몰입도를 높인다.장혜진은 30일 오후 6시 각종 온라인 음원 사이트를 통해 인기 네이버웹툰 ‘선녀외전’의 컬래버 음원 ‘가슴 아파도’를 발매한다.2005년 드라마 ‘패션 70s’ OST로 환희가 가창해 많은 사랑을 받았던 ‘가슴 아파도’는 2006년 앨범 ‘All Time Drama (올 타임 드라마)’에서 장혜진만의 감성을 담아 새롭게 발매된 바 있다. 그리고 2023년 ‘선녀외전’과의 컬래버 음원으로 새로운 감성을 더해 작품 감상을 돕는다.장혜진은 “가슴 아파도 나 이렇게 웃어요 /..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크나큰 정인성, 데뷔 7년만 솔로 데뷔...오늘(30일) 신곡 '밤의 의미' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23144</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23115"/>
         <updated>2023-10-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 린이 오는 11월 3일 신곡을 발매한다.&nbsp;23일 소속사 325E&amp;C는 "린이 오는 11월 3일 새 싱글 '내 마음은 빛을 닮아'를 발매한다"고 밝혔다. 이와 함께 공식 SNS를 통해 한 장의 사진을 게재했다.공개된 이미지 속 린은 무채색 니트 스타일링으로 깊어진 무드와 함께 고혹적인 분위기를 드러내며 '내 마음은 빛을 닮아'에 대한 기대감을 높이고 있다.'내 마음은 빛을 닮아'는 아름다운 피아노 연주가 돋보이는 곡이다. 지난해 1월 선보인 싱글앨범 '평생&amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어송라이터' 백아, 오늘(22일) 김장훈 원곡 '노래만 불렀지' 재해석…가을 적시는 웰메이드 리메이크]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23113</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23113"/>
-        <updated>2023-10-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 백아가 섬세한 감성으로 가슴 시린 그리움을 표현한다.백아는 22일 오후 6시 각종 온라인 음원사이트를 통해 프로젝트 싱숭생숭(ㅅㅅㅅㅅ)의 리메이크 음원 '노래만 불렀지'를 발매한다.'노래만 불렀지'는 지난 1996년 발매된 김장훈의 자작곡으로, 백아의 목소리와 만나 새롭게 재탄생됐다. 어쿠스틱 기타의 따뜻한 사운드와 백아의 맑은 목소리가 조화롭게 어우러져 잔잔한 감성을 극대화하는 가운데, 서서히 나오는 피아노와 스트링이 몰입감을 끌어올린다.특히 "다시 혼자되어 / 난 노래만 불렀지 /..]]></content>
     </entry>
 </feed>

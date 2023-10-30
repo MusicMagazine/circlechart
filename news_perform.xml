@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-30T00:59:57.768Z</updated>
+    <updated>2023-10-30T01:56:43.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포레스텔라 고우림, 첫 솔로 콘서트 'BLACK' 성료! 20곡 명품 라이브]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23145</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23145"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 포레스텔라(Forestella) 멤버 고우림이 첫 솔로 콘서트를 성료했다.고우림은 지난 28일과 29일 서울 강남구에 위치한 코엑스 신한카드 아티움에서 2023 단독 콘서트 '[#000000] BLACK'(블랙)을 성공적으로 개최했다.데뷔 후 첫 솔로 콘서트에 고우림은 밴드 라이브와 함께 높은 완성도의 공연을 구성했다. 댄서들과 함께한 무대부터 다채로운 VCR 영상과 LED 연출, 조각상 등 색다른 소품이 보는 재미도 확실하게 책임졌다. 무엇보다 가을 분위기를 살린 선곡부터 콘셉츄얼한 무대까지 풍성한 라이브가 귀..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, 글로벌 팬들과 연말 함께한다...12월 日 두 번째 단독 팬미팅 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23140</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23090"/>
         <updated>2023-10-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 축제 같은 단독 페스티벌을 성료했다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 지난 14일과 15일 서울 올림픽공원 88잔디마당에서 '2023 포레스텔라 페스티벌'을 개최하고 팬들에게 잊지 못할 추억을 선사했다.'2023 포레스텔라 페스티벌'은 양일간 오후 내내 진행됐다. 일반 공연장과 달리 한층 큰 규모의 야외인 88잔디마당에서 펼쳐진 만큼 포레스텔라는 본 공연 외에도 다양한 사전 프로그램과 부스를 통해 다양한 볼 거리와 즐길 거리를 제공했다. 먼..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeVita(드비타), 데뷔 3년 만 첫 단독 콘서트 매진으로 성료!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23087</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23087"/>
-        <updated>2023-10-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[DeVita는 지난 15일 오후 7시 서울 용산구 현대카드 UNDERSTAGE에서 첫 번째 단독 콘서트 현대카드 Curated 88 DeVita [DeVita 1st Concert : Homecoming (홈커밍)]을 성공적으로 개최했다.'Homecoming'은 DeVita가 데뷔 3년 만에 처음으로 진행한 단독 콘서트다. 앞서 예매 시작과 동시에 전석 매진을 기록하며 DeVita의 음악과 무대를 향한 관객들의 기대감을 입증했다.이에 화답하듯 DeVita는 'Homecoming'에서 첫 인트로 곡으로 미..]]></content>
     </entry>
 </feed>
