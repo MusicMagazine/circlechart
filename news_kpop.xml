@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-10-29T23:13:28.899Z</updated>
+    <updated>2023-10-30T00:59:57.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스), 日 최대 프로 댄스 대회 ‘D리그’ 앰배서더로 개막전 출격! 핫한 글로벌 존재감]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23143</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23143"/>
+        <updated>2023-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 일본 최대 프로 댄스 대회 ‘D리그’ 개막전에서 글로벌한 존재감을 빛냈다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 29일 오후 일본 도쿄 가든 시어터에서 열린 ‘D리그 23-24 시즌(D.LEAGUE 23-24 SEASON)’ 개막전에 앰배서더로 참석해 축하공연을 선보였다.‘D리그’는 일본 최대 규모의 프로 댄스 대회로, 이펙스와 함께 일본 보이그룹 판타스틱스 프롬 에그자일 트라이브(FANTASTICS from EXILE TRIBE)가 이번 23-24 시즌의 앰배서더로 발탁됐..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 42 CIRCLE CHART: Jung Kook, Lim Young Woong, AKMU, and IVE Dominate the Cha..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23142</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23125"/>
         <updated>2023-10-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA['밴드돌' 캐치더영(Catch The Young)이 수록곡 뮤직비디오를 선공개하며 기대감을 끌어올렸다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 25일 정오 공식 SNS를 통해 데뷔앨범 'Catch The Young : Fragments of Youth (캐치더영 : 프래그먼츠 오브 유스)' 수록곡 '선인장 소년'의 뮤직비디오를 선공개했다.공개된 뮤직비디오는 막이 열리고 위에서 쏟아지는 가시를 피해 도망치는 소년의 모습으로 시작된다. 텅 빈 객석 앞 무대에 오른 캐치더영이 신비로운 무드..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드, 타이틀곡 'Feel me' 확정...새 싱글 스케줄러+트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23123</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23123"/>
-        <updated>2023-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, TAG, 배승민, 봉재현, 김지범, 김동현, 홍주찬, 최보민)의 새 싱글 트랙리스트가 베일을 벗었다.소속사 울림엔터테인먼트는 지난 23일 오후 6시 공식 SNS를 통해 골든차일드의 세 번째 싱글 '필 미(Feel me)' 컴백 스케줄러를, 24일 0시에는 트랙리스트를 각각 공개했다.컴백 스케줄러에 따르면 오는 25일과 26일 양일간 '필 미'의 콘셉트를 엿볼 수 있는 재킷 이미지가 공개되며, 28일과 29일 양일간 타이틀곡 뮤직비디오 티저가..]]></content>
     </entry>
 </feed>
