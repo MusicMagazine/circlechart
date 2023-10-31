@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-31T02:22:42.850Z</updated>
+    <updated>2023-10-31T03:15:29.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위아이, 日 팬미팅 'Eternal Sunshine' 성황리 마무리…감동으로 채운 현지 팬 소통]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23153</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23153"/>
+        <updated>2023-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 위아이(WEi)가 일본 팬미팅을 성황리에 마치며 인기를 증명했다.위아이는 지난 28일 일본 도코로자와 사쿠라타운(TOKOROZAWA SAKURA TOWN)에서 '2023 WEi Japan Fanmeeting Eternal Sunshine (2023 위아이 재팬 팬미팅 이터널 선샤인)'을 개최하고 팬들을 만났다.이날 위아이는 'Spray (스프레이)'와 'ROSE (로즈)' 무대로 공연의 시작을 알렸다. 또 'Thriller (스릴러)', 'Maldives (몰디브..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라 고우림, 첫 솔로 콘서트 'BLACK' 성료! 20곡 명품 라이브]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23145</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23094"/>
         <updated>2023-10-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이스(A.C.E)가 2년 만의 팬 콘서트로 티켓 파워를 발휘했다.에이스의 단독 팬 콘서트 'OVERTURN'(오버턴)은 지난 16일 오후 8시 예스24 티켓을 통해 일반 예매가 오픈된지 3분 만에 초고속 전석 매진을 기록했다.'OVERTURN'은 에이스의 새로운 활동의 포문을 여는 팬 콘서트다. 현재 성실하게 군 복무 중인 막내 강유찬을 제외하고, 군 복무를 마친 박준희·이동훈·와우·김병관이 팬들에게 먼저 인사를 전할 예정이다.에이스는 공연 포스터에도 'RETURN TO K-POP'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 야외 단독 페스티벌 성료! 미발매 신곡 'Chagall's Dream' 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23090</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23090"/>
-        <updated>2023-10-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 축제 같은 단독 페스티벌을 성료했다.포레스텔라(강형호, 고우림, 배두훈, 조민규)는 지난 14일과 15일 서울 올림픽공원 88잔디마당에서 '2023 포레스텔라 페스티벌'을 개최하고 팬들에게 잊지 못할 추억을 선사했다.'2023 포레스텔라 페스티벌'은 양일간 오후 내내 진행됐다. 일반 공연장과 달리 한층 큰 규모의 야외인 88잔디마당에서 펼쳐진 만큼 포레스텔라는 본 공연 외에도 다양한 사전 프로그램과 부스를 통해 다양한 볼 거리와 즐길 거리를 제공했다. 먼..]]></content>
     </entry>
 </feed>
