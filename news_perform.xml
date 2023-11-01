@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-10-31T23:14:14.315Z</updated>
+    <updated>2023-11-01T01:04:01.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디어클라우드, 12월 연말 콘서트 'Merry Christmas & Farewell' 개최! 11월 2일 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23155</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23155"/>
+        <updated>2023-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 따뜻한 연말 축제로 팬들을 만난다.디어클라우드(나인, 이랑, 토근)는 오는 12월 15일부터 17일, 22일부터 25일까지 총 7일 간 연말 단독 콘서트 '23' Merry Christmas &amp; Farewell(23' 메리 크리스마스 &amp; 페워웰)'을 개최한다.'Merry Christmas &amp; Farewell'은 지난 2014년부터 개최된 디어클라우드의 브랜드 연말 콘서트로, 짙은 감성과 따뜻한 음악이 함께하는 라이브 공연으..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 日 팬미팅 'Eternal Sunshine' 성황리 마무리…감동으로 채운 현지 팬 소통]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23153</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23100"/>
         <updated>2023-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA['미스터트롯2' 송민준이 팬덤의 화력을 증명했다.17일 소속사 냠냠엔터테인먼트는 "송민준 첫 번째 팬미팅 '놀러와요 대한민준'이 티켓 오픈 2분 만에 전석 매진을 기록했다"라고 밝혔다.'놀러와요 대한민준'은 송민준이 데뷔 후 처음으로 개최하는 팬미팅으로, 팬어스 단독으로 진행된다. 티켓 오픈 직후 동시 접속자가 몰려 일시적 접속 장애가 발생하는 등 뜨거운 팬덤 화력을 증명했다.소속사는 "성원에 깊이 감사드린다. 송민준은 팬분들의 사랑에 보답하기 위해 보다 특별한 무대와..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스(A.C.E), 팬 콘서트 티켓 오픈 3분 만에 전석 매진! 화려한 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23094</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23094"/>
-        <updated>2023-10-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 2년 만의 팬 콘서트로 티켓 파워를 발휘했다.에이스의 단독 팬 콘서트 'OVERTURN'(오버턴)은 지난 16일 오후 8시 예스24 티켓을 통해 일반 예매가 오픈된지 3분 만에 초고속 전석 매진을 기록했다.'OVERTURN'은 에이스의 새로운 활동의 포문을 여는 팬 콘서트다. 현재 성실하게 군 복무 중인 막내 강유찬을 제외하고, 군 복무를 마친 박준희·이동훈·와우·김병관이 팬들에게 먼저 인사를 전할 예정이다.에이스는 공연 포스터에도 'RETURN TO K-POP'..]]></content>
     </entry>
 </feed>

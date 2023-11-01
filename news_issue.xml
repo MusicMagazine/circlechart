@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-10-31T23:14:14.321Z</updated>
+    <updated>2023-11-01T01:04:01.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['불타는 트롯맨' 준결승 진출 이수호, 제나두엔터테인먼트와 전속계약]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23154</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23154"/>
+        <updated>2023-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이수호가 제나두엔터테인먼트에 새둥지를 틀었다.&nbsp;제나두엔터테인먼트는 1일 "이수호와 최근 전속계약을 맺었다"라며 "가수 활동은 물론 다양한 분야에서 활발히 활동할 수 있도록 적극적으로 지원할 예정"이라고 밝혔다.&nbsp;이수호는 MBN '불타는 트롯맨'에서 어린 외모와는 상반되는 깊은 저음의 목소리로 팬들에게 많은 사랑을 받았고, 준결승에 진출하며 뛰어난 실력을 인정 받았다. 이후 전국투어 콘서트 '식스맨'으로 활동을 이어갔고, 최근 광주예술의전당 대강당에서 '희망 콘서트..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리샤, 뉴웨이컴퍼니와 전속계약... '배우 김남희와 한솥밥']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23050</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22316"/>
         <updated>2023-03-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 방용국이 YY엔터테인먼트와 새 출발에 나선다.&nbsp;&nbsp;30일 신생 종합 엔터테인먼트사 YY엔터테인먼트는 "최근 방용국과 전속계약을 맺었다. 자사의 첫 영입 아티스트인 만큼 폭넓은 활동을 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;방용국은 2011년 싱글 앨범 'I Remember(아이 리멤버)'로 데뷔한 이후 2012년부터 그룹 B.A.P 리더로 활동했다. 방용국은 뛰어난 작사, 작곡 실력을 바탕으로 B.A.P 앨범 작업에 참여했을 뿐만 아니라 2019년부터 솔로로 전향하면서 자신만..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 싱어송라이터 이지카이트(Izykite), 뉴런뮤직과 전속계약 체결! 폴킴·픽보이와 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21976</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=21976"/>
-        <updated>2023-01-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신예 싱어송라이터 이지카이트(Izykite)가 뉴런뮤직에 합류했다.5일 소속사 뉴런뮤직은 "싱어송라이터 이지카이트(Izykite)와 최근 전속계약을 체결했다. 이지카이트는 오는 17일 새 디지털 싱글 '소낙비'를 발매하며 활발한 음악 활동을 펼칠 예정이다"라고 밝혔다.이지카이트는 허스키한 음색이 매력적인 신인 여성 싱어송라이터다. 지난 2021년 데뷔 후 '느린 마음', 'Where is the happiness?'(웨얼 이즈 더 해피니스?), '그럴 때마다',..]]></content>
     </entry>
 </feed>
