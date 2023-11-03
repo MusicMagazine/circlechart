@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-11-03T00:59:57.413Z</updated>
+    <updated>2023-11-03T01:55:34.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 윤대천 ‘If You Love Me’ 뮤직비디오 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23164</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23164"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[‘네가 나를 사랑한다면…’, 사랑과 설렘이 담긴 감미로운 얼터너티브 록 인디음악 ‘If You Love Me’&nbsp;2023년 11월 3일 -- 싱어송라이터 윤대천이 10월 31일 오후 12시 국내외 음원 사이트에 싱글 ‘If You Love Me’를 발매하고 뮤직비디오를 공개했다.윤대천의 신곡 ‘If You Love Me’는 따스한 가을 분위기의 잔잔한 감성과 감미로운 목소리로 설렘이 담긴 사랑을 고백하는 록 음악으로, 윤대천이 직접 작사, 작곡, 편곡하고 그가 활동하는 그룹 자판기유자차(VMCT)의 진하람과 김재우가 참여했다.‘서투른..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘 컴백' VIVIZ(비비지), 미니 4집 'VERSUS' 컴백 소감 "만족도 큰 앨범" (일문일답)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23162</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23138"/>
         <updated>2023-10-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 세븐틴(SEVENTEEN) 호시와 특급 컬래버를 성사했다.&nbsp;에픽하이(타블로, 투컷, 미쓰라)는 26일 공식 SNS를 통해 새 싱글 ‘Screen Time (스크린 타임) (Feat. 호시 of SEVENTEEN)’의 첫 번째 뮤직비디오 티저를 공개했다.공개된 티저에는 기계와 전선이 거대하게 얽힌 덩어리를 품에 안은 타블로, 운전석 문이 열린 차에 기대앉아 거센 비를 맞고 있는 투컷, 핸드폰 화면에 푹 빠진 부부와 하객들 사이에서 정면을 응시하는 미쓰라의 모습이 차례로 담겨 있다.&nbsp;티저 말미에는 거..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밴드돌' 캐치더영, 데뷔곡은 'YOUTH!!!'…데뷔앨범 'Fragments of Youth' 트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23135</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23135"/>
-        <updated>2023-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['밴드돌' 캐치더영(Catch The Young)이 본격적인 데뷔 카운트다운에 돌입했다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 26일 공식 SNS를 통해 데뷔앨범 'Catch The Young : Fragments of Youth (캐치더영 : 프래그먼츠 오브 유스)'의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면 'Fragments of Youth'에는 타이틀곡 'YOUTH!!! (유스)'를 비롯해 'My Own Way (마이 오운 웨이)', ..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-03T00:59:57.412Z</updated>
+    <updated>2023-11-03T01:55:34.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 2년 만에 단체 컴백! 7일 신곡 'Effortless' 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23166</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23166"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 2년 만에 신곡을 선보인다.3일 소속사 비트인터렉티브는 "에이스(박준희, 이동훈, 와우, 김병관, 강유찬)가 오는 7일 새 디지털 싱글 'Effortless'(에포트리스)를 발매한다"라고 밝혔다.'Effortless'는 에이스가 자신들의 이름으로는 2021년 9월 리패키지 앨범 'Changer : Dear Eris'(체인저 : 디어 에리스) 이후 2년 2개월 만에 선보이는 신곡이다. 그 사이 박준희, 이동훈, 와우, 김병관은 더욱 건강해진 모습으로 ..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['명품 보컬' 린, 오늘(3일) 새 싱글 '내 마음은 빛을 닮아' 발매…'팬들에게 선물 같은 곡']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23165</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23165"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 린의 신곡이 드디어 베일을 벗는다.린은 3일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '내 마음은 빛을 닮아'를 발매한다.'내 마음은 빛을 닮아'는 피아노의 아름다운 선율이 돋보이는 정통 발라드로, 서정적인 감성이 향수를 불러일으키며 리스너들에게 공감과 위로를 전달한다.&nbsp;지난 1월 선보인 싱글앨범 ‘평생’ 이후 약 1년 10개월 만에 신보로 돌아온 린은 한층 깊고 풍부해진 감성으로 웰메이드 발라드를 완성한다. 특히 허스키한 음색과 독보적인 감성으로 노래의 감정선을 이끌며 시작부터 끝까지 귀..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드, 오늘(2일) 새 싱글 'Feel me' 발매...'글로벌 대세 그룹'의 금빛 귀환]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23163</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23150"/>
         <updated>2023-10-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[감성 싱어송라이터 경제환이 초겨울에 걸맞은 아련한 감성의 신곡으로 돌아온다.경제환은 31일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '사랑은 영화처럼'을 발매한다.'사랑은 영화처럼'은 경제환이 지난 6월 발표한 싱글 'Tattoo(타투)' 이후 약 4개월 만에 선보이는 신보로, 한층 성숙해진 경제환의 음악적 색깔이 인상적인 곡이다.경제환이 작사?작곡?편곡 등 전반적인 프로듀싱에 참여해 특유의 감성과 시선을 진하게 녹여냈으며, 보컬은 물론 드럼부터 베이스, 피아노까지 다채로운 악기 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신예' 류민희, 11월 1일 신곡 '니 생각' 발매...가을 매료시킬 폭발적 감성+가창력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23149</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23149"/>
-        <updated>2023-10-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 류민희가 가을 감성을 자극하는 이별송으로 돌아온다.딩고(dingo)는 오는 11월 1일 정오 각종 음원 사이트를 통해 류민희의 신곡 '니 생각'을 공개한다.'니 생각'은 화려한 오케스트라와 이별의 슬픔, 그리고 류민희만의 유니크한 고음과 폭발적인 가창력을 확인할 수 있는 발라드 넘버다.특히 '니 생각'은 '히트곡 제조기'로 불리는 안영민 작곡가의 프로듀싱 아래 박신원 기타리스트, 폴킴의 '너를 만나' 작곡가인 조셉케이가 오케스트라 편곡을 맡아 더욱 완성도 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘명품 보컬’ 장혜진, 오늘(30일) 인기 웹툰 ‘선녀외전’ 컬래버 음원 ‘가슴 아파도’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23147</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23147"/>
-        <updated>2023-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 장혜진이 명품 보컬로 웹툰 ‘선녀외전’의 몰입도를 높인다.장혜진은 30일 오후 6시 각종 온라인 음원 사이트를 통해 인기 네이버웹툰 ‘선녀외전’의 컬래버 음원 ‘가슴 아파도’를 발매한다.2005년 드라마 ‘패션 70s’ OST로 환희가 가창해 많은 사랑을 받았던 ‘가슴 아파도’는 2006년 앨범 ‘All Time Drama (올 타임 드라마)’에서 장혜진만의 감성을 담아 새롭게 발매된 바 있다. 그리고 2023년 ‘선녀외전’과의 컬래버 음원으로 새로운 감성을 더해 작품 감상을 돕는다.장혜진은 “가슴 아파도 나 이렇게 웃어요 /..]]></content>
     </entry>
 </feed>

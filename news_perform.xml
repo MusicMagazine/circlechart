@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-11-03T00:59:57.414Z</updated>
+    <updated>2023-11-03T01:55:34.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ(비비지), 미니 4집 ‘VERSUS’ 발매 기념 게릴라 공연 성료! 타이틀곡 ‘MANIAC’ 무대 최초 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23167</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23167"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 게릴라 공연으로 컴백 활동의 포문을 열었다.VIVIZ(은하, 신비, 엄지)는 지난 2일 오후 서울 영등포구 여의도한강공원물빛무대에서 네 번째 미니앨범 ‘VERSUS (벌서스)’ 발매 기념 게릴라 공연을 성공적으로 개최했다.이날 데뷔곡 ‘BOP BOP! (밥 밥!)’ 무대로 공연의 포문을 상큼하게 연 VIVIZ는 “팬분들, 관객분들과 조금 더 가깝게 만나 인사하고 싶어서 깜짝 게릴라 공연을 준비했다”라고 밝혔다.이어 VIVIZ는 ‘LOVEADE (러브에이드)’, ‘Love Love Love (러브 러브 러브..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디어클라우드, 12월 연말 콘서트 'Merry Christmas & Farewell' 개최! 11월 2일 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23155</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23106"/>
         <updated>2023-10-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김장훈이 올 겨울 낭만을 가득 담은 연말 공연으로 돌아온다.김장훈은 오는 12월 매주 금토일에 총 12회에 걸쳐 서울 중구 CKL스테이지에서 2023 연말 콘서트 '종합선물세트'를 개최한다.이번 연말 콘서트는 '공연의 신' 김장훈 특유의 열정적인 에너지와 독보적인 무대 장악력이 담긴 종합선물세트와 같은 구성과 스케일로 펼쳐진다.&nbsp;먼저 김장훈은 한층 진화된 가창력과 댄스 퍼포먼스를 예고했다. 실제 김장훈은 다양한 활동 틈틈이 보컬 레슨과 발성 연습, 댄스 수업까지 성실하게 준비하며, 이전보다 업그레이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 송민준, 팬미팅 티켓 오픈 2분 만 전석 매진…뜨거운 팬덤 화력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23100</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23100"/>
-        <updated>2023-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['미스터트롯2' 송민준이 팬덤의 화력을 증명했다.17일 소속사 냠냠엔터테인먼트는 "송민준 첫 번째 팬미팅 '놀러와요 대한민준'이 티켓 오픈 2분 만에 전석 매진을 기록했다"라고 밝혔다.'놀러와요 대한민준'은 송민준이 데뷔 후 처음으로 개최하는 팬미팅으로, 팬어스 단독으로 진행된다. 티켓 오픈 직후 동시 접속자가 몰려 일시적 접속 장애가 발생하는 등 뜨거운 팬덤 화력을 증명했다.소속사는 "성원에 깊이 감사드린다. 송민준은 팬분들의 사랑에 보답하기 위해 보다 특별한 무대와..]]></content>
     </entry>
 </feed>
