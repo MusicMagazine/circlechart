@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-11-06T05:14:14.805Z</updated>
+    <updated>2023-11-06T06:19:54.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 43 CIRCLE CHART: SEVENTEEN Sweep 4 Charts, AKMU Top 2 Charts, while Jung Ko..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23175</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23175"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 43 CIRCLE CHART (formerly gaonchart) was dominated by SEVENTEEN, Jung Kook, and AKMU.KMCA, publisher of CIRCLE CHART, announced that “As of week 43 (2023.10.22.~2023.10.28.), SEVENTEEN and AKMU topped 4 and 2 charts respectively, while Jung Kook stayed at the top of the Global K-pop Chart.&amp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 윤대천 ‘If You Love Me’ 뮤직비디오 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23164</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23139"/>
         <updated>2023-10-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 4종 콘셉트 포토를 모두 공개하며 새로운 콘셉트에 대한 기대감을 높였다.VIVIZ(은하, 신비, 엄지)는 지난 23일부터 27일까지 총 네 차례에 걸쳐 공식 SNS에 네 번째 미니앨범 ‘VERSUS (벌서스)’의 4종 콘셉트 포토를 공개했다.26일과 27일 0시 베일을 벗은 세 번째와 마지막 네 번째 콘셉트 포토 속 VIVIZ는 순백의 드레스 스타일링으로 청순한 퀸의 자태를 드러냈다.먼저 공개된 개인컷은 페이스 체인을 착용한 VIVIZ의 반짝이는 미모로 보는 이들의 설렘을 유발한다. 사랑스러운 핑크 머리에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽하이, 세븐틴 호시와 컬래버 성사! 11월 1일 발매 ‘Screen Time’ M/V 티저 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23138</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23138"/>
-        <updated>2023-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 세븐틴(SEVENTEEN) 호시와 특급 컬래버를 성사했다.&nbsp;에픽하이(타블로, 투컷, 미쓰라)는 26일 공식 SNS를 통해 새 싱글 ‘Screen Time (스크린 타임) (Feat. 호시 of SEVENTEEN)’의 첫 번째 뮤직비디오 티저를 공개했다.공개된 티저에는 기계와 전선이 거대하게 얽힌 덩어리를 품에 안은 타블로, 운전석 문이 열린 차에 기대앉아 거센 비를 맞고 있는 투컷, 핸드폰 화면에 푹 빠진 부부와 하객들 사이에서 정면을 응시하는 미쓰라의 모습이 차례로 담겨 있다.&nbsp;티저 말미에는 거..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-06T05:14:14.812Z</updated>
+    <updated>2023-11-06T06:19:54.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[플라워 고유진, 영화 '말하고 싶은 비밀' OST 가창 참여 확정! 11일 '단 한사람' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23172</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23172"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 플라워의 고유진이 본인의 대표곡을 다시 부른다.고유진이 참여한 영화 '말하고 싶은 비밀(Our Secret Diary)' OST '단 한사람(2023)'이 오는 11일 발매를 확정했다.'단 한사람'은 지난 2006년 방영된 드라마 '소문난 칠공주'의 OST로 대중의 사랑을 받은 곡으로, 사랑하는 사람에게 전하는 메시지를 담은 가사가 듣는 이들의 깊은 공감을 불러일으킨다. '단 한사람'은 원곡의 감성을 그대로 살리면서도 고유진의 섬세한 감정 표현으로 재탄생됐..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스(A.C.E), 2년 만에 단체 컴백! 7일 신곡 'Effortless' 발매 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23170</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23158"/>
         <updated>2023-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 원팩트(ONE PACT)가 정식 데뷔 소식을 알렸다.소속사 아르마다이엔티(이하 아르마다)는 1일 "원팩트가 오는 30일 첫 번째 미니 앨범 'Moment(모멘트)'를 발매하고 정식 데뷔한다"라고 밝혔다.같은 날 0시에는 소속사 공식 SNS를 통해 커밍순 이미지를 공개해 팬들의 관심을 집중시켰다.이미지 속 푸른 초원 위에는 원팩트가 보내온 듯한 편지봉투가 놓여있고, 멤버들의 이름이 영문으로 쓰여 있어 눈길을 끈다. 또한 데뷔 앨범명 'Moment'와 함께 11월 30일 오후 6시로 발매..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록킹돌 로아, 한 달만에 초고속 컴백! 오늘(1일) 첫 번째 미니앨범 'LIAR' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23157</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23157"/>
-        <updated>2023-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Z세대 걸그룹 록킹돌(Rocking doll) 로아가 확고한 색을 지닌 음악으로 돌아온다.록킹돌 로아는 1일 오후 6시 각종 온라인 음원사이트를 통해 첫 번째 미니앨범 'LIAR (라이어)'를 발매한다.'LIAR'는 로아의 다채로운 매력으로 팬들의 사랑에 보답하겠다는 마음을 담은 앨범이다. 지난 9월 발매한 세 번째 싱글 'SKIP OUT (스킵 아웃)' 이후 약 한 달 만에 초고속 컴백을 확정한 로아는 총 4개 트랙을 통해 이야기가 유기적으로 연결되는 신선한 스토리텔링을 선사한다.앨범과 ..]]></content>
     </entry>
 </feed>
