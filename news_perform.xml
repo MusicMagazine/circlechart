@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-11-08T01:00:19.116Z</updated>
+    <updated>2023-11-08T01:56:20.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['믿고 듣는 밴드' 넬, 12월 연말 콘서트 '넬스룸 2023' 개최…오늘(8일) 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23181</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23181"/>
+        <updated>2023-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 넬(Nell)이 연말 공연으로 팬들을 만난다.넬은 오는 12월 22일부터 24일까지 사흘간 서울 잠실 학생체육관에서 연말 브랜드 콘서트 'CHRISTMAS IN NELL’S ROOM 2023'(이하 '넬스룸 2023')을 개최한다.'넬스룸'은 넬의 대표 브랜드 콘서트로, 지난해에는 'Goodbye, Hello in NELL’S ROOM 2022(굿바이, 헬로 인 넬스룸 2022)'를 열어 한 해의 마지막과 새로운 해의 시작을 관객과 함께 했다. 올해는 2019년 이후 4..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보이즈 플래닛' 출신 그룹 TOZ(티오지), 첫 日 팬미팅 투어 성료 "팬들과 함께하는 시간 많이 만들 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23174</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23137"/>
         <updated>2023-10-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보이즈플래닛 출신 정이찬, 임준서가 오는 11월 3일 일본 도쿄 ‘신주쿠 블레이즈 (Shinjuku BLAZE)’에서 합동 팬미팅을 개최한다.&nbsp;&nbsp;&nbsp;보이즈플래닛 방영 이후 십센치 ‘부동의 첫사랑’을 커버해 SNS에서 뜨거운 호응을 이끌어내며 환상의 호흡을 보여준 바 있는 두 사람의 도쿄 합동 팬미팅 소식은 일본 팬들의 기대를 한층 끌어올리고 있다.&nbsp;&nbsp;앞서 정이찬은 지난 8월 12일 솔로 팬미팅&nbsp; ‘디스 썸머 이즈 챈스(THIS SUMMER IS A CHANCE)’에서 미발표곡 '시간의 유영‘의 라이브, 보이즈 플래닛 동기 정호..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영등포아트홀 기획 공연 ‘최백호 콘서트 : 그 모든 찰나들이’ 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23134</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23134"/>
-        <updated>2023-10-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2023년 10월 26일 -- 영등포문화재단(대표이사 이건왕)이 준비한 ‘최백호 콘서트 : 그 모든 찰나들이’가 10월 27일(금) 영등포아트홀에서 개최된다.영등포아트홀 기획공연 ‘시리즈Q 가을’의 ‘주제극장’으로 선보이는 이번 공연은 세대를 아우르는 싱어송라이터 최백호의 삶을 담아낸 그의 음악을 라이브로 들을 기회로, 많은 관심과 함께 전석 매진된 상황이다.최백호는 특유의 허스키한 보이스와 감성적인 노랫말로 세대를 초월해 꾸준히 대중의 사랑을 받으며 ‘낭만에 대하여’, ‘입영 전야’, ‘보고 싶은 얼굴’, ‘영일만 친구’ 등 여러..]]></content>
     </entry>
 </feed>
