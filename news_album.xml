@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-09T01:00:08.319Z</updated>
+    <updated>2023-11-09T01:56:47.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['버추얼 프리미엄돌' MAVE: (메이브), 30일 첫 EP 'What's My Name' 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23187</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23187"/>
+        <updated>2023-11-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[5세대 프리미엄 걸그룹 MAVE: (메이브)가 첫 EP로 색다른 매력을 전한다.MAVE: (메이브, 시우·제나·타이라·마티)는 오는 30일 국내외 전 온라인 음원 사이트를 통해 첫 번째 EP 앨범 'What's My Name'(왓츠 마이 네임)을 발매한다.소속사 메타버스엔터테인먼트는 지난 8일 MAVE: (메이브) 공식 SNS 채널 및 웹사이트를 업데이트하며 'What's My Name'이라는 앨범명과 발매일시를 처음으로 공개했다. 이와 함께 "MAVE: (메이브)가 최근 대세 K-..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키카코 하우스, 오늘(7일) 딩고와 세 번째 신곡 발매...이별의 슬픔 담은 '또 한 번의 밤을 보내며']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23185</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23169"/>
         <updated>2023-11-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 윤대천이 10월 31일 오후 12시 국내외 음원 사이트에 싱글 ‘If You Love Me’를 발매하고 뮤직비디오를 공개했다.윤대천의 신곡 ‘If You Love Me’는 따스한 가을 분위기의 잔잔한 감성과 감미로운 목소리로 설렘이 담긴 사랑을 고백하는 록 음악으로, 윤대천이 직접 작사, 작곡, 편곡하고 그가 활동하는 그룹 자판기유자차(VMCT)의 진하람과 김재우가 참여했다.‘서투른 나의 맘을 안아줬으면 나 혼자만의 사랑이라도 좋아’라는 가사처럼 서투른 사랑을 조심스레 고백하는 풋풋한 이야기와 아름다운 멜로디로 듣는 이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 송민준, 8일 신곡 '인생이란 게' 발매…'인생 트롯' 선사]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23168</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23168"/>
-        <updated>2023-11-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['미스터트롯2' 송민준이 인생 트롯을 선사한다.TV CHOSUN '미스터트롯 2-새로운 전설의 시작'(이하 '미스터트롯2') TOP7의 매니지먼트를 맡은 냠냠엔터테인먼트는 3일 "송민준이 오는 8일 새 디지털 싱글 '인생이란 게'를 발매한다"고 밝혔다.지난 2019년 싱글 앨범 '추억 속의 여자'로 데뷔한 송민준은 '미스터트롯2'에서 가슴을 울리는 감성 트롯으로 큰 사랑을 받아 최종 8위를 차지했다.'인생이란 게'는 송..]]></content>
     </entry>
 </feed>
