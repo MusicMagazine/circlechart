@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-11-09T23:14:52.507Z</updated>
+    <updated>2023-11-10T01:00:33.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[따마(THAMA), 정규 2집 ‘WOOOF!’ 트랙리스트 공개! 美 래퍼 시세로→수젠 피처링]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23192</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23192"/>
+        <updated>2023-11-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤지션 따마(THAMA)가 정규 2집으로 완성도 높은 12곡을 선보인다.소속사 아메바컬쳐는 지난 9일 오후 공식 SNS를 통해 따마의 두 번째 정규앨범 ‘WOOOF! (우프!)’의 트랙리스트를 공개했다.트랙리스트에 따르면, 따마의 이번 ‘WOOOF!’에는 더블 타이틀곡 ‘Baby I Know (베이비 아이 노우)’와 ‘Bump It Up (범프 잇 업)’을 비롯해 ‘Voices (보이시스)’, ‘Won’t You (원트 유) (Feat. Ciscero)’, ‘Cutty Sark (커티삭)’, ‘산들바람 (Breeze)’, ‘커피 사..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘컴백 D-1’ 비아이, 글로벌 EP 리릭 포스터+트랙 필름 공개 완료! 다각도로 풀어낸 이별 서사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23188</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23159"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 원팩트(ONE PACT)가 데뷔 초읽기에 돌입했다.소속사 아르마다이엔티(이하 아르마다)는 2일 0시 공식 SNS를 통해 원팩트 첫 번째 미니 앨범 'Moment(모멘트)'의 스케줄러 이미지를 게재했다.이미지에는 힙한 디자인으로 커스텀 된 스마트폰이 겹쳐져 있고, 폰 화면에는 원팩트의 데뷔 프로모션 일정이 공개돼 눈길을 끈다.해당 스케줄러에 따르면 원팩트는 오는 5일과 6일 첫 번째 콘셉트 포토를 시작으로 트랙리스트, 뮤직비디오 티저 등 다채로운 콘텐츠를 선보인다. 특히 전 수록곡의 음원 일부를 모은 하이라이트 메..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드, 'Feel me' 프리뷰 영상 공개...비주얼+음악 '완벽 업그레이드 컴백']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23152</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23152"/>
-        <updated>2023-10-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[소속사 울림엔터테인먼트는 31일 0시 공식 유튜브 채널을 통해 골든차일드의 세 번째 싱글 '필 미(Feel me)' 프리뷰 영상을 공개했다.공개된 영상은 푸른 하늘 아래 픽업트럭을 타고 달리는 골든차일드의 모습으로 시작돼 '필 미'의 립싱크를 선보이는 멤버들의 개인 컷으로 이어져 단번에 시선을 사로잡았다.이어 다 함께 건배하며 신나게 댄스 파티를 즐기는 멤버들의 모습, 야외 코트를 누비며 농구 대결을 펼치는 모습 등 각각의 곡이 지닌 분위기를 극대화하는 다양한 장면들이 차례로 등장하며 글로벌 팬들을 더욱..]]></content>
     </entry>
 </feed>
