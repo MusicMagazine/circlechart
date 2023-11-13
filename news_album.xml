@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-13T01:03:17.667Z</updated>
+    <updated>2023-11-13T02:26:17.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['레전드 밴드' 넬, 오늘(13일) 새 앨범 'Dystopian's Eutopia' 발매...가을 감성 책임질 '역대급 고퀄리티' 명반 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23195</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23195"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['레전드 밴드' 넬(NELL, 김종완, 이재경, 이정훈)이 가을을 짙게 물들일 신보로 컴백한다.넬은 13일 오후 6시 각종 음원 사이트를 통해 새 EP 앨범 '디스토피안스 유토피아(Dystopian's Eutopia)'를 발매하고 팬들 곁으로 돌아온다.'디스토피안스 유토피아'는 넬만의 짙은 음악색을 아낌없이 담아낸 앨범으로, 피지컬 음반 발매는 지난 2021년 발매한 정규 9집 앨범 '모멘츠 인 비트윈(Moments in between)' 이후 약 2년 2개월 만이다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 민니, '오늘도 사랑스럽개' OST 가창자 합류…15일 '타이밍' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23191</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23180"/>
         <updated>2023-11-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 카드(KARD)가 화려한 사운드의 신곡으로 돌아온다.카드(비엠, 제이셉, 전소민, 전지우)가 가창에 참여한 '더하기 기억' 플레이 프로젝트의 여섯 번째 음원 'Fireworks (파이어웍스)'가 오는 14일 발매를 확정했다.'더하기 기억' 플레이 프로젝트는 '지나간 일상에 그리움을 더하고 새로움을 입힌다'는 슬로건 아래 좋은 음악들을 소개하고 있다.'Fireworks'는 우리 사랑의 시작을 마치 불꽃놀이 속 불꽃의 아름다움에 비유해 표현한 곡으로, 밤하늘 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임한별, 오늘(7일) 영화 '말하고 싶은 비밀' OST '영화 같은 사랑' 발매…애절 감성 극대화]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23179</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23179"/>
-        <updated>2023-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 임한별이 참여한 OST가 베일을 벗는다.임한별이 가창한 영화 '말하고 싶은 비밀(Our Secret Diary)'의 OST '영화 같은 사랑'이 7일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'영화 같은 사랑'은 마치 한 편의 영화 같았던 사랑이 끝난 뒤 지나간 추억들을 되돌아보는 모습을 영화가 끝난 후 여운이 진하게 남은 상영관에 혼자 남아있는 모습에 비유한 곡이다. 임한별의 탄탄한 가창력과 섬세한 감정 표현이 드라마틱한 편곡과 만나 듣는 이들의 추억을 불러일으킬 전망이다...]]></content>
     </entry>
 </feed>
