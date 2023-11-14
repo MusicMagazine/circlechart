@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-11-14T01:00:46.077Z</updated>
+    <updated>2023-11-14T01:57:11.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['오늘도 빛나는 너에게' 이라온, 레이벡스와 전속계약 체결! 가창력+음색 갖춘 싱송라]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202"/>
+        <updated>2023-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 이라온이 레이벡스와 동행한다.14일 소속사 레이벡스(ravex)는 "이라온과 최근 전속계약을 체결했다. 이라온이 더욱 안정적인 환경에서 자신의 음악을 마음껏 들려드릴 수 있도록 최선을 다해 서포트하겠다"라고 밝혔다.이와 함께 이라온의 공식 SNS 채널도 공개됐다. 그간 공식 팬카페를 통해 라오니엘(공식 팬덤명)과 소통해온 이라온은 데뷔 후 처음으로 SNS를 개설하며 한층 폭넓은 활동 반경을 예고하고 있다.공식 SNS를 통해 공개된 오피셜 포토 속 이라온은 훈훈하고 부드러운 이미지로 눈길을 사로잡고 있다. ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘16일 발매’ 따마(THAMA), 정규 2집 ‘WOOOF!’ 하이라이트 메들리 공개! R&B 소울의 진수]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23196</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22506"/>
         <updated>2023-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 최병찬이 뉴웨이컴퍼니와 전속계약을 체결하고 새 출발에 나선다.&nbsp;15일 뉴웨이컴퍼니는 “최근 최병찬과 전속계약을 맺었다.”라며 “최병찬이 가진 장점과 무한한 가능성을 마음껏 펼칠 수 있도록 지원을 아끼지 않겠다.”라고 전했다.&nbsp;&nbsp;최병찬은 2016년 보이그룹 빅톤으로 데뷔해 다양한 히트곡을 선보이며 많은 관심을 받았다. 그리고 독보적인 매력과 음색으로 두각을 드러냈다.특히 KBS2 '연모'와 SBS '사내맞선'에 출연하며 자신만의 연기색으로 존재감을 입증하며 큰 사랑을 받았다.&nbsp;이렇듯 뉴웨이컴..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯 2' 송민준, 비스타컴퍼니와 공동 전속계약 체결…진정한 트로트 가수로 재탄생 기대]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22392</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22392"/>
-        <updated>2023-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[딥블루엔터테인먼트 소속 가수인 송민준이 TV CHOSUN 자회사인 비스타컴퍼니와 공동 전속계약을 통해 새 출발에 나선다.&nbsp;&nbsp;18일 비스타컴퍼니(대표 안석준)는 "최근 TV CHOSUN '미스터트롯 2-새로운 전설의 시작'(이하 '미스터트롯 2')에 출연한 송민준과 공동 전속계약을 체결했다"라고 밝혔다.&nbsp;&nbsp;지난 2019년 싱글 앨범 '추억 속의 여자'로 데뷔한 송민준은 TV CHOSUN '미스터트롯 2'에 출연해 감동 있는 미성으로 눈도장을 찍었다. 따뜻한 목소리..]]></content>
     </entry>
 </feed>
