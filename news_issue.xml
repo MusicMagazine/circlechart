@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-11-15T23:14:24.920Z</updated>
+    <updated>2023-11-16T01:02:48.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘그날처럼’ 장덕철, 레이벡스와 전속계약 체결! 2년 만에 활동 재개 ‘기대’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23215</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23215"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[3인조 보컬그룹 장덕철이 레이벡스에 합류했다.16일 소속사 레이벡스(ravex)는 “장덕철(장중혁, 덕인, 임철)과 최근 전속계약을 체결했다. 장덕철이 다시 활발한 활동을 펼칠 수 있도록 적극적인 지원에 나서겠다”라고 밝혔다.장덕철은 장중혁, 덕인, 임철 등 탄탄한 가창력과 프로듀싱 능력을 겸비한 세 멤버로 이뤄진 실력파 보컬 그룹이다. 특히 2017년 발매한 발라드 곡 ‘그날처럼’으로 국내 최대 음원 사이트 멜론에서 2018년 연간차트 2위를 차지하며 메가 히트를 기록했다. 이 곡으로 ‘제8회 가온차트 뮤직 어워즈’ 올해의 파퓰러..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘도 빛나는 너에게' 이라온, 레이벡스와 전속계약 체결! 가창력+음색 갖춘 싱송라]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22595"/>
         <updated>2023-06-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 셀린(Celine)이 제나두엔터테인먼트와 손잡았다.&nbsp;&nbsp;7일 제나두엔터테인먼트는 "최근 셀린과 전속계약을 체결했다"라며 "셀린의 음악적 활동을 전폭적으로 지원할 것"이라고 밝혔다.&nbsp;2020년 싱글 '그렇게 될 텐데'로 데뷔해 '레몬밤', 'Starry Night' 등을 발매한 셀린은 SNS에서 높은 조회수를 이끌며 많은 관심을 받았다. 이밖에 '좀비탐정', '너의 밤이 되어줄게', '으라차차 내 인생', &amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 출신 최병찬, 뉴웨이컴퍼니와 전속계약...  김남희와 한솥밥 ...]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22506</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22506"/>
-        <updated>2023-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 최병찬이 뉴웨이컴퍼니와 전속계약을 체결하고 새 출발에 나선다.&nbsp;15일 뉴웨이컴퍼니는 “최근 최병찬과 전속계약을 맺었다.”라며 “최병찬이 가진 장점과 무한한 가능성을 마음껏 펼칠 수 있도록 지원을 아끼지 않겠다.”라고 전했다.&nbsp;&nbsp;최병찬은 2016년 보이그룹 빅톤으로 데뷔해 다양한 히트곡을 선보이며 많은 관심을 받았다. 그리고 독보적인 매력과 음색으로 두각을 드러냈다.특히 KBS2 '연모'와 SBS '사내맞선'에 출연하며 자신만의 연기색으로 존재감을 입증하며 큰 사랑을 받았다.&nbsp;이렇듯 뉴웨이컴..]]></content>
     </entry>
 </feed>
