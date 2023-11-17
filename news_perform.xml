@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-11-17T01:02:43.753Z</updated>
+    <updated>2023-11-17T02:27:30.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트, 오늘(17일)부터 단독 팬콘 '명탐정 하이라이트' 개최! 완전체 시너지 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23223</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23223"/>
+        <updated>2023-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 하이라이트(HIGHLIGH)가 1년 만에 단독 공연으로 팬들과 만난다.하이라이트(윤두준, 양요섭, 이기광, 손동운)는 오늘(17일)부터 사흘간 서울 성북구 고려대학교 화정체육관에서 2023 하이라이트 팬콘 '명탐정 하이라이트 - 네 개의 그림자와 하나의 빛'을 개최한다.'명탐정 하이라이트 - 네 개의 그림자와 하나의 빛'은 하이라이트가 올해 국내에서 처음 선보이는 완전체 단독 공연이다. 이에 예매 직후부터 전 회차 전석 매진을 기록하며 뜨거운 관심을 입증했다.지난해 10월 2022 하이라이트 팬콘 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김장훈, 연말 콘서트 ‘종합선물세트’ 서울 전역 전광판+버스 장식! 숲튽훈 타고 아이돌급 파급력 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23209</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23167"/>
         <updated>2023-11-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 게릴라 공연으로 컴백 활동의 포문을 열었다.VIVIZ(은하, 신비, 엄지)는 지난 2일 오후 서울 영등포구 여의도한강공원물빛무대에서 네 번째 미니앨범 ‘VERSUS (벌서스)’ 발매 기념 게릴라 공연을 성공적으로 개최했다.이날 데뷔곡 ‘BOP BOP! (밥 밥!)’ 무대로 공연의 포문을 상큼하게 연 VIVIZ는 “팬분들, 관객분들과 조금 더 가깝게 만나 인사하고 싶어서 깜짝 게릴라 공연을 준비했다”라고 밝혔다.이어 VIVIZ는 ‘LOVEADE (러브에이드)’, ‘Love Love Love (러브 러브 러브..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디어클라우드, 12월 연말 콘서트 'Merry Christmas & Farewell' 개최! 11월 2일 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23155</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23155"/>
-        <updated>2023-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 따뜻한 연말 축제로 팬들을 만난다.디어클라우드(나인, 이랑, 토근)는 오는 12월 15일부터 17일, 22일부터 25일까지 총 7일 간 연말 단독 콘서트 '23' Merry Christmas &amp; Farewell(23' 메리 크리스마스 &amp; 페워웰)'을 개최한다.'Merry Christmas &amp; Farewell'은 지난 2014년부터 개최된 디어클라우드의 브랜드 연말 콘서트로, 짙은 감성과 따뜻한 음악이 함께하는 라이브 공연으..]]></content>
     </entry>
 </feed>
