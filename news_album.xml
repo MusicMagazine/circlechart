@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-20T23:14:46.878Z</updated>
+    <updated>2023-11-21T01:03:23.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘피네이션 출신’ 지케이(GK), 새로운 출발 나선다! 28일 프리 데뷔 EP ‘G.Round’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23224</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23224"/>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 지케이(GK)가 오는 28일 프리 데뷔를 확정했다.&nbsp;지케이는 오는 28일 정오 각종 온라인 음원 사이트를 통해 프리 데뷔 EP ‘G.Round(G.라운드)’를 발매한다.&nbsp;지케이는 피네이션의 전속 아티스트 출신으로 랩, 보컬, 프로듀싱 등 능력을 보유한 올라운더 뮤지션이다. 뉴욕 티시 예술대학(NYU Tisch) 재학 중 배운 음악 경영을 특기로 피네이션 소속 당시 A&amp;R로도 활동하며 싸이의 9집 ‘싸다9’, 제시의 싱글앨범 ‘ZOOM(줌)’ 등에 참여했다. 현재는 제이제이뮤직그룹의 대표이자 소속 아티스트로 새로운 시작을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신예' 류민희, 18일 신곡 'D에게' 발매...'7인의 탈출' 속 이유비-정다은 주제곡]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23221</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23201"/>
         <updated>2023-11-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레전드 힙합 R&amp;B 그룹 업타운이 컴백일을 확정했다.14일 티캐스크이엔티는 "업타운이 오는 12월 1일 25주년 베스트 앨범을 발매한다"라고 밝혔다.업타운은 앞서 13년 만의 재결성 소식을 전하며 음악팬들을 설레게 했다. 이번 활동에는 원년 멤버이자 리더 정연준을 중심으로 새로운 멤버들이 합류할 것으로 전해져 더욱 기대를 모은다. 특히 윤미래, 제시를 잇는 업타운의 새로운 여성 보컬은 누가 될지 관심이 집중되고 있다.앞서 업타운은 윤미래와 정규 1집부터 정규 3집까지 활동하며 '다시 만나 줘', ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레전드 밴드' 넬, 오늘(13일) 새 앨범 'Dystopian's Eutopia' 발매...가을 감성 책임질 '역대급 고퀄리티' 명반 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23195</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23195"/>
-        <updated>2023-11-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['레전드 밴드' 넬(NELL, 김종완, 이재경, 이정훈)이 가을을 짙게 물들일 신보로 컴백한다.넬은 13일 오후 6시 각종 음원 사이트를 통해 새 EP 앨범 '디스토피안스 유토피아(Dystopian's Eutopia)'를 발매하고 팬들 곁으로 돌아온다.'디스토피안스 유토피아'는 넬만의 짙은 음악색을 아낌없이 담아낸 앨범으로, 피지컬 음반 발매는 지난 2021년 발매한 정규 9집 앨범 '모멘츠 인 비트윈(Moments in between)' 이후 약 2년 2개월 만이다...]]></content>
     </entry>
 </feed>
