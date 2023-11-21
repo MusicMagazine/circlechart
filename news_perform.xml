@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-11-21T01:03:23.845Z</updated>
+    <updated>2023-11-21T02:30:21.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 유럽 16개 도시 투어 대성황! 조기 매진+롤링스톤UK 별점 5개 '호평']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23226</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23226"/>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 아티스트 비아이(B.I)가 유럽 투어를 성료했다.비아이는 지난 9월과 10월 유럽 16개 도시에서 2023 B.I 1ST EUROPE TOUR 'LOVE OR DIE (러브 오어 다이)'를 성공적으로 마쳤다.'LOVE OR DIE'는 9월 19일 네덜란드 위트레흐트를 시작으로 21일 룩셈부르크 룩셈부르크, 23일 프랑스 파리, 25일 스페인 바르셀로나, 27일 스위스 취리히, 28일 이탈리아 밀라노, 30일 폴란드 바르샤바, 10월 3일 에스토니아 탈린, 5일 핀란드 헬싱키, 7일 스웨덴 스톡홀름..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트, 오늘(17일)부터 단독 팬콘 '명탐정 하이라이트' 개최! 완전체 시너지 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23223</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23171"/>
         <updated>2023-11-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 허성현(Huh)이 데뷔 4년 만의 첫 단독 콘서트를 성료했다.허성현은 지난 3일과 4일 양일간 서울 마포구 무신사 개러지에서 단독 콘서트 ‘hit the floor (힛 더 플로우)’를 개최했다.‘hit the floor’는 허성현이 데뷔 4년 만에 연 첫 단독 콘서트다. 허성현은 그간의 음악 활동을 집약한 셋 리스트로 팬들에게 풍성한 공연을 선물했다.허성현은 정규 1집 수록곡, 올해 2월 발매한 더블 싱글 타이틀곡 ‘Midnight law (미드나잇 로우) (Feat. Skinny Brown)’와 ‘HDYF (Feat. Ha..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ(비비지), 미니 4집 ‘VERSUS’ 발매 기념 게릴라 공연 성료! 타이틀곡 ‘MANIAC’ 무대 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23167</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23167"/>
-        <updated>2023-11-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 VIVIZ(비비지)가 게릴라 공연으로 컴백 활동의 포문을 열었다.VIVIZ(은하, 신비, 엄지)는 지난 2일 오후 서울 영등포구 여의도한강공원물빛무대에서 네 번째 미니앨범 ‘VERSUS (벌서스)’ 발매 기념 게릴라 공연을 성공적으로 개최했다.이날 데뷔곡 ‘BOP BOP! (밥 밥!)’ 무대로 공연의 포문을 상큼하게 연 VIVIZ는 “팬분들, 관객분들과 조금 더 가깝게 만나 인사하고 싶어서 깜짝 게릴라 공연을 준비했다”라고 밝혔다.이어 VIVIZ는 ‘LOVEADE (러브에이드)’, ‘Love Love Love (러브 러브 러브..]]></content>
     </entry>
 </feed>
