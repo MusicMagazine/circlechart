@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicMagazine.github.io/circlechart/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-22T07:13:59.903Z</updated>
+    <updated>2023-11-22T08:19:02.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[돌아온 겨울 시즌송 (Circle Chart ─ News ─ Opinion)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23234</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23234"/>
+        <updated>2023-11-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[음악차트에 겨울을 알리는&nbsp; Ariana Grande의 'Santa Tell Me'와 Mariah Carey의 'All I Want For Christmas Is You'가 45주차(11월둘째주) 디지털차트에 각각 160위와 193위에 재진입하며 역주행하기 시작했습니다. 예년 같은 시기에는 300위권대였으나, 올해는 이른 추위 탓인지 100위권 대에서 가파른 상승세를 보이고 있습니다.&nbsp;2022년 12월 400위권 겨울 시즌송 데이터를 분석해 보면, 4년 전인 2018년 12월에 비해 시즌송이 29곡 증가한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지컬 앨범  1억 장 돌파! - 10월 리뷰 (2023) (Circle Chart ─ News ─ Opinion)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23211</id>
@@ -66,13 +73,6 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22722"/>
         <updated>2023-07-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 6월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 15곡을 올려놓으며 (합산)점유율 5.4%로 1위에 올랐습니다.&nbsp;&nbsp;2023년 6월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 9.6% 감소, 전년 동기에 비해서 1.4% 감소했습니다.&nbsp;2023년 6월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 23% 증가, 전년 동기에 비해서 63.7% 증가했습니다.&nbsp;2023년 6월 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 Stray Kids (스트레이 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 음원 소비 현황 Feat. J-POP  흥행 지속될까? (Circle Chart ─ News ─ Opinion)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22685</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22685"/>
-        <updated>2023-06-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[지난 5월 디지털차트에서 imase의 'NIGHT DANCER'가 22위, aimyon의 'Ai Wo Tsutaetaidatoka'가 95위, YOASOBI의 'アイドル(아이돌)'이 104위를 차지하는 등 최근 J-POP이 국내 차트에서 인기를 끌고 있습니다.&nbsp;이번 카드 뉴스에서는 국내 차트에서 나타나고 있는 해외 음원 소비 현황에 대해 살펴보도록 하겠습니다.&nbsp;2023년 1월부터 5월까지 월별 해외 음원 써클지수400 (해외 음원 1위부터 400위까지 써클지수의 합)은 전년도에 비해 월평균..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 싱어송라이터 에일, 그레이 펀치넬로와 함께한 첫 한국어 싱글 '치트라이프(CHEAT LIFE)' 오늘 전격 발매 (Circle Chart ─ News ─ Album)]]></title>
