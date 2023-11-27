@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-27T01:02:55.750Z</updated>
+    <updated>2023-11-27T02:27:25.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR), 팬덤 탄생 1주년 기념 'HBD To You' 영어 버전 공개→한글 가사도 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23250</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23250"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 첫사랑(CSR)이 글로벌 팬덤을 위한 특별한 마음을 선물했다.첫사랑(수아, 금희, 시현, 서연, 유나, 두나, 예함)은 지난 26일 새 디지털 싱글 'HBD To You (Midnight ver.)'를 발매했다.'HBD To You (Midnight ver.)'는 모두에게 소중하고 특별한 생일날 달력 속 빨간 동그라미를 그리고 날짜를 세며 선물을 준비하는 작고 소중한 마음, 마음을 표현하는 당찬 용기, 봄처럼 싱그러운 열여덟 동갑내기 첫사랑의 풋풋한 설렘이 가득 담긴 곡이다.'HBD To ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별은(ByeolEun), '오늘도 사랑스럽개' OST 네 번째 주자 발탁…박규영 마음 담은 '상상' 가창]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23245</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23231"/>
         <updated>2023-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[멜로망스가 박규영, 차은우 사이에 설렘을 더한다.멜로망스가 참여한 MBC 드라마 '오늘도 사랑스럽개' OST Part. 3 '둘만의 비밀로'가 22일 오후 6시 발매된다.'둘만의 비밀로'는 사랑스러운 두 주인공 한해나(박규영 분)와 진서원(차은우 분)이 서로를 만나 느끼는 위안과 설렘의 순간을 노래하는 곡이다."숨기고 싶었던 비밀들조차 / 소중했던 추억으로 / 사랑할 수밖에 없는 모습으로 / 우린 만난 거죠" 등 섬세하게 풀어낸 가사와 아름다운 멜로디 라인, 부드러운 스트링 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펀치넬로, 두 번째 EP [묻다.(bury.)] 성공적 발매! “슬픔과 불안에 젖어있지 않겠다”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23230</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23230"/>
-        <updated>2023-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 펀치넬로 (punchnello)가 음악적 의지를 담은 EP로 돌아왔다.펀치넬로는 지난 21일 두 번째 EP [묻다.(bury.)]를 발매하고, 동명의 타이틀곡 ‘묻다.(bury.) (Feat. SOLE)’와 수록곡 ‘먹구름 (cloud)’의 뮤직비디오를 한 편에 공개했다.지난 2019년 발매한 [ordinary.(오디너리.)]에 희로애락을 담았던 펀치넬로는 이번 [묻다.(bury.)]에 이젠 묻어둘 수 있는 지난날의 감정들을 차곡차곡 채워 넣었다.펀치넬로는 앨범 소개글을 통해 “더는 슬픔과 불안에 젖어있지 않겠다”는 강한 ..]]></content>
     </entry>
 </feed>
