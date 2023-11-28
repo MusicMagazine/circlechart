@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-11-28T01:03:14.459Z</updated>
+    <updated>2023-11-28T02:28:37.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['스트레이 키즈 사촌그룹' 올아워즈, 베일 벗었다! 7인 멤버 합류로 K팝계 강렬 눈도장]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23252</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23252"/>
+        <updated>2023-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 그룹 올아워즈(ALL(H)OURS) 7인 멤버가 베일을 벗었다.28일 0시 올아워즈 공식 SNS 채널을 통해 멤버들의 첫 프로필 이미지가 공개됐다.흑백 사진 속 멤버들은 훈훈한 비주얼로 눈도장을 찍었다. 건호, 유민, 제이든, 민제, 마사미, 현빈, 온까지 각자의 매력이 빛나는 총 7명의 멤버가 모두 공개돼 글로벌 팬심을 설레게 했다.현재 멤버들의 얼굴과 활동명만이 공개돼 더욱 궁금증을 높이는 가운데, 올아워즈는 앞으로 다양한 프로모션 등을 통해 K-POP 팬들을 만날 예정이다.앞서 올아워즈는 그룹의 탄생을 알리는 로고 모션 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 46 CIRCLE CHART: Jung Kook, IVE, Stray Kids, and ENHYPEN Rule the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23251</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23228"/>
         <updated>2023-11-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레전드 힙합 R&amp;B 그룹 업타운의 마지막 멤버가 공개됐다.&nbsp;&nbsp;&nbsp;21일 티캐스크이엔티는 "가수 베이빌론(Babylon)이 업타운의 객원 멤버로 합류했다"고 밝혔다.&nbsp;&nbsp;2015년 싱글 앨범 'PRAY(프레이)'로 데뷔한 베이빌론은 감성 알앤비 장르의 곡을 선보이며 두각을 드러냈다. 이후 지코의 'Boys And Girls(보이즈 앤 걸스)' 피처링에 참여하며 대중에게 이름을 알렸고, 박재범, 이효리, 팔로알토, 더콰이엇 등과 협업하며 뮤지션들이 함께 작업하고 싶은 뮤지션으로 손꼽혔다.&nbsp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따마(THAMA), 정규 2집 타이틀곡 ‘Bump It Up’ M/V 추가 공개! 애니메이션에 담은 유니크한 소울]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23227</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23227"/>
-        <updated>2023-11-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤지션 따마(THAMA)가 ‘Bump It Up’ 뮤직비디오로 유니크한 소울을 선보였다.따마는 지난 20일 오후 소속사 아메바컬쳐 공식 유튜브 채널을 통해 두 번째 정규앨범 ‘WOOOF! (우프!)’의 더블 타이틀곡 중 ‘Bump It Up (범프 잇 업)’의 뮤직비디오를 공개했다.이번 뮤직비디오는 애니메이션 형식으로 제작되어 따마만의 유니크한 음악 세계와 독보적인 R&amp;B 소울 감성을 색다르게 보여줬다.영상 속 따마는 드럼, 베이스, 기타, 트럼펫, 키보드 연주자와 함께 밴드 공연을 펼치고 있다. 따마의 소울풀한 보이스가 리..]]></content>
     </entry>
 </feed>
