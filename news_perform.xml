@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-11-28T23:14:20.434Z</updated>
+    <updated>2023-11-29T01:03:03.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이라온, 첫 단독 팬미팅 1분 만에 전석 매진! 오늘(29일) ‘In Your Eyes’ 발매 기대감 고조]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23258</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23258"/>
+        <updated>2023-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 이라온이 첫 단독 팬미팅으로 티켓 파워를 보여줬다.이라온이 데뷔 8년 만에 개최하는 첫 단독 팬미팅 ‘In Your Eyes (인 유어 아이즈)’는 지난 27일 오후 7시 예스24 티켓을 통해 예매가 시작된 지 1분 만에 전석 매진을 기록했다. 또한, 당일 콘서트 예매 랭킹 1위를 차지했다.이를 통해 싱어송라이터로서 이라온의 막강한 티켓 파워와 팬덤 화력이 확인돼 눈길을 끈다. 실제로 이라온의 공식 팬카페에는 추가 회차 오픈을 요청하는 글이 쇄도하고 있다. 이라온은 팬들의 변함없는 사랑과 응원에 풍성한 공연으로 화답할 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각?신용재?임한별, 12월 25일 '허용별 콘서트 : 보컬 전쟁' 성남 개최…오늘(28일) 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23256</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23194"/>
         <updated>2023-11-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 다이아(DIA) 출신 백예빈이 첫 팬미팅을 연다.소속사 냠냠엔터테인먼트는 13일 "백예빈이 오는 12월 3일 오후 1시 서울 마포구에 위치한 H-STAGE에서 첫 번째 팬미팅 'Hello 100(헬로우 100)'을 개최한다"고 밝혔다.'Hello 100'은 다이아(DIA) 출신 백예빈이 솔로 가수로 전향한 뒤 처음으로 진행하는 팬미팅이다.&nbsp;특히 앞서 오픈된 얼리버드 선예매는 준비한 티켓이 완판되며 팬들의 뜨거운 관심을 증명했다. 백예빈은 다채로운 무대와 코너를 통해 팬들과 보다 가까이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군백기 마친 에이스(A.C.E), 단독 팬콘 'OVERTURN' 성료! 케이팝 복귀 완료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23193</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23193"/>
-        <updated>2023-11-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 K-POP 팬들 곁에 돌아왔다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 11일 서울 예스24 라이브홀에서 온·오프라인 단독 팬 콘서트 'OVERTURN'(오버턴)을 성공적으로 개최했다.'OVERTURN'은 에이스 멤버 박준희, 이동훈, 와우, 김병관이 군 복무를 마치고 2년 만에 선보인 단체 공연이다. 현재 성실하게 군 복무 중인 막내 강유찬의 응원과 함께 에이스는 더욱 성장한 보컬과 퍼포먼스 및 강렬한 에너지로 'OVERTURN'을 꽉 채웠다. ..]]></content>
     </entry>
 </feed>
