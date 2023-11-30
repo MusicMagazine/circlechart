@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-11-29T23:14:23.900Z</updated>
+    <updated>2023-11-30T01:02:25.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이라온, 3년 만에 신곡 ‘In Your Eyes’로 컴백! 팬 사랑 담은 로맨틱 발라드]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23264</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23264"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 이라온이 팬 사랑을 담은 ‘In Your Eyes’로 컴백했다.이라온은 지난 29일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘In Your Eyes (인 유어 아이즈)’를 발매했다.‘In Your Eyes’는 로맨틱하면서도 서정적인 멜로디와 무드가 돋보이는 발라드곡이다. 아름다운 피아노 선율에 이라온의 특장점인 맑은 보컬과 섬세한 감정 표현이 어우러져 겨울과 어울리는 포근한 귀 호강을 선사한다.특히 이라온은 직접 쓴 가사를 통해 공백기 동안 자신을 기다려준 팬들을 향한 고마움을 전하며, 많은 이들에게 깊은 울림..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대한민국 대표 보컬리스트' 김범수, 12월 4일 신곡 '꿈일까' 발매…내년 정규앨범 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23261</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23245"/>
         <updated>2023-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 별은(ByeolEun)이 '오늘도 사랑스럽개' OST 네 번째 가창자로 낙점됐다.별은이 가창한 MBC 드라마 '오늘도 사랑스럽개' OST Part. 4 '상상'이 오는 29일 정오 발매된다.'상상'은 진서원(차은우 분)에게 점점 빠져드는 한해나(박규영 분)의 풋풋한 감정을 노래한 곡이다. 기억 속에 남아 있는 포근하고 따스했던 예쁜 순간과 감정들을 담아냈다.수많은 아티스트의 커버 영상을 선보이며 인기를 모은 유튜버 스타 별은은 지난 2020년 첫 데뷔 싱글 '꼭&amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 나상도, 오늘(24일) 감성 트로트 신곡 '어무니' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23244</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23244"/>
-        <updated>2023-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 나상도가 애절한 감성 트로트를 선보인다.&nbsp;&nbsp;나상도는 24일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 '어무니'를 발매한다.&nbsp;&nbsp;'어무니'는 고향을 떠나 도시로 상경한 자식이 엄마를 그리워하는 곡으로, 성공해서 돌아가는 그날까지 아프지 말고 오래오래 사시라는 자식의 마음을 담고 있다.&nbsp;2004년 가수의 꿈을 이루기 위해 서울로 상경한 나상도는 2017년 싱글 '벌떡 일어나'를 발매하며 가수로 데뷔했다. 이후 TV CHOSUN '미스터트롯 2-새로운 전설의 시작&amp;#..]]></content>
     </entry>
 </feed>
