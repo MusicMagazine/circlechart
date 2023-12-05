@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-05T01:03:19.052Z</updated>
+    <updated>2023-12-05T02:28:56.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[루네이트 첫 유닛 루네이브, ‘여기 붙어라’ 지상파 음방 활동 성료…챌린지까지 핫한 화제성 증명]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23280</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23280"/>
+        <updated>2023-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)의 첫 유닛 루네이브(LUN8wave)가 지상파 음악 방송 활동을 성료했다.루네이브(타쿠마, 준우, 도현, 지은호, 은섭)는 지난달 22일 디지털 싱글 ‘여기 붙어라 (Playground)’를 발매하고, 2주간 KBS 2TV ‘뮤직뱅크’, MBC ‘쇼! 음악중심’, SBS ‘인기가요’ 등 지상파 음악 방송 프로그램에 출연하며 활발한 유닛 활동을 펼쳤다.음악 방송 무대를 통해 루네이브는 하이클래스 실력은 물론 유닛만의 색깔 있는 케미스트리를 입증했다. 멤버들은 청량한 사운드에 맞춰 절도 넘치면서..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MAVE: (메이브), 美 뉴욕 타임스퀘어 등판! 글로벌 프리미엄 존재감]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23272</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23238"/>
         <updated>2023-11-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 포레스텔라(Forestella)가 3인 체제로 끝없는 행보를 이어간다.포레스텔라는 오는 30일 서울 여의도 KBS홀에서 진행되는 KBS 2TV 음악 경연 예능 프로그램 '불후의 명곡' 김수철과 친구들 특집에 참여하며 3인 체제로 활발한 활동을 시작한다.소속사 비트인터렉티브는 이와 관련 "고우림의 입대 이후에도 포레스텔라는 3인 체제로 다양한 음악과 공연 활동을 이어갈 예정이다. 2025년 고우림의 전역 후 다시 만날 완전체 포레스텔라가 한층 성장한 모습이 되어있길 기대한다. 이를 위해 네 멤버 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['강남 제작' 원팩트, 태그 프로듀싱 데뷔곡 '좋겠다' M/V 티저 공개…남다른 임팩트]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23236</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23236"/>
-        <updated>2023-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 원팩트(ONE PACT)가 임팩트 있는 데뷔곡을 예고했다.소속사 아르마다이엔티(이하 아르마다)는 23일 0시 공식 SNS를 통해 원팩트 첫 번째 미니 앨범 'Moment(모멘트)'의 타이틀곡 '좋겠다' 뮤직비디오 티저 영상을 공개했다.영상 시작과 동시에 아무것도 보이지 않는 어둠이 긴장감을 조성한다. 이후 정체를 알 수 없는 누군가가 미술품에 석유를 붓고, 삽시간에 번져나간 불길이 화면을 가득 채운다. 불이 지나간 자리로는 원팩트의 데뷔일 '11.30'부터 앨범명 'Moment..]]></content>
     </entry>
 </feed>
