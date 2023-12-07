@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-12-07T01:02:53.256Z</updated>
+    <updated>2023-12-07T02:28:10.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘감성치트키’ 별은, 단독 콘서트 ‘별BYEOL, HOLYDAY’ 개최…특별한 크리스마스 이브 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23290</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23290"/>
+        <updated>2023-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 별은(ByeolEun)이 단독 콘서트를 열고 팬들을 만난다.&nbsp;별은은 오는 24일 오후 6시 서울 강남구 SAC아트홀에서 2023 별은 단독 콘서트 ‘별BYEOL, HOLYDAY’를 개최한다.&nbsp;‘별BYEOL, HOLYDAY’는 별은의 크리스마스 단독 콘서트다. 별은은 크리스마스 분위기가 물씬 나는 세트리스트는 물론 특유의 밝은 에너지와 청아한 목소리를 담아낸 다양한 무대를 선보이며 관객들의 시간을 특별하게 채울 전망이다.&nbsp;특히 최근 공개된 콘서트 포스터에는 크리스마스가 연상되는 색감의 배경과 빈티지한 감성이 어우러져 눈길을 끌고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무진, 신곡 ‘에피소드’ 스토리보드 공개! 전국투어서 무대 선공개 ‘기대 UP’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23279</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23249"/>
         <updated>2023-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[다이나믹 듀오가 4년 만의 단독 콘서트를 성황리에 마쳤다.다이나믹 듀오(개코, 최자)는 지난 24일부터 26일까지 사흘간 총 4회에 걸쳐 서울 용산구 블루스퀘어 마스터카드홀에서 단독 콘서트 ‘가끔씩 오래 보자’를 개최했다.‘가끔씩 오래 보자’는 다이나믹 듀오가 4년 만에 선보인 단독 콘서트다. 앞서 3회 공연이 전석 매진되어 1회 공연 추가 개최를 결정했고, 이 역시 30초 만에 매진을 기록하며 뜨거운 관심을 받았다. 다이나믹 듀오는 20년 넘게 음악 활동을 함께해온 단단한 팀워크와 내공이 담긴 웰메이드 라이브 공연으로 팬들의 성원..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘12월 컴백’ 이무진, 新 전국투어 ‘별책부록’ 대구 첫공 성료! 신곡 ‘에피소드’ 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23248</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23248"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이무진이 전국투어 첫 공연을 성료했다.이무진은 지난 25일 대구 영남대학교 천마아트센터 그랜드홀에서 2023-2024 이무진 전국투어 콘서트 ‘별책부록’의 첫 공연을 성황리에 마쳤다.‘별책부록’은 이무진이 2년 연속 개최하는 단독 전국투어로, 대구에서 막을 올렸다. 새로운 시즌의 공연으로 돌아온 이무진은 다채로워진 선곡과 진정성이 깃든 무대로 관객들에게 즐거운 추억을 선물했다.이날 이무진은 미니 1집 타이틀곡 ‘참고사항’을 포함한 수록곡 전곡과 대표 히트곡 ‘신호등’, ‘과제곡’, ‘눈이 오잖아’까지 망라한 무대로 풍성한 귀 ..]]></content>
     </entry>
 </feed>
