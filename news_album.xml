@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-12-06T23:14:35.759Z</updated>
+    <updated>2023-12-07T01:02:53.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프로듀서 그룹 015B(공일오비), ‘잠시 길을 잃다’ 셀프 리메이크 2023년 버전 발표]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23288</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23288"/>
+        <updated>2023-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로듀서 그룹 015B(공일오비)의 명곡 ‘잠시 길을 잃다’가 2023년 버전으로 셀프 리메이크 된다.이번 작업은 015B의 셀프 리메이크 프로젝트 ‘The Legacy (더 레거시)’ 시리즈의 일환이다. 이 시리즈로 발표된 곡으로는 015B의 데뷔곡 ‘텅 빈 거리에서’ 리메이크, ‘1월부터 6월까지’의 여자 버전 ‘6월부터 1월까지’ 등이 있다.‘잠시 길을 잃다’는 2006년 발표한 015B의 7집 앨범 ‘Lucky 7’의 수록곡이다. 이 노래는 앨범 타이틀은 아니지만 오랜 시간 동안 사랑받고 있는 015B의 명곡 중 하나이다. ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대성, '어쩌다 사장3' OST 참여…7일 '나성에 가면' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23285</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23274"/>
         <updated>2023-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 ADORA(아도라)가 딩고와 두 번째 신곡을 발매한다.딩고는 4일 정오 각종 음원 사이트를 통해 ADORA(아도라)의 신곡 '환상'을 공개한다.'환상'은 ADORA(아도라)가 지난 10월 발매한 '그대를 사랑하는 10가지 이유' 리메이크곡에 이어 딩고 뮤직, 로코베리와 함께하는 두 번째 음원이다. 헤어진 연인에 대한 미련과 그리움을 그린 알앤비 소울 장르로, 중독성 있는 멜로디와 ADORA(아도라)만의 청아하면서도 몽환적인 음색이 곡의 분위기를 극대화한다.ADORA(아도라)는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대한민국 대표 보컬리스트' 김범수, 오늘(4일) 신곡 '꿈일까' 발매…'믿듣' 겨울 발라드 온다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23273</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23273"/>
-        <updated>2023-12-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김범수의 신곡이 베일을 벗는다.김범수가 4일 오후 6시 각종 온라인 음원사이트를 통해 메이크 트웬티(MAKE20) 프로젝트 열두 번째 음원 '꿈일까'를 발매한다.메이크 트웬티(MAKE20)는 김범수의 장기 음원 프로젝트다. 자신의 곡을 리메이크하는 re.MAKE(리메이크), 신곡을 발매하는 new.MAKE(뉴메이크)', 다른 가수와 헙업하는 we.MAKE(위메이크) 등 3개의 키워드로 음원을 내는 방식이다.'꿈일까'는 메이크 트웬티(MAKE20)의 키워드 중 하나인 we.MAKE(위메이크) ..]]></content>
     </entry>
 </feed>
