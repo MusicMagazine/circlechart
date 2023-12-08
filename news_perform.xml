@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-12-08T01:03:25.334Z</updated>
+    <updated>2023-12-08T02:28:30.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['보컬 교과서' 임한별, 한국전쟁 종전 70주년 기념 공연 초청…9일 튀르키예 찾는다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23293</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23293"/>
+        <updated>2023-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임한별이 뜻깊은 시간을 선사한다.임한별은 오는 9일(현지 시각) 튀르키예 공화국 앙카라 MTA 사드레틴 알판 컨퍼런스 홀에서 개최되는 'K-시리즈 뮤지컬 콘서트'에 참석한다.'K-시리즈 뮤지컬 콘서트'는 튀르키예 공화국 건국 100주년 및 한국전쟁 종전 70주년을 기념해 마련된 공연이다. 문화와 예술을 통한 소통과 공감을 기반으로 양국의 교류와 연대를 강화할 수 있는 자리로, 현지인 참전 용사와 가족들도 참석한다.임한별은 이번 행사에 공식 초청되어 한국 대표 아티스트로 자리를 빛낸다. 국보급 보이스..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘감성치트키’ 별은, 단독 콘서트 ‘별BYEOL, HOLYDAY’ 개최…특별한 크리스마스 이브 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23290</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23256"/>
         <updated>2023-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 허용별(허각, 신용재, 임한별)이 특별한 크리스마스를 선사한다.오는 12월 25일 개최되는 성남 지역 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"(이하 '허용별 콘서트')' 티켓이 온라인 예매처 인터파크티켓과 티켓링크를 통해 28일 오후 4시에 오픈된다.티켓 공지에 따르면 허용별은 오는 12월 25일 오후 4시 경기 성남아트센터 오페라하우스를 찾아 관객들과 함께 크리스마스를 보낸다.지난 9월 서울에서 첫 공연을 시작한 '허용별 콘서트'는 오직 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이나믹 듀오, 단독 콘서트 ‘가끔씩 오래 보자’ 성료! 싸이·에픽하이·성시경→크러쉬 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23249</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23249"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이나믹 듀오가 4년 만의 단독 콘서트를 성황리에 마쳤다.다이나믹 듀오(개코, 최자)는 지난 24일부터 26일까지 사흘간 총 4회에 걸쳐 서울 용산구 블루스퀘어 마스터카드홀에서 단독 콘서트 ‘가끔씩 오래 보자’를 개최했다.‘가끔씩 오래 보자’는 다이나믹 듀오가 4년 만에 선보인 단독 콘서트다. 앞서 3회 공연이 전석 매진되어 1회 공연 추가 개최를 결정했고, 이 역시 30초 만에 매진을 기록하며 뜨거운 관심을 받았다. 다이나믹 듀오는 20년 넘게 음악 활동을 함께해온 단단한 팀워크와 내공이 담긴 웰메이드 라이브 공연으로 팬들의 성원..]]></content>
     </entry>
 </feed>
