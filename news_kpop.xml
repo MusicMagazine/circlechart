@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-11T01:03:49.345Z</updated>
+    <updated>2023-12-11T02:28:40.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['19일 컴백' 용준형, 신곡 'Fall Into Blue' 첫 티저 이미지 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23298</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23298"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 용준형이 겨울 남자로 변신한다.용준형은 11일 0시 소속사 블랙 메이드 공식 SNS를 통해 새 디지털 싱글 'Fall Into Blue (폴 인투 블루)'의 티저 이미지를 공개했다.티저 속 용준형은 커밍순 포스터를 장식한 아늑한 방 안에서 파란색 벨벳 소재의 재킷을 입고 있다. 정면을 응시하거나 눈을 감고 있는 모습, 살짝 미소를 지은 표정 등 모든 컷마다 스토리를 녹여내는 용준형의 표현력이 눈길을 사로잡는다. 이는 'Fall Into Blue'의 메시지를 더욱 궁금하게 만든다.'Fall I..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids '樂-STAR' Tops November Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23291</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23252"/>
         <updated>2023-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신인 그룹 올아워즈(ALL(H)OURS) 7인 멤버가 베일을 벗었다.28일 0시 올아워즈 공식 SNS 채널을 통해 멤버들의 첫 프로필 이미지가 공개됐다.흑백 사진 속 멤버들은 훈훈한 비주얼로 눈도장을 찍었다. 건호, 유민, 제이든, 민제, 마사미, 현빈, 온까지 각자의 매력이 빛나는 총 7명의 멤버가 모두 공개돼 글로벌 팬심을 설레게 했다.현재 멤버들의 얼굴과 활동명만이 공개돼 더욱 궁금증을 높이는 가운데, 올아워즈는 앞으로 다양한 프로모션 등을 통해 K-POP 팬들을 만날 예정이다.앞서 올아워즈는 그룹의 탄생을 알리는 로고 모션 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 46 CIRCLE CHART: Jung Kook, IVE, Stray Kids, and ENHYPEN Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23251</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23251"/>
-        <updated>2023-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 46 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, IVE, Stray Kids, and ENHYPEN.KMCA, publisher of CIRCLE CHART, announced that “As of week 46 (2023.11.12.~2023.11.18.), Jung Kook, IVE, and Stray Kids each topped 2 charts side by side while ENHYPEN rose to No. 1 in the A..]]></content>
     </entry>
 </feed>
