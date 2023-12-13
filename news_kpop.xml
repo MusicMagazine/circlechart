@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-13T01:03:15.372Z</updated>
+    <updated>2023-12-13T02:28:16.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[버추얼 아이돌 플레이브, 위버스 커뮤니티 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23313</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23313"/>
+        <updated>2023-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2023년 12월 13일 글로벌 팬 커뮤니티 플랫폼 ‘위버스(Weverse)’가 12월 18일 블래스트 소속 버추얼 신인그룹 PLAVE(플레이브)의 커뮤니티를 오픈한다.플레이브는 예준, 노아, 밤비, 은호, 하민의 5인으로 구성된 버추얼 보이그룹이다. 올해 3월 첫 싱글 앨범 ‘Asterum’을 발표하며 데뷔했다. 8월에 발매한 첫번째 미니앨범은 초동판매 20만장을 돌파하며 케이팝 관계자들을 놀라게 했다.BTS, 블랙핑크, 뉴진스 등 최고 인기 아티스트이 입점해 있는 글로벌 플랫폼 위버스에 버추얼 아이돌이 커뮤니티를 오픈하는 것은 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['19일 컴백' 용준형, 신곡 'Fall Into Blue' 첫 티저 이미지 공개!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23298</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23265"/>
         <updated>2023-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레전드 힙합 R&amp;B 그룹 업타운이 신보 하이라이트 메들리를 공개했다.&nbsp;&nbsp;업타운은 지난 28일 공식 SNS를 통해 25주년 베스트 앨범 'Back II Analog(백 투 아날로그)'의 하이라이트 메들리 영상을 게재했다.&nbsp;&nbsp;공개된 영상에는 타이틀곡 'Back ll Analog (Feat' Babylon &amp; Lauren Evans)'를 비롯해 'My Style(마이 스타일)', '다시 만나줘', 'Friday Night(프라이데이 나잇)', &amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스트레이 키즈 사촌그룹' 올아워즈, 베일 벗었다! 7인 멤버 합류로 K팝계 강렬 눈도장]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23252</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23252"/>
-        <updated>2023-11-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 그룹 올아워즈(ALL(H)OURS) 7인 멤버가 베일을 벗었다.28일 0시 올아워즈 공식 SNS 채널을 통해 멤버들의 첫 프로필 이미지가 공개됐다.흑백 사진 속 멤버들은 훈훈한 비주얼로 눈도장을 찍었다. 건호, 유민, 제이든, 민제, 마사미, 현빈, 온까지 각자의 매력이 빛나는 총 7명의 멤버가 모두 공개돼 글로벌 팬심을 설레게 했다.현재 멤버들의 얼굴과 활동명만이 공개돼 더욱 궁금증을 높이는 가운데, 올아워즈는 앞으로 다양한 프로모션 등을 통해 K-POP 팬들을 만날 예정이다.앞서 올아워즈는 그룹의 탄생을 알리는 로고 모션 ..]]></content>
     </entry>
 </feed>
