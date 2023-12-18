@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-12-17T23:14:30.184Z</updated>
+    <updated>2023-12-18T01:04:04.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 오늘(18일) 신곡 'Christmas Love' 깜짝 발매! 2년 만 크리스마스 기념]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23316</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23316"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 첫 캐럴로 로맨틱한 감성을 전한다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 오늘(18일) 각종 온라인 음원 사이트를 통해 새 디지털 싱글 'Christmas Love'(크리스마스 러브)를 발매한다.올해 와우, 이동훈, 박준희, 김병관이 차례로 군 복무를 마친 에이스는 막내 강유찬의 전역을 기다리며 활발한 음악 활동을 이어가고 있다. 지난달 신곡 'Effortless'(에포트리스)와 'Angel'(엔젤)을 각각 한국어·영어 버전으로 발매하고, 2년 만의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, '사운드트랙#2' OST '그때 우리로 돌아갈 수 있을까요' 가창…청아한 음색으로 아련 감성 ↑]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23312</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23302"/>
         <updated>2023-12-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[모던록밴드 디어클라우드(Dear Cloud)가 아련한 이별 감성으로 돌아온다.디어클라우드는 12일 정오 각종 온라인 음원사이트를 통해 새 싱글 '그대여 안녕'을 발매한다.'그대여 안녕'은 디어클라우드가 올해 마지막으로 발표하는 곡으로, 연인에게 이별을 말하고 혼자 남겨두고 떠나는 한 사람의 마음을 담았다. 디어클라우드만의 음악적 색깔이 돋보이며 일상적인 언어로 전하는 디테일한 가사가 특징이다.특히 리스너들의 감성을 적시는 감미로운 사운드와 디어클라우드의 호소력 짙은 목소리가 상대방의 아픔을 알면서도 밀어..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉구(길구봉구)X신예영, 오늘(11일) 신곡 ‘어느 날, 언젠가’ 발매…고품격 겨울 발라드 탄생]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23300</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23300"/>
-        <updated>2023-12-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 봉구(길구봉구)와 신예영이 깊고 애절한 감성으로 돌아온다.&nbsp;봉구, 신예영이 가창에 참여한 ‘더하기 기억’ 프로젝트의 신곡 ‘어느 날, 언젠가’가 11일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.&nbsp;신곡 ‘어느 날, 언젠가’는 웅장한 오케스트라 사운드가 가미된 듀엣 발라드 곡이다. 봉구와 신예영의 부드럽고 호소력 짙은 보이스, 귀를 사로잡는 최고의 하모니가 어우러져 올겨울 감동을 줄 수 있는 명품 발라드 탄생을 예고한다.&nbsp;특히 “가끔 지치고 힘들 때면 / 내게 편히 말해 주세요 / 자그만 쉼이라도 돼 줄게요 / 그대 혼..]]></content>
     </entry>
 </feed>

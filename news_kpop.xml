@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-17T23:14:30.187Z</updated>
+    <updated>2023-12-18T01:04:04.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['20일 발매' 허각·신용재·임한별, 새 싱글 '그 겨울엔 네가 있어' M/V 티저 공개…'명품 하모니' 기대]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23317</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23317"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 허용별이 감미로운 하모니로 웰메이드 음악을 예고했다.허용별(허각, 신용재, 임한별)은 지난 17일 플렉스엠 공식 SNS를 통해 허용별 프로젝트 두 번째 앨범 신곡 '그 겨울엔 네가 있어'의 뮤직비디오 티저 영상을 공개했다.공개된 영상에는 허각과 신용재, 임한별이 눈 내리는 스튜디오를 배경으로 '그 겨울엔 네가 있어'를 한 소절씩 열창하는 모습이 담겨있다. 추운 겨울과 대비되는 포근함이 느껴지는 세 사람의 부드러운 목소리는 단숨에 리스너들의 귀를 사로잡으며 완곡에 대한 기대감을 높였다.특히 흘러나오는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버추얼 아이돌 플레이브, 위버스 커뮤니티 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23313</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23266"/>
         <updated>2023-11-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 47 CIRCLE CHART, the weekly Retail Album Chart was topped by ENHYPEN 'ORANGE BLOOD', which sold a total of 281,906 copies at retailers.Released on November 17th, 'ORANGE BLOOD' was the top seller as of 5PM (KST) on November 22nd (Wednesday, week 47).'ORANGE BLOOD'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-1' 업타운, 신보 'Back II Analog' 하이라이트 메들리 공개… 多 히트곡 수록]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23265</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23265"/>
-        <updated>2023-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레전드 힙합 R&amp;B 그룹 업타운이 신보 하이라이트 메들리를 공개했다.&nbsp;&nbsp;업타운은 지난 28일 공식 SNS를 통해 25주년 베스트 앨범 'Back II Analog(백 투 아날로그)'의 하이라이트 메들리 영상을 게재했다.&nbsp;&nbsp;공개된 영상에는 타이틀곡 'Back ll Analog (Feat' Babylon &amp; Lauren Evans)'를 비롯해 'My Style(마이 스타일)', '다시 만나줘', 'Friday Night(프라이데이 나잇)', &amp;..]]></content>
     </entry>
 </feed>
