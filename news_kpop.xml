@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-18T02:28:30.673Z</updated>
+    <updated>2023-12-18T03:15:42.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 47 CIRCLE CHART: Jung Kook, LE SSERAFIM, and THE BOYZ All Top 2 Charts Each]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23320</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23320"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 47 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, LE SSERAFIM, and THE BOYZ.KMCA, publisher of CIRCLE CHART, announced that “As of week 47 (2023.11.19.~2023.11.25.), Jung Kook, LE SSERAFIM, and THE BOYZ each topped 2 charts side by side."Jung Kook topped the Global ..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November CIRCLE CHART: Jung Kook, IVE, and Stray Kids All Top 2 Charts Each!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23319</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23319"/>
+        <updated>2023-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Jung Kook, IVE, and Stray Kids dominated the November CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for November 2023, Jung Kook, IVE, and Stray Kids all topped 2 charts side by side.”Jung Kook dominated the Global K-pop Chart and Social Chart 2.0, wit..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['20일 발매' 허각·신용재·임한별, 새 싱글 '그 겨울엔 네가 있어' M/V 티저 공개…'명품 하모니' 기대]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23317</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23280"/>
         <updated>2023-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)의 첫 유닛 루네이브(LUN8wave)가 지상파 음악 방송 활동을 성료했다.루네이브(타쿠마, 준우, 도현, 지은호, 은섭)는 지난달 22일 디지털 싱글 ‘여기 붙어라 (Playground)’를 발매하고, 2주간 KBS 2TV ‘뮤직뱅크’, MBC ‘쇼! 음악중심’, SBS ‘인기가요’ 등 지상파 음악 방송 프로그램에 출연하며 활발한 유닛 활동을 펼쳤다.음악 방송 무대를 통해 루네이브는 하이클래스 실력은 물론 유닛만의 색깔 있는 케미스트리를 입증했다. 멤버들은 청량한 사운드에 맞춰 절도 넘치면서..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAVE: (메이브), 美 뉴욕 타임스퀘어 등판! 글로벌 프리미엄 존재감]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23272</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23272"/>
-        <updated>2023-12-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[5세대 프리미엄 걸그룹 MAVE: (메이브)가 뉴욕 타임스퀘어에 떴다.MAVE: (메이브, 시우·제나·타이라·마티)는 첫 번째 EP 앨범 'What's My Name'(왓츠 마이 네임) 발매 당일인 지난달 30일 미국 뉴욕에 위치한 타임스퀘어 전광판을 장식했다.소속사 메타버스엔터테인먼트는 이달 3일 오후 MAVE: (메이브)가 등장한 뉴욕 타임스퀘어 전광판 이미지를 공개했다. MAVE: (메이브)의 이번 앨범 키 컬러 중 하나인 노란색 배경이 시선을 사로잡고, 웰메이드 퀄리티의 뮤직비디오가 뉴욕 시민들의 발걸음..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 47 CIRCLE CHART: ENHYPEN 'ORANGE BLOOD' Tops Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23266</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23266"/>
-        <updated>2023-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 47 CIRCLE CHART, the weekly Retail Album Chart was topped by ENHYPEN 'ORANGE BLOOD', which sold a total of 281,906 copies at retailers.Released on November 17th, 'ORANGE BLOOD' was the top seller as of 5PM (KST) on November 22nd (Wednesday, week 47).'ORANGE BLOOD'..]]></content>
     </entry>
 </feed>
