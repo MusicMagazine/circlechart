@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-12-22T01:58:24.561Z</updated>
+    <updated>2023-12-22T02:27:35.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각,신용재,임한별 '허용별 콘서트 : 보컬 전쟁', 대구·성남·부산 '전석 매진'→고양서 열기 잇는다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23336</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23336"/>
+        <updated>2023-12-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 허용별(허각, 신용재, 임한별)이 더 많은 팬들과 만난다.12월에 진행되는 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"' 대구, 성남, 부산 공연이 전석 매진을 기록한 가운데, 허용별이 내년 1월 20일 고양아람누리 아람극장에서 고양 공연을 추가 개최한다.'허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'는 방송 프로그램과 유튜브 콘텐츠에 동반 출연하는 등 남다른 친분을 쌓아온 허각과 신용재, 임한별이 지속적인 음악적 교류..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에픽하이, 20주년 콘서트 성공적 마무리! 다이나믹 듀오?하동균?싸이?넬?성시경?윤하 게스트 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23318</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23270"/>
         <updated>2023-12-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 허용별(허각, 신용재, 임한별)이 2024년에도 고품격 공연으로 리스너들을 만난다.내년 1월 27일, 2월 3일 각각 광주 및 대전 지역에서 개최되는 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"(이하 '허용별 콘서트')' 티켓이 1일 온라인 예매처를 통해 오픈된다. 광주 지역 티켓은 인터파크티켓과 티켓링크를 통해 1일 오후 2시, 대전 지역 티켓은 티켓링크를 통해 같은 날 오후 4시에 단독으로 오픈된다.티켓 공지에 따르면 허용별은 내년 1월 27일과 2월 3..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 더로즈, 17개 도시 북미투어 성료→'DAWN TO DUSK WORLD TOUR' 아시아·유럽 투어 일정 공개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23268</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23268"/>
-        <updated>2023-12-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 아시아와 유럽에서 글로벌 팬들과 만남을 이어간다.더로즈(김우성, 박도준, 이재형, 이하준)는 지난달 29일 공식 SNS를 통해 'DAWN TO DUSK WORLD TOUR(던 투 더스크 월드 투어)'의 포스터 이미지와 아시아 및 유럽 투어 일정을 공개했다.공개된 이미지에 따르면 더로즈는 'Lollapalooza India(롤라팔루자 인도)'를 비롯해 아시아와 유럽 19개 도시에서 월드투어를 진행한다.더로즈는 내년 1월 18일 자카르타를 시작으로 마닐라, 서울에서 아시아 투..]]></content>
     </entry>
 </feed>
