@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2023-12-27T01:00:09.552Z</updated>
+    <updated>2023-12-27T01:56:47.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['29일 개최' AOMG 뮤직 플레이 파티 'AOMIX FEST #5', DJ 라인업 전체 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23348</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23348"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[AOMG의 뮤직 플레이 파티 'AOMIX FEST #5'에 실력 있는 DJ들이 함께한다.글로벌 힙합 레이블 AOMG는 지난 26일 공식 SNS를 통해 'AOMIX FEST #5'에 참여하는 DJ들의 라인업과 출연 순서를 담은 타임테이블 이미지를 공개했다.오는 29일 열리는 'AOMIX FEST #5'에는 Ugly Duck(어글리덕), Yunu(유누), L-like(엘라이크), Spray(스프레이), DJ co.kr(디제이 코커), DJ Wegun(디제이 웨건), Hookuo(후쿠오)가 참여..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이무진, ‘별책부록’ 서울 콘서트 성료! 크리스마스 이브 물들인 ‘에피소드’ 무대+생일 이벤트]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23340</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23279"/>
         <updated>2023-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 이무진이 ‘에필로그’의 영화 같은 스토리텔링을 예고했다.이무진은 지난 4일 오후 소속사 빅플래닛메이드엔터 공식 SNS를 통해 다섯 번째 디지털 싱글 ‘에피소드’의 스토리보드 이미지를 공개했다.스토리보드는 이번 ‘에피소드’의 가사 내용과 노래 구성을 총 여섯 개 신(Scene)으로 나타냈다. 3절로 이뤄진 곡의 벌스, 코러스, 브릿지는 발단부터 전개, 위기, 절정, 결말, 에필로그에 이르는 하나의 스토리로 이어져 있어 한 편의 영화 같은 서사를 예고하고 있다.첫 번째 신에서 잠들기 전 버릇처럼 회상에 빠진 한 남자는 전 연인과의..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FNC-유니온픽처스, 씨엔블루 정용화의 2023년도 마지막 서울 팬미팅 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23278</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23278"/>
-        <updated>2023-12-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 씨엔블루의 보컬이자 얼마 전 아시아 투어를 성공적으로 마무리한 정용화의 마지막 서울 행사 일정이 공개됐다. 공연 기획사 유니온픽처스가 제작하는 이번 서울 팬미팅은 서울 성북구 한성대학교 낙산관 대강당에서 개최될 예정이며, 12월 23일 오후 3시와 7시 하루 총 2회차로 진행된다.정용화는 올해 10월 21일 마카오를 시작으로 10월 28일 타이베이, 11월 4일 방콕, 11월 22일 홍콩까지 아시아 투어 ‘2023 정용화 라이브 - 유어 시티(2023 JUNG YONG HWA LIVE - YOUR CITY)’를 마무리하며 큰 ..]]></content>
     </entry>
 </feed>

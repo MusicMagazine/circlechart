@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-27T01:00:09.556Z</updated>
+    <updated>2023-12-27T01:56:47.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2024년 1호 걸그룹’ 지니어스, 첫 완전체 비주얼 공개! ‘탈 신인급’ 비주얼+음악적 능력 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23347</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23347"/>
+        <updated>2023-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 지니어스(Geenius)의 첫 완전체 비주얼이 공개됐다.&nbsp;지니어스(예영, 시온, 미카, 조에, 안다미로)는 지난 26일 공식 SNS를 통해 그룹 포토를 공개했다.&nbsp;공개된 이미지에는 각자의 매력을 드러내면서도 한데 모였을 때 빛나는 시너지를 발휘하는 지니어스 멤버 5인의 모습이 담겨 있다. 완벽한 팀 케미로 무장한 지니어스는 청순함과 카리스마를 넘나드는 다채로운 매력으로 향후 데뷔 앨범 콘셉트에 대한 궁금증을 높였다.&nbsp;지니어스는 2024년 가요계에 첫 데뷔를 장식하는 걸그룹으로 연일 화제를 이어가고 있다. Mnet ‘걸스플래닛..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 50 CIRCLE CHART: HWANG CHI YEUL 'I LOVE WINTER' is No. 1 in Retail Album Ch..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23344</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23325"/>
         <updated>2023-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 49 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, LE SSERAFIM, and Jimin.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 49 (2023.12.03.~2023.12.09.), Jung Kook dominated the Global K-pop Chart, LE SSERAFIM topped 2 charts, while Jimin took the No. 1 spot i..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스트레이 키즈 사촌그룹' 올아워즈, 내년 1월 데뷔 확정! 블록버스터급 프리뷰 영상 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23323</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23323"/>
-        <updated>2023-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 그룹 올아워즈(ALL(H)OURS)가 내년 1월 데뷔를 공식화했다.19일 0시 올아워즈 공식 유튜브 채널을 통해 'PREVIEW of ALL(H)OURS'라는 제목의 프리뷰 영상이 공개됐다.영상 속 올아워즈는 한 편의 블록버스터 영화 같은 분위기를 선보이고 있다. 멤버들의 패기 넘치는 표정 연기와 강렬한 아우라가 눈길을 사로잡고, 화려한 퍼포먼스 향연이 화면을 압도한다. 특히 말미에는 2024년 1월로 데뷔를 알리며 글로벌 팬들의 기대감을 더욱 끌어올렸다.올아워즈는 건호, 유민, 제이든, 민제, 마사미, 현빈, ..]]></content>
     </entry>
 </feed>
