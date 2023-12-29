@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2023-12-29T02:21:18.426Z</updated>
+    <updated>2023-12-29T03:16:04.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[B.A.P 출신 정대현, MA엔터테인먼트와 전속계약 체결…문종업과 다시 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23357</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23357"/>
+        <updated>2023-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 B.A.P 출신 정대현이 MA엔터테인먼트와 새로운 출발에 나선다.29일 MA엔터테인먼트는 공식 SNS를 통해 “아티스트 정대현과 최근 전속계약을 체결했다. 올라운더 면모를 차곡차곡 쌓아온 정대현과 동행할 수 있어서 영광이다”라고 밝혔다.&nbsp;정대현은 2012년 B.A.P의 메인보컬로 데뷔했다. 팀 활동 외에도 솔로 앨범, 뮤지컬, 웹드라마 등 다방면에서 종횡무진 활약을 펼쳤으며, 가수이자 배우로 대중에게 꾸준히 존재감을 알렸다.&nbsp;정대현이 MA엔터테인먼트에 합류하면서 B.A.P로 함께 활동했던 문종업과 다시 한솥밥 인연을 이어가게 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그날처럼’ 장덕철, 레이벡스와 전속계약 체결! 2년 만에 활동 재개 ‘기대’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23215</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22693"/>
         <updated>2023-06-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신인 밴드 '채무자들'이 장기하, 혁오, 카더가든 등이 소속된 두루두루 아티스트 컴퍼니(이하 두루두루)에 합류했다. 두루두루는 오늘 공식 SNS를 통해 '채무자들'의 새로운 프로필 사진을 공개하며 이 같은 사실을 알렸다. 두루두루의 새로운 음악가 합류는 지난 2021년 싱어송라이터 '임금비' 영입 소식 이후 약 2년여 만이다.'채무자들'은 임상준(보컬, 기타), 김의찬(기타, 키보드), 조휴연(베이스), 최양업(드럼) 총 네 명으로 구성된 얼터너티브 록 밴드로 지난해 2월 첫..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신예 싱어송라이터 셀린(Celine), 제나두엔터테인먼트와 전속]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22595</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22595"/>
-        <updated>2023-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 셀린(Celine)이 제나두엔터테인먼트와 손잡았다.&nbsp;&nbsp;7일 제나두엔터테인먼트는 "최근 셀린과 전속계약을 체결했다"라며 "셀린의 음악적 활동을 전폭적으로 지원할 것"이라고 밝혔다.&nbsp;2020년 싱글 '그렇게 될 텐데'로 데뷔해 '레몬밤', 'Starry Night' 등을 발매한 셀린은 SNS에서 높은 조회수를 이끌며 많은 관심을 받았다. 이밖에 '좀비탐정', '너의 밤이 되어줄게', '으라차차 내 인생', &amp;#..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2023-12-29T02:21:18.435Z</updated>
+    <updated>2023-12-29T03:16:04.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['발매 D-1' 손태진?신성?에녹 '불타는 신에손', 선공개곡 'IN MY LIFE' M/V 티저 공개! 공감+위로 전한다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358"/>
+        <updated>2023-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['불타는 트롯맨' 유닛 불타는 신에손이 웰메이드 음악을 예고했다.불타는 신에손(손태진, 신성, 에녹)은 지난 28일 공식 SNS 채널을 통해 선공개 음원 'IN MY LIFE(인 마이 라이프)'의 뮤직비디오 티저 영상을 공개했다.공개된 영상은 피아노와 드럼, 기타 세션을 배경으로 손태진, 신성, 에녹이 차례로 한 소절씩 열창하는 모습이 담겨있다. 세 사람은 자전적인 내용이 담긴 'IN MY LIFE'를 그들만의 목소리로 완벽하게 표현해 내며 기대감을 모으고 있다.특히 영상 말미 불타는 신에..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 51 CIRCLE CHART: Various Artists 'BLUE ARCHIVE 2ND ANNIVERSARY OST' Tops Re..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23355</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23331"/>
         <updated>2023-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤하가 언팩 행사로 데뷔 20주년 예열에 나선다.윤하는 오늘(21일) 오후 10시 공식 유튜브 채널을 통해 20주년 언팩 이벤트 "와이"(YOUNHA 20th ANNIVERSARY UNPACKED EVENT "Y")를 실시간으로 공개한다.이번 언팩 이벤트 "와이"는 윤하가 내년 데뷔 20주년을 앞두고 2024년 활동 계획을 직접 소개하는 행사다. 이례적인 언팩 이벤트를 통해 윤하의 진솔한 20주년 소감과 계획을 확인할 수 있다.방탄소년단 RM, 김상욱, 슈카, 에픽하이, 잇섭, 펭수 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1월 3일 컴백' 김종현, 소년미→섹시미까지…미니 2집 'Brilliant Seasons' 콘셉트 포토 공개 완료!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23330</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23330"/>
-        <updated>2023-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 및 배우 김종현이 콘셉트 포토를 모두 공개하며 색다른 매력을 또 한번 기대하게 했다.김종현은 지난 20일과 21일 공식 SNS를 통해 두 번째 미니앨범 'Brilliant Seasons (브릴리언트 시즌즈)'의 세 번째, 네 번째 콘셉트 포토를 공개했다.공개된 콘셉트 포토 속 김종현은 유니크한 패턴의 캐주얼한 스타일링을 완벽하게 소화하며 훈훈한 비주얼을 드러내고 있다. 장난기 가득한 포즈와 따듯한 색감의 소품들은 김종현의 소년미를 더욱 돋보이게 만들어 팬들의 큰 관심을 모았다.또 다른 이미지에서는 블랙 앤 골드 ..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2023-12-29T02:21:18.438Z</updated>
+    <updated>2023-12-29T03:16:04.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[래퍼 체리보이17, 오늘(29일) 신곡 '풍각쟁이 리믹스' 발매...던밀스→오담률 '특급 피처링 군단']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23359</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23359"/>
+        <updated>2023-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[힙합 아티스트 체리보이17(CHERRY BOY 17)이 딩고(dingo)와 신곡을 발매한다.디지털 미디어 채널 딩고는 29일 오후 6시 각종 음원 사이트를 통해 체리보이17의 신곡 '풍각쟁이 리믹스 (Feat. 노윤하, 던밀스, 가오가이, 키츠요지, 오담률, 허성현)'를 공개한다.'풍각쟁이 리믹스'는 체리보이17이 지난 8월 발매한 세 번째 EP 앨범 '마이 네임 이즈 체리보이17(MY NAME IS CHERRY BOY 17)'의 수록곡 '풍각쟁이 (Feat. 수퍼비 (SUPERBE..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시소(siso), 영화 '말하고 싶은 비밀' OST 가창자 출격! 1월 3일 'Gloomy Star' 리메이크 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23354</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23335"/>
         <updated>2023-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[밴드 루시(LUCY) 최상엽이 플라워의 명곡을 재해석한다.최상엽이 가창에 참여한 영화 '말하고 싶은 비밀(Our Secret Diary)' OST '애정표현'이 오는 29일 발매된다.'애정표현'은 지난 2000년 플라워가 발매한 앨범 'Bloom (블룸)'의 수록곡으로, 들킬까 숨겨온 마음을 당당하게 고백하는 메시지를 담았다. 최상엽은 원곡의 감성을 그대로 살리면서도 특유의 에너지 넘치는 매력으로 '애정표현'을 재해석했다.특히 최상엽 특유의 깊이 있는 음색과 가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘발라드 여제’ 지아, 27일 백지영 원곡 ‘한참 지나서’ 리메이크 발매…폭발적 가창력 정수 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23333</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23333"/>
-        <updated>2023-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 지아가 ‘말하고 싶은 비밀’ OST에 참여하며 ‘한참 지나서’를 다시 부른다.&nbsp;지아가 가창한 영화 ‘말하고 싶은 비밀(Our Secret Diary)’의 OST ‘한참 지나서’가 오는 27일 발매를 확정했다.&nbsp;‘한참 지나서’는 2012년 인기리에 방영된 SBS 드라마 ‘옥탑방 왕세자’의 OST로 ‘OST의 여왕’ 백지영이 불러 뜨거운 사랑을 받았던 곡이다. 지아는 섬세한 감성과 애틋함을 담아 자신만의 색깔로 ‘한참 지나서’를 새롭게 재해석한다.&nbsp;지아는 폭넓은 음역대를 오가는 탄탄한 보컬과 호소력이 느껴지는 폭발적인 가창력으로 ..]]></content>
     </entry>
 </feed>
