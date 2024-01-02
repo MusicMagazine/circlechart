@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-02T02:32:43.565Z</updated>
+    <updated>2024-01-02T03:15:15.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 2월 팬콘 ‘Mystery Elevator’ 스페셜 포스터 공개!…새해 깜짝 선물]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23363</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23363"/>
+        <updated>2024-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 차은우가 단독 팬콘을 앞두고 새해 첫날부터 특급 비주얼을 선보였다.차은우는 지난 1일 공식 SNS를 통해 아시아 팬콘 투어 ‘2024 Just One 10 Minute [Mystery Elevator]’(2024 저스트 원 텐 미닛 [미스테리 엘리베이터])의 스페셜 포스터 이미지 두 장을 공개했다.공개된 포스터에는 엘리베이터 앞 흰색 가운을 입은 차은우가 마치 팬들을 초대하고 있는 듯한 모습이 담겨 있다. 차은우의 댄디한 비주얼과 비밀스러운 무드가 공연에 대한 궁금증을 한껏 끌어올렸다.함께 공개된 클로즈업 컷에는 투명..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['발매 D-1' 손태진?신성?에녹 '불타는 신에손', 선공개곡 'IN MY LIFE' M/V 티저 공개! 공감+위로 전한다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23332"/>
         <updated>2023-12-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[히트 작곡가 조영수가 새로운 뮤직 프로젝트를 시작한다.&nbsp;조영수 작곡가와 그가 이끄는 넥스타엔터테인먼트 소속 아티스트 드러머 이규형이 뮤직 프로듀싱 팀 래빗 힛 더 드래곤(Rabbit Hit The Dragon)을 결성했다.&nbsp;래빗 힛 더 드래곤은 글로벌 팝스타 브루노 마스, 앤더슨 팩으로 구성된 미국의 프로젝트 그룹 Silk Sonic(실크 소닉)을 모델로 결성된 팀이다. 조영수 작곡가와 드러머 이규형이 태어난 해인 용띠와 토끼띠의 상징을 결합했으며 평소 음악 작업을 할 때 드러나는 두 사람의 호흡을 빗대어 이름을 붙인 것으로 알려졌..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하, 오늘(21일) 데뷔 20주년 언팩 이벤트 개최! 방탄소년단 RM→에픽하이 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23331</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23331"/>
-        <updated>2023-12-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤하가 언팩 행사로 데뷔 20주년 예열에 나선다.윤하는 오늘(21일) 오후 10시 공식 유튜브 채널을 통해 20주년 언팩 이벤트 "와이"(YOUNHA 20th ANNIVERSARY UNPACKED EVENT "Y")를 실시간으로 공개한다.이번 언팩 이벤트 "와이"는 윤하가 내년 데뷔 20주년을 앞두고 2024년 활동 계획을 직접 소개하는 행사다. 이례적인 언팩 이벤트를 통해 윤하의 진솔한 20주년 소감과 계획을 확인할 수 있다.방탄소년단 RM, 김상욱, 슈카, 에픽하이, 잇섭, 펭수 ..]]></content>
     </entry>
 </feed>
