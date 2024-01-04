@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-03T23:15:47.888Z</updated>
+    <updated>2024-01-04T01:02:28.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KCM, 데뷔 20주년 앨범 '우리들(US)' 14일 발매 확정! "2024년 'KCM의 시작'으로 기억되길"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23370</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23370"/>
+        <updated>2024-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 KCM이 데뷔 20주년을 기념해 정규앨범으로 돌아온다.KCM은 오는 14일 각종 온라인 음원사이트를 통해 데뷔 20주년 앨범 '우리들(US)'을 발매한다.'우리들(US)'은 지난 2004년 데뷔앨범 'Beautiful mind (뷰티풀 마인드)'로 데뷔한 KCM의 데뷔 20주년을 기념해 발매되는 정규앨범이다. 타이틀곡 '아직 사랑하는 사람이 있어요'를 포함해 KCM의 짙은 감성을 녹인 곡들이 수록될 예정이다.특히 KCM은 20주년 앨범을 준비하며 데뷔곡 '흑백사진..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[츄, 오늘(3일) 웹툰 '낮에 뜨는 달' 컬래버 음원 발매…13년 만에 이선희 '여우비' 원곡 재해석]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23369</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23353"/>
         <updated>2023-12-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 빅나티(BIG Naughty, 서동현)가 딩고(dingo)와 신곡을 발매한다.&nbsp;디지털 미디어 채널 딩고는 28일 오후 6시 각종 음원 사이트를 통해 빅나티의 더블 싱글 '딩고 X 빅나티(Dingo X BIG Naughty)'를 공개한다.&nbsp;타이틀곡 'INFJ (Feat. B.I, 방예담)'는 성격유형 MBTI 검사 결과를 바꿀 만큼 사랑에 푹 빠진 모습을 감성적이고 섬세한 비트, 재치 있는 가사로 풀어낸 알앤비(R&amp;B) 장르의 곡이다.&nbsp;최근 글로벌 아티스트로 폭넓은 활동을 이어가고 있는 비아이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조영수 작곡가, 1월 2일 새 뮤직 프로젝트 가동 “신용재와 작업, 작곡가로서 꿈 이룬 기분”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23351</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23351"/>
-        <updated>2023-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[새 뮤직 프로젝트 팀 래빗 힛 더 드래곤(Rabbit Hit The Dragon)의 인터뷰가 공개됐다.&nbsp;조영수 작곡가, 이규형 드러머가 결성한 새 뮤직 프로젝트 래빗 힛 더 드래곤이 내년 1월 2일 가수 신용재가 가창한 첫 번째 음원 ‘행복을 만질수가 있다면 (Prod. 래빗 힛 더 드래곤)’ 발매를 앞두고 인터뷰 영상을 공개했다.&nbsp;신용재는 래빗 힛 더 드래곤과의 협업에 대해 “평소 존경하던 두 선배님과 작업할 수 있어서 너무 행복했다. 처음에 소식을 들었을 때 너무 설레고 좋았다. 좋은 곡을 준비해주셔서 즐겁게 작업할 수 있었다”..]]></content>
     </entry>
 </feed>
