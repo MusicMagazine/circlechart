@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-05T01:02:21.068Z</updated>
+    <updated>2024-01-05T02:27:32.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴), 오늘(5일) '뮤직뱅크' 출격! 9일 발매 앞두고 타이틀곡 'RU-PUM PUM' 무대 선공개 '무대에 대한 자신감 펌펌!..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23377</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23377"/>
+        <updated>2024-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[8TURN(에잇턴)이 컴백에 앞서 신곡 무대를 선공개한다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 5일 오후 방송되는 KBS 2TV '뮤직뱅크'에 출연해 오는 9일 발매를 앞둔 세 번째 미니앨범 'STUNNING(스터닝)' 타이틀곡 'RU-PUM PUM(러펌펌)'의 무대를 최초 공개한다.이번 신곡 무대는 오는 9일 정식 음원 발매 4일 전 퍼포먼스를 선공개하는 이례적이면서도 파격적인 행보로, 8TURN의 남다른 자신감을 엿볼 수 있다. 8TURN의 자신감 넘치는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['15일 컴백' 최예나, 새 타이틀곡은 'Good Morning'…신보 트랙리스트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23373</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23344"/>
         <updated>2023-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 50 CIRCLE CHART, the weekly Retail Album Chart was topped by HWANG CHI YEUL 'I LOVE WINTER', which sold a total of 9,409 copies at retailers.'I LOVE WINTER' was the top seller as of 2PM (KST) on the date of its release, December 11th (Monday, week 50).'I LOVE WINTER&amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 50 CIRCLE CHART: Jung Kook, LE SSERAFIM, PLAVE, and ATEEZ Rule the Charts]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23343</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23343"/>
-        <updated>2023-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 50 CIRCLE CHART (formerly gaonchart) was dominated by Jung Kook, LE SSERAFIM, PLAVE, and ATEEZ.KMCA, publisher of CIRCLE CHART, announced that “As of week 50 (2023.12.10.~2023.12.16.), Jung Kook, LE SSERAFIM, and PLAVE each topped 2 charts side by side while ATEEZ took the No. 1 spot in the..]]></content>
     </entry>
 </feed>
