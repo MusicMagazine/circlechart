@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-08T01:04:54.959Z</updated>
+    <updated>2024-01-08T02:29:05.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[홍다빈, 24일 첫 정규앨범 'Giggles' 발매 앞서 SNS 라이브→깜짝 공연까지 '색다른 행보']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23380</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23380"/>
+        <updated>2024-01-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 뮤지션 홍다빈이 활발한 활동으로 기대감을 더하고 있다.홍다빈은 오는 23일 첫 번째 정규앨범 'Giggles(기글스)' 발매에 앞서 지난 5일 정오 각종 온라인 음원사이트를 통해 두 번째 싱글 'Tic Tac?'을 깜짝 공개했다.'Tic Tac?'은 완성도를 위해 앞서 한 차례 발매를 연기한 바 있다. 뜨거운 관심 속에 베일을 벗은 'Tic Tac?'은 전작 'Till I Live (틸 아이 리브)'와 상반된 곡 분위기로 리스너들의 귀를 사로잡았다. 울고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8TURN(에잇턴), 오늘(5일) '뮤직뱅크' 출격! 9일 발매 앞두고 타이틀곡 'RU-PUM PUM' 무대 선공개 '무대에 대한 자신감 펌펌!..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23377</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23347"/>
         <updated>2023-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 지니어스(Geenius)의 첫 완전체 비주얼이 공개됐다.&nbsp;지니어스(예영, 시온, 미카, 조에, 안다미로)는 지난 26일 공식 SNS를 통해 그룹 포토를 공개했다.&nbsp;공개된 이미지에는 각자의 매력을 드러내면서도 한데 모였을 때 빛나는 시너지를 발휘하는 지니어스 멤버 5인의 모습이 담겨 있다. 완벽한 팀 케미로 무장한 지니어스는 청순함과 카리스마를 넘나드는 다채로운 매력으로 향후 데뷔 앨범 콘셉트에 대한 궁금증을 높였다.&nbsp;지니어스는 2024년 가요계에 첫 데뷔를 장식하는 걸그룹으로 연일 화제를 이어가고 있다. Mnet ‘걸스플래닛..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 50 CIRCLE CHART: HWANG CHI YEUL 'I LOVE WINTER' is No. 1 in Retail Album Ch..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23344</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23344"/>
-        <updated>2023-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 50 CIRCLE CHART, the weekly Retail Album Chart was topped by HWANG CHI YEUL 'I LOVE WINTER', which sold a total of 9,409 copies at retailers.'I LOVE WINTER' was the top seller as of 2PM (KST) on the date of its release, December 11th (Monday, week 50).'I LOVE WINTER&amp;#..]]></content>
     </entry>
 </feed>
