@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-08T21:12:19.297Z</updated>
+    <updated>2024-01-08T22:13:27.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 두 번째 콘셉트 포토 공개!…아련 무드 장착]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23384</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23384"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 컴백을 앞두고 새 앨범 'THE FUTURE IS OURS : FOUND'의 두 번째 콘셉트 포토를 공개했다.AB6IX는 오늘 자정 공식 SNS 채널들을 통해 8TH EP 'THE FUTURE IS OURS : FOUND'의 두 번째 단체 및 개인 콘셉트 포토를 공개하며 관심을 모았는데,&nbsp;공개된 두 번째 콘셉트 포토 속 AB6IX는 캐주얼한 착장의 첫 번째 콘셉트 포토와는 또 다른 매력의 파스텔 톤 의상을 입고 아련한 분위기를 물씬 풍겼다.단체 콘셉트 포토에서는 캄캄한 배..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ 'THE WORLD EP.FIN : WILL (MINIRECORD)' Tops December Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23383</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358"/>
         <updated>2023-12-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA['불타는 트롯맨' 유닛 불타는 신에손이 웰메이드 음악을 예고했다.불타는 신에손(손태진, 신성, 에녹)은 지난 28일 공식 SNS 채널을 통해 선공개 음원 'IN MY LIFE(인 마이 라이프)'의 뮤직비디오 티저 영상을 공개했다.공개된 영상은 피아노와 드럼, 기타 세션을 배경으로 손태진, 신성, 에녹이 차례로 한 소절씩 열창하는 모습이 담겨있다. 세 사람은 자전적인 내용이 담긴 'IN MY LIFE'를 그들만의 목소리로 완벽하게 표현해 내며 기대감을 모으고 있다.특히 영상 말미 불타는 신에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 51 CIRCLE CHART: Various Artists 'BLUE ARCHIVE 2ND ANNIVERSARY OST' Tops Re..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23355</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23355"/>
-        <updated>2023-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 51 CIRCLE CHART, Various Artists 'BLUE ARCHIVE 2ND ANNIVERSARY OST' topped the weekly Retail Album Chart by selling 8,112 copies at retailers.&nbsp;&nbsp;&nbsp;Released on December 18th, 'BLUE ARCHIVE 2ND ANNIVERSARY OST' was the top seller as of 1PM (KST) on December 19th (Tuesday, wee..]]></content>
     </entry>
 </feed>
