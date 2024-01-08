@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-08T22:13:27.729Z</updated>
+    <updated>2024-01-08T23:15:07.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘13일 발매’ 손태진?신성?에녹, 새 미니앨범 ‘아시나요’ 첫 콘셉트 포토 공개…댄디한 겨울 남자들]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23386</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23386"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[‘불타는 트롯맨’ 유닛 불타는 신에손이 빛나는 완전체 비주얼을 선보였다.&nbsp;불타는 신에손(손태진, 신성, 에녹)은 지난 8일 공식 SNS를 통해 새 미니앨범 ‘아시나요’의 단체 콘셉트 포토를 공개했다.&nbsp;공개된 이미지에는 손태진, 신성, 에녹이 따뜻한 색감의 니트 차림으로 포근하면서도 댄디한 매력을 발산하고 있다. 겨울의 계절감이 느껴지는 자연을 배경으로 훈훈한 비주얼을 선보인 만큼 불타는 신에손의 새 미니앨범에도 궁금증이 증폭되고 있다.&nbsp;새 미니앨범 ‘아시나요’는 동명의 타이틀곡 ‘아시나요’를 비롯해 지난달 30일 발표한 선공개곡 ‘..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 두 번째 콘셉트 포토 공개!…아련 무드 장착]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23384</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23363"/>
         <updated>2024-01-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 차은우가 단독 팬콘을 앞두고 새해 첫날부터 특급 비주얼을 선보였다.차은우는 지난 1일 공식 SNS를 통해 아시아 팬콘 투어 ‘2024 Just One 10 Minute [Mystery Elevator]’(2024 저스트 원 텐 미닛 [미스테리 엘리베이터])의 스페셜 포스터 이미지 두 장을 공개했다.공개된 포스터에는 엘리베이터 앞 흰색 가운을 입은 차은우가 마치 팬들을 초대하고 있는 듯한 모습이 담겨 있다. 차은우의 댄디한 비주얼과 비밀스러운 무드가 공연에 대한 궁금증을 한껏 끌어올렸다.함께 공개된 클로즈업 컷에는 투명..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발매 D-1' 손태진?신성?에녹 '불타는 신에손', 선공개곡 'IN MY LIFE' M/V 티저 공개! 공감+위로 전한다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23358"/>
-        <updated>2023-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['불타는 트롯맨' 유닛 불타는 신에손이 웰메이드 음악을 예고했다.불타는 신에손(손태진, 신성, 에녹)은 지난 28일 공식 SNS 채널을 통해 선공개 음원 'IN MY LIFE(인 마이 라이프)'의 뮤직비디오 티저 영상을 공개했다.공개된 영상은 피아노와 드럼, 기타 세션을 배경으로 손태진, 신성, 에녹이 차례로 한 소절씩 열창하는 모습이 담겨있다. 세 사람은 자전적인 내용이 담긴 'IN MY LIFE'를 그들만의 목소리로 완벽하게 표현해 내며 기대감을 모으고 있다.특히 영상 말미 불타는 신에..]]></content>
     </entry>
 </feed>

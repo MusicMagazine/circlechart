@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-08T22:13:27.735Z</updated>
+    <updated>2024-01-08T23:15:07.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디어클라우드 나인, 20일 정규 2집 ‘9colors’ 발매! 12년 만의 정규앨범 ‘기대 UP’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23385</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23385"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[디어클라우드(Dear Cloud)의 보컬 나인(NINE9)이 정규 2집으로 돌아온다.9일 엠와이뮤직에 따르면 나인은 오는 20일 오후 6시 정규 2집 ‘9colors (나인 컬러즈)’를 발매한다.&nbsp;‘9colors’는 나인이 2012년 선보인 정규 1집 ‘9Stories (나인스토리즈)’ 이후 약 12년 만에 발매하는 정규앨범이다. 그동안 디어클라우드의 보컬이자 솔로 아티스트로서 꾸준히 음악 활동을 선보여온 나인은 이번 앨범을 통해 더욱 깊고 견고해진 음악 세계를 선사할 예정이다.&nbsp;‘솔직하지 못해서’ ‘Life Is Good (라이프..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['14일 발매' KCM, 오늘(8일) 20주년 앨범 '우리들(US)' 예판 시작…레트로 감성 물씬]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23381</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23361"/>
         <updated>2024-01-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[알앤비 아티스트 VVON(본)이 첫 솔로곡으로 돌아온다.VVON은 2일 정오 각종 온라인 음원사이트를 통해 새 싱글 'Need you (니드 유)'를 발매한다.'Need you'는 VVON이 지난해 9월 발매한 'Time Out (타임 아웃)' 이후 약 4개월 만에 선보이는 신보다. VVON은 한층 더 짙어진 감성으로 평범한 일상 속에서 문득 떠오른 지난 감정과 끝내 마주하게 된 진심, 아쉬움과 그리움 등 다양한 감정을 표현해냈다.특히 'Need you'는 VVON의 첫 솔로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[래퍼 체리보이17, 오늘(29일) 신곡 '풍각쟁이 리믹스' 발매...던밀스→오담률 '특급 피처링 군단']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23359</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23359"/>
-        <updated>2023-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 아티스트 체리보이17(CHERRY BOY 17)이 딩고(dingo)와 신곡을 발매한다.디지털 미디어 채널 딩고는 29일 오후 6시 각종 음원 사이트를 통해 체리보이17의 신곡 '풍각쟁이 리믹스 (Feat. 노윤하, 던밀스, 가오가이, 키츠요지, 오담률, 허성현)'를 공개한다.'풍각쟁이 리믹스'는 체리보이17이 지난 8월 발매한 세 번째 EP 앨범 '마이 네임 이즈 체리보이17(MY NAME IS CHERRY BOY 17)'의 수록곡 '풍각쟁이 (Feat. 수퍼비 (SUPERBE..]]></content>
     </entry>
 </feed>
