@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-01-15T05:15:35.430Z</updated>
+    <updated>2024-01-15T06:20:24.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[피지컬 앨범 판매 연중 최저치에도  불구하고... - 12월 리뷰(2023)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23400</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23400"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2023년 12월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 12곡을 올려놓으며 (합산)점유율 5.4%로 1위에 올랐습니다.&nbsp;&nbsp;2023년 12월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 2.2% 감소, 전년 동기에 비해서도 18.9% 감소했습니다.&nbsp;2023년 12월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 72.9% 감소, 전년 동기에 비해서도 33.6% 감소했습니다.&nbsp;&nbsp;&nbsp;2023년 12월 TOP400 가수별 앨범 판매량 점유율 조사에서 AT..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앨범 판매량 리뷰 세븐틴 올해 1천 6백만 장! - 2023]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23345</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22882"/>
         <updated>2023-08-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 7월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 13곡을 올려놓으며 (합산)점유율 8.6%로 1위에 올랐습니다.&nbsp;2023년 7월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 2.1% 감소, 전년 동기에 비해서 9.3% 감소했습니다.&nbsp;2023년 7월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 13.2% 증가, 전년 동기에 비해서 32.1% 증가했습니다.&nbsp;2023년 7월 TOP400 가수별 앨범 판매량 점유율 조사에서 NCT DREAM이 4..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 K-POP은 정말 성장하고 있을까?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22826</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=22826"/>
-        <updated>2023-08-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[최근 세븐틴의 과거 발매 앨범 판매가 급증하는 등 케이팝 시장에서 구보 판매량이 다시 증가하고 있습니다.&nbsp;케이팝 시장에 신규 팬덤이 유입될 경우, 구보 판매량이 동반해 증가하는 일종의 'Backward spillover' 현상이 주로 관찰되는데, 이번 카드 뉴스에서는 피지컬 앨범 수출 데이터와 구보 판매량을 추이를 분석해 케이팝 시장의 지속 성장 가능성에 대해 알아보도록 하겠습니다.&nbsp;위 그래프는 연도별 상반기 피지컬 앨범 판매량400 내 구보 판매량을 나타낸 것입니다. (구보 예:&nbsp; 2023년 상반기 판매 앨범 중 2..]]></content>
     </entry>
 </feed>
