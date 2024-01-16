@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-15T23:15:11.231Z</updated>
+    <updated>2024-01-16T01:03:28.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이하이, 오늘(16일) 신곡 ‘그대가 해준 말’ 발매! 결 다른 발라드로 선사할 위로]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23402</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23402"/>
+        <updated>2024-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이하이가 ‘그대가 해준 말’로 따뜻한 위로를 전한다.이하이는 16일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘그대가 해준 말’을 발매한다.‘그대가 해준 말’은 이하이의 호소력 짙은 보컬과 깊은 감성이 섬세하게 녹아든 발라드곡이다. 결이 다른 이하이만의 서정적인 음색이 클래식하면서도 아름다운 스트링 사운드에 조화롭게 깃들어 진한 울림을 전한다.음원과 함께 공개되는 ‘그대가 해준 말’ 뮤직비디오에서는 앞선 이하이의 전작 ‘골목길’에 이어 최현욱과 홍수주가 또 한 번 호흡을 맞춘다. 앞서 총 여섯 차례에 걸쳐 공..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나, 오늘(15일) 신보 'GOOD MORNING' 발매…NEW '모닝 엔젤' 등장!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23398</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23369"/>
         <updated>2024-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 츄(CHUU)가 깨끗한 음색으로 듣는 이들의 귀를 사로잡는다.츄는 3일 오후 6시 각종 온라인 음원사이트를 통해 인기 네이버웹툰 '낮에 뜨는 달'의 컬래버레이션 음원 '여우비'를 발매한다.'여우비'는 지난 2010년 방영된 드라마 '내 여자친구는 구미호'의 OST로 시청자들의 많은 사랑을 받았던 곡으로, 13년이 지나 섬세한 감정 표현이 돋보이는 츄의 목소리와 만나 재탄생됐다. 또한 츄는 사랑스럽고 상큼한 매력으로 '여우비'를 완성해 음악팬들의 궁금증이 더..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시소(siso), 오늘(3일) 영화 '말하고 싶은 비밀' OST 발매! 'Gloomy Star' 재해석…새벽감성 자극]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23368</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23368"/>
-        <updated>2024-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 시소(siso)가 가창에 참여한 영화 '말하고 싶은 비밀' OST 음원이 베일을 벗는다.시소가 가창에 참여한 영화 '말하고 싶은 비밀(Our Secret Diary)' OST 'Gloomy Star(글루미 스타)'가 3일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'Gloomy Star'는 지난 2018년 발매된 공기남의 곡으로, 우연인 것처럼 상대방이 눈 앞에 나타나줬으면 하는 바람을 담담하게 표현해 낸 가사가 인상적인 곡이다. 시소의 몽환적인 보이스와 ..]]></content>
     </entry>
 </feed>
