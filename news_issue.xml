@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-01-17T01:04:18.935Z</updated>
+    <updated>2024-01-17T02:29:16.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['대국남아 출신' 가람·인준·제이, 5인조 보이그룹 어센트(ASC2NT)로 새출발!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23405</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23405"/>
+        <updated>2024-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 대국남아 출신 가람, 인준, 제이(지환)가 5인조 보이그룹으로 재데뷔한다.&nbsp;뉴웨이즈컴퍼니는 17일 "가람, 인준, 제이를 비롯해 새 멤버 2명을 영입해 5인조 보이그룹 어센트(ASC2NT)를 론칭한다"고 밝혔다. 이와 함께 공식 SNS를 통해 어센트 완전체 사진을 공개했다.최근 JTBC 오디션 프로그램 '피크타임'에서 팀 23시로 출연해 실력파 면모를 드러냈던 가람, 인준 제이는 강인한 표정을 통해 새롭게 데뷔하는 비장한 의지를 드러냈다.&nbsp;특히 새 멤버 2인의 정체가 베일을 벗어 눈길을 끌었다. 레..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 홍자, 미스틱스토리와 전속계약 종료...“새롭게 만들어갈 앞날 응원]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23372</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897"/>
         <updated>2023-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[배우 강준규가 YY엔터테인먼트에서 새 출발을 시작한다.22일 YY엔터테인먼트는 "최근 강준규와 전속계약을 체결했다"라며 "음악, 연기를 넘나드는 다재다능함과 뛰어난 외모의 소유자인 강준규에게 큰 가능성을 보고 그와 동행을 결정했다"라고 밝혔다.5인조 보이그룹 마이네임으로 데뷔해 국내외 팬들에게 사랑을 받아온 강준규는 배우 전향 후 연극 '일등급인간', 영화 '특송', 드라마 '별똥별' 등에 출연해 눈도장을 찍었다. 또 강준규는 오는 30일 개봉 예정인 공포영화 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO), 131레이블 전격 합류! 하반기 정식 데뷔]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22788</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22788"/>
-        <updated>2023-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[글로벌 라이징 아티스트 리오(LEO)가 131레이블에 전격 합류했다.25일 131레이블은 "감미로운 보컬과 랩 실력을 겸비한 다재다능한 루키 아티스트 리오(LEO)와 최근 전속계약을 체결했다. 전 세계를 무대로 나아갈 리오의 무궁무진한 음악 활동을 주목해달라"라고 밝혔다.이와 함께 25일 0시 131레이블 공식 SNS를 통해 리오의 새로운 프로필 이미지가 공개됐다. 리오만의 시크한 분위기와 훈훈한 비주얼이 글로벌 팬들의 이목을 집중시켰다.리오는 호주 시드니에서 성장한 2002년생 한국계 호주인이다. 어린 시절부터 밴드..]]></content>
     </entry>
 </feed>
