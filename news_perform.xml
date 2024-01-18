@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-01-17T23:15:38.010Z</updated>
+    <updated>2024-01-18T01:03:11.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 더로즈, 美 최대 음악 페스티벌 ‘코첼라’ 출연! 글로벌 영향력 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23409</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23409"/>
+        <updated>2024-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 ‘코첼라’ 무대에 선다.더로즈(김우성, 박도준, 이재형, 이하준)는 오는 4월 14일과 21일 미국 최대 규모 음악 페스티벌 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌 (Coachella Valley Music and arts Festival)’ (이하 ‘코첼라’) 무대에 오른다.공개된 라인업에 따르면 올해에는 도자 캣(Doja Cat), 라나 델 레이(Lana Del Rey), 타일러 더 크리에이터(Tyler, the Creator) 등 미국 빌보드 차트를 점령하고 ‘그래미 어워드’에서 다수의 트로피를..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 휘인, 솔로 첫 단독 콘서트 전석 매진...'믿듣 보컬 퀸' 파워 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23390</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23356"/>
         <updated>2023-12-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 펀치(Punch)의 연말 콘서트가 하루 앞으로 다가왔다.펀치는 오는 30일과 31일 양일간 서울 성신여대 운정그린캠퍼스 대강당에서 단독 콘서트 '16 Seasons(16 시즌즈)'를 개최하고 관객을 만난다.'16 Seasons'는 펀치가 연말을 맞아 4년 만에 선보이는 콘서트다. 오랜만의 콘서트인 만큼 펀치는 남다른 애정으로 직접 공연 구성에 참여해 특별함을 더했다.이번 콘서트에서 펀치는 최근 발매한 새 싱글 '오늘 같은 날' 무대를 최초 공개할 예정으로 기대를 모은다. 이 밖에도 &amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하, 오늘(28일) 단독 콘서트 '스물' 대망의 티켓 오픈…#히트곡 #KSPO DOME #이머시브 사운드 '피케팅 예고']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23352</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23352"/>
-        <updated>2023-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤하의 20주년 콘서트 예매가 본격 시작된다.28일 오후 6시 온라인 예매 사이트 인터파크 티켓을 통해 윤하의 20주년 기념 단독 콘서트 '스물' 일반 예매가 오픈된다.'스물'은 오는 2024년 2월 3일과 4일 서울 올림픽공원 KSPO DOME(케이스포 돔)에서 열린다. 윤하는 데뷔 20주년이 되는 2024년 총 20회의 콘서트를 선보이며, '스물'이 그 스타트를 끊을 예정이다.지난 27일 오후 진행된 팬클럽 선예매를 통해 '스물'은 인터파트 티켓 내 압도적인 일일 판..]]></content>
     </entry>
 </feed>

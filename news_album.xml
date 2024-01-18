@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-17T23:15:38.009Z</updated>
+    <updated>2024-01-18T01:03:11.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우디, 오늘(18일) 신곡 '너, 나 우리 둘이' 발매! 취향 저격 겨울 발라드 탄생]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23410</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23410"/>
+        <updated>2024-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 우디(Woody)가 깊은 감성으로 사랑을 노래한다.우디는 18일 오후 6시 각종 온라인 음원사이트를 통해 방구석 캐스팅 음원 '너, 나 우리 둘이'를 발매한다.'너, 나 우리 둘이'는 따뜻한 감성을 가득 채운 사랑 노래로, 알앤비(R&amp;B) 특유의 그루브한 리듬과 리드미컬함이 돋보인다. 여기에 우디의 유니크한 보컬이 더해져 곡이 가진 장점을 극대화할 전망이다특히 우디는 "너, 나 우리 둘이 / 마치 이 밤이 영원할 듯이 / 어제도 오늘도 내일도 / 꿈꾸던 걸 그대로 다 이루고 싶어 / ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 김성규, 자우림 원곡 '미안해 널 미워해' 재해석...20일 리메이크 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23406</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23381"/>
         <updated>2024-01-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 KCM이 데뷔 20주년 앨범 예약 판매에 돌입한다.KCM은 8일 오후 각종 음반 사이트를 통해 데뷔 20주년 앨범 '우리들(US)'의 예약 판매를 시작한다.이번 앨범은 그간 KCM을 응원해준 팬들을 위해 피지컬 앨범으로 발매된다. KCM의 활동 초창기였던 2000년대의 감성을 재현한 패키지는 물론, 권재열 포토그래퍼와 함께 제주도에서 촬영한 레트로 스타일의 화보가 공개될 예정이다.'우리들(US)'은 지난 2004년 데뷔앨범 'Beautiful mind (뷰티풀 마인드)'로 데뷔한 KC..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불타는 트롯맨' 유닛 손태진?신성?에녹, 13일 새 미니앨범 '아시나요' 발매 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23378</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23378"/>
-        <updated>2024-01-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['불타는 트롯맨' 유닛 불타는 신에손이 새해 열일 행보를 잇는다.불타는 신에손(손태진, 신성, 에녹)은 지난 6일과 7일 공식 SNS를 통해 로고 티저 이미지와 타임테이블을 공개하며, 오는 13일 새 미니앨범 '아시나요' 발매 소식을 공식화했다.&nbsp;공개된 로고 티저 속 진한 갈색 빛의 갈대가 서정적인 분위기를 자아내는 가운데, 클래식한 폰트로 새겨진 앨범명 '아시나요'가 눈길을 사로잡는다.&nbsp;이번 앨범에는 앨범명과 동명의 타이틀곡 '아시나요'를 비롯해 지난달 30일 발표한 선공개..]]></content>
     </entry>
 </feed>
