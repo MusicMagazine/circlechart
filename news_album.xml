@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-19T02:30:21.231Z</updated>
+    <updated>2024-01-19T03:16:17.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤종신, 23일 음악 프로젝트 ‘track by YOON’ 네 번째 신보 공개!...“겨울과 어울리는 R&B 발라드곡”]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23414</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23414"/>
+        <updated>2024-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로듀서 윤종신이 음악 프로젝트 ‘track by YOON’ 2024년 첫 앨범을 선보인다.미스틱스토리의 대표 프로듀서 윤종신이 가수 에디킴과 함께 오는 23일 오후 6시 음악 프로젝트 ‘track by YOON’의 네 번째 신보 ‘track by YOON Vol. 4: 괜찮아지겠지’를 선보인다. 이에 앞서, 미스틱스토리는 오늘(19일) ‘track by YOON (트랙 바이 윤)’ 공식 SNS를 통해 대표 프로듀서 윤종신의 오픈 인터뷰를 공개했다.‘track by YOON’은 미스틱스토리 소속 아티스트들의 기존 방향성과는 또 다른..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우디, 오늘(18일) 신곡 '너, 나 우리 둘이' 발매! 취향 저격 겨울 발라드 탄생]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23410</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23385"/>
         <updated>2024-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[디어클라우드(Dear Cloud)의 보컬 나인(NINE9)이 정규 2집으로 돌아온다.9일 엠와이뮤직에 따르면 나인은 오는 20일 오후 6시 정규 2집 ‘9colors (나인 컬러즈)’를 발매한다.&nbsp;‘9colors’는 나인이 2012년 선보인 정규 1집 ‘9Stories (나인스토리즈)’ 이후 약 12년 만에 발매하는 정규앨범이다. 그동안 디어클라우드의 보컬이자 솔로 아티스트로서 꾸준히 음악 활동을 선보여온 나인은 이번 앨범을 통해 더욱 깊고 견고해진 음악 세계를 선사할 예정이다.&nbsp;‘솔직하지 못해서’ ‘Life Is Good (라이프..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['14일 발매' KCM, 오늘(8일) 20주년 앨범 '우리들(US)' 예판 시작…레트로 감성 물씬]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23381</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23381"/>
-        <updated>2024-01-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 KCM이 데뷔 20주년 앨범 예약 판매에 돌입한다.KCM은 8일 오후 각종 음반 사이트를 통해 데뷔 20주년 앨범 '우리들(US)'의 예약 판매를 시작한다.이번 앨범은 그간 KCM을 응원해준 팬들을 위해 피지컬 앨범으로 발매된다. KCM의 활동 초창기였던 2000년대의 감성을 재현한 패키지는 물론, 권재열 포토그래퍼와 함께 제주도에서 촬영한 레트로 스타일의 화보가 공개될 예정이다.'우리들(US)'은 지난 2004년 데뷔앨범 'Beautiful mind (뷰티풀 마인드)'로 데뷔한 KC..]]></content>
     </entry>
 </feed>

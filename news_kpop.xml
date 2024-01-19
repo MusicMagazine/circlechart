@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-19T02:30:21.234Z</updated>
+    <updated>2024-01-19T03:16:17.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX, 신곡 'Lovers or Enemies' 가사·멜로디 일부 최초 공개! 세련된 중독성 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23413</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23413"/>
+        <updated>2024-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 타이틀곡 'Lovers or Enemies'의 높은 완성도를 예고했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 19일 0시 공식 유튜브 채널에 첫 번째 싱글 앨범 '0 or 1'(제로 오어 원)의 앨범 프리뷰를 게재했다.이번 앨범 프리뷰를 통해 타이틀곡 'Lovers or Enemies'(러버스 오어 에너미스)와 수록곡 '그림자 (My name is shadow)'의 가사와 멜로디 일부가 처음으로 공개됐다. 첫 번째 뮤직비디오 티저에서 비트만으..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['주간아이돌' 골든차일드 이장준, 성공적 MC 신고식...첫 방송부터 존재감 완벽 발산]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23408</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23391"/>
         <updated>2024-01-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 KCM이 신곡의 멜로디 일부를 공개하며 발매 열기를 이어간다.KCM은 지난 11일 오후 공식 유튜브 채널을 통해 데뷔 20주년 앨범 '우리들(US)' 타이틀곡 '아직 사랑하는 사람이 있어요'의 뮤직비디오 티저 영상을 공개했다.공개된 티저는 배우 병헌과 우주소녀 멤버이자 배우인 이루다의 출연으로 눈길을 끌었다. 영상은 서로를 그리워하던 두 사람이 마주보는 모습으로 마무리돼 팬들의 기대감을 더하고 있다.&nbsp;특히 티저를 통해 신곡 멜로디가 일부 공개돼 팬들의 귀를 사로잡았다. KCM은 노래에 담긴 정서를 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이하이, 신곡 ‘그대가 해준 말’ M/V 티저 추가 공개! 최현욱·홍수주 애틋한 열연]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23389</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23389"/>
-        <updated>2024-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이하이가 드라마 같은 뮤직비디오를 예고했다.AOMG는 지난 10일 공식 SNS 및 유튜브 채널에 이하이의 새 디지털 싱글 ‘그대가 해준 말’의 세 번째 뮤직비디오 티저 영상을 공개했다.영상에서는 학교 미술실을 배경으로 배우 최현욱과 홍수주의 달달한 순간이 그려졌다. 책상 위 잠든 최현욱을 애틋하게 바라보던 홍수주는 조심스럽게 다가가 그의 이마에 입을 맞췄다. 두 사람을 에워싼 몽글몽글한 기류가 풋풋했던 학창시절의 기억을 소환한다.특히 최현욱과 홍수주는 빈틈없는 열연으로 짜임새 있는 서사를 예고했다. 30초가량의 짧은 티저임에도..]]></content>
     </entry>
 </feed>
