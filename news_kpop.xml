@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-22T05:14:48.764Z</updated>
+    <updated>2024-01-22T06:20:04.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 2 CIRCLE CHART: ITZY ‘BORN TO BE’ Tops Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23419</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23419"/>
+        <updated>2024-01-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 2 CIRCLE CHART, ITZY ‘BORN TO BE’ topped the weekly Retail Album Chart by selling 74,994 copies at retailers.&nbsp;‘BORN TO BE' was the top seller as of 7PM (KST) on the date of its release, January 8th (Monday, week 2).‘BORN TO BE' is the new mini-album from ITZY, featuring a total o..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['24일 컴백' CIX, 다국어 능력 장착 완료! AI 브리핑→M/V 티저 전체 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23417</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23395"/>
         <updated>2024-01-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 'Lovers or Enemies' 뮤직비디오의 퀄리티를 예고했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 15일 0시 공식 유튜브 채널에 첫 번째 싱글 앨범 '0 or 1'(제로 오어 원) 타이틀곡 'Lovers or Enemies'(러버스 오어 에너미스)의 첫 번째 뮤직비디오 티저를 공개했다.어느 연구소를 배경으로 CIX 멤버들은 휴머노이드로 분했다. 휴머노이드 배진영은 머리에 기계를 씌우자 눈을 뜨는 모습으로 뮤직비디오의 색다른 스토리텔링에 대한 궁금증..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['24일 컴백' CIX, 타이틀곡은 'Lovers or Enemies'…첫 싱글 '0 or 1' 트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23392</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23392"/>
-        <updated>2024-01-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 새로운 타이틀곡 'Lovers or Enemies'로 컴백한다.CIX(BX, 승훈, 배진영, 용희, 현석)는 12일 0시 공식 SNS에 첫 번째 싱글 앨범 '0 or 1'(제로 오어 원)의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면, '0 or 1'는 타이틀곡 'Lovers or Enemies'(러버스 오어 에너미스)와 수록곡 '그림자' 등 총 2곡으로 구성돼 있다. CIX의 음악적 완성도가 이번엔 한층 유니크하게 펼쳐질 예정이다..]]></content>
     </entry>
 </feed>
