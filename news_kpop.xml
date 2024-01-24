@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-01-24T02:30:16.829Z</updated>
+    <updated>2024-01-24T03:15:52.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더윈드, 2월 14일 미니 2집 'Our : YouthTeen' 발매 확정! 6개월 만 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23426</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23426"/>
+        <updated>2024-01-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 2월 14일 새해 첫 활동에 나선다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 오는 2월 14일 두 번째 미니앨범 'Our : YouthTeen'(아워 : 유스틴)을 발매한다.'Our : YouthTeen'은 더윈드가 6개월 만에 선보이는 새 앨범이다. 더윈드는 지난해 5월 정식 데뷔한 5세대 청량돌로, 데뷔곡 'ISLAND'(아일랜드)와 8월 발매한 첫 싱글 타이틀곡 'WE GO'(위 고) 활동을 통해 K-POP 팬들의 눈도장을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나, 신보 'GOOD MORNING' 컴백 첫 주 성료…대체 불가 솔로 아이콘 '우뚝']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23422</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23401"/>
         <updated>2024-01-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 그루비룸(GroovyRoom)이 ‘Yes or No’의 작업기를 공개했다.그루비룸(휘민, 규정)은 15일 오후 공식 유튜브 채널을 통해 새 앨범의 선공개 싱글 ‘Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)’의 작업기를 담은 영상을 공개했다.앞서 이번 ‘Yes or No’에 피처링으로 참여한 그룹 르세라핌 멤버 허윤진과 크러쉬의 레코딩 현장을 담은 티저가 짧게 공개되어 화제를 모은 가운데, 이날 구체적인 작업기를 담은 영상 본편이 베일을 벗었다.그루비룸은 다년간 호흡을 맞춰온 프로듀서 팀답게..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["최고의 데뷔 퍼포먼스"…올아워즈, '으랏차차(GOTCHA)' M/V 2천만 뷰 돌파! 글로벌 반응 HOT]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23399</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23399"/>
-        <updated>2024-01-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 그룹 올아워즈(ALL(H)OURS)가 데뷔 첫 주 음악 방송을 성공리에 마쳤다.올아워즈는 지난 11일 Mnet '엠카운트다운'을 시작으로 12일 KBS 2TV '뮤직뱅크', 13일 MBC '쇼! 음악중심', 14일 SBS '인기가요'까지 잇달아 출연해 데뷔곡 '으랏차차(GOTCHA)' 무대를 선보였다.먼저 '엠카운트다운'에서 타이틀곡 최초 무대를 공개한 올아워즈는 첫 등장과 동시에 남다른 퍼포먼스와 기세로 무대를 장악하며 K팝 팬들에게 강렬한..]]></content>
     </entry>
 </feed>
