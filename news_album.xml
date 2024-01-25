@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-25T01:05:10.701Z</updated>
+    <updated>2024-01-25T02:31:25.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[적재, 28일 리메이크 음원 '새벽 통화' 발매 확정! 공감 더하는 음색 '몰입도 ↑']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23432</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23432"/>
+        <updated>2024-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 적재가 리본 프로젝트 가창자로 나선다.적재가 가창에 참여한 리본 프로젝트 컬래버레이션 음원 '새벽 통화'가 오는 28일 각종 온라인 음원사이트를 통해 발매된다.'리본 프로젝트'는 '새로 풀고 엮어 다시 만나다'라는 슬로건 아래 웹툰, 드라마, 도서, 영화 등 작품과 음원의 만남, 이전 발매됐던 숨겨진 명곡과 새로운 가창자의 만남 등 다양한 방식의 컬래버레이션을 선보이는 프로젝트다.적재의 목소리로 7년 만에 재해석되는 '새벽 통화'는 지난 2017년 싱어송라이터 한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 김성규, 샌드 페블즈 원곡 '나 어떡해' 다시 부른다...27일 리메이크 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23428</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23410"/>
         <updated>2024-01-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 우디(Woody)가 깊은 감성으로 사랑을 노래한다.우디는 18일 오후 6시 각종 온라인 음원사이트를 통해 방구석 캐스팅 음원 '너, 나 우리 둘이'를 발매한다.'너, 나 우리 둘이'는 따뜻한 감성을 가득 채운 사랑 노래로, 알앤비(R&amp;B) 특유의 그루브한 리듬과 리드미컬함이 돋보인다. 여기에 우디의 유니크한 보컬이 더해져 곡이 가진 장점을 극대화할 전망이다특히 우디는 "너, 나 우리 둘이 / 마치 이 밤이 영원할 듯이 / 어제도 오늘도 내일도 / 꿈꾸던 걸 그대로 다 이루고 싶어 / ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 김성규, 자우림 원곡 '미안해 널 미워해' 재해석...20일 리메이크 음원 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23406</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23406"/>
-        <updated>2024-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김성규가 자우림의 히트곡 '미안해 널 미워해'를 리메이크한다.소속사 더블에이치티엔이는 17일 0시 공식 SNS를 통해 김성규의 리메이크 디지털 싱글 프로젝트 첫 번째 곡 '미안해 널 미워해' 티저 이미지를 공개했다.공개된 이미지는 신곡 발매일인 1월 20일 토요일이 표시된 일력이 벽에 걸려 있는 레트로한 디자인으로 단번에 시선을 사로잡았다.김성규의 이름과 더불어 곡명 '미안해 널 미워해', 원곡자 '자우림(紫雨林)' 등 신곡과 관련된 다양한 문구로 빼곡하게 채워져 있는 ..]]></content>
     </entry>
 </feed>
