@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-26T01:00:37.212Z</updated>
+    <updated>2024-01-26T01:54:56.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KCM, 임재범 대표곡 ‘너를 위해’ 다시 부른다! 2월 2일 리메이크 음원 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23436</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23436"/>
+        <updated>2024-01-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 KCM이 임재범의 대표 명곡을 재해석한다.KCM은 오는 2월 2일 방구석 캐스팅 음원 '너를 위해'를 발매한다.'너를 위해'는 지난 2000년 발매된 임재범의 정규 4집 'Story Of Two Years (스토리 오브 투 이어스)'의 타이틀곡이자 영화 '동감'의 OST로 대중의 많은 사랑을 받은 곡이다. KCM이 24년 만에 KCM의 색깔로 재해석해 짙은 여운을 선사할 예정이다.특히 KCM의 애절한 보이스와 웅장한 오케스트라가 어우러져 곡의 감정선을 이끌고, 폭발하듯 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘싱어게인2 우승’ 김기태, 오늘(26일) 새 싱글 ‘해줄 수 없는 말’ 발매…명불허전 가창력 폭발]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23435</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23418"/>
         <updated>2024-01-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 백현(BAEKHYUN)이 서울 팬미팅으로 2024년 본격 활동을 시작했다.백현은 지난 20일과 21일 양일간 총 3회차에 걸쳐 서울 중구 장충체육관에서 2024 단독 팬미팅 '과자파티'를 성공적으로 개최했다.전국투어로 진행되는 '과자파티'의 첫 번째 서울 공연을 시작하며 백현은 "에리들 왔어?"라고 반가운 첫 인사를 전했다. 공연 업계 최저가 수준의 전석 44000원 티켓으로 팬 사랑을 실천한 백현은 이날도 공연 내내 '팬 사랑꾼'의 면모로 감탄과 환호를 유발했다. ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청춘스타' TOP5 류지현, 1년 만에 컴백…23일 신곡 'Get ready, Set, Go!' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23416</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23416"/>
-        <updated>2024-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['청춘스타' TOP5 류지현이 1년 만에 컴백한다.&nbsp;&nbsp;22일 n.CH엔터테인먼트는 "류지현이 오는 23일 새 디지털 싱글 'Get ready, Set, Go!(겟 레디, 셋, 고!)'를 발매한다"고 밝혔다.&nbsp;'Get ready, Set, Go!'는 지난해 1월 류지현이 발매한 싱글 '씰룩씰룩' 이후 1년 만의 신보다. 리드미컬한 베이스를 기반으로 화려한 드럼, 키치한 신디사이저 사운드가 특징인 하이퍼팝 장르의 곡으로, 류지현의 색다른 변신을 담았다.&nbsp;&nbsp;류지현은 ..]]></content>
     </entry>
 </feed>
