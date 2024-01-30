@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-01-30T01:51:45.176Z</updated>
+    <updated>2024-01-30T02:19:47.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“2am”, 역대급 발라드 신곡 ‘사랑은 먼 길을 돌아온 메아리 같아서’로 1월 30일 18시 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23450</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23450"/>
+        <updated>2024-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[“2am”이 ‘사랑은 먼 길을 돌아온 메아리 같아서’로 컴백한다. ‘명품 보컬 그룹 “2am”이 완전체로 참여한 ‘사랑은 먼 길을 돌아온 메아리 같아서’가 30일 오후 6시 국내외 모든 온라인 음원사이트를 통해 발매된다.&nbsp;“2am”의 ‘사랑은 먼 길을 돌아온 메아리 같아서’는 인연이 끝났음을 누구보다 잘 알면서도 반복되는 재회와 이별의 끈을 잡고 선 애처로운 연인을 노래 한 곡이다. 무엇보다 우리가 한 번쯤 사랑하는 이와 겪었던 현실적이고 애달픈 순간들이 시적인 표현의 가사를 통해 큰 공감을 불러일으키는 점이 묘미로 꼽힌다.&nbsp;곡의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동근, 오늘(29일) 인기 네이버웹툰 '선녀외전' 컬래버 음원 '언젠가는 다시 만난다' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23447</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23428"/>
         <updated>2024-01-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김성규가 록밴드 샌드 페블즈의 '나 어떡해'를 리메이크한다.소속사 더블에이치티엔이는 24일 0시 공식 SNS를 통해 김성규의 리메이크 디지털 싱글 프로젝트 두 번째 곡 '나 어떡해' 티저 이미지를 공개했다.공개된 이미지는 하얀 벽면에 레트로한 디자인의 일력이 걸려 있어 단번에 시선을 사로잡았다. 신곡 발매일인 1월 27일 토요일이 표시된 일력에는 김성규의 이름과 곡명인 '나 어떡해', 원곡자인 '샌드 페블즈(Sandpebbles)' 등 신곡과 관련된 단어들로 빼곡히 채워..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, 오늘(24일) 첫 싱글 '0 or 1' 발매! 휴머노이드의 '돌직구' 사랑 이야기]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23427</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23427"/>
-        <updated>2024-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 'Lovers or Enemies'로 돌아온다.CIX(BX, 승훈, 배진영, 용희, 현석)는 24일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 싱글 앨범 '0 or 1'(제로 오어 원)을 발매한다.'0 or 1'은 CIX가 8개월 만에 발매하는 신보이자 새해 첫 활동이다. 세계관 스토리를 잠시 내려놓고 타이틀곡 'Lovers or Enemies'(러버스 오어 에너미스)와 수록곡 '그림자 (My name is shadow)'를 ..]]></content>
     </entry>
 </feed>
