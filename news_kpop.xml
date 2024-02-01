@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-01T01:02:19.233Z</updated>
+    <updated>2024-02-01T02:24:02.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['14일 컴백' 더윈드, 미니 2집 'Our : YouthTeen' 전곡 트랙비디오 공개 완료! 음원 자신감]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23456</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23456"/>
+        <updated>2024-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 4곡의 트랙비디오로 음원에 대한 남다른 자신감을 드러냈다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 지난달 29일부터 오늘(1일)까지 나흘간 공식 유튜브 채널을 통해 두 번째 미니앨범 'Our : YouthTeen'(아워 : 유스틴)에 수록된 4곡 전곡의 트랙비디오를 차례로 공개했다.이번 앨범에는 타이틀곡 'H! TEEN'(하이틴)을 포함해 '설레는 마음으로', '우정', 'Happy B Day'(해피 비 데이)까지 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유겸 (YUGYEOM), 정규앨범 수록곡 ‘LA SOL MI’ 1/31 선공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23452</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23438"/>
         <updated>2024-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 3 CIRCLE CHART, NMIXX 'Fe3O4: BREAK' topped the weekly Retail Album Chart by selling 496,629 copies at retailers.Released on January 15th, 'Fe3O4: BREAK' was the top seller as of 11AM (KST) on January 16th (Tuesday, week 3).'Fe3O4: BREAK' is the 2nd mini-album fro..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2월 14일 컴백' 더윈드, 新 타이틀곡은 'H! TEEN'…미니 2집 트랙리스트 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23437</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23437"/>
-        <updated>2024-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 새로운 타이틀곡 'H! TEEN'으로 컴백한다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 26일 0시 공식 SNS를 통해 두 번째 미니앨범 'Our : YouthTeen'(아워 : 유스틴)의 트랙리스트를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 'H! TEEN'(하이틴)을 포함해 '설레는 마음으로', '우정', 'Happy B Day'(해피 비 데이)까지 총 4곡이 수록된다. 앞서 트레일러에..]]></content>
     </entry>
 </feed>
