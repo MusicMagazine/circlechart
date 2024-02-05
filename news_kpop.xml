@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-05T01:00:57.611Z</updated>
+    <updated>2024-02-05T01:58:08.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 4 CIRCLE CHART: EVNNE 'Un: SEEN' Tops Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464"/>
+        <updated>2024-02-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 4 CIRCLE CHART, EVNNE 'Un: SEEN' topped the weekly Retail Album Chart by selling 78,134 copies at retailers.&nbsp;Released on January 22nd, 'Un: SEEN' was the top seller as of 5PM (KST) on January 26th (Friday, week 4).'Un: SEEN' is the 2nd mini-album from EVNNE. It fe..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['14일 컴백' 더윈드, 미니 2집 'Our : YouthTeen' 전곡 트랙비디오 공개 완료! 음원 자신감]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23456</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23439"/>
         <updated>2024-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 2 CIRCLE CHART (formerly gaonchart) was dominated by LE SSERAFIM and ITZY, among other artists.KMCA, publisher of CIRCLE CHART, announced that “As of week 2 (2024.01.07.~2024.01.13.), LE SSERAFIM swept 3 charts while ITZY topped 2 charts."LE SSERAFIM swept a total of 3 charts, with thei..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 3 CIRCLE CHART: NMIXX 'Fe3O4: BREAK' is No. 1 in Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23438</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23438"/>
-        <updated>2024-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 3 CIRCLE CHART, NMIXX 'Fe3O4: BREAK' topped the weekly Retail Album Chart by selling 496,629 copies at retailers.Released on January 15th, 'Fe3O4: BREAK' was the top seller as of 11AM (KST) on January 16th (Tuesday, week 3).'Fe3O4: BREAK' is the 2nd mini-album fro..]]></content>
     </entry>
 </feed>
