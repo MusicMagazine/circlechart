@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-06T00:59:04.468Z</updated>
+    <updated>2024-02-06T01:51:00.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘허윤진 (HUH YUNJIN)·Crush 피처링’ 그루비룸 (GroovyRoom), ‘Yes or No’ 음원 차트 역주행 시동!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23469</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23469"/>
+        <updated>2024-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 그루비룸(GroovyRoom)이 ‘Yes or No(Feat. 허윤진 of LE SSERAFIM, Crush)’로 역주행에 시동을 걸었다.그루비룸(휘민, 규정)이 지난달 17일 발매한 새 앨범의 선공개 싱글 ‘Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)’는 멜론 실시간 차트 최고 57위를 기록했다.‘Yes or No’는 발매 당일 멜론 실시간 차트 110위를 기록한 데 이어 한 달여 간 꾸준히 자체 최고 순위를 경신하고 있다. TOP 100 차트에서는 지난달 28일 처음 진입한 이후 현재까..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 4 CIRCLE CHART: EVNNE 'Un: SEEN' Tops Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23440"/>
         <updated>2024-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[&lt;써클차트 뮤직 어워즈 2023&gt;(이하 ‘CCMA 2023’) (주최: 써클차트 주관: 한국음악콘텐츠협회, SPOTV)이 지난 1월 10일, 부산 BEXCO에서 성황리에 개최됐습니다. 4시간의 대장정을 펼친 이번 시상식은 SPOTV, STATV에서 생방송되었고, 유튜브 1theK와 wishyou.tv를 통해 온라인 생중계되었습니다. 오픈 4분 만에 전석 매진과 함께 시상식 당일까지도 수많은 화제를 끌어 모았던 &lt;써클차트 뮤직 어워즈 2023&gt;의 현장을 되돌아볼까요?&nbsp;&nbsp;&nbsp;&nbsp;[기다림의 설렘이 가득한 이벤트존] &nbsp;&nbsp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 2 CIRCLE CHART: LE SSERAFIM and ITZY Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23439</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23439"/>
-        <updated>2024-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 2 CIRCLE CHART (formerly gaonchart) was dominated by LE SSERAFIM and ITZY, among other artists.KMCA, publisher of CIRCLE CHART, announced that “As of week 2 (2024.01.07.~2024.01.13.), LE SSERAFIM swept 3 charts while ITZY topped 2 charts."LE SSERAFIM swept a total of 3 charts, with thei..]]></content>
     </entry>
 </feed>

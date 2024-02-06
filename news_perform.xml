@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-06T00:59:04.481Z</updated>
+    <updated>2024-02-06T01:51:00.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 첫 단독 팬콘 ‘Mystery Elevator’ 미리보기…#스페셜 스테이지 #만능 매력]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23472</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23472"/>
+        <updated>2024-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 차은우(판타지오 소속)가 단독 팬콘을 풍성한 스테이지로 채운다.차은우는 오는 17일 서울에서 단독 팬콘 ‘2024 Just One 10 Minute [Mystery Elevator]’(2024 저스트 원 텐 미닛 [미스테리 엘리베이터])의 서막을 알린다.이번 팬콘은 차은우가 데뷔 이래 선보이는 가장 큰 규모의 단독 공연이다. 앞서 총 세 시즌의 ‘Just One 10 Minute’ 팬미팅을 성황리에 마친 차은우는 첫 팬콘 투어로 더욱 많은 국내외 팬들과 시간을 보내는 것은 물론, 글로벌한 무대 경험과 변함없는 열정을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 20주년 SG워너비, 3월 KSPO DOME에서 포문…전국투어 나선다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23466</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23411"/>
         <updated>2024-01-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 박지윤이 6년 9개월 만에 정규 앨범을 발매하고, 5년 만에 단독 콘서트를 개최한다.박지윤은 오는 3월 2일 LG아트센터 서울, LG SIGNATURE 홀에서 2024 박지윤 콘서트 'Love is my song (러브 이즈 마이 송)'을 통해 팬들과 만난다.'Love is my song'은 박지윤이 지난 2019년 개최한 콘서트 이후 약 5년 만에 개최하는 단독 콘서트다. 박지윤은 대중음악 가수로는 세 번째로 LG아트센터 서울 무대에 오르는 것으로 알려져 관심을 끌고 있다.박지윤은 오랜 공백을 깨..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 더로즈, 美 최대 음악 페스티벌 ‘코첼라’ 출연! 글로벌 영향력 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23409</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23409"/>
-        <updated>2024-01-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 더로즈(The Rose)가 ‘코첼라’ 무대에 선다.더로즈(김우성, 박도준, 이재형, 이하준)는 오는 4월 14일과 21일 미국 최대 규모 음악 페스티벌 ‘코첼라 밸리 뮤직 앤드 아츠 페스티벌 (Coachella Valley Music and arts Festival)’ (이하 ‘코첼라’) 무대에 오른다.공개된 라인업에 따르면 올해에는 도자 캣(Doja Cat), 라나 델 레이(Lana Del Rey), 타일러 더 크리에이터(Tyler, the Creator) 등 미국 빌보드 차트를 점령하고 ‘그래미 어워드’에서 다수의 트로피를..]]></content>
     </entry>
 </feed>
