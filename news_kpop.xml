@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-07T00:57:32.273Z</updated>
+    <updated>2024-02-07T01:46:56.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['14일 컴백' 더윈드, 우정 사진의 정석! 미니 2집 'Our : YouthTeen' 티저 추가 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23476</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23476"/>
+        <updated>2024-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 'H! TEEN'으로 훈훈한 우정을 보여준다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 6일과 7일 공식 SNS에 미니 2집 'Our : YouthTeen'(아워 : 유스틴)의 두 번째 콘셉트 포토를 공개했다.콘셉트 포토 속 더윈드는 홈파티를 즐기고 있는 모습이다. 멤버들의 화려한 비주얼과 이들을 둘러싼 케이크, 컨페티 등의 소품은 찬란한 청춘의 이야기를 시각적으로도 표현한다.우정이라는 'Our : YouthTeen'의 메인 키워드 또한 편안하고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘허윤진 (HUH YUNJIN)·Crush 피처링’ 그루비룸 (GroovyRoom), ‘Yes or No’ 음원 차트 역주행 시동!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23469</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23441"/>
         <updated>2024-01-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[숨 좀 돌리셨나요? 바로 2부시작합니다!&nbsp;2부의 첫 무대로 또다른 신인상의 주인공 ZEROBASEONE이 올랐습니다.장하오님의 아름다운 춤선이 돋보이는 독무에 이어 전체 댄스브레이크로 시선을 한 번에 사로잡은 뒤, ‘New Kids on the Block’ + ’CRUSH’ 무대가 이어졌습니다.&nbsp;건욱님 생일을 맞아 깜짝 준비한 무대 퍼포먼스까지, 9분가량의 시간이었지만 지루할 틈 없이 꽉꽉 채워진 무대로 다시 한번 텐션을 끌어올립니다. +_+&nbsp;&nbsp;[올해의 뉴 아이콘상]은 참신하고 새로운 음악 트렌드를 보여준 아티스트에게 수여하는 상입..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[써클차트 뮤직 어워즈 2023 review! <1>]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23440</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23440"/>
-        <updated>2024-01-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[&lt;써클차트 뮤직 어워즈 2023&gt;(이하 ‘CCMA 2023’) (주최: 써클차트 주관: 한국음악콘텐츠협회, SPOTV)이 지난 1월 10일, 부산 BEXCO에서 성황리에 개최됐습니다. 4시간의 대장정을 펼친 이번 시상식은 SPOTV, STATV에서 생방송되었고, 유튜브 1theK와 wishyou.tv를 통해 온라인 생중계되었습니다. 오픈 4분 만에 전석 매진과 함께 시상식 당일까지도 수많은 화제를 끌어 모았던 &lt;써클차트 뮤직 어워즈 2023&gt;의 현장을 되돌아볼까요?&nbsp;&nbsp;&nbsp;&nbsp;[기다림의 설렘이 가득한 이벤트존] &nbsp;&nbsp;..]]></content>
     </entry>
 </feed>
