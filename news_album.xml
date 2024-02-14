@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-02-14T00:59:30.288Z</updated>
+    <updated>2024-02-14T01:52:43.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['22일 컴백' 김범수, 정규 9집 '여행' 트랙리스트 공개! 최유리→선우정아·이상순 등 프로듀싱 참여]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23487</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23487"/>
+        <updated>2024-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김범수가 새로운 매력을 가득 담은 앨범을 예고했다.김범수는 13일 공식 SNS를 통해 정규 9집 '여행'의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면 이번 앨범에는 타이틀곡 '여행'을 비롯해 '너를 두고', '그대의 세계', '걸어갈게', '각인', '나이', '머그잔', '꿈일까', '너는 궁금하지 않을 것 같지만', '혼잣말', 'Journey'까지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[015B(공일오비), 셀프 리메이크 ‘성냥팔이 소녀 (Feat. 강민정)’ 발표]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23480</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23470"/>
         <updated>2024-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 트리플 타이틀곡을 선보인다.엔싸인은 6일 0시 공식 SNS를 통해 미니 2집 'Happy &amp;(해피 앤드)'의 트랙리스트 이미지를 게재했다.트랙리스트에 따르면 이번 앨범에는 첫 번째 트랙 'Happy &amp;(해피 앤드)'를 시작으로 'FUNK JAM(펑크 잼)', 'Love, Love, Love Love Love!(러브, 러브, 러브 러브 러브!)', 'Black Down(블랙 다운)', '나의 바다 (Memorie..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['부활 출신' 김동명, 오늘(6일) '하늘 끝에서 흘린 눈물' 발매…주니퍼 레전드 명곡 리메이크]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23468</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23468"/>
-        <updated>2024-02-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[김동명이 재해석한 주니퍼의 명곡 '하늘 끝에서 흘린 눈물'이 베일을 벗는다.김동명은 6일 오후 6시 각종 온라인 음원사이트를 통해 '방구석 캐스팅' 음원 '하늘 끝에서 흘린 눈물'을 발매한다.'하늘 끝에서 흘린 눈물'은 지난 2001년 발매된 주니퍼의 정규앨범 'Junyfore Vol. 1' 타이틀곡이다. 원곡 발매 20년이 훌쩍 지난 현재까지 아티스트는 물론 음악 팬들로부터 뜨거운 사랑을 받고 있다.앞서 김동명은 온라인을 통해 김동명만의 감성과 정성이 깃든 다..]]></content>
     </entry>
 </feed>
