@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-15T00:59:16.550Z</updated>
+    <updated>2024-02-15T01:52:11.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스 강유찬, 오늘(15일) 만기 전역! 군백기 끝→2024년 꽉 채울 완전체 행보]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494"/>
+        <updated>2024-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 막내 강유찬의 전역과 함께 완전체 활동을 재개한다.에이스 강유찬은 15일 육군 현역 복무를 마치고 병장 만기 전역한다. 이어 전역 당일인 이날 오후 9시 유튜브 라이브 방송을 통해 팬들에게 직접 복귀 인사를 전한다.이를 통해 에이스는 다섯 멤버 전원이 병역의 의무를 성실하게 이행하고 '군필' 타이틀을 달게 됐다. 약 3년 만에 완전체로 돌아온 에이스가 2024년을 다양한 활동으로 꽉 채울 계획이다.막내 강유찬의 전역을 기념해 에이스 박준희, 이동훈, 와우, 김병관도 이날 오후 9시 유튜브 라..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, ‘ENTITY’ 메인 트레일러 공개...영화보다 더 영화 같은 무드 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23489</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464"/>
         <updated>2024-02-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 4 CIRCLE CHART, EVNNE 'Un: SEEN' topped the weekly Retail Album Chart by selling 78,134 copies at retailers.&nbsp;Released on January 22nd, 'Un: SEEN' was the top seller as of 5PM (KST) on January 26th (Friday, week 4).'Un: SEEN' is the 2nd mini-album from EVNNE. It fe..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['14일 컴백' 더윈드, 미니 2집 'Our : YouthTeen' 전곡 트랙비디오 공개 완료! 음원 자신감]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23456</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23456"/>
-        <updated>2024-02-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 4곡의 트랙비디오로 음원에 대한 남다른 자신감을 드러냈다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 지난달 29일부터 오늘(1일)까지 나흘간 공식 유튜브 채널을 통해 두 번째 미니앨범 'Our : YouthTeen'(아워 : 유스틴)에 수록된 4곡 전곡의 트랙비디오를 차례로 공개했다.이번 앨범에는 타이틀곡 'H! TEEN'(하이틴)을 포함해 '설레는 마음으로', '우정', 'Happy B Day'(해피 비 데이)까지 ..]]></content>
     </entry>
 </feed>

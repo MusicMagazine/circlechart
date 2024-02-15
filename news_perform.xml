@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-15T00:59:16.538Z</updated>
+    <updated>2024-02-15T01:52:11.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자우림, 오는 3월 9~10일 데뷔 27년만 첫 팬 콘서트 <러브공작단 시크릿 쥬-주 총회> 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23495</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23495"/>
+        <updated>2024-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[국내 원톱 혼성밴드 자우림이 데뷔 27년 만에 처음으로 팬 콘서트(팬미팅)를 가진다.&nbsp;&nbsp;자우림은 오는 3월 9일과 10일 양일간 서울 신한카드 SOL페이 스퀘어 라이브홀에서 데뷔 27년 만에 첫 팬 콘서트인 &lt;러브공작단 시크릿 쥬-주 총회&gt;를 개최한다.&nbsp;공식 팬클럽 ‘러브공작단’ 제1기를 대상으로 진행되는 이번 팬 콘서트는 자우림이 데뷔 이래 처음으로 팬들과 함께하는 자리이기에 더욱 의미가 남다르다.&nbsp;&nbsp;자우림 멤버들은 이번 팬 콘서트를 위해 다양한 셋 리스트와 프로그램을 준비하고 있으며, 팬클럽 홈페이지를 통해 사전에 듣..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SG워너비, 오늘(14일) 단독 콘서트 '우리의 노래' 티켓 오픈→관객 전원에 LED 응원 도구 선물]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23486</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23431"/>
         <updated>2024-01-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘인(WheeIn)이 아시아 투어를 통해 글로벌 팬들과 만난다.소속사 더라이브는 25일 0시 공식 SNS를 통해 '2024 휘인 퍼스트 월드 투어 : 휘 인 더 무드 [비욘드](2024 Whee In 1ST WORLD TOUR : WHEE IN THE MOOD [BEYOND])'(이하 '휘 인 더 무드 [비욘드]') 아시아 투어 포스터를 공개했다.공개된 포스터는 화사한 하늘색 배경 속 휘인의 치명적인 비주얼을 담고 있어 단번에 시선을 사로잡았다. 길게 늘어뜨린 금발에 블랙 투피스를 착용한 휘인의 매..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠기 (Coogie), 3월 첫 단독 콘서트 'BEFORE UPSET' 개최!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23425</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23425"/>
-        <updated>2024-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 쿠기(Coogie)가 데뷔 6년 만에 첫 단독 콘서트를 선보인다.쿠기는 오는 3월 2일 오후 6시 서울 용산구 노들섬 라이브하우스에서 2024 단독 콘서트 'BEFORE UPSET (비포 업셋)'을 개최한다.'BEFORE UPSET'은 쿠기가 데뷔 6년 만에 처음으로 개최하는 단독 콘서트다. 'UPSET'이 이종격투기 대회 UFC에서 언더독이 상위 랭커를 이길 때 쓰이는 표현이라는 점에서 착안해 이번 콘서트 타이틀을 작명했다. 쿠기는 다양한 라이브 무대로 'UPSET'..]]></content>
     </entry>
 </feed>
