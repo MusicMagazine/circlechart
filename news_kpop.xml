@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-16T02:19:46.580Z</updated>
+    <updated>2024-02-16T03:16:24.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[January CIRCLE CHART: Jung Kook, TAEYEON, (G)I-DLE, and NMIXX Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23503</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23503"/>
+        <updated>2024-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Jung Kook, TAEYEON, (G)I-DLE, and NMIXX dominated the January CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for January 2024, Jung Kook topped the Global K-pop chart while TAEYEON swept 4 charts. Also, (G)I-DLE topped the Album Chart and NMIXX topped t..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스 강유찬, 오늘(15일) 만기 전역! 군백기 끝→2024년 꽉 채울 완전체 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23469"/>
         <updated>2024-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 그루비룸(GroovyRoom)이 ‘Yes or No(Feat. 허윤진 of LE SSERAFIM, Crush)’로 역주행에 시동을 걸었다.그루비룸(휘민, 규정)이 지난달 17일 발매한 새 앨범의 선공개 싱글 ‘Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)’는 멜론 실시간 차트 최고 57위를 기록했다.‘Yes or No’는 발매 당일 멜론 실시간 차트 110위를 기록한 데 이어 한 달여 간 꾸준히 자체 최고 순위를 경신하고 있다. TOP 100 차트에서는 지난달 28일 처음 진입한 이후 현재까..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 4 CIRCLE CHART: EVNNE 'Un: SEEN' Tops Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23464"/>
-        <updated>2024-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 4 CIRCLE CHART, EVNNE 'Un: SEEN' topped the weekly Retail Album Chart by selling 78,134 copies at retailers.&nbsp;Released on January 22nd, 'Un: SEEN' was the top seller as of 5PM (KST) on January 26th (Friday, week 4).'Un: SEEN' is the 2nd mini-album from EVNNE. It fe..]]></content>
     </entry>
 </feed>
