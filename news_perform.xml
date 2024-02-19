@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-19T01:00:12.971Z</updated>
+    <updated>2024-02-19T01:54:17.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로꼬, 6년 만에 단독 콘서트 'ALL I NEED' 성료! 40곡 풀 밴드 셋 라이브]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23504</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23504"/>
+        <updated>2024-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 로꼬(Loco)가 6년 만에 단독 콘서트를 성료했다.로꼬는 지난 17, 18일 양일간 서울 올림픽공원 올림픽홀에서 2024 로꼬 콘서트 'ALL I NEED (올 아이 니드)'를 개최했다.'ALL I NEED'는 로꼬가 6년 만에 연 단독 콘서트다. 이에 정규 2집 'WEAK (위크)'의 신곡과 지난 6년간 발매한 히트곡 '감아', '주지마', '시간이 들겠지', '니가 모르게', '지나쳐' 등 총 40곡이 넘..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수, 오늘(16일) 세종문화회관 콘서트 티켓 오픈…데뷔 25주년 기념 국내외 투어 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23500</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23454"/>
         <updated>2024-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 SG워너비(김용준, 김진호, 이석훈)가 데뷔 20주년을 맞아 오는 3월 단독 콘서트를 개최한다.SG워너비는 팬 사랑에 보답하고자 '역대급' 찬사와 호평이 쏟아진 공연 '우리의 노래'를 다시 한번 이어간다.SG워너비 콘서트 '우리의 노래'는 SG워너비가 데뷔 20주년을 목표로 오랜 시간 준비하고 공들인 공연으로 지난해 1월 코로나19로 인한 마스크 착용 의무 해제 후 첫선을 보였다.지난해 3월 SG워너비가 7년 만에 완전체로 개최한 공연 '우리의 노래'는 티켓 오픈과 동시..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스트비, 단독 팬미팅 ‘READY, BURN!’ 성료! “멋지게 성장하는 온리비의 자랑이 되겠다”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23445</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23445"/>
-        <updated>2024-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 첫 단독 팬미팅으로 새해 활동의 포문을 활짝 열었다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난 28일 오후 2시와 6시 총 2회에 걸쳐 서울 양천구 코바코홀에서 온·오프라인으로 2024 첫 단독 팬미팅 ‘READY, BURN!’ in SEOUL(‘레디, 번!’ 인 서울)을 개최했다.1년 만에 단독 공연으로 팬들과 재회한 저스트비는 지난해 발매한 미니 4집의 타이틀곡 ‘MEDUSA’(메두사)를 비롯해 다양한 수록곡과 캐럴 신곡 ‘I luv you Merry Christmas’(아이..]]></content>
     </entry>
 </feed>
