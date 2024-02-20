@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-02-20T00:59:02.399Z</updated>
+    <updated>2024-02-20T01:49:20.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그_냥, 27일 리메이크 음원 발매 확정! 백예린 이어 소히 '산책' 다시 부른다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23510</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23510"/>
+        <updated>2024-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 그_냥이 방구석 캐스팅 프로젝트 가창자로 나선다.그_냥은 오는 27일 오후 6시 방구석 캐스팅 음원 '산책'을 발매한다.'산책'은 지난 2010년 발매된 가수 소히의 정규앨범 'Mingle (밍글)'의 수록곡으로, 백예린이 리메이크하며 큰 사랑을 받은 바 있다. 그_냥은 감성적인 보컬로 그리운 사람을 떠올리며 밤 산책을 거니는 화자의 상황을 곡에 고스란히 녹여내며 몰입감을 높였다.특히 특유의 담백하고 감성적인 보이스로 많은 리스너들의 관심을 받고 있는 그_냥은 이번에도 본인만의 독보적..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 오늘(19일) 미니 2집 선공개 곡 ‘PASTEL’ 깜짝 발매…본격 컴백 시동]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23507</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23487"/>
         <updated>2024-02-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김범수가 새로운 매력을 가득 담은 앨범을 예고했다.김범수는 13일 공식 SNS를 통해 정규 9집 '여행'의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면 이번 앨범에는 타이틀곡 '여행'을 비롯해 '너를 두고', '그대의 세계', '걸어갈게', '각인', '나이', '머그잔', '꿈일까', '너는 궁금하지 않을 것 같지만', '혼잣말', 'Journey'까지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[015B(공일오비), 셀프 리메이크 ‘성냥팔이 소녀 (Feat. 강민정)’ 발표]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23480</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23480"/>
-        <updated>2024-02-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 그룹 015B(공일오비)가 2월 8일 정오, 셀프 리메이크곡 '성냥팔이 소녀 (Feat. 강민정)'을 발표한다.015B는 매달 싱글을 발표하고 있으며, 신곡과 리메이크를 번갈아 가면서 발표하고 있다. 특히 이번에는 2006년 발표한 7집 앨범의 곡들을 ‘잠시 길을 잃다’, ‘우린 같은 꿈을 꾼 거야’, 이번 ‘성냥팔이 소녀’까지 연속으로 리메이크하여 당시 015B의 음악을 사랑하던 팬들에게 큰 호응을 얻고 있다.이번 ‘성냥팔이 소녀’ 리메이크는 원곡의 느낌은 최대한 살리면서, 현대적이면서 새로운 편곡으로 보컬..]]></content>
     </entry>
 </feed>

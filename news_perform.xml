@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-20T00:59:02.393Z</updated>
+    <updated>2024-02-20T01:49:20.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에픽하이, 데뷔 20주년 콘서트 앙코르 공연 확정! 3월 16일 인스파이어 아레나 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511"/>
+        <updated>2024-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 수많은 팬들의 성원에 힘입어 앙코르 콘서트로 돌아온다.에픽하이(타블로, 미쓰라, 투컷)의 데뷔 20주년 앙코르 콘서트가 오는 3월 16일 인천 인스파이어 아레나에서 개최된다. 개최에 앞서 20일 오후 6시부터 온라인 예매사이트 인터파크 티켓을 통해 앙코르 콘서트 티켓 예매가 오픈된다.에픽하이는 지난 11월 데뷔 20주년 콘서트의 티켓 오픈과 동시에 전석 매진을 기록하며 여전한 티켓 파워를 입증한 바 있다. 이번 공연은 앞서 큰 사랑을 받은 에픽하이 20주년 콘서트의 앙코르 콘서트로, 공연을 찾지 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로꼬, 6년 만에 단독 콘서트 'ALL I NEED' 성료! 40곡 풀 밴드 셋 라이브]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23504</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23462"/>
         <updated>2024-02-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 허용별이 고양과 광주, 대전 공연을 성공적으로 마무리했다.허용별(허각, 신용재, 임한별)은 지난 1월 20일 고양아람누리 아람극장, 27일 광주예술의전당 대극장, 2월 3일 충남대학교 정심화홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최했다.새해를 맞이해 새롭게 단장한 공연에서 허각과 신용재, 임한별은 허용별의 데뷔곡 'Happiness (해피니스)'와 브라운 아이드 소울의 'My Story (마이 스토리)'로 포문을 열었다. 이어..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SG워너비, 데뷔 20주년 콘서트 개최 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23454</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23454"/>
-        <updated>2024-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 SG워너비(김용준, 김진호, 이석훈)가 데뷔 20주년을 맞아 오는 3월 단독 콘서트를 개최한다.SG워너비는 팬 사랑에 보답하고자 '역대급' 찬사와 호평이 쏟아진 공연 '우리의 노래'를 다시 한번 이어간다.SG워너비 콘서트 '우리의 노래'는 SG워너비가 데뷔 20주년을 목표로 오랜 시간 준비하고 공들인 공연으로 지난해 1월 코로나19로 인한 마스크 착용 의무 해제 후 첫선을 보였다.지난해 3월 SG워너비가 7년 만에 완전체로 개최한 공연 '우리의 노래'는 티켓 오픈과 동시..]]></content>
     </entry>
 </feed>
