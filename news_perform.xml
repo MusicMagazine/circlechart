@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-21T00:59:27.110Z</updated>
+    <updated>2024-02-21T01:52:01.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백현, 3월 단독 콘서트 'Lonsdaleite' KSPO DOME 전석 매진! 티켓 파워 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23514</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23514"/>
+        <updated>2024-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엑소(EXO) 멤버 겸 솔로 아티스트 백현(BAEKHYUN)이 KSPO DOME 콘서트를 앞두고 티켓 파워를 발휘했다.백현의 2024 단독 콘서트 'Lonsdaleite'(론스달라이트)는 지난 20일 오후 8시 온라인 예매 사이트 멜론티켓을 통해 일반 예매를 오픈한 당일에 빠르게 전석 매진을 기록했다.'Lonsdaleite'는 백현의 첫 오프라인 솔로 콘서트로 개최 소식을 발표한 이후 줄곧 뜨거운 관심을 받고 있다. 백현은 엑소(EXO) 단체 공연에 이어 솔로로서도 국내 대표 대공연장인 KSPO D..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에픽하이, 데뷔 20주년 콘서트 앙코르 공연 확정! 3월 16일 인스파이어 아레나 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23466"/>
         <updated>2024-02-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 SG워너비가 8년 만에 전국투어를 개최한다.SG워너비(김용준, 김진호, 이석훈)는 지난 4일 개인 SNS를 통해 데뷔 20주년 콘서트 '우리의 노래'의 전국투어 일정을 공개했다.공개된 일정에 따르면 SG워너비는 오는 3월 22일부터 24일까지 3일간 서울 KSPO DOME를 시작으로 4월 6일 대구, 4월 27일 전주, 5월 4일 인천, 5월 25일 광주, 6월 1일 대전, 6월 15일 부산 등 전국 7개 도시에서 콘서트를 개최하고 팬들을 만날 예정이다.특히 이번 콘서트는 SG워너비가 데뷔 20주년을 맞아 개최하..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각·신용재·임한별, '허용별 콘서트 : 보컬 전쟁' 고양·광주·대전 공연 성료! 3월 창원에서 열기 이어간다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23462</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23462"/>
-        <updated>2024-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 허용별이 고양과 광주, 대전 공연을 성공적으로 마무리했다.허용별(허각, 신용재, 임한별)은 지난 1월 20일 고양아람누리 아람극장, 27일 광주예술의전당 대극장, 2월 3일 충남대학교 정심화홀에서 '허용별 콘서트 : 보컬 전쟁 "The War of Vocalists"'를 개최했다.새해를 맞이해 새롭게 단장한 공연에서 허각과 신용재, 임한별은 허용별의 데뷔곡 'Happiness (해피니스)'와 브라운 아이드 소울의 'My Story (마이 스토리)'로 포문을 열었다. 이어..]]></content>
     </entry>
 </feed>
