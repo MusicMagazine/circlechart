@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-02-22T00:58:24.624Z</updated>
+    <updated>2024-02-22T01:50:03.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[씨야 출신 김연지, 8개월 만의 신곡 '안부'로 돌아온다! 25일 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23519</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23519"/>
+        <updated>2024-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김연지가 올해 첫 신곡을 발표한다.&nbsp;22일 소속사 메이저나인은 "김연지가 오는 25일 오후 6시 새 싱글 '안부'를 발매한다"고 밝혔다.&nbsp;'안부'는 지난해 6월 김연지가 발매한 싱글 '비가 오면 마음껏 울어도 되니까' 이후 8개월 만에 선보이는 신곡이다. 잘 지내냐는 작은 안부조차 물을 수 없게 된 전 연인을 그리워하는 마음을 담았다.&nbsp;김연지는 지난 21일 공식 SNS를 통해 '안부' 뮤직비디오 티저 영상을 공개해 발매 기대감을 끌어올렸다. 뮤직비디오에 직..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 오늘(21일) 인기 네이버웹툰 '선녀외전' 컬래버 음원 '천상연' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23516</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23493"/>
         <updated>2024-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬 그룹 장덕철이 3년 만에 ‘불쑥’으로 돌아온다.장덕철(장중혁, 덕인, 임철)은 오는 18일 새 디지털 싱글 ‘불쑥’을 발매하고 컴백한다.지난 14일 장덕철의 공식 유튜브 채널을 통해 ‘불쑥’의 라이브 클립 티저 영상이 공개됐다. 영상에서 장중혁, 덕인, 임철은 3인 3색 호소력 짙은 보컬로 귓가를 사로잡았다. 아련한 감정선을 유지하면서도 스탠드 마이크를 활용한 이색적인 퍼포먼스를 가미해 보고 듣는 재미를 높였다.특히 “불쑥 나는 너에게 내 사랑을 고백했었고. 불쑥 너는 나에게 헤어지잔 말을 꺼냈었고. 날 전부 내던졌다면 좀 더..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 포타토이(Potatoi), 오늘(15일) 정오 첫 EP 'Toy' 발매…웨이브투어스 멤버 지원사격 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23492</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23492"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 웨이브투어스(wave to earth)의 베이시스트 차순종이 싱어송라이터 포타토이(Potatoi)로 또 다른 음악적 행보를 선보인다.&nbsp;포타토이는 15일 정오 각종 온라인 음원사이트를 통해 첫 EP 'Toy(토이)'를 발매한다.베이시스트 차순종이 아닌 싱어송라이터 포타토이로서 첫 선을 보이는 'Toy'는 포타토이의 무한한 탐구심을 해소하는 장난감 같은 앨범이다. 포타토이가 전반적인 프로듀싱에 참여해 얼터너티브 사운드부터 스무스 팝까지 다채로운 요소를 담아내며 EP의 완성도를 높였다. 여기에 웨이브투어..]]></content>
     </entry>
 </feed>

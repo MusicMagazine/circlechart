@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-22T00:58:24.626Z</updated>
+    <updated>2024-02-22T01:50:03.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 6 CIRCLE CHART: Jung Kook, IU, and P1Harmony Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23520</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23520"/>
+        <updated>2024-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 6 CIRCLE CHART (formerly gaonchart) was dominated by Jung Kook, IU, and P1Harmony.KMCA, publisher of CIRCLE CHART, announced that “As of week 6 (2024.02.04.~2024.02.10.), Jung Kook topped the Global K-pop Chart while IU swept 4 charts and P1Harmony topped the Album Chart.”Jung Kook topped t..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3월 11일 컴백' 템페스트, 미니 5집 콘셉트 포토 공개! 봄을 부르는 '몽환+아련' 비주얼]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23513</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23485"/>
         <updated>2024-02-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Jung Kook, TAEYEON, (G)I-DLE, and NMIXX dominated the January CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for January 2024, Jung Kook topped the Global K-pop chart while TAEYEON swept 4 charts. Also, (G)I-DLE topped the Album Chart and NMIXX topped t..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드 홍주찬, 더 짙어진 성숙美...'어떤가요' NEW 티저 이미지 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23484</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23484"/>
-        <updated>2024-02-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 골든차일드(Golden Child) 홍주찬이 솔로 아티스트로 화려하게 컴백한다.소속사 울림엔터테인먼트는 13일 0시 공식 SNS를 통해 홍주찬의 리메이크 디지털 싱글 '어떤가요' 두 번째 티저 이미지를 공개했다.공개된 이미지 속 홍주찬은 차분하게 내린 흑발에 새하얀 니트를 매치한 댄디한 스타일링을 자신만의 매력으로 소화했다. 소년미를 벗어던지고 보다 성숙한 남자의 모습으로 돌아온 그의 고급스러운 아우라가 단번에 시선을 압도했다.홍주찬의 조각 같은 옆선과 쓸쓸함이 가득 담긴 눈빛은 마치 이별 영화의 한 장면을 보는..]]></content>
     </entry>
 </feed>
