@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-23T06:20:07.270Z</updated>
+    <updated>2024-02-23T07:14:39.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 7 CIRCLE CHART: TEN 'TEN - The 1st Mini Album' Tops Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23526</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23526"/>
+        <updated>2024-02-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 7 CIRCLE CHART, TEN 'TEN - The 1st Mini Album' topped the weekly Retail Album Chart by selling 46,798 copies at retailers.'TEN - The 1st Mini Album' was the top seller as of 6PM (KST) on the date of its release, February 13th (Tuesday, week 7).'TEN - The 1st Mini Albu..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라 조민규, 탱고로 3년 만에 화려한 컴백 예고!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23525</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494"/>
         <updated>2024-02-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이스(A.C.E)가 막내 강유찬의 전역과 함께 완전체 활동을 재개한다.에이스 강유찬은 15일 육군 현역 복무를 마치고 병장 만기 전역한다. 이어 전역 당일인 이날 오후 9시 유튜브 라이브 방송을 통해 팬들에게 직접 복귀 인사를 전한다.이를 통해 에이스는 다섯 멤버 전원이 병역의 의무를 성실하게 이행하고 '군필' 타이틀을 달게 됐다. 약 3년 만에 완전체로 돌아온 에이스가 2024년을 다양한 활동으로 꽉 채울 계획이다.막내 강유찬의 전역을 기념해 에이스 박준희, 이동훈, 와우, 김병관도 이날 오후 9시 유튜브 라..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, ‘ENTITY’ 메인 트레일러 공개...영화보다 더 영화 같은 무드 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23489</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23489"/>
-        <updated>2024-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 차은우(판타지오 소속)가 'ENTITY’ 서사가 담긴 트레일러를 공개했다.&nbsp;차은우는 13일 공식 SNS와 유튜브 채널을 통해 첫 번째 솔로 미니앨범 ‘ENTITY’(엔티티)의 메인 트레일러 영상을 오픈했다.공개된 트레일러 영상은 차 안에서 괴로운 듯 절망스럽고 슬픈 표정을 짓고 있는 차은우의 모습으로 시작한다. 이어 가죽 재킷을 입고 바이크를 타며 도로 위를 질주하는 장면은 강렬한 분위기를 자아내는 것은 물론, 'ENTITY'에 담긴 서사에 대한 궁금증을 더욱 끌어올렸다.또한 낮과 밤을 불문하고 ..]]></content>
     </entry>
 </feed>
