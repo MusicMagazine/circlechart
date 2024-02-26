@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-26T00:59:50.638Z</updated>
+    <updated>2024-02-26T01:54:57.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 3월 첫 월드투어 'TEENFRESH' 실황 담긴 DVD 발매! 오늘(26일) 예약 판매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23527</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23527"/>
+        <updated>2024-02-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 첫 월드투어 실황이 담긴 콘서트 DVD가 발매된다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)의 첫 번째 월드투어 'TEENFRESH (틴프레시)' DVD 예약 판매가 26일 오후 3시 시작된다.오는 3월 29일 출시되는 스테이씨의 콘서트 DVD에는 월드투어 실황 영상을 비롯해 약 20곡의 다양한 본편 무대, 미주 투어와 아시아 투어, 서울 콘서트 비하인드, 하이라이트 코멘터리 등 콘서트 현장이 생생하게 담긴 구성으로 특별함을 더했다. 또 멤버들의 화려한 퍼포먼스와 무대 뒷모습까지 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 7 CIRCLE CHART: TEN 'TEN - The 1st Mini Album' Tops Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23526</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23503"/>
         <updated>2024-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Jung Kook, TAEYEON, (G)I-DLE, and NMIXX dominated the January CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for January 2024, Jung Kook topped the Global K-pop chart while TAEYEON swept 4 charts. Also, (G)I-DLE topped the Album Chart and NMIXX topped t..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스 강유찬, 오늘(15일) 만기 전역! 군백기 끝→2024년 꽉 채울 완전체 행보]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23494"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 막내 강유찬의 전역과 함께 완전체 활동을 재개한다.에이스 강유찬은 15일 육군 현역 복무를 마치고 병장 만기 전역한다. 이어 전역 당일인 이날 오후 9시 유튜브 라이브 방송을 통해 팬들에게 직접 복귀 인사를 전한다.이를 통해 에이스는 다섯 멤버 전원이 병역의 의무를 성실하게 이행하고 '군필' 타이틀을 달게 됐다. 약 3년 만에 완전체로 돌아온 에이스가 2024년을 다양한 활동으로 꽉 채울 계획이다.막내 강유찬의 전역을 기념해 에이스 박준희, 이동훈, 와우, 김병관도 이날 오후 9시 유튜브 라..]]></content>
     </entry>
 </feed>
