@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-27T00:57:59.103Z</updated>
+    <updated>2024-02-27T01:47:58.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트, 미니 5집 'Switch On' 트랙리스트 공개! 이기광 3곡 작사·작곡]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23536</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23536"/>
+        <updated>2024-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 하이라이트(HIGHLIGHT)가 새로운 타이틀곡 'BODY'(바디)로 돌아온다.하이라이트는 27일 0시 공식 SNS를 통해 다섯 번째 미니앨범 'Switch On'(스위치 온)의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면, 이번 앨범에는 타이틀곡 'BODY'(바디)와 'Switch On'(스위치 온), 'Feel Your Love (48.6Hertz)'(필 유어 러브 (48.6헤르츠)), 'How to Love'(하우 투 러브), ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨, 3월 첫 월드투어 'TEENFRESH' 실황 담긴 DVD 발매! 오늘(26일) 예약 판매 시작]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23527</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23505"/>
         <updated>2024-02-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보이그룹 파우(POW)가 ‘Valentine’ 활동을 마무리했다.파우(요치, 현빈, 정빈, 동연, 홍)는 지난 18일 방송된 SBS ‘인기가요’를 끝으로 4주간의 싱글 ‘Valentine(발렌타인)’ 활동을 마쳤다.‘Valentine’은 사랑하는 사람을 찾아 나선 파우만의 톡톡 튀는 고백을 담은 팝 곡이다. 다양한 음악 방송에서 파우는 캐치하면서도 에너지 있는 퍼포먼스를 펼쳤다.또한, 많은 아이돌 가수들과 ‘Valentine’ 포인트 안무로 댄스 챌린지를 진행해 눈길을 끌었다.이에 ‘Valentine’은 발매 직후 아이튠즈 2개국 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January CIRCLE CHART: Jung Kook, TAEYEON, (G)I-DLE, and NMIXX Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23503</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23503"/>
-        <updated>2024-02-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Jung Kook, TAEYEON, (G)I-DLE, and NMIXX dominated the January CIRCLE CHART.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for January 2024, Jung Kook topped the Global K-pop chart while TAEYEON swept 4 charts. Also, (G)I-DLE topped the Album Chart and NMIXX topped t..]]></content>
     </entry>
 </feed>
