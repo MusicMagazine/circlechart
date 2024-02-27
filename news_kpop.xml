@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-02-27T07:16:24.430Z</updated>
+    <updated>2024-02-27T08:17:57.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 7 CIRCLE CHART: Jung Kook, IU, TEN, and n.SSign Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23537</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23537"/>
+        <updated>2024-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 7 CIRCLE CHART (formerly gaonchart) saw strong showings by Jung Kook, IU, TEN, and n.SSign.KMCA, publisher of CIRCLE CHART, announced that “As of week 7 (2024.02.11.~2024.02.17.), Jung Kook topped the Global K-pop Chart while IU swept 3 charts. Also, TEN topped 2 charts while n.SSign rose t..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트, 미니 5집 'Switch On' 트랙리스트 공개! 이기광 3곡 작사·작곡]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23536</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23508"/>
         <updated>2024-02-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[유겸 (YUGYEOM)이 [TRUST ME]의 전곡 음원 일부를 공개했다.지난 19일 AOMG 공식 SNS를 통해 첫 번째 정규앨범 [TRUST ME (트러스트 미)]의 전곡 음원 일부를 담은 하이라이트 메들리 영상을 공개했다.먼저 타이틀곡 ‘1분만’은 유겸의 매력적인 보이스가 돋보이는 곡으로, 중독성 강한 훅과 세련된 멜로디 라인이 귓가를 사로잡는다. 이밖에 유겸은 ‘LA SOL MI’, ‘빛이나 (Feat. SUMIN)’, ‘Be Alright (Feat. punchnello)’, ‘Steppin’, ‘나의 그녀는’, ‘LOLO..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파우(POW), 싱글 ‘Valentine’ 4주 활동 성료…포인트 안무 챌린지 눈길]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23505</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23505"/>
-        <updated>2024-02-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[보이그룹 파우(POW)가 ‘Valentine’ 활동을 마무리했다.파우(요치, 현빈, 정빈, 동연, 홍)는 지난 18일 방송된 SBS ‘인기가요’를 끝으로 4주간의 싱글 ‘Valentine(발렌타인)’ 활동을 마쳤다.‘Valentine’은 사랑하는 사람을 찾아 나선 파우만의 톡톡 튀는 고백을 담은 팝 곡이다. 다양한 음악 방송에서 파우는 캐치하면서도 에너지 있는 퍼포먼스를 펼쳤다.또한, 많은 아이돌 가수들과 ‘Valentine’ 포인트 안무로 댄스 챌린지를 진행해 눈길을 끌었다.이에 ‘Valentine’은 발매 직후 아이튠즈 2개국 ..]]></content>
     </entry>
 </feed>
