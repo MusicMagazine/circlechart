@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-02-29T00:58:31.862Z</updated>
+    <updated>2024-02-29T01:48:26.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우디, 데뷔 13년 만의 첫 단독 콘서트 '우디의 영화' 개최…오늘(29일) 티켓 예매 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23545</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23545"/>
+        <updated>2024-02-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 우디(Woody)가 데뷔 후 첫 단독 콘서트로 팬들을 만난다.우디는 오는 4월 5일부터 7일까지 사흘간 서울 마포구에 위치한 신한카드 SOL페이 스퀘어에서 단독 콘서트 '2024 우디의 映花(2024 우디의 영화)'를 개최한다.&nbsp;'우디의 영화'는 우디가 데뷔 13년 만에 처음으로 여는 단독 콘서트다. 설렘이 가득한 4월, 음악팬들을 위한 선물 같은 공연을 펼치며 봄의 여정을 시작할 예정이다.특히 데뷔 후 많은 사랑을 받은 곡들 외 처음으로 선보이는 신곡 무대, 다채로운 커버 공연도 준비했다고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위아이, 日 단독 콘서트 'THE WAVE' 성료…오사카·사이타마 뜨겁게 달궜다 '글로벌 대세 입증']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23531</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23499"/>
         <updated>2024-02-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 아스트로(ASTRO, 판타지오 소속) 윤산하가 소극장 콘서트 티켓을 완판시켰다.지난 15일 오후 8시 온라인 예매처 티켓링크를 통해 티켓 예매가 진행된 윤산하의 소극장 콘서트 ‘YOON SAN-HA : SANiGHT Project #1 - 바램’은 티켓 오픈 이후 빠르게 양일 전석 매진을 기록했다.&nbsp;‘YOON SAN-HA : SANiGHT Project #1 - 바램’은 윤산하의 자체 음악 콘텐츠 ‘SANiGHT’과 연계된 콘서트다. 윤산하는 콘텐츠에 이어 팬들과 더욱 가까이에서 눈을 마주치며 소통하기 위해 소극장 콘서트를 기..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자우림, 오는 3월 9~10일 데뷔 27년만 첫 팬 콘서트 <러브공작단 시크릿 쥬-주 총회> 개최!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23495</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23495"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[국내 원톱 혼성밴드 자우림이 데뷔 27년 만에 처음으로 팬 콘서트(팬미팅)를 가진다.&nbsp;&nbsp;자우림은 오는 3월 9일과 10일 양일간 서울 신한카드 SOL페이 스퀘어 라이브홀에서 데뷔 27년 만에 첫 팬 콘서트인 &lt;러브공작단 시크릿 쥬-주 총회&gt;를 개최한다.&nbsp;공식 팬클럽 ‘러브공작단’ 제1기를 대상으로 진행되는 이번 팬 콘서트는 자우림이 데뷔 이래 처음으로 팬들과 함께하는 자리이기에 더욱 의미가 남다르다.&nbsp;&nbsp;자우림 멤버들은 이번 팬 콘서트를 위해 다양한 셋 리스트와 프로그램을 준비하고 있으며, 팬클럽 홈페이지를 통해 사전에 듣..]]></content>
     </entry>
 </feed>
