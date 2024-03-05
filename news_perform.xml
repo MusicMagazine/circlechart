@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-03-05T01:50:32.074Z</updated>
+    <updated>2024-03-05T02:19:47.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이브레이크, 오늘(5일) '학전, 어게인 콘서트' 참석!...학전 마지막 여정 동행]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23555</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23555"/>
+        <updated>2024-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 데이브레이크(daybreak)가 대학로 학전의 마지막 여정에 동행한다.데이브레이크(김선일, 이원석, 김장원, 정유종)는 오늘(5일) 서울 종로구 학전블루 소극장에서 열리는 '학전, 어게인 콘서트'에 참석한다.학전은 지난 1991년 김민기 대표가 개관, 33년간 실험과 도전의 정신으로 이어온 대학로 소극장의 상징이다. 지금까지 총 359개의 작품이 기획 및 제작되어 공연예술인들이 성장할 수 있는 터전이 됐고, '김광석 콘서트', '노영심의 작은 음악회' 등을 개최하면서 대학로에 라이브 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지윤, 5년 만의 단독 콘서트 'Love is my song' 극찬 속 성료! 고품격 무대 선사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23551</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511"/>
         <updated>2024-02-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 수많은 팬들의 성원에 힘입어 앙코르 콘서트로 돌아온다.에픽하이(타블로, 미쓰라, 투컷)의 데뷔 20주년 앙코르 콘서트가 오는 3월 16일 인천 인스파이어 아레나에서 개최된다. 개최에 앞서 20일 오후 6시부터 온라인 예매사이트 인터파크 티켓을 통해 앙코르 콘서트 티켓 예매가 오픈된다.에픽하이는 지난 11월 데뷔 20주년 콘서트의 티켓 오픈과 동시에 전석 매진을 기록하며 여전한 티켓 파워를 입증한 바 있다. 이번 공연은 앞서 큰 사랑을 받은 에픽하이 20주년 콘서트의 앙코르 콘서트로, 공연을 찾지 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로꼬, 6년 만에 단독 콘서트 'ALL I NEED' 성료! 40곡 풀 밴드 셋 라이브]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23504</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23504"/>
-        <updated>2024-02-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 로꼬(Loco)가 6년 만에 단독 콘서트를 성료했다.로꼬는 지난 17, 18일 양일간 서울 올림픽공원 올림픽홀에서 2024 로꼬 콘서트 'ALL I NEED (올 아이 니드)'를 개최했다.'ALL I NEED'는 로꼬가 6년 만에 연 단독 콘서트다. 이에 정규 2집 'WEAK (위크)'의 신곡과 지난 6년간 발매한 히트곡 '감아', '주지마', '시간이 들겠지', '니가 모르게', '지나쳐' 등 총 40곡이 넘..]]></content>
     </entry>
 </feed>

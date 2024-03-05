@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-05T01:50:32.067Z</updated>
+    <updated>2024-03-05T02:19:47.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이수영, 대표곡 '라라라' 다시 부른다! 12일 리메이크 음원 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23558</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23558"/>
+        <updated>2024-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이수영이 본인의 대표곡을 22년 만에 다시 부른다.이수영이 가창에 참여한 복학가왕 프로젝트 여덟 번째 음원 '라라라 (2024)'가 오는 12일 각종 온라인 음원사이트를 통해 발매된다.복학가왕 프로젝트는 가왕대 음악 동아리를 배경으로 한 세계관 속에서 복학한 레전드 가왕이 찬란했던 그 시절을 재조명하고 추억하는 프로젝트다.'라라라'는 이수영이 지난 2002년 발매한 정규 4집 'My Stay In Sendai (마이 스테이 인 센다이)'의 타이틀곡이자, 이수영에게 첫 1위를 안겨준 곡..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용준형, 25일 EP 'Beautiful Dystopia' 발매 확정! 3개월 만에 컴백]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23553</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23540"/>
         <updated>2024-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 손태진이 팬들을 위한 깜짝 신곡을 공개한다.&nbsp;손태진은 오는 3월 16일 데뷔 첫 단독 팬미팅 'YOU MAKE ME SHINE(유 메이크 미 샤인)' 개최를 이틀 앞두고, 다음 달 14일 신곡을 먼저 발매한다.이번 신곡은 손샤인(공식 팬덤명)을 위한 화이트데이 선물 같은 곡으로, 손태진이 지난해 8월 발표한 '불타는 트롯맨' 우승자 특전곡 '참 좋은 사람' 이후 약 7개월 만의 솔로곡이다.앞서 손태진은 '참 좋은 사람'으로 2회 연속 SBS M '더트롯쇼'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐어스(희재·이레), 3월 15일 첫 미니앨범 ‘SPRING CANVAS’ 발매 확정! 3개월 만에 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23535</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23535"/>
-        <updated>2024-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[듀오 세븐어스(SEVENUS)가 첫 미니앨범을 선보인다.세븐어스(희재, 이레)는 오는 3월 15일 각종 온라인 음원 사이트를 통해 첫 번째 미니앨범 ‘SPRING CANVAS(스프링 캔버스)’를 발매한다.오늘(27일) 0시 세븐어스 공식 SNS를 통해 ‘SPRING CANVAS’의 타임테이블 이미지가 공개되며 음악 팬들의 이목을 집중시켰다. 이에 따르면, 세븐어스는 컴백 전까지 트랙리스트, 콘셉트 포토, 2종 뮤직비디오 티저, 하이라이트 메들리 등 다양한 티징 콘텐츠들을 순차적으로 공개한다.세븐어스는 탄탄한 가창력은 물론 대체 불가..]]></content>
     </entry>
 </feed>
