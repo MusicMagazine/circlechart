@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-05T23:13:37.105Z</updated>
+    <updated>2024-03-06T00:58:55.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케이시 전곡 작사 참여…오늘(6일) 여섯 번째 EP 'Full Bloom' 발매! 공감 더한 음색 '기대']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23560</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23560"/>
+        <updated>2024-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 케이시(Kassy)가 모두가 공감할 수 있는 음악으로 돌아온다.&nbsp;케이시는 6일 오후 6시 각종 온라인 음원사이트를 통해 여섯 번째 EP 'Full Bloom(풀 블룸)'을 발매한다.&nbsp;'Full Bloom'은 케이시가 지난 2022년 11월 발표한 EP '추운날' 이후 1년 4개월 만에 선보이는 EP다. 케이시는 사랑의 시작과 이별, 옛 연인과 재회하고 싶은 마음까지 수많은 리스너들의 공감을 자아내는 스토리를 애틋하면서도 밝은 분위기로 담아냈다.&nbsp;타이틀곡 '속는 셈 치고 다시 만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수영, 대표곡 '라라라' 다시 부른다! 12일 리메이크 음원 발매 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23558</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23541"/>
         <updated>2024-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 2월호를 발매한다.윤종신은 오늘(28일) 오후 6시 각종 온라인 음원 사이트를 통해 ‘월간 윤종신’ 2월호 ‘그깟 의미’를 선보인다.‘그깟 의미’는 의미의 홍수 속에서 도리어 의미를 잃어버린 채 살아가는 우리의 초상을 그린 곡이다. 시도 때도 없이 말풍선이 터지듯 습격하는 의미들과 점점 더 납작해지는 삶의 철학들로 넘쳐나는 일상과 그 속에서 우리가 느끼는 혼란과 공허를 표현했다.특히, 윤종신은 이번 신곡을 통해 너무 많은 주장과 가르침이 범람하는 세상 속에서 우리는 과연 어떻게 자기..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손태진, 3월 14일 신곡 발매 예고…손샤인 위한 화이트데이 선물 선사]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23540</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23540"/>
-        <updated>2024-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 손태진이 팬들을 위한 깜짝 신곡을 공개한다.&nbsp;손태진은 오는 3월 16일 데뷔 첫 단독 팬미팅 'YOU MAKE ME SHINE(유 메이크 미 샤인)' 개최를 이틀 앞두고, 다음 달 14일 신곡을 먼저 발매한다.이번 신곡은 손샤인(공식 팬덤명)을 위한 화이트데이 선물 같은 곡으로, 손태진이 지난해 8월 발표한 '불타는 트롯맨' 우승자 특전곡 '참 좋은 사람' 이후 약 7개월 만의 솔로곡이다.앞서 손태진은 '참 좋은 사람'으로 2회 연속 SBS M '더트롯쇼'..]]></content>
     </entry>
 </feed>
