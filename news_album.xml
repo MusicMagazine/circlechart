@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-07T01:31:00.807Z</updated>
+    <updated>2024-03-07T02:13:23.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[LAS(라스), 오늘(7일) 새 싱글 '슬픔이 찾아와서 그래' 발매…로코베리와 완벽 시너지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23567</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23567"/>
+        <updated>2024-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 그룹 LAS(라스)가 로코베리와 또 한 번 시너지를 발휘한다.LAS(라스)는 7일 정오 각종 온라인 음원 사이트를 통해 새 싱글 '슬픔이 찾아와서 그래(PROD. 로코베리)'를 발매한다.'슬픔이 찾아와서 그래'는 LAS(라스)가 지난해 11월 발매한 '해바라기(2023)' 이후 4개월 만에 선보이는 신곡이다. LAS(라스)만의 섬세한 감성으로 이별을 이야기하는 곡으로, 히트 프로듀서 로코베리가 프로듀싱해 완성도를 높였다.또한 메인 기타 리프를 통해 전체적으로 따듯한 분위기를 느..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이시 전곡 작사 참여…오늘(6일) 여섯 번째 EP 'Full Bloom' 발매! 공감 더한 음색 '기대']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23560</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23542"/>
         <updated>2024-02-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 숀(SHAUN)이 3개월 만에 신곡으로 돌아왔다.숀은 지난 28일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 'Easy (이지)'를 발매했다.'Easy'는 숀이 지난해 11월 발매한 싱글 '여름에 두었다' 이후 약 3개월 만에 선보이는 앨범이다. 숀이 직접 작곡 및 프로듀싱에 참여했으며, 영어로만 이뤄진 가사와 숀의 독보적인 음색이 만나 곡이 가진 무드를 배가시켰다.특히 'Easy'에는 국내에서 '12:45 (Stripped)'라는 곡으로 큰..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 오늘(28일) ‘월간 윤종신’ 2월호 ‘그깟 의미’ 발매...자신만의 의미를 잃어버린 삶 담았다!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23541</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23541"/>
-        <updated>2024-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 2월호를 발매한다.윤종신은 오늘(28일) 오후 6시 각종 온라인 음원 사이트를 통해 ‘월간 윤종신’ 2월호 ‘그깟 의미’를 선보인다.‘그깟 의미’는 의미의 홍수 속에서 도리어 의미를 잃어버린 채 살아가는 우리의 초상을 그린 곡이다. 시도 때도 없이 말풍선이 터지듯 습격하는 의미들과 점점 더 납작해지는 삶의 철학들로 넘쳐나는 일상과 그 속에서 우리가 느끼는 혼란과 공허를 표현했다.특히, 윤종신은 이번 신곡을 통해 너무 많은 주장과 가르침이 범람하는 세상 속에서 우리는 과연 어떻게 자기..]]></content>
     </entry>
 </feed>

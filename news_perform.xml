@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-03-07T01:31:00.814Z</updated>
+    <updated>2024-03-07T02:13:23.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['공연계의 강자' 넬, 4월 단독 콘서트 '봄의 겨울' 개최…오늘(7일) 티켓 예매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23565</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23565"/>
+        <updated>2024-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 넬(Nell)이 4월 단독 콘서트로 관객들을 만난다.넬은 오는 4월 19일부터 21일까지 사흘간 서울 블루스퀘어 마스터카드홀에서 '넬스시즌 2024 &lt;봄의 겨울&gt;'(이하 '봄의 겨울')을 개최한다.'넬스시즌'은 매년 봄, 가을에 진행되는 넬의 브랜드 공연으로, '넬스룸'과는 색다른 연출로 매년 관객의 오감을 만족시키고 있다.이번 콘서트 '봄의 겨울'은 봄날의 이면에 존재하는 또 다른 겨울을 담은 공연이다. 넬의 명품 라이브 음악을 통해 얼어붙어 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이브레이크, 오늘(5일) '학전, 어게인 콘서트' 참석!...학전 마지막 여정 동행]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23555</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23514"/>
         <updated>2024-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엑소(EXO) 멤버 겸 솔로 아티스트 백현(BAEKHYUN)이 KSPO DOME 콘서트를 앞두고 티켓 파워를 발휘했다.백현의 2024 단독 콘서트 'Lonsdaleite'(론스달라이트)는 지난 20일 오후 8시 온라인 예매 사이트 멜론티켓을 통해 일반 예매를 오픈한 당일에 빠르게 전석 매진을 기록했다.'Lonsdaleite'는 백현의 첫 오프라인 솔로 콘서트로 개최 소식을 발표한 이후 줄곧 뜨거운 관심을 받고 있다. 백현은 엑소(EXO) 단체 공연에 이어 솔로로서도 국내 대표 대공연장인 KSPO D..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽하이, 데뷔 20주년 콘서트 앙코르 공연 확정! 3월 16일 인스파이어 아레나 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23511"/>
-        <updated>2024-02-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 수많은 팬들의 성원에 힘입어 앙코르 콘서트로 돌아온다.에픽하이(타블로, 미쓰라, 투컷)의 데뷔 20주년 앙코르 콘서트가 오는 3월 16일 인천 인스파이어 아레나에서 개최된다. 개최에 앞서 20일 오후 6시부터 온라인 예매사이트 인터파크 티켓을 통해 앙코르 콘서트 티켓 예매가 오픈된다.에픽하이는 지난 11월 데뷔 20주년 콘서트의 티켓 오픈과 동시에 전석 매진을 기록하며 여전한 티켓 파워를 입증한 바 있다. 이번 공연은 앞서 큰 사랑을 받은 에픽하이 20주년 콘서트의 앙코르 콘서트로, 공연을 찾지 ..]]></content>
     </entry>
 </feed>
