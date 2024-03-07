@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-03-07T08:15:42.311Z</updated>
+    <updated>2024-03-07T09:12:50.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[February CIRCLE CHART: LE SSERAFIM 'EASY' Tops February Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23569</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23569"/>
+        <updated>2024-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM 'EASY' topped the Monthly Retail Album Chart for February by selling 214,267 copies at retailers.Released on February 19th, ‘EASY’ is the 3rd mini-album from LE SSERAFIM. It topped the Album Chart in the week of its release (week 8) while the title track of the same title rose to..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘13일 컴백’ 루네이트, 꿈 이룬 화려한 청춘으로 변신…‘BUFF’ 콘셉트 포토 추가 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23568</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23556"/>
         <updated>2024-03-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 하이라이트(HIGHLIGHT)가 4종 콘셉트 포토 공개를 마쳤다.하이라이트(윤두준, 양요섭, 이기광, 손동운)는 지난달 29일부터 이달 5일까지 총 네 차례에 걸쳐 공식 SNS에 다섯 번째 미니앨범 ‘Switch On’(스위치 온)의 4종 콘셉트 포토를 순차적으로 공개했다.오늘(5일) 0시 마지막으로 Cheerful Night(치어풀 나잇) 버전 콘셉트 포토가 베일을 벗었다. 포토는 하이라이트의 밝고 쾌활한 에너지를 담고 있다. 안경, 넥타이, 테니스공, 풍선 등 아이템으로 완성한 4인 4색 경쾌하고 재기발랄한 무드가 보는 즐..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하, 올 레드 착장으로 강렬한 변신 예고! 새 싱글 ‘EENIE MEENIE’ 첫 콘셉트 포토 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23554</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23554"/>
-        <updated>2024-03-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 청하의 첫 번째 콘셉트 포토가 베일을 벗었다.&nbsp;청하는 지난 4일 공식 SNS를 통해 새 싱글 ‘EENIE MEENIE (이니미니)’의 첫 번째 콘셉트 포토 및 클립 영상을 공개했다.&nbsp;공개된 사진 속 청하는 올 레드 스타일링을 완벽하게 소화하며 시선을 사로잡았다. 레더 재킷과 팬츠, 글로브 등을 매치해 스포티하고 시크한 매력을 발산했으며 의상과 대비되는 흑발 헤어로 청하만의 강렬한 포스를 극대화했다.&nbsp;함께 공개된 클립 영상에서는 푸른 배경과 붉은 조명 아래 청하의 카리스마가 한층 돋보였다. 청하는 포토제닉한 포즈와 눈빛으로 분위..]]></content>
     </entry>
 </feed>
