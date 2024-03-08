@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-07T23:16:20.195Z</updated>
+    <updated>2024-03-08T00:58:27.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DJ Wegun, 정규앨범으로 컴백! 더블 타이틀곡 포함 12곡 완성도 ‘기대 UP’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23571</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23571"/>
+        <updated>2024-03-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로듀서 겸 턴테이블리스트 DJ Wegun이 오는 10일 오후 6시 각종 온라인 음원 사이트를 통해 정규 2집 [roaming.]을 발매한다.앞서 소속사 AOMG는 공식 SNS를 통해 [roaming.]의 트랙리스트 이미지와 앨범 프리뷰 영상을 순차적으로 공개하며 팬들의 기대감을 상승시켰다.티저에 따르면, 이번 앨범 [roaming.]에는 더블 타이틀곡 ‘“17’과 ‘Trading Places (Feat. DeVita, 박재범)’를 비롯해 ‘Seasons’, ‘Elevator’, ‘Beans’, ‘Every Hour’, ‘Hotel..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LAS(라스), 오늘(7일) 새 싱글 '슬픔이 찾아와서 그래' 발매…로코베리와 완벽 시너지]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23567</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23543"/>
         <updated>2024-02-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 케이시(Kassy)가 봄 내음 가득한 앨범으로 돌아온다.&nbsp;케이시는 지난 28일 오후 공식 SNS를 통해 한 장의 컴백 티저 포토를 게재하며 오는 3월 6일 여섯 번째 EP 'Full Bloom(풀 블룸)' 발매 소식을 알렸다.티저 포토 속 케이시는 레드빛이 감도는 부드러운 웨이브 헤어스타일링으로 러블리한 비주얼을 완성한 모습이다. 봄의 생기가 느껴지는 앨범명 'Full Bloom'과 대비되는 케이시의 아련한 표정 연출이 몽환적인 무드를 자아내며 궁금증을 높이고 있다.&nbsp;특히 장미꽃 한 송이를 손에 쥔..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['싱어송라이터' 숀(SHAUN), 새 싱글 'Easy' 발매…영국 싱어송라이터 Etham 작사 참여 '완성도 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23542</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23542"/>
-        <updated>2024-02-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 숀(SHAUN)이 3개월 만에 신곡으로 돌아왔다.숀은 지난 28일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 'Easy (이지)'를 발매했다.'Easy'는 숀이 지난해 11월 발매한 싱글 '여름에 두었다' 이후 약 3개월 만에 선보이는 앨범이다. 숀이 직접 작곡 및 프로듀싱에 참여했으며, 영어로만 이뤄진 가사와 숀의 독보적인 음색이 만나 곡이 가진 무드를 배가시켰다.특히 'Easy'에는 국내에서 '12:45 (Stripped)'라는 곡으로 큰..]]></content>
     </entry>
 </feed>
