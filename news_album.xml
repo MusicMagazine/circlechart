@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-11T23:14:59.669Z</updated>
+    <updated>2024-03-12T00:58:19.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["예상대로 놀랍다" LAS(라스), 신곡 '슬픔이 찾아와서 그래' 글로벌 호평 ing]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23581</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23581"/>
+        <updated>2024-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 그룹 LAS(라스)가 가수와 프로듀서를 오가며 활약 중이다.LAS(라스)는 지난 7일 새 싱글 '슬픔이 찾아와서 그래(PROD. 로코베리)'를 발매했다.'슬픔이 찾아와서 그래'는 지난해 11월 발매한 '해바라기(2023)' 이후 4개월 만에 선보인 신곡이다. 전작에 이어 로코베리가 프로듀싱에 참여해 또 한 번 음악적 시너지를 발휘했다.&nbsp;'슬픔이 찾아와서 그래'는 발매 직후 멜론, 바이브 등 국내 음원 사이트 차트인에 성공하며 리스너들의 이목을 집중시켰다. 발매와 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 윤대천, 정규 앨범 ‘Crescents’ 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23577</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23552"/>
         <updated>2024-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘신예 싱어송라이터’ 이든(EDEN)이 환상의 하모니를 선보였다.이든은 지난 2일 JTBC 토일드라마 ‘닥터슬럼프’ OST에 우주소녀 다영과 함께 참여, 각종 온라인 음원 사이트를 통해 ‘사랑한다는 말은’을 발매하며 눈길을 모으고 있다.믿고 보는 배우 박신혜와 박형식의 힐링 로맨스로 많은 사랑을 받고 있는 ‘닥터슬럼프’는 백억 대 소송과 번아웃, 각자의 이유로 인생 최대 슬럼프에 빠진 의사들의 ‘망한 인생’ 심폐 소생기를 그린 로맨틱 코미디 드라마이다.이든이 데뷔 후 처음으로 참여한 OST ‘사랑한다는 말은’은 이든과 우주소녀 다영..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['6일 발매' 케이시, 새 EP 타이틀곡 '속는 셈 치고 다시 만나자' M/V 티저 공개! 세로캠 형식 드라마 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23548</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23548"/>
-        <updated>2024-03-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 케이시(Kassy)가 뮤직비디오 티저로 EP 발매 열기를 더하고 있다.케이시는 지난 3일 오후 공식 SNS를 통해 여섯 번째 EP 'Full Bloom(풀 블룸)' 타이틀곡 '속는 셈 치고 다시 만나자'의 뮤직비디오 티저 영상을 공개했다.공개된 티저에는 소소한 일상을 함께하는 두 남녀의 행복한 추억이 담겨있다. 이후 흑백으로 전환된 장면 속 연인들의 눈물과 씁쓸한 웃음이 케이시의 진정성 가득한 보컬과 맞물려 한층 애틋한 분위기를 자아내고 있다.&nbsp;밝은 템포 속 아련한 영상미와 케이시의 짙은 호소력이 ..]]></content>
     </entry>
 </feed>
