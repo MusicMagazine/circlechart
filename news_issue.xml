@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-03-13T00:59:57.315Z</updated>
+    <updated>2024-03-13T01:54:56.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['트로트 한류 여왕' 김연자, 초이랩 전속계약…"트로트 시장 확대 힘쓸 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23588</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23588"/>
+        <updated>2024-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[트로트 한류 여왕 김연자가 초이랩 최신규 대표와 손 잡았다.13일 종합 엔터테인먼트사 초이크리에이티브랩(대표 최신규)은 "김연자와 전속계약을 체결했다. 김연자의 활동을 전폭 지원하는 것은 물론, 트로트 장르에 대한 지속적인 관심과 시장의 확대를 위해 실력 있는 후배 가수들을 발굴 및 양성하는 데에도 뜻을 함께할 것"이라고 밝혔다.초이랩 최신규 대표는 김연자의 히트곡 중 하나인 '쑥덕쿵'과 '정든님'을 작사, 작곡한 인연이 있다. 김연자와 최신규 대표의 랑데부가 트로트 팬들의 마음을 설레게 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['대국남아 출신' 가람·인준·제이, 5인조 보이그룹 어센트(ASC2NT)로 새출발!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23405</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22998"/>
         <updated>2023-09-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이프릴(APRIL) 출신 이진솔이 220엔터테인먼트와 전속계약을 체결했다.&nbsp;18일 220엔터테인먼트는 "가수 이진솔과 전속계약을 체결했다. 뛰어난 보컬 실력은 물론 밝고 사랑스러운 매력으로 대중의 큰 사랑을 받아온 이진솔을 당사의 새 식구로 맞이하게 돼 기쁘다"라고 밝혔다.&nbsp;이어 "다재다능한 끼와 재능을 소유한 이진솔이 음악은 물론 연기, 예능, MC 등 다양한 영역에서 자신의 역량을 펼칠 수 있도록 물심양면으로 서포트 할 예정이다"라고 덧붙이며 앞으로의 활동에 대한 전폭적인 지원을 예고했다.&nbsp;지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이네임 출신 강준규, YY엔터테인먼트와 손잡았다…방용국·배나라와 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=22897"/>
-        <updated>2023-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[배우 강준규가 YY엔터테인먼트에서 새 출발을 시작한다.22일 YY엔터테인먼트는 "최근 강준규와 전속계약을 체결했다"라며 "음악, 연기를 넘나드는 다재다능함과 뛰어난 외모의 소유자인 강준규에게 큰 가능성을 보고 그와 동행을 결정했다"라고 밝혔다.5인조 보이그룹 마이네임으로 데뷔해 국내외 팬들에게 사랑을 받아온 강준규는 배우 전향 후 연극 '일등급인간', 영화 '특송', 드라마 '별똥별' 등에 출연해 눈도장을 찍었다. 또 강준규는 오는 30일 개봉 예정인 공포영화 ..]]></content>
     </entry>
 </feed>
