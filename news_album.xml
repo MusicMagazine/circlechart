@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-18T00:59:53.699Z</updated>
+    <updated>2024-03-18T01:52:54.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HYNN(박혜원), 오늘(18일) 새 월화드라마 '멱살 한번 잡힙시다' OST '상처' 발매…극 몰입도 ↑]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23603</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23603"/>
+        <updated>2024-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 HYNN(박혜원)이 '멱살 한번 잡힙시다'에서 명품 보컬을 선사한다.HYNN이 가창한 KBS 2TV 새 월화드라마 '멱살 한번 잡힙시다'(연출 이호, 이현경 / 극본 배수영)의 첫 번째 OST '상처'가 18일 오후 6시 발매된다.'상처'는 히트 프로듀서 로코베리가 작곡에 참여한 곡으로, 30인조 오케스트라 사운드를 통해 곡의 분위기를 극대화한다.특히 "눈물아 멈춰줘 / 이제는 날 떠나가줘" "가슴아 멈춰줘 / 상처뿐일 거 알잖아" "..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘인, 오늘(15일) 영화 '남은 인생 10년' 컬래버 음원 '장마' 발매…비 오는 날 필청곡 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23600</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23590"/>
         <updated>2024-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 신예영이 '선녀외전' 컬래버레이션 음원 가창자로 나선다.신예영은 오는 17일 각종 온라인 음원사이트를 통해 인기 네이버웹툰 '선녀외전' 컬래버레이션 음원 '매일 난 헤어진 다음날'을 발매한다.'매일 난 헤어진 다음날'은 편한 친구처럼 가끔씩 연락하고 지내자며 헤어짐을 말하는 나쁜 남자를 잊지 못하는 여자의 마음을 표현한 곡이다. 흡입력 있는 신예영의 보컬과 만나 한 편의 이별 드라마를 본 듯한 진한 여운을 전할 예정이다.특히 신예영만의 아련한 감성과 애절한 보컬이 매일 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루네이트, 오늘(13일) 미니 2집 ‘BUFF’ 발매…꿈꾸는 청춘의 '슈퍼 파워']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23589</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23589"/>
-        <updated>2024-03-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)가 ‘BUFF’로 컴백한다.루네이트(진수·카엘·타쿠마·준우·도현·이안·지은호·은섭)는 13일 오후 6시 각종 온라인 음원 사이트를 통해 두 번째 미니앨범 ‘BUFF’(버프)를 발매한다.‘BUFF’는 꿈 많은 청춘 이야기를 담아낸 루네이트의 앨범으로, 다 함께 미래를 꿈꿀 때 가장 강력한 ‘버프’를 받아 무엇이든 이룰 수 있다는 긍정적이고 당찬 메시지를 전한다.타이틀곡 ‘SUPER POWER’(슈퍼 파워)는 루네이트의 에너제틱한 바이브가 매력적인 팝이다. 평범한 일상 속 갑자기 끼어든 누군가에게..]]></content>
     </entry>
 </feed>
