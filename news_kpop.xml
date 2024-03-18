@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-03-18T05:15:42.714Z</updated>
+    <updated>2024-03-18T06:18:30.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 10 CIRCLE CHART: LE SSERAFIM, BIBI, and NCT WISH Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23608</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23608"/>
+        <updated>2024-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 10 CIRCLE CHART (formerly gaonchart) was dominated by LE SSERAFIM, BIBI, and NCT WISH.KMCA, publisher of CIRCLE CHART, announced that “As of week 10 (2024.03.03.~2024.03.09.), LE SSERAFIM topped the Global K-pop Chart while BIBI swept 7 charts and NCT WISH went to No. 1 in the Album Chart.”..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이핑크 김남주, 오늘(18일) 4년 만에 솔로 컴백! 날개 활짝 펼칠 'BAD']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23605</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23576"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 청하가 에이티즈(ATEEZ) 홍중과의 댄스 챌린지를 공개하며 신보 발매 열기를 높인다.청하는 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘EENIE MEENIE’를 발매한다. 이 가운데 타이틀곡 ‘EENIE MEENIE (Feat. 홍중(ATEEZ))’의 챌린지 영상을 추가로 공개하며 화제를 모으고 있다.공개된 영상 속 청하는 ‘EENIE MEENIE’의 피처링을 맡은 에이티즈의 홍중과 댄스 챌린지를 선보이고 있다. 청하와 홍중은 레트로한 감성을 머금은 오래된 다방을 배경으로 힙한 스타일링을 선보여 이색적인 무..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린 "'롤모델' 다이나믹 듀오 최자와 작업 영광...피드백 인상 깊었다" [일문일답]]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23573</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23573"/>
-        <updated>2024-03-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린(ICHILLIN', 이지, 지윤, 재키, 주니, 채린, 예주, 초원)이 당찬 에너지를 담은 신보로 컴백했다.아이칠린은 지난 7일 세 번째 미니 앨범 '필린 핫(Feelin' Hot)'을 발매하고 글로벌 팬들 곁에 돌아왔다.'필린 핫'의 타이틀곡 '온 마이 립스(ON MY LIPS)'는 밝은 신스 사운드, 2000년대를 연상시키는 에너지 넘치는 드럼 사운드와 생생한 호른 사운드가 조화롭게 어우러진 활기차고 세련된 댄스 장르의 곡이다.특히 이번 신곡은 다이나믹 듀오..]]></content>
     </entry>
 </feed>
