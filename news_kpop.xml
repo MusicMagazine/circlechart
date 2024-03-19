@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-03-19T04:16:53.831Z</updated>
+    <updated>2024-03-19T05:14:27.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['4월 3일 컴백' 캐치더영, 미니 2집 'Fragments of Odyssey' 트랙리스트 공개…타이틀곡은 'Voyager']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23612</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23612"/>
+        <updated>2024-03-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['밴드돌' 캐치더영(Catch The Young)이 감정으로 요동치는 젊음을 노래한다.&nbsp;캐치더영(산이, 기훈, 남현, 준용, 정모)은 19일 0시 공식 SNS를 통해 오는 4월 3일 발매를 앞둔 두 번째 미니앨범 'Fragments of Odyssey(프래그먼츠 오브 오디세이)'의 트랙리스트를 공개했다.&nbsp;밴드 세션을 고스란히 옮겨 담은 깔끔한 무드의 트랙리스트 이미지에 따르면 이번 미니 2집에는 타이틀곡 'Voyager(보이저)'를 비롯해 'Sentimental Journey(센티멘..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 10 CIRCLE CHART: LE SSERAFIM, BIBI, and NCT WISH Rule the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23608</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23578"/>
         <updated>2024-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 용준형이 유니크한 매력으로 ‘Beautiful Dystopia’에 대한 기대감을 높였다.용준형은 11일 0시 블랙 메이드 공식 SNS를 통해 새 EP ‘Beautiful Dystopia (뷰티풀 디스토피아)’의 첫 번째 티저 이미지를 공개했다.티저 이미지 속 용준형은 포근한 톤의 착장과 함께 신비로운 분위기를 자아내고 있다. 용준형의 자유로운 무드의 포즈와 제스처가 자연스러운 몰입을 이끈다.용준형 주위에 감돌고 있는 은은한 아우라와 함께 그만의 나른한 매력도 돋보인다. 꽃 소품은 유니크한 무드를 더하며 눈길을 사로잡는다.‘Be..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하, 오늘(11일) 새 싱글 ‘EENIE MEENIE’ 발매! 피처링 참여 에이티즈 홍중과 챌린지 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23576</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23576"/>
-        <updated>2024-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 청하가 에이티즈(ATEEZ) 홍중과의 댄스 챌린지를 공개하며 신보 발매 열기를 높인다.청하는 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘EENIE MEENIE’를 발매한다. 이 가운데 타이틀곡 ‘EENIE MEENIE (Feat. 홍중(ATEEZ))’의 챌린지 영상을 추가로 공개하며 화제를 모으고 있다.공개된 영상 속 청하는 ‘EENIE MEENIE’의 피처링을 맡은 에이티즈의 홍중과 댄스 챌린지를 선보이고 있다. 청하와 홍중은 레트로한 감성을 머금은 오래된 다방을 배경으로 힙한 스타일링을 선보여 이색적인 무..]]></content>
     </entry>
 </feed>
