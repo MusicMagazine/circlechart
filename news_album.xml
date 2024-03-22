@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-03-21T23:15:57.635Z</updated>
+    <updated>2024-03-22T00:59:05.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 미연, JTBC ‘연애남매’ OST 가창 참여! 오늘(22일) ‘You and I’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23623</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23623"/>
+        <updated>2024-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 (여자)아이들 미연이 ‘연애남매’ OST 가창자로 출격한다.&nbsp;미연이 가창한 JTBC 연애 리얼리티 프로그램 ‘연애남매(연출 이진주)’ OST Part.2 ‘You and I (유 앤 아이)’가 22일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.&nbsp;‘You and I’는 따뜻한 봄, 사랑에 빠진 듯한 설렘을 표현한 일렉트로니카 장르의 곡이다. 현재 ‘연애남매’에 패널로 출연해 다채로운 활약을 선보이고 있는 미연이 OST 가창자로도 출격하며 시청자와 음악 팬들에게 색다른 즐거움을 선사할 예정이다.미연은 감미롭고 부드러운 음..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴킴, 오늘(21일) 영화 '남은 인생 10년' 컬래버 음원 'Little Star' 발매…감성 끝판왕]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23622</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23603"/>
         <updated>2024-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 HYNN(박혜원)이 '멱살 한번 잡힙시다'에서 명품 보컬을 선사한다.HYNN이 가창한 KBS 2TV 새 월화드라마 '멱살 한번 잡힙시다'(연출 이호, 이현경 / 극본 배수영)의 첫 번째 OST '상처'가 18일 오후 6시 발매된다.'상처'는 히트 프로듀서 로코베리가 작곡에 참여한 곡으로, 30인조 오케스트라 사운드를 통해 곡의 분위기를 극대화한다.특히 "눈물아 멈춰줘 / 이제는 날 떠나가줘" "가슴아 멈춰줘 / 상처뿐일 거 알잖아" "..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘인, 오늘(15일) 영화 '남은 인생 10년' 컬래버 음원 '장마' 발매…비 오는 날 필청곡 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23600</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23600"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 휘인(Whee In)이 오래도록 사랑받는 정인의 명곡을 재해석한다.휘인이 가창에 참여한 영화 '남은 인생 10년'의 컬래버레이션 프로젝트 음원 '장마'가 15일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'장마'는 지난 2011년 발매된 가수 정인의 두 번째 EP 'Melody Remedy' 타이틀곡으로, 휘인의 짙은 호소력과 만나 한층 애절한 발라드로 재탄생됐다.아날로그한 감성의 알앤비 편곡, 그루브한 악기 사운드가 휘인의 섬세한 색깔과 한 몸처럼 호흡하며 진한..]]></content>
     </entry>
 </feed>
