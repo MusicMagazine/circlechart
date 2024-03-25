@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-03-25T08:19:16.315Z</updated>
+    <updated>2024-03-25T09:14:32.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2014~2023 10년간 노래방 최애곡은 ?]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23634</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23634"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2014년부터 2023년까지 노래방 차트 가수별 히트수 점유율 조사에서 엠씨더맥스 (M.C The Max)가 400위권 내 총 13곡을 올려놓으며 (합산)점유율 4.3%로 1위에 올랐습니다.&nbsp;위 그래프는 2014년부터 2023년까지 매년 노래방 차트 이용량400(1위부터 400위까지 이용량 합계)을 나타낸 것입니다. 2019년 정점을 찍고 코로나19 사태 이후 음원 이용량이 현저히 줄어들고 있는 것으로 나타났습니다.&nbsp;&nbsp;위 그래프는 2014년부터 2023년까지 누적 노래방 차트 400위에 오른 곡의 수를 발매 연도별로 나타낸 것입니다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유 써클지수 점유율 1위 탈환! - 2월 리뷰 (2024)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23607</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23211"/>
         <updated>2023-11-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 10월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 12곡을 올려놓으며 (합산)점유율 6.3%로 1위에 올랐습니다.&nbsp;2023년 10월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 3.6% 감소, 전년 동기에 비해서 20.0% 감소했습니다.&nbsp;2023년 10월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 118.5% 증가, 전년 동기에 비해서 64.1% 증가했습니다.&nbsp;2023년 10월 TOP400 가수별 앨범 판매량 점유율 조사에서 세븐틴이 4..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가요인가? 팝인가? 넘쳐나는 영어 가사]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23132</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23132"/>
-        <updated>2023-10-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2000년대 초부터 증가하기 시작한 우리&nbsp; 대중가요 속 영어 가사가 최근 들어 크게 증가하고 있는 것으로 나타났습니다.&nbsp;이번 조사에서는 2018년과 2023년 상반기 TOP 400에 오른 아이돌 노래에 한정하여 영어 가사의 비중을 살펴보고, 이들 노래 한 곡에 참여하는 작사, 작곡, 편곡자 수의 변화에 대해서도 알아보도록 하겠습니다.&nbsp;2018년 상반기 114곡(걸그룹 38, 보이그룹 76)2023년 상반기 87곡( 걸그룹 63, 보이그룹 24)*가사 수집 및 텍스트 마이닝 처리*전체 영어 가사 곡 제외2023년 상반기 케이팝 한 곡..]]></content>
     </entry>
 </feed>
