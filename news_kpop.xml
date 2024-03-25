@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-03-25T01:00:52.739Z</updated>
+    <updated>2024-03-25T01:55:38.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 11 CIRCLE CHART: WENDY 'Wish You Hell - The 2nd Mini Album' Tops Retail Alb..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23627</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23627"/>
+        <updated>2024-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 11 CIRCLE CHART of 2024, WENDY 'Wish You Hell - The 2nd Mini Album' topped the weekly Retail Album Chart by selling 37,990 copies at retailers.'Wish You Hell - The 2nd Mini Album' was the top seller as of 6PM (KST) on the date of its release, March 12th (Tuesday, week 11)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4월 3일 컴백' 캐치더영, 미니 2집 콘셉트 포토 공개 완료! 반짝이는 청춘 비주얼 시너지]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23625</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23601"/>
         <updated>2024-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 10 CIRCLE CHART of 2024, Kim Heejae ‘Life’s Joys and Sorrows (喜怒哀樂)’ topped the weekly Retail Album Chart by selling 125,846 copies at retailers.Released on March 4th, ‘Life’s Joys and Sorrows (喜怒哀樂)’ was the top seller as of 4PM (KST) on March 6th (Wednesday, week 10).‘Life’s Joys and S..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYNN(박혜원), 드라마 '닥터슬럼프' OST '혼자가 아니야' 라이브 공개! 명불허전 가창력 '매료']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23597</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23597"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[HYNN(박혜원)이 고품격 토크형 라이브 콘텐츠로 팬들과 소통했다.지난 14일 유튜브 채널 '고고씽 GOGOSING'을 통해 HYNN의 라이브 영상 콘텐츠가 공개됐다.공개된 음악감상실 영상에서 HYNN은 밝은 미소와 함께 인사부터 전했다. 이어 HYNN은 '근황 감상' 코너를 통해 이름을 HYNN으로 지은 이유와 2024년 근황을 전하는가 하면, JTBC 드라마 '닥터슬럼프' OST '혼자가 아니야' 가창 소감과 처음 들었을 때의 느낌 등 다양한 비하인드 스토리를 공개하며 재..]]></content>
     </entry>
 </feed>
