@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-03-26T00:58:45.710Z</updated>
+    <updated>2024-03-26T01:51:30.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[트로트 가수 김지현, n.CH 트로트 레이블 그레인엔터와 전속 계약 체결…신유와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[트로트 가수 김지현이 새로운 출발에 나선다.n.CH엔터테인먼트의 트로트 레이블 그레인엔터테인먼트는 26일 "최근 김지현과 전속 계약을 체결하고 매니지먼트를 담당하게 됐다"고 밝혔다.김지현은 광주광역시 무형문화재 제14호 판소리 심청가 이수자로, 타고난 실력과 끼를 겸비한 트로트 가수다. 지난 2020년 첫 싱글 '사랑의 연금술사'로 데뷔했고, 같은 해 방송된 SBS '트롯신이 떴다2 - 라스트 찬스', MBC '트로트의 민족' 등 다양한 트로트 오디션 프로그램에 출연해 눈도장..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음색 여신' 수란, K타이거즈 엔터와 전속계약 체결! NEW 행보 '기대']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23602</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23154"/>
         <updated>2023-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 이수호가 제나두엔터테인먼트에 새둥지를 틀었다.&nbsp;제나두엔터테인먼트는 1일 "이수호와 최근 전속계약을 맺었다"라며 "가수 활동은 물론 다양한 분야에서 활발히 활동할 수 있도록 적극적으로 지원할 예정"이라고 밝혔다.&nbsp;이수호는 MBN '불타는 트롯맨'에서 어린 외모와는 상반되는 깊은 저음의 목소리로 팬들에게 많은 사랑을 받았고, 준결승에 진출하며 뛰어난 실력을 인정 받았다. 이후 전국투어 콘서트 '식스맨'으로 활동을 이어갔고, 최근 광주예술의전당 대강당에서 '희망 콘서트..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리샤, 뉴웨이컴퍼니와 전속계약... '배우 김남희와 한솥밥']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23050</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23050"/>
-        <updated>2023-10-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 크리샤가 뉴웨이컴퍼니와 전속계약을 체결하고 새롭게 도약한다.4일 뉴웨이컴퍼니는 “최근 크리샤가 이전 회사와의 계약이 만료되면서 자신과 동고동락한 매니저와의 의리를 지키고자 전속계약을 맺었다.&nbsp;뛰어난 보컬 실력과 밝고 사랑스러운 매력으로 대중의 사랑을 받아온 크리샤와 함께 하게 되어 기쁘며 앞으로도 계속해서 소중한 인연을 이어갈 것”이라고 밝혔다.이어 “뉴웨이컴퍼니는 다재다능한 크리샤가 다양한 영역에서 자신의 역량을 마음껏 펼칠 수 있도록 최선을 다해 지원할 예정이다”라며&nbsp;앞으로의 활동에 대한 지원 계획을 내비쳤다.크리샤는 &amp;#..]]></content>
     </entry>
 </feed>
