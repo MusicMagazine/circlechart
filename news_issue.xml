@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-03-27T00:58:53.053Z</updated>
+    <updated>2024-03-27T01:52:30.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[브라운 아이드 걸스 제아, 아우라엔터테인먼트와 전속계약]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23640</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23640"/>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 제아가 아우라엔터테인먼트와 새로운 출발을 한다.26일 소속사 아우라엔터테인먼트는 "풍부한 감성과 실력을 갖춘 제아와 최근 전속계약을 체결했다"고 밝혔다.&nbsp;브라운 아이드 걸스의 리더이자 리드보컬 제아는 솔로 음원 발매를 비롯해 드라마 '마에스트라', '오늘도 사랑스럽개' OST, '야오키 프로젝트', 리디 웹툰 '상수리나무 아래' OST 가창 및 듀엣곡 등 여러 음악 프로젝트에 참여하며 활발한 활동을 이어오고 있다.&nbsp;최근에는 후배 가수의 쇼케이스 MC와 웹예..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트로트 가수 김지현, n.CH 트로트 레이블 그레인엔터와 전속 계약 체결…신유와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23196"/>
         <updated>2023-11-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤지션 따마(THAMA)가 정규 2집으로 R&amp;B 소울 음악의 진수를 보여준다.따마는 지난 12일 오후 소속사 아메바컬쳐 공식 유튜브 채널을 통해 두 번째 정규앨범 ‘WOOOF! (우프!)’의 하이라이트 메들리 영상을 공개했다.하이라이트 메들리에는 이번 ‘WOOOF!’에 수록된 더블 타이틀곡 ‘Baby I Know (베이비 아이 노우)’와 ‘Bump It Up (범프 잇 업)’을 포함한 11곡의 음원 일부를 담고 있다. 이와 함께 작업실에서 신곡을 녹음하고 있는 따마의 모습이 그려졌다.먼저 첫 번째 타이틀곡 ‘Baby I Kn..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불타는 트롯맨' 준결승 진출 이수호, 제나두엔터테인먼트와 전속계약]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23154</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23154"/>
-        <updated>2023-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이수호가 제나두엔터테인먼트에 새둥지를 틀었다.&nbsp;제나두엔터테인먼트는 1일 "이수호와 최근 전속계약을 맺었다"라며 "가수 활동은 물론 다양한 분야에서 활발히 활동할 수 있도록 적극적으로 지원할 예정"이라고 밝혔다.&nbsp;이수호는 MBN '불타는 트롯맨'에서 어린 외모와는 상반되는 깊은 저음의 목소리로 팬들에게 많은 사랑을 받았고, 준결승에 진출하며 뛰어난 실력을 인정 받았다. 이후 전국투어 콘서트 '식스맨'으로 활동을 이어갔고, 최근 광주예술의전당 대강당에서 '희망 콘서트..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-03-27T00:58:53.044Z</updated>
+    <updated>2024-03-27T01:52:30.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[드리핀, 'Beautiful MAZE' 재킷 이미지 공개...'심쿵 유발' 완벽 비주얼 시너지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23639</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23639"/>
+        <updated>2024-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)의 색다른 카리스마가 담긴 재킷 이미지가 공개됐다.소속사 울림엔터테인먼트는 지난 26일 오후 8시 공식 SNS를 통해 드리핀의 네 번째 싱글 '뷰티풀 메이즈(Beautiful MAZE)' 두 번째 재킷 이미지를 공개했다.패션 매거진 화보를 연상케 하는 이번 재킷 이미지는 차분한 배경 속 드리핀의 독보적인 비주얼이 담겨 있어 글로벌 팬들의 폭발적인 반응을 불러왔다.이미지 속 드리핀은 트위드 소재부터 니트와 가죽, 화려한 액세서리까지 6인 6색..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐어스(희재·이레), ‘Want You Back’ 활동 순항 중…대만 KKBOX 차트인→음방 무대 접수]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23636</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23612"/>
         <updated>2024-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA['밴드돌' 캐치더영(Catch The Young)이 감정으로 요동치는 젊음을 노래한다.&nbsp;캐치더영(산이, 기훈, 남현, 준용, 정모)은 19일 0시 공식 SNS를 통해 오는 4월 3일 발매를 앞둔 두 번째 미니앨범 'Fragments of Odyssey(프래그먼츠 오브 오디세이)'의 트랙리스트를 공개했다.&nbsp;밴드 세션을 고스란히 옮겨 담은 깔끔한 무드의 트랙리스트 이미지에 따르면 이번 미니 2집에는 타이틀곡 'Voyager(보이저)'를 비롯해 'Sentimental Journey(센티멘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 10 CIRCLE CHART: LE SSERAFIM, BIBI, and NCT WISH Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23608</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23608"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 10 CIRCLE CHART (formerly gaonchart) was dominated by LE SSERAFIM, BIBI, and NCT WISH.KMCA, publisher of CIRCLE CHART, announced that “As of week 10 (2024.03.03.~2024.03.09.), LE SSERAFIM topped the Global K-pop Chart while BIBI swept 7 charts and NCT WISH went to No. 1 in the Album Chart.”..]]></content>
     </entry>
 </feed>
