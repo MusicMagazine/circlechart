@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-04-02T02:23:25.759Z</updated>
+    <updated>2024-04-02T03:17:09.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['미스트롯2' 장태희, 그레인엔터와 전속계약 체결…신유와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23664</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23664"/>
+        <updated>2024-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[트로트 가수 장태희가 그레인엔터테인먼트의 새 식구가 됐다.&nbsp;n.CH엔터테인먼트의 트로트 레이블 그레인엔터테인먼트는 2일 "다양한 재능을 가진 장태희와 함께하게 돼 기쁘다"라며 "장태희가 다방면에서 역량을 마음껏 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;장태희는 2009년 경기민요 경창대회 경기도지사 대상을 수상한 뒤 2010년 1집 앨범 'Modern Trot(모던 트로트)'를 발매하며 데뷔했다. 이후 'Play Trot(플레이 트로트)', '한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브라운 아이드 걸스 제아, 아우라엔터테인먼트와 전속계약]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23640</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202"/>
         <updated>2023-11-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 이라온이 레이벡스와 동행한다.14일 소속사 레이벡스(ravex)는 "이라온과 최근 전속계약을 체결했다. 이라온이 더욱 안정적인 환경에서 자신의 음악을 마음껏 들려드릴 수 있도록 최선을 다해 서포트하겠다"라고 밝혔다.이와 함께 이라온의 공식 SNS 채널도 공개됐다. 그간 공식 팬카페를 통해 라오니엘(공식 팬덤명)과 소통해온 이라온은 데뷔 후 처음으로 SNS를 개설하며 한층 폭넓은 활동 반경을 예고하고 있다.공식 SNS를 통해 공개된 오피셜 포토 속 이라온은 훈훈하고 부드러운 이미지로 눈길을 사로잡고 있다. ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘16일 발매’ 따마(THAMA), 정규 2집 ‘WOOOF!’ 하이라이트 메들리 공개! R&B 소울의 진수]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23196</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23196"/>
-        <updated>2023-11-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뮤지션 따마(THAMA)가 정규 2집으로 R&amp;B 소울 음악의 진수를 보여준다.따마는 지난 12일 오후 소속사 아메바컬쳐 공식 유튜브 채널을 통해 두 번째 정규앨범 ‘WOOOF! (우프!)’의 하이라이트 메들리 영상을 공개했다.하이라이트 메들리에는 이번 ‘WOOOF!’에 수록된 더블 타이틀곡 ‘Baby I Know (베이비 아이 노우)’와 ‘Bump It Up (범프 잇 업)’을 포함한 11곡의 음원 일부를 담고 있다. 이와 함께 작업실에서 신곡을 녹음하고 있는 따마의 모습이 그려졌다.먼저 첫 번째 타이틀곡 ‘Baby I Kn..]]></content>
     </entry>
 </feed>

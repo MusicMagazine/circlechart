@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-02T02:23:25.683Z</updated>
+    <updated>2024-04-02T03:17:09.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저스트비, 북남미 8개 도시 투어 성료! 막강해진 글로벌 인기 입증 ‘팬심 접수 完’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660"/>
+        <updated>2024-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 북남미 투어를 성료했다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난달 15일(이하 현지 시간)부터 31일까지 북남미 8개 도시에서 단독 투어 2024 JUST B NORTH &amp; SOUTH AMERICA TOUR ‘JUST BE WITH YOU (저스트 비 위드 유)’를 개최했다.‘JUST BE WITH YOU’는 저스트비가 데뷔 이래 진행한 가장 큰 규모의 단독 투어다. 지난 3월 15일 미국 저지시티를 시작으로 17일 푸에르토리코, 20일 마이애미, 22일 브라질 상파울루..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비, 첫 팬콘서트 'OUR DREAM' 성료 "완전체 공연, 곁에 있어준 팬들 덕분...마음에 새기고 보답할 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23631</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23565"/>
         <updated>2024-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[밴드 넬(Nell)이 4월 단독 콘서트로 관객들을 만난다.넬은 오는 4월 19일부터 21일까지 사흘간 서울 블루스퀘어 마스터카드홀에서 '넬스시즌 2024 &lt;봄의 겨울&gt;'(이하 '봄의 겨울')을 개최한다.'넬스시즌'은 매년 봄, 가을에 진행되는 넬의 브랜드 공연으로, '넬스룸'과는 색다른 연출로 매년 관객의 오감을 만족시키고 있다.이번 콘서트 '봄의 겨울'은 봄날의 이면에 존재하는 또 다른 겨울을 담은 공연이다. 넬의 명품 라이브 음악을 통해 얼어붙어 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이브레이크, 오늘(5일) '학전, 어게인 콘서트' 참석!...학전 마지막 여정 동행]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23555</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23555"/>
-        <updated>2024-03-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 데이브레이크(daybreak)가 대학로 학전의 마지막 여정에 동행한다.데이브레이크(김선일, 이원석, 김장원, 정유종)는 오늘(5일) 서울 종로구 학전블루 소극장에서 열리는 '학전, 어게인 콘서트'에 참석한다.학전은 지난 1991년 김민기 대표가 개관, 33년간 실험과 도전의 정신으로 이어온 대학로 소극장의 상징이다. 지금까지 총 359개의 작품이 기획 및 제작되어 공연예술인들이 성장할 수 있는 터전이 됐고, '김광석 콘서트', '노영심의 작은 음악회' 등을 개최하면서 대학로에 라이브 ..]]></content>
     </entry>
 </feed>
