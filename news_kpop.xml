@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-03T02:21:26.941Z</updated>
+    <updated>2024-04-03T03:15:35.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 12 CIRCLE CHART: V, (G)I-DLE, THE BOYZ, and BIBI Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23672</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23672"/>
+        <updated>2024-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 12 CIRCLE CHART (formerlygaonchart) of 2024 was dominated by V, (G)I-DLE, THE BOYZ, and BIBI.&nbsp;KMCA, publisher of CIRCLE CHART, announcedthat “As of week 12 (2024.03.17.~2024.03.23.), V topped the Global K-pop Chartwhile (G)I-DLE topped the Digital Chart. Also, THE BOYZ topped 3 charts while..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 미니 2집 ‘BUFF’ 활동 성료…"열심히 준비한 앨범, 많은 사랑 감사"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23669</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23657"/>
         <updated>2024-04-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엑소(EXO) 멤버 겸 보컬리스트 첸(CHEN)이 솔로 데뷔 5주년을 맞았다.첸은 오늘(1일) 솔로 데뷔 5주년을 맞아 공식 SNS를 통해 축전 이미지를 공개했다. 연차와 비례해 더욱 깊고 다양하게 구현될 그의 감성과 음악성이 기대를 모은다.매력적인 음색과 탁월한 가창력을 지닌 엑소의 메인보컬 첸은 2019년 4월 1일 첫 솔로 미니앨범 '사월, 그리고 꽃'을 발매하며 '믿듣첸'(믿고 듣는 첸)의 솔로 활동을 본격적으로 시작했다. 타이틀곡이자 솔로 데뷔곡인 '사월이 지나면 우리 헤어져요..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘3일 컴백’ 선재, 새 EP ‘Plan B’ 전곡 음원 일부 최초 공개! 짙어진 개성으로 노래한 삶]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23655</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23655"/>
-        <updated>2024-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 선재(snzae)가 ‘Plan B’로 삶의 다양한 장면을 노래한다.선재는 지난달 31일 공식 SNS를 통해 세 번째 EP ‘Plan B’의 앨범 프리뷰 영상을 공개했다.영상을 통해 선재가 직접 프로듀싱한 총 7곡의 음원 일부가 처음 베일을 벗었다. 선재는 타이틀곡 ‘Reset’(리셋)을 비롯해 ‘숨춤move (Feat. Pizza.zip)’(숨춤무브), ‘Stinky’(스팅키), ‘Bubbles’(버블스), ‘Lost (Feat. Xydo)’(로스트), ‘Head Down’(헤드 다운), ‘Juice’(주스)에서 성장한 음..]]></content>
     </entry>
 </feed>
