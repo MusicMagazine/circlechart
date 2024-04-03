@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-04-03T01:53:18.621Z</updated>
+    <updated>2024-04-03T02:21:26.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[n.CH엔터, '한일가왕전' 日 TOP7 매니지먼트 맡는다…"트로트의 힘으로 한일 교류 도모할 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23671</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23671"/>
+        <updated>2024-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[n.CH엔터테인먼트가 트로트 시장에서도 경쟁력을 보여주고 있다.n.CH엔터테인먼트는 3일 "자사가 MBN 오디션 프로그램 '한일가왕전'에 출연하는 일본 출연진들의 매니지먼트를 맡게 됐다"고 밝혔다.지난 2일 첫 방송된 '한일가왕전'은 한국의 '현역가왕'과 일본의 '트롯걸즈 재팬(Trot Girls Japan)' TOP7으로 선정된 양국의 트로트 국가대표들이 자국의 명예를 걸고 펼치는 세계 최초 트로트 한일전이다.&nbsp;앞서 일본 대표 위성 방송 채널 'WOWO..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스트롯2' 장태희, 그레인엔터와 전속계약 체결…신유와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23664</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23215"/>
         <updated>2023-11-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[3인조 보컬그룹 장덕철이 레이벡스에 합류했다.16일 소속사 레이벡스(ravex)는 “장덕철(장중혁, 덕인, 임철)과 최근 전속계약을 체결했다. 장덕철이 다시 활발한 활동을 펼칠 수 있도록 적극적인 지원에 나서겠다”라고 밝혔다.장덕철은 장중혁, 덕인, 임철 등 탄탄한 가창력과 프로듀싱 능력을 겸비한 세 멤버로 이뤄진 실력파 보컬 그룹이다. 특히 2017년 발매한 발라드 곡 ‘그날처럼’으로 국내 최대 음원 사이트 멜론에서 2018년 연간차트 2위를 차지하며 메가 히트를 기록했다. 이 곡으로 ‘제8회 가온차트 뮤직 어워즈’ 올해의 파퓰러..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘도 빛나는 너에게' 이라온, 레이벡스와 전속계약 체결! 가창력+음색 갖춘 싱송라]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23202"/>
-        <updated>2023-11-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 이라온이 레이벡스와 동행한다.14일 소속사 레이벡스(ravex)는 "이라온과 최근 전속계약을 체결했다. 이라온이 더욱 안정적인 환경에서 자신의 음악을 마음껏 들려드릴 수 있도록 최선을 다해 서포트하겠다"라고 밝혔다.이와 함께 이라온의 공식 SNS 채널도 공개됐다. 그간 공식 팬카페를 통해 라오니엘(공식 팬덤명)과 소통해온 이라온은 데뷔 후 처음으로 SNS를 개설하며 한층 폭넓은 활동 반경을 예고하고 있다.공식 SNS를 통해 공개된 오피셜 포토 속 이라온은 훈훈하고 부드러운 이미지로 눈길을 사로잡고 있다. ..]]></content>
     </entry>
 </feed>
