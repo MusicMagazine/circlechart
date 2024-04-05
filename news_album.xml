@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-04-05T00:59:50.720Z</updated>
+    <updated>2024-04-05T01:54:13.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['불타는 트롯맨' 이수호, 2개월 만에 신곡으로 컴백! 8일 첫 미니앨범 '사랑의 오빠' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23679</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23679"/>
+        <updated>2024-04-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이수호가 첫 미니앨범을 발매한다.&nbsp;이수호는 오는 8일 첫 미니앨범 '사랑의 오빠'를 발매하며 활동을 시작한다.&nbsp;'사랑의 오빠'는 이수호가 지난 2월 발매한 싱글 'RUN' 발매 이후 2개월 만에 선보이는 신보다. 이수호는 이번 첫 미니앨범에 모든 사람들에게 사랑을 듬뿍 받는 사람이 되겠다는 포부를 담았다.&nbsp;타이틀곡 '사랑의 오빠'는 모든 남자들의 로망인 사랑받는 오빠, 사랑을 주는 오빠가 되겠다는 의지를 담았다. 또한 이번 앨범에는 옛사랑과의 추억을 떠올리게 하는 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 LUCY(루시) 최상엽, 'Our Pie' 프로젝트 가창 참여! '날씨가 미쳤어'에 독보적 음악 색채 담았다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23678</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23648"/>
         <updated>2024-03-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김필이 싱어송라이터 짙은의 대표곡을 재해석한다.김필이 가창에 참여한 ‘남은 인생 10년’ 컬래버레이션 프로젝트 음원 ‘백야’가 29일 오후 6시 각종 온라인 음원 사이트를 통해 발매된다.‘백야’는 2011년 발매된 싱어송라이터 짙은의 EP ‘백야’의 타이틀곡으로, 김필 특유의 묵직하고 담백한 보이스를 만나 원곡과는 또 다른 새로운 매력으로 재탄생된다.김필은 어둠이 내리지 않는 밤 백야의 경이로움을 알아가는 여정을 진정성 넘치는 보이스로 표현하며 리스너들의 감성을 자극한다. 고요한 피아노 연주 위에 12현 기타와 일렉 기타의 드..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 오늘(29일) ‘월간 윤종신’ 3월호 ‘음(mm)’(with 조연호) 발매...설렘의 순간 재현]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23646</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23646"/>
-        <updated>2024-03-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 3월호를 통해 설렘의 순간을 재현한다.윤종신은 오늘(29일) 오후 6시 각종 온라인 음원 사이트를 통해 2024 ‘월간 윤종신’ 3월호 ‘음(mm)’(with 조연호)를 선보인다.‘음(mm)’은 윤종신의 대표 발라드곡을 여럿 탄생시킨 바 있는 윤종신, 이근호 콤비가 다시 의기투합해 사랑의 시작과 함께 일상으로 찾아온 리듬을 표현한 곡으로, 떠올리기만 해도 저절로 콧노래가 나오는 기분과 알 것 같은 마음, 모르겠는 마음이 교차하는 설렘의 감정을 담았다.윤종신은 ‘음(mm)’에 대해 “..]]></content>
     </entry>
 </feed>
