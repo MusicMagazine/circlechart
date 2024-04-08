@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-07T23:14:55.304Z</updated>
+    <updated>2024-04-08T01:00:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX, 세 번째 단독 콘서트 ‘0 or 1’ 성료! 2시간 꽉 채운 고퀄리티 퍼포먼스→5色 솔로 무대]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23686</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23686"/>
+        <updated>2024-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 세 번째 단독 콘서트를 성료했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 6일과 7일 양일간 서울 용산구 블루스퀘어 마스터카드홀에서 세 번째 단독 콘서트 ‘0 or 1(제로 오어 원)’을 성황리에 개최했다.‘0 or 1’은 CIX가 3년 연속으로 선보이는 단독 투어로, 서울에서 성공적인 포문을 열었다. 단독 콘서트로는 지난 2022년 12월 개최한 ‘Save me, Kill me(세이브 미, 킬 미)’ 이후 1년 4개월 만에 국내 관객들과 만난 CIX는 두 시간 넘게 꽉 채운 공연으로 행복한 시..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스트비, 북남미 8개 도시 투어 성료! 막강해진 글로벌 인기 입증 ‘팬심 접수 完’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23584"/>
         <updated>2024-03-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[윤종신이 대학로의 상징 학전의 마지막을 함께한다.윤종신은 오늘(12일) 오후 7시 서울 종로구 학전블루 소극장에서 열리는 ‘학전, 어게인 콘서트’에 참석한다.지난 1991년 서울 혜화동 대학로에서 시작된 학전은 33년간 총 359개의 작품을 기획, 제작하며 수많은 공연예술인들이 성장할 수 있는 터전 역할을 했다. 김광석, 윤도현, 들국화 등 다양한 아티스트들의 공연을 개최하며 라이브 콘서트 문화를 선도한 바 있다.대학로의 상징으로 자리잡은 학전은 오는 15일 폐관을 앞둔 가운데 그동안 학전과 인연을 맺어 온 33팀의 가수와 배우들이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['공연계의 강자' 넬, 4월 단독 콘서트 '봄의 겨울' 개최…오늘(7일) 티켓 예매 시작]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23565</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23565"/>
-        <updated>2024-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 넬(Nell)이 4월 단독 콘서트로 관객들을 만난다.넬은 오는 4월 19일부터 21일까지 사흘간 서울 블루스퀘어 마스터카드홀에서 '넬스시즌 2024 &lt;봄의 겨울&gt;'(이하 '봄의 겨울')을 개최한다.'넬스시즌'은 매년 봄, 가을에 진행되는 넬의 브랜드 공연으로, '넬스룸'과는 색다른 연출로 매년 관객의 오감을 만족시키고 있다.이번 콘서트 '봄의 겨울'은 봄날의 이면에 존재하는 또 다른 겨울을 담은 공연이다. 넬의 명품 라이브 음악을 통해 얼어붙어 ..]]></content>
     </entry>
 </feed>
