@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-04-08T23:14:24.036Z</updated>
+    <updated>2024-04-09T01:00:38.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 5월 2일 韓 정식 데뷔 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Mnet '보이즈 플래닛' 출신 그룹 TOZ(티오지)가 5월 2일 한국에서 정식 데뷔한다.&nbsp;TOZ(안토니, 하루토, 유토, 타쿠토)는 지난 8일 오후 공식 SNS를 통해 앨범 발매를 예고하는 포스터를 게재했다.&nbsp;공개된 포스터에는 발매일 '5월 2일'과 함께 앨범명 'TO my new friends(투 마이 뉴 프렌즈)'가 담겼다. 그리고 TOZ만의 톡톡 튀는 개성과 넘치는 에너지를 연상시키는 로고 디자인이 눈길을 사로잡았다. 포스터 너머로는 하늘색 곰인형으로 보이는 물체가 궁금증을 자아내며..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태민, 빅플래닛메이드엔터 합류→비주얼 필름 공개! 독보적인 분위기 미남]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23681</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23372"/>
         <updated>2024-01-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 홍자가 미스틱스토리와 전속계약 종료를 알렸다.미스틱스토리는 지난 3일 “3년간 미스틱스토리와 함께한 아티스트 홍자와 전속 계약이 종료 되었다”라고 밝혔다.이어, “그간 미스틱스토리의 소속 아티스트로 함께 해준 홍자에게 감사함을 전한다”라며, “곰탕 같은 보이스로 많은 이들에게 희로애락을 전할 홍자의 새롭게 만들어갈 앞날을 항상 응원하겠다”라고 덧붙였다.홍자는 지난 2019년 TV조선 ‘내일은 미스트롯’에 출연, 듣는 이의 마음을 울리는 곰탕 보이스와 독보적인 무대로 뜨거운 관심을 받았다. 이후 울산시 홍보대사, 대한적십자사 헌..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B.A.P 출신 정대현, MA엔터테인먼트와 전속계약 체결…문종업과 다시 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23357</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23357"/>
-        <updated>2023-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 B.A.P 출신 정대현이 MA엔터테인먼트와 새로운 출발에 나선다.29일 MA엔터테인먼트는 공식 SNS를 통해 “아티스트 정대현과 최근 전속계약을 체결했다. 올라운더 면모를 차곡차곡 쌓아온 정대현과 동행할 수 있어서 영광이다”라고 밝혔다.&nbsp;정대현은 2012년 B.A.P의 메인보컬로 데뷔했다. 팀 활동 외에도 솔로 앨범, 뮤지컬, 웹드라마 등 다방면에서 종횡무진 활약을 펼쳤으며, 가수이자 배우로 대중에게 꾸준히 존재감을 알렸다.&nbsp;정대현이 MA엔터테인먼트에 합류하면서 B.A.P로 함께 활동했던 문종업과 다시 한솥밥 인연을 이어가게 ..]]></content>
     </entry>
 </feed>

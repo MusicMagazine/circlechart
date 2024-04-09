@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-08T23:14:24.041Z</updated>
+    <updated>2024-04-09T01:00:38.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임수, 신곡 'GOOOD' M/V에 박재정·오반→'성균관대 카리나' 출연…특급 지원 사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23690</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23690"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임수가 보는 재미 가득한 뮤직비디오를 예고했다.임수는 오는 10일 2년 만의 새 더블 싱글 'GOOOD(굿)'을 발매한다.신곡 'GOOOD'은 음원 강자 오반과의 협업으로 완성도를 높인 가운데, 뮤직비디오에도 특별함을 담아내 이목을 집중시키고 있다.이번 뮤직비디오의 여주인공은 '성균관대 카리나'라는 별명으로 유명해진 성균관대학교 학생 박지혜로, 그는 최근 인기 유튜브 채널 '섭이네', '김해준', '3대얼짱' 등에 출연하며 카리나를 닮은 외모..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Z세대 아이콘' woo!ah!(우아!), 오늘(8일) 'BLUSH'로 1년 5개월 만의 컴백…K팝 신 설렘주의보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23688</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23672"/>
         <updated>2024-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 12 CIRCLE CHART (formerlygaonchart) of 2024 was dominated by V, (G)I-DLE, THE BOYZ, and BIBI.&nbsp;KMCA, publisher of CIRCLE CHART, announcedthat “As of week 12 (2024.03.17.~2024.03.23.), V topped the Global K-pop Chartwhile (G)I-DLE topped the Digital Chart. Also, THE BOYZ topped 3 charts while..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루네이트, 미니 2집 ‘BUFF’ 활동 성료…"열심히 준비한 앨범, 많은 사랑 감사"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23669</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23669"/>
-        <updated>2024-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)가 ‘BUFF’ 활동을 성료했다.루네이트(진수·카엘·타쿠마·준우·도현·이안·지은호·은섭)는 지난 2일 방송된 SBS M ‘더쇼’를 끝으로 두 번째 미니앨범 ‘BUFF’(버프) 활동을 성공적으로 마쳤다.‘BUFF’는 루네이트의 한층 강력해진 시너지를 담아낸 앨범이다. 다양한 장르와 매력의 총 6곡에서 루네이트는 성장한 랩, 보컬과 함께 ‘꿈 많은 청춘’이라는 색다른 콘셉트를 보여줬다.이 가운데 타이틀곡 ‘SUPER POWER’(슈퍼 파워)는 평범한 일상 속 갑자기 끼어든 누군가에게 운명처럼 사랑..]]></content>
     </entry>
 </feed>
