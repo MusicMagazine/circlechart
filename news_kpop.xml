@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-09T08:17:53.535Z</updated>
+    <updated>2024-04-09T09:15:05.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 13 CIRCLE CHART: ILLIT, (G)I-DLE, and NCT DREAM Rule the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23695</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23695"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 13 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ILLIT, (G)I-DLE, and NCT DREAM.KMCA, publisher of CIRCLE CHART, announced that “As of week 13 (2024.03.24.~2024.03.30.), ILLIT topped the Global K-pop Chart while (G)I-DLE topped 2 charts and NCT DREAM swept 3 charts.”ILLIT toppe..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐어스, 첫 대만 콘서트 성료→오늘(9일) 후속곡 ‘Pretty good’ 활동 시작!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23694</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23680"/>
         <updated>2024-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 본격적인 데뷔 예열에 나섰다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 5일 0시 공식 SNS를 통해 데뷔앨범 'Kick-START (킥-스타트)'의 선공개곡 '가나요 (Moonrise)'의 뮤직비디오를 공개했다.공개된 뮤직비디오는 하와이 현지 올로케이션의 압도적인 스케일과 환상적인 영상미, 티아이오티의 풋풋한 소년미가 모두 담겨 팬들의 시선을 사로잡았다. 또 티아이오티는 "넘어져도 다시 일어나서 가자"라는 가사를 통해 티아이오티가 이 시대 청춘들..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비주얼 K밴드' 캐치더영, 미니 2집 'Fragments of Odyssey' 팬 쇼케이스 성료! '뮤직뱅크' 첫 컴백 무대 출격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23677</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23677"/>
-        <updated>2024-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['비주얼 K밴드' 캐치더영(Catch The Young)이 팬들과 컴백일을 특별하게 보냈다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 지난 3일 오후 6시 두 번째 미니앨범 'Fragments of Odyssey(프래그먼츠 오브 오디세이)'를 발매하고, 같은 날 오후 8시 서울 일지아트홀에서 팬 쇼케이스를 개최했다.먼저 캐치더영은 수록곡 'Sentimental Journey(센티멘탈 저니)'로 공연의 포문을 열며 경쾌한 위로와 포부를 전했다. 다음으로 서정적인 감성이 묻어나는 타이틀곡 ..]]></content>
     </entry>
 </feed>
