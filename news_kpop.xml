@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-15T00:02:28.659Z</updated>
+    <updated>2024-04-15T05:13:49.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['22일 출격' 티아이오티(TIOT), 데뷔앨범 'Kick-START' 트랙리스트 공개! 타이틀곡은 'ROCK THANG']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23704</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23704"/>
+        <updated>2024-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 본격적인 데뷔 카운트다운에 돌입한다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 15일 0시 공식 SNS를 통해 데뷔앨범 'Kick-START (킥-스타트)'의 트랙리스트를 공개했다.트랙리스트에 따르면 타이틀곡 'ROCK THANG (락 땡)'을 비롯해 'Goosebumps (구스범스)', '가나요 (Moonrise)', 'Paradise (파라다이스)', '아기상어'까지 총 5개의 트랙이 티아이오티의 매력..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반하나, 레이벡스와 재계약→5월 컴백 예고! 음색+고음+감성 多 갖춘 '만능 보컬' 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23702</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23692"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[NCT DREAM 'DREAM( )SCAPE' topped the Monthly Retail Album Chart for March, 2024 by selling 532,030 copies at retailers.'DREAM( )SCAPE' is the new album from NCT DREAM. Carrying a message for the younger generation, the album features a total of 6 tracks including the title track '..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임수, 신곡 'GOOOD' M/V에 박재정·오반→'성균관대 카리나' 출연…특급 지원 사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23690</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23690"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 임수가 보는 재미 가득한 뮤직비디오를 예고했다.임수는 오는 10일 2년 만의 새 더블 싱글 'GOOOD(굿)'을 발매한다.신곡 'GOOOD'은 음원 강자 오반과의 협업으로 완성도를 높인 가운데, 뮤직비디오에도 특별함을 담아내 이목을 집중시키고 있다.이번 뮤직비디오의 여주인공은 '성균관대 카리나'라는 별명으로 유명해진 성균관대학교 학생 박지혜로, 그는 최근 인기 유튜브 채널 '섭이네', '김해준', '3대얼짱' 등에 출연하며 카리나를 닮은 외모..]]></content>
     </entry>
 </feed>
