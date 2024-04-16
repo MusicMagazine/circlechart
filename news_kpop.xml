@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-16T05:14:51.241Z</updated>
+    <updated>2024-04-16T06:18:19.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 14 CIRCLE CHART: TOMORROW X TOGETHER 'minisode 3: TOMORROW' Tops Retail Alb..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23712</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23712"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 14 CIRCLE CHART of 2024, TOMORROW X TOGETHER 'minisode 3: TOMORROW' topped the weekly Retail Album Chart by selling 377,014 copies at retailers.'minisode 3: TOMORROW' was the top seller as of 8PM (KST) on the date of its release, April 1st (Monday, week 14).'minisode ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['22일 출격' 티아이오티(TIOT), 데뷔앨범 'Kick-START' 트랙리스트 공개! 타이틀곡은 'ROCK THANG']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23704</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23693"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 비오(BE'O)가 유니크한 비주얼로 'Affection'의 분위기를 예고했다.비오는 지난 8일 오후 소속사 빅플래닛메이드엔터 공식 SNS에 두 번째 EP 'Affection (어펙션)'의 첫 번째 티저 이미지를 공개했다.티저 속 비오는 힙한 퍼 모자로 유니크한 스타일링을 선보이고 있다. 비오의 분위기 있는 눈빛과 섬세한 시선 처리가 새 EP 'Affection'에 대한 기대감을 고조시킨다.'Affection'의 감각적인 티징 콘텐츠도 음악 팬들의 관심을 모으고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 13 CIRCLE CHART: NCT DREAM 'DREAM( )SCAPE' Tops March Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23692</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23692"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[NCT DREAM 'DREAM( )SCAPE' topped the Monthly Retail Album Chart for March, 2024 by selling 532,030 copies at retailers.'DREAM( )SCAPE' is the new album from NCT DREAM. Carrying a message for the younger generation, the album features a total of 6 tracks including the title track '..]]></content>
     </entry>
 </feed>
