@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-04-16T00:59:44.995Z</updated>
+    <updated>2024-04-16T01:54:47.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 고요, 오늘(16일) 새 싱글 ‘우리만 아는 이야기’ 발매…감성 힙합 오마주 담았다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23710</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23710"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 고요가 새 싱글 ‘우리만 아는 이야기’로 돌아온다.고요는 16일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘우리만 아는 이야기 (Feat. 신예영)’를 발매한다.‘우리가 아는 이야기’는 지나간 사랑에 대한 그리움과 추억, 아직 남아있는 미련을 담아낸 가사와 어쿠스틱한 악기들이 조화를 이뤄 따뜻한 사운드로 채워진 곡이다. 고요가 느끼는 힙합에 대한 추억과 존경, 동경의 마음을 담아 그 시절 우리가 사랑했던 힙합 음악을 오마주했다.고요는 차분하면서도 서정적인 무드의 래핑으로 리스너들을 감성 힙합의 세계로 이끈다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선율X우무티X최수환X강하윤, 그룹 워터파이어 데뷔 확정! 25일 '빌드업' 파이널 앨범 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23708</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23679"/>
         <updated>2024-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 이수호가 첫 미니앨범을 발매한다.&nbsp;이수호는 오는 8일 첫 미니앨범 '사랑의 오빠'를 발매하며 활동을 시작한다.&nbsp;'사랑의 오빠'는 이수호가 지난 2월 발매한 싱글 'RUN' 발매 이후 2개월 만에 선보이는 신보다. 이수호는 이번 첫 미니앨범에 모든 사람들에게 사랑을 듬뿍 받는 사람이 되겠다는 포부를 담았다.&nbsp;타이틀곡 '사랑의 오빠'는 모든 남자들의 로망인 사랑받는 오빠, 사랑을 주는 오빠가 되겠다는 의지를 담았다. 또한 이번 앨범에는 옛사랑과의 추억을 떠올리게 하는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 LUCY(루시) 최상엽, 'Our Pie' 프로젝트 가창 참여! '날씨가 미쳤어'에 독보적 음악 색채 담았다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23678</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23678"/>
-        <updated>2024-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 LUCY(루시) 최상엽이 'Our Pie' 프로젝트 두 번째 주자로 나선다.LUCY(루시) 최상엽이 참여한 'Our Pie (아워 파이)' 프로젝트 두 번째 음원 '날씨가 미쳤어'가 4일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'날씨가 미쳤어'는 싱어송라이터 스무살이 발매한 EP '찰나의 찬란함'의 수록곡이다. 연인에게 직접 말하는 듯 자연스러운 가사와 멜로디를 통해 만난 지 얼마되지 않은 연인과 함께하고 싶은 풋풋하고 설레는 감정을 전할 전망이..]]></content>
     </entry>
 </feed>

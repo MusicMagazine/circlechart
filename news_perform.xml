@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-16T00:59:44.992Z</updated>
+    <updated>2024-04-16T01:54:47.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스), 오는 5월 25~26일 팬 콘서트 ‘Find YOU’ 개최...팬들 위한 특별한 무대 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23709</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23709"/>
+        <updated>2024-04-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 팬 콘서트 ‘Find YOU’를 개최한다.AB6IX(전웅, 김동현, 박우진, 이대휘)는 지난 15일 오후 12시 AB6IX 공식 SNS 채널들을 통해 이번 팬 콘서트 포스터를 공개하며&nbsp;오는 5월 25~26일 양일간 KBS 아레나에서 열릴 2024 AB6IX FAN CONCERT ‘Find YOU’의 개최 소식을 알렸다.공개된 포스터 속 AB6IX는 'Find YOU'라는 팬 콘서트명에 맞게 탐험가 같은 복장으로 무언가를 찾고 있는 듯한 모습으로 궁금증을 자아냈는데,&nbsp;멤버들은 각자 망원경..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4세대 핫템' 템페스트, 팬 콘서트 'UNiEVERSITY' 성료 "팬들은 우리의 기쁨이자 행복"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23706</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23606"/>
         <updated>2024-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 허용별이 미국 LA 공연 개최를 확정하며 글로벌 팬들을 만난다.허용별(허각, 신용재, 임한별)이 오는 4월 13일 미국 로스앤젤레스 윌턴극장에서 '허용별 2024 LIVE IN LA'를 개최한다.'허용별 2024 LIVE IN LA'는 국가대표 감성 힐링 보이스 허각과 미친 호소력의 신용재, 발성의 정석을 보여주는 보컬 교과서 임한별이 지속적인 음악적 교류를 통해 기획한 프로젝트 그룹 허용별의 첫 해외 합동 콘서트다.허용별은 국내 콘서트를 통해 고품격 무대를 선보인 데 이어 팬들의 뜨거운 성원에 힘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOMG 뮤직 플레이 파티 ‘AOMIX FEST #6’, 30일 개최 확정! 국내외 화려한 DJ 라인업 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23604</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23604"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[글로벌 힙합 레이블 AOMG의 뮤직 플레이 파티 ‘AOMIX FEST’가 올해도 열린다.AOMG는 오는 30일 오후 5시부터 익일(31일) 오전 3시까지 총 10시간에 걸쳐 서울 성동구 에스팩토리 D동에서 자사 뮤직 콘텐츠 AOMIX의 오프라인 파티 ‘AOMIX FEST #6’를 개최한다.지난 15일 AOMG 공식 SNS를 통해 ‘AOMIX FEST #6’에 참석하는 DJ들의 라인업 포스터가 공개되며 음악 팬들의 관심을 집중시켰다.먼저 캐나다의 Skratch Bastid(스크래치 배스티드)와 미국의 Dam Funk(대임 펑크)가 ‘..]]></content>
     </entry>
 </feed>
