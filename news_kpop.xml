@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-17T01:00:28.973Z</updated>
+    <updated>2024-04-17T01:57:06.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[배드빌런, 빅플래닛메이드 7인조 신예 걸그룹 첫 등판! 퍼포먼스 스포일러 기습 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23714</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23714"/>
+        <updated>2024-04-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 걸그룹 배드빌런(BADVILLAIN)이 파워 군무로 강렬한 첫 인상을 남겼다.빅플래닛메이드엔터는 17일 0시 공식 SNS와 유튜브 채널에 신인 걸그룹 배드빌런(BADVILLAIN)의 첫 번째 스포일러 필름을 공개했다.스포일러 필름을 통해 배드빌런의 구성이 7인조로 처음 알려졌다. 영상 속 배드빌런 일곱 멤버는 힙한 스타일로 얼굴을 가린 채 파워풀한 퍼포먼스를 선보이고 있다.짧은 분량임에도 배드빌런 멤버들의 강렬한 첫 인상이 눈길을 사로잡는다. 배드빌런은 스포일러 필름만으로 독보적인 춤 실력을 드러내며 탄탄한 능력치를 기대하게 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 14 CIRCLE CHART: TOMORROW X TOGETHER 'minisode 3: TOMORROW' Tops Retail Alb..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23712</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23694"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[듀오 세븐어스(SEVENUS)가 ‘Pretty good’으로 후속 활동에 나선다.세븐어스(희재·이레)는 9일 방송되는 SBS M 음악 프로그램 ‘더쇼’에 출연해 첫 번째 미니앨범 ‘SPRING CANVAS(스프링 캔버스)’ 더블 타이틀곡 중 ‘Pretty good(프리티 굿)’ 무대를 선보인다.첫 번째 타이틀곡 ‘Want You Back(원트 유 백)’ 활동을 마친 세븐어스는 이번 주 또 다른 타이틀곡 ‘Pretty good’으로 후속 활동을 선보인다. ‘Want You Back’을 통해 록 사운드를 들려줬다면, 이번 ‘Pretty..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['24일 컴백' 비오, EP 'Affection' 첫 티저 이미지 공개! 힙한 매력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23693</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23693"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 비오(BE'O)가 유니크한 비주얼로 'Affection'의 분위기를 예고했다.비오는 지난 8일 오후 소속사 빅플래닛메이드엔터 공식 SNS에 두 번째 EP 'Affection (어펙션)'의 첫 번째 티저 이미지를 공개했다.티저 속 비오는 힙한 퍼 모자로 유니크한 스타일링을 선보이고 있다. 비오의 분위기 있는 눈빛과 섬세한 시선 처리가 새 EP 'Affection'에 대한 기대감을 고조시킨다.'Affection'의 감각적인 티징 콘텐츠도 음악 팬들의 관심을 모으고..]]></content>
     </entry>
 </feed>
