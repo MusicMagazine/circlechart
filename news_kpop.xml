@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-17T23:15:50.674Z</updated>
+    <updated>2024-04-18T00:59:35.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘24일 컴백’ 비오, EP ‘Affection’ 전곡 음원 일부 공개! 타이틀곡 ‘밤새’ 개성 짙은 감성 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23721</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23721"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 비오(BE’O)가 ‘Affection’으로 매력적인 목소리를 들려준다.비오는 지난 17일 소속사 빅플래닛메이드엔터 공식 유튜브 채널에 두 번째 EP ‘Affection (어펙션)’의 앨범 프리뷰 영상을 공개했다.영상은 타이틀곡 ‘밤새’를 비롯해 ‘우선순위’, ‘우연 (Feat. 김필선)’, ‘Selfish (셀피쉬) (Feat. 방예담)’, ‘Lavender (라벤더) (Feat. Paul Blanco)’, ‘우주 (Feat. BIG Naughty)’, ‘SORRY (쏘리)’ 등 비오가 전곡 프로듀싱에 참여한 총 7곡의 음..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배드빌런, 빅플래닛메이드 7인조 신예 걸그룹 첫 등판! 퍼포먼스 스포일러 기습 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23714</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23695"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 13 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ILLIT, (G)I-DLE, and NCT DREAM.KMCA, publisher of CIRCLE CHART, announced that “As of week 13 (2024.03.24.~2024.03.30.), ILLIT topped the Global K-pop Chart while (G)I-DLE topped 2 charts and NCT DREAM swept 3 charts.”ILLIT toppe..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐어스, 첫 대만 콘서트 성료→오늘(9일) 후속곡 ‘Pretty good’ 활동 시작!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23694</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23694"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[듀오 세븐어스(SEVENUS)가 ‘Pretty good’으로 후속 활동에 나선다.세븐어스(희재·이레)는 9일 방송되는 SBS M 음악 프로그램 ‘더쇼’에 출연해 첫 번째 미니앨범 ‘SPRING CANVAS(스프링 캔버스)’ 더블 타이틀곡 중 ‘Pretty good(프리티 굿)’ 무대를 선보인다.첫 번째 타이틀곡 ‘Want You Back(원트 유 백)’ 활동을 마친 세븐어스는 이번 주 또 다른 타이틀곡 ‘Pretty good’으로 후속 활동을 선보인다. ‘Want You Back’을 통해 록 사운드를 들려줬다면, 이번 ‘Pretty..]]></content>
     </entry>
 </feed>

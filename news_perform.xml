@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-17T23:15:50.682Z</updated>
+    <updated>2024-04-18T00:59:35.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가수 비(RAIN), 6월 'STILL RAINING' 서울 단독 콘서트... 23일 선예매 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23720</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23720"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 비(RAIN)가 9년 만에 오는 6월 서울에서 단독 콘서트로 국내 팬들과 만난다.오는 6월 8일과 9일 양일간 서울 올림픽공원 올림픽홀에서 단독 콘서트 [2024 RAIN CONCERT IN SEOUL &lt;STILL RAINING&gt;]가 열리는 가운데, 23일 오후 8시 콘서트 티켓 선예매가 시작된다.티켓 예매는 인터넷 예매 사이트 인터파크 티켓에서 단독 진행된다. 네이버 팬카페 (officialcloud) 가입자를 대상으로 한 선예매는 오는 4월 23일(화) 오후 8시부터 진행되며, [비(RAIN) 11기 팬클럽 ‘구..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스), 오는 5월 25~26일 팬 콘서트 ‘Find YOU’ 개최...팬들 위한 특별한 무대 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23709</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23611"/>
         <updated>2024-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 DK(디셈버)가 4개월 만에 단독 콘서트를 연다.&nbsp;DK는 4월 26일부터 28일까지 서울 마포구에 위치한 신한카드 SOL페이 스퀘어에서 단독 콘서트 '피어오름'을 개최한다.&nbsp;'피어오름'은 잠들어 있던 모든 것들이 깨어나고 매일 마주치던 일상도 새롭게 느껴지는 봄, 감미로운 보이스의 DK와 관객들이 함께 호흡하며 우리의 아름다움이 피어오르는 시간으로 구성된 공연이다.DK는 지난해 12월 단독 콘서트 'D-DAY(디-데이)'를 통해 고품격 무대를 선사하며 일상에 지친 관객들에게 진한 감동..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각·신용재·임한별, 4월 美 LA 공연 확정! '허용별 2024 LIVE IN LA'에서 글로벌 소통 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23606</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23606"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 허용별이 미국 LA 공연 개최를 확정하며 글로벌 팬들을 만난다.허용별(허각, 신용재, 임한별)이 오는 4월 13일 미국 로스앤젤레스 윌턴극장에서 '허용별 2024 LIVE IN LA'를 개최한다.'허용별 2024 LIVE IN LA'는 국가대표 감성 힐링 보이스 허각과 미친 호소력의 신용재, 발성의 정석을 보여주는 보컬 교과서 임한별이 지속적인 음악적 교류를 통해 기획한 프로젝트 그룹 허용별의 첫 해외 합동 콘서트다.허용별은 국내 콘서트를 통해 고품격 무대를 선보인 데 이어 팬들의 뜨거운 성원에 힘..]]></content>
     </entry>
 </feed>
