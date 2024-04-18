@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-18T07:14:36.637Z</updated>
+    <updated>2024-04-18T08:19:05.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[March 2024 CIRCLE CHART: LE SSERAFIM, BIBI, and NCT DREAM Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23722</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23722"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM, BIBI, and NCT DREAM were the top acts in the March CIRCLE CHART.&nbsp;KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for March 2024, LE SSERAFIM topped the Global K-pop chart while BIBI swept 6 charts and NCT DREAM topped 3 charts.”LE SSERAFIM held total dom..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘24일 컴백’ 비오, EP ‘Affection’ 전곡 음원 일부 공개! 타이틀곡 ‘밤새’ 개성 짙은 감성 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23721</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23697"/>
         <updated>2024-04-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 콘셉트 포토를 모두 공개하며 데뷔 기대감을 끌어올렸다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 10일과 11일 공식 SNS를 통해 데뷔앨범 'Kick-START (킥-스타트)'의 'Kick (킥)' 버전, 'START (스타트)' 버전 콘셉트 포토를 공개했다.공개된 사진 속 티아이오티는 컬러풀한 스타일링으로 스포티한 매력을 드러내고 있다. 티아이오티는 스트릿한 비주얼과 함께 드럼 스틱, 헤드폰 등의 소품을 활용한 자연스러운 포즈로 팬들의 궁..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 13 CIRCLE CHART: ILLIT, (G)I-DLE, and NCT DREAM Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23695</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23695"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 13 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ILLIT, (G)I-DLE, and NCT DREAM.KMCA, publisher of CIRCLE CHART, announced that “As of week 13 (2024.03.24.~2024.03.30.), ILLIT topped the Global K-pop Chart while (G)I-DLE topped 2 charts and NCT DREAM swept 3 charts.”ILLIT toppe..]]></content>
     </entry>
 </feed>
