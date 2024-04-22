@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-04-22T01:02:30.742Z</updated>
+    <updated>2024-04-22T02:25:10.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['보이즈 플래닛 출신' 티아이오티(TIOT), 오늘(22일) 데뷔앨범 'Kick-START' 발매 '청춘들에 전하는 위로']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23730</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23730"/>
+        <updated>2024-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)의 빛나는 행보가 시작된다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 22일 오후 6시 각종 온라인 음원사이트를 통해 데뷔앨범 'Kick-START (킥-스타트)'를 발매한다.티아이오티의 데뷔앨범 'Kick-START'는 새로운 발걸음을 내딛는 순간 경험하는 다양한 감정을 표현한 앨범이다. 연습생 시절부터 정식 데뷔까지 숨 가쁘게 달려온 티아이오티의 땀과 눈물을 앨범에 담아 이 시대 청춘에게 뜨거운 응원의 메시지를 보낼 전망이다.데뷔곡 'ROCK THANG ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 진진, 신곡 ‘Fly (Duet with. 문빈(ASTRO))’ 오늘(19일) 발매..."선물 같은 노래 되길"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23727</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23713"/>
         <updated>2024-04-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엑소(EXO) 출신 글로벌 스타 레이(LAY ZHANG)가 국내 활동에 돌입한다.레이는 17일 오후 2시 솔로곡 'PSYCHIC(싸이킥)'의 한국어 버전을 발매한다.이에 앞서 최근 LAY ZHANG STUDIO 공식 SNS 채널에 레이의 국내 활동 계획이 담긴 스케줄러가 게재됐다.스케줄러에 따르면 레이는 17일 신곡 'PSYCHIC' 발매 이후 19일 뮤직비디오를 공개하며 음악 활동을 시작한다. 특히 Mnet '엠카운트다운', MBC '쇼! 음악중심', SBS '..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 고요, 오늘(16일) 새 싱글 ‘우리만 아는 이야기’ 발매…감성 힙합 오마주 담았다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23710</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23710"/>
-        <updated>2024-04-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 고요가 새 싱글 ‘우리만 아는 이야기’로 돌아온다.고요는 16일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘우리만 아는 이야기 (Feat. 신예영)’를 발매한다.‘우리가 아는 이야기’는 지나간 사랑에 대한 그리움과 추억, 아직 남아있는 미련을 담아낸 가사와 어쿠스틱한 악기들이 조화를 이뤄 따뜻한 사운드로 채워진 곡이다. 고요가 느끼는 힙합에 대한 추억과 존경, 동경의 마음을 담아 그 시절 우리가 사랑했던 힙합 음악을 오마주했다.고요는 차분하면서도 서정적인 무드의 래핑으로 리스너들을 감성 힙합의 세계로 이끈다...]]></content>
     </entry>
 </feed>
