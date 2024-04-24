@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-24T01:02:09.289Z</updated>
+    <updated>2024-04-24T02:23:38.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['페스티벌의 황제' 데이브레이크, 오는 27일 '2024 러브썸 페스티벌' 헤드라이너 출격!...피날레 장식]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743"/>
+        <updated>2024-04-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['페스티벌의 황제' 데이브레이크가 국내 페스티벌에 헤드라이너로 출격한다.데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 27일 서울 올림픽공원 KSPO DOME에서 개최되는 '2024 러브썸 페스티벌'의 헤드라이너 자격으로 무대에 오른다.소중한 일상들과 아름다운 음악 그리고 감성 가득한 책이 함께하는 '러브썸 페스티벌'은 음악, 책이라는 기본 콘셉트에 전년도 화제가 됐던 책을 부제로 한 콘셉트가 더해지는 가운데, 올해는 무운 작가의 힐링 그림 에세이 '마음 방울 채집'..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 인도네시아 팬콘 ‘Mystery Elevator’ 성료! 감성+스윗+치명美 다 갖춘 공연 ‘만능 스펙트럼’ 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23733</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23631"/>
         <updated>2024-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 데뷔 첫 팬콘서트를 성황리에 마무리했다.비투비는 지난 22일부터 24일까지 3일간 서울 올림픽공원 SK올림픽핸드볼경기장에서 단독 팬콘서트 '2024 비투비 팬콘 '아워 드림'(2024 BTOB FAN-CON 'OUR DREAM')'을 개최하고 팬들과 만났다.'아워 드림'은 비투비가 2012년 데뷔 이후 처음으로 개최한 팬콘서트로, 멜로디(비투비 공식 팬클럽명)와 비투비가 함께 이뤄낸 소중한 순간들을 추억하며 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SG워너비 콘서트, '우리'라는 이름으로 함께한 음악의 힘 '우리의 노래' 성료! 지방 공연 연속 매진]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23626</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23626"/>
-        <updated>2024-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 SG워너비가 본격적인 전국투어 포문을 열고 명품 공연을 선보였다.SG워너비(김용준, 김진호, 이석훈)는 지난 22일부터 24일까지 서울 KSPO DOME(올림픽체조경기장)에서 2024 SG워너비 콘서트 '우리의 노래'를 개최하고 팬들을 만났다.'우리의 노래'는 SG워너비가 데뷔 20주년을 맞아 개최하는 완전체 콘서트로, 지난 2016년 이후 8년 만에 진행하는 전국투어다. 이번 공연은 전국투어의 시작을 알리는 첫 공연인 만큼 팬들의 관심은 더욱 뜨거웠다. SG워너비는 'TIMELESS'..]]></content>
     </entry>
 </feed>
