@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-24T23:21:07.076Z</updated>
+    <updated>2024-04-25T01:15:43.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['커리어 하이' 드리핀, 부산에 뜬다...5월 12일 단독 팬미팅 개최 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23747</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23747"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 부산에서 단독 팬미팅을 개최한다.드리핀은 오는 5월 12일 부산 롯데시네마 센텀시티 6관에서 '2024 드리핀 시네마 팬미팅(2024 DRIPPIN CINEMA FANMEETING)'을 개최하고 오후 2시와 5시 2회 공연으로 팬들과 만난다.드리핀이 단독 팬미팅을 개최하는 것은 지난해 7월 개최한 '여름날의 꿈' 이후 약 10개월 만이다. 최근 네 번째 싱글 '뷰티풀 메이즈(Beautiful MAZE)'를 발..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['페스티벌의 황제' 데이브레이크, 오는 27일 '2024 러브썸 페스티벌' 헤드라이너 출격!...피날레 장식]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660"/>
         <updated>2024-04-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 저스트비(JUST B)가 북남미 투어를 성료했다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난달 15일(이하 현지 시간)부터 31일까지 북남미 8개 도시에서 단독 투어 2024 JUST B NORTH &amp; SOUTH AMERICA TOUR ‘JUST BE WITH YOU (저스트 비 위드 유)’를 개최했다.‘JUST BE WITH YOU’는 저스트비가 데뷔 이래 진행한 가장 큰 규모의 단독 투어다. 지난 3월 15일 미국 저지시티를 시작으로 17일 푸에르토리코, 20일 마이애미, 22일 브라질 상파울루..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 첫 팬콘서트 'OUR DREAM' 성료 "완전체 공연, 곁에 있어준 팬들 덕분...마음에 새기고 보답할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23631</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23631"/>
-        <updated>2024-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(서은광, 이민혁, 이창섭, 임현식, 프니엘, 육성재)가 데뷔 첫 팬콘서트를 성황리에 마무리했다.비투비는 지난 22일부터 24일까지 3일간 서울 올림픽공원 SK올림픽핸드볼경기장에서 단독 팬콘서트 '2024 비투비 팬콘 '아워 드림'(2024 BTOB FAN-CON 'OUR DREAM')'을 개최하고 팬들과 만났다.'아워 드림'은 비투비가 2012년 데뷔 이후 처음으로 개최한 팬콘서트로, 멜로디(비투비 공식 팬클럽명)와 비투비가 함께 이뤄낸 소중한 순간들을 추억하며 ..]]></content>
     </entry>
 </feed>
