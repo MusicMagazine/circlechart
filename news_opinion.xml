@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-04-25T06:18:43.429Z</updated>
+    <updated>2024-04-25T07:14:42.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<이슈&이슈> 하이브의 멀티 레이블 시스템 ?]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23750</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23750"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하이브의 멀티 레이블 시스템은 음악 비즈니스에서 말하는, 레이블 아래 딸려 있는 서브레이블(산하 레이블)의 개념을 말합니다. 예를 들어, 유니버설 뮤직 그룹은 산하에 팝뮤직을 담당하는 ‘EMI Record’외에도 ‘DEF JAM RECORDINGS’이라는 힙합 전문 레이블과 ‘Deutsche Grammophon’과 같은 클래식 음악 전문 레이블 등을 두고 있습니다.일반적으로 레이블이 산하에 여러 레이블을 두는 이유는, 메인 레이블의 브랜드를 희석시키지 않으면서 다양한 장르의 음악을 통해 더 많은 음악 소비자에게 다가가기 위함입니다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2014~2023 10년간  벨소리 최애곡은 ?]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23749</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23749"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2014년부터 2023년까지 벨소리 차트 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 17곡을 올려놓으며 (합산)점유율 6.2%로 1위에 올랐습니다.위 그래프는 2014년부터 2023년까지 누적 벨소리 차트 400위에 오른 곡의 수를 발매 연도별로 나타낸 것입니다. 2017년에 출시된 곡이 51곡으로 가장 많았는데, 참고로 지난 노래방 차트 조사 때에도 2017년에 발표된 곡이 가장 많았습니다.위 그래프는 2014년부터 2023년까지 누적 벨소리 차트 100위에 오른 곡의 수를 장르별로 나타낸 것입니다. 발라드 장르가..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음원 이용량 10개월 만에 반등! - 3월 리뷰(2024)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23711</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23345"/>
         <updated>2023-12-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[본 칼럼의 판매량 집계는 연간차트 400위를 기준으로 작성되었습니다. (그해 가장 많은 판매량을 기록한 연간차트 1위부터 400위까지 판매량 기준, 2023년은 1주차~50주차 까지의 결과임)&nbsp;매월 발표하는 월간 누적 앨범 차트 집계(1월 1위부터 400위까지 판매량 합계 + 2월 1위부터 400위까지 판매량 합계+3월....)와는 전체 판매량에서 다소 차이가 있습니다)위 그래프는 2013년부터 2023년까지 연간 앨범차트 400 판매량을 나타낸 것입니다. (연간 앨범차트 1위부터 400위까지의 판매량 합계, 2023년은 1주차~5..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지컬 앨범 또 다시 월간 최고치 경신! - 11월 리뷰 (2023)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23307</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23307"/>
-        <updated>2023-12-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2023년 11월 TOP400 가수별 써클지수 점유율 조사에서 IVE (아이브)가 400위권 내 총 9곡을 올려놓으며 (합산)점유율 6.0%로 1위에 올랐습니다.&nbsp;&nbsp;2023년 11월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 8.7%% 감소, 전년 동기에 비해서 20.1% 감소했습니다.&nbsp;2023년 11월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 0.1% 증가, 전년 동기에 비해서 217.2% 증가했습니다.&nbsp;&nbsp;&nbsp;2023년 11월 TOP400 가수별 앨범 판매량 점유율 조사에서 Str..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 겨울 시즌송]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23234</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23234"/>
-        <updated>2023-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[음악차트에 겨울을 알리는&nbsp; Ariana Grande의 'Santa Tell Me'와 Mariah Carey의 'All I Want For Christmas Is You'가 45주차(11월둘째주) 디지털차트에 각각 160위와 193위에 재진입하며 역주행하기 시작했습니다. 예년 같은 시기에는 300위권대였으나, 올해는 이른 추위 탓인지 100위권 대에서 가파른 상승세를 보이고 있습니다.&nbsp;2022년 12월 400위권 겨울 시즌송 데이터를 분석해 보면, 4년 전인 2018년 12월에 비해 시즌송이 29곡 증가한..]]></content>
     </entry>
 </feed>
