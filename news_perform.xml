@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-04-28T23:13:34.058Z</updated>
+    <updated>2024-04-29T01:02:21.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['글로벌 핫템' 템페스트, 베트남 인기 힘입어 6월 콘서트 'T-OUR' 개최 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23760</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23760"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 오는 6월 베트남 팬들을 만난다.&nbsp;29일 소속사는 "템페스트가 6월 15일 베트남 호찌민시에서 콘서트 'T-OUR: TEMPEST Voyage'를 개최한다"고 밝혔다.템페스트는 지난해 서울과 일본, 마카오에서 데뷔 첫 단독 콘서트 'T-OUR'를 개최하며 본격적인 글로벌 활동을 시작했다. 이어 베트남에서의 콘서트 개최를 확정해 현지 팬들의 뜨거운 반응을 모으고 있다.&nbsp;앞서 템페스트는 베트남 '호조 뮤직 페스티벌(HOZO Music festival)&amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['커리어 하이' 드리핀, 부산에 뜬다...5월 12일 단독 팬미팅 개최 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23747</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23686"/>
         <updated>2024-04-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 세 번째 단독 콘서트를 성료했다.CIX(BX, 승훈, 배진영, 용희, 현석)는 지난 6일과 7일 양일간 서울 용산구 블루스퀘어 마스터카드홀에서 세 번째 단독 콘서트 ‘0 or 1(제로 오어 원)’을 성황리에 개최했다.‘0 or 1’은 CIX가 3년 연속으로 선보이는 단독 투어로, 서울에서 성공적인 포문을 열었다. 단독 콘서트로는 지난 2022년 12월 개최한 ‘Save me, Kill me(세이브 미, 킬 미)’ 이후 1년 4개월 만에 국내 관객들과 만난 CIX는 두 시간 넘게 꽉 채운 공연으로 행복한 시..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스트비, 북남미 8개 도시 투어 성료! 막강해진 글로벌 인기 입증 ‘팬심 접수 完’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23660"/>
-        <updated>2024-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 북남미 투어를 성료했다.저스트비(임지민, 이건우, 배인, JM, 전도염, 김상우)는 지난달 15일(이하 현지 시간)부터 31일까지 북남미 8개 도시에서 단독 투어 2024 JUST B NORTH &amp; SOUTH AMERICA TOUR ‘JUST BE WITH YOU (저스트 비 위드 유)’를 개최했다.‘JUST BE WITH YOU’는 저스트비가 데뷔 이래 진행한 가장 큰 규모의 단독 투어다. 지난 3월 15일 미국 저지시티를 시작으로 17일 푸에르토리코, 20일 마이애미, 22일 브라질 상파울루..]]></content>
     </entry>
 </feed>
