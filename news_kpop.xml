@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-30T01:00:59.783Z</updated>
+    <updated>2024-04-30T01:57:21.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE(유나이트), 신곡 ‘GEEKIN’ 두 번째 MV 티저 공개…역대급 컴백 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23765</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23765"/>
+        <updated>2024-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[브랜뉴뮤직 소속 보이그룹 YOUNITE(유나이트)가 새 앨범 ‘ANOTHER’의 타이틀곡 ‘GEEKIN’의 두 번째 MV 티저를 공개했다.금일(30일) 0시, 유나이트는 공식 SNS 채널들을 통해 6TH EP ‘ANOTHER’의 타이틀곡 ‘GEEKIN’의 두 번째 MV 티저를 공개했는데,&nbsp;영상 속엔 링 위에 오른 복싱 선수를 연상시키는 군무와 어둠 속에서 펼쳐지는 댄스브레이크,&nbsp;그리고 샴페인과 돈다발을 뿌리며 자유롭게 즐기는 유나이트의 매력 넘치는 모습들이 담기며 이번 컴백에 대한 기대감을 한껏 끌어 올렸다.특히,&nbsp;이번 티저에서 공..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCND, 5월 21일 컴백 확정...미니 6집 'X10' 프로모션 스케줄러 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23761</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23736"/>
         <updated>2024-04-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Mnet '보이즈 플래닛' 출신 보이그룹 TOZ(티오지)가 완성도 높은 음악을 선보인다.TOZ(안토니, 하루토, 유토, 타쿠토)는 지난 22일 공식 SNS를 통해 새 앨범 'TO my new friends(투 마이 뉴 프렌즈)'의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면 이번 앨범에는 첫 번째 트랙 'NU SHOES(뉴 슈즈)'를 시작으로 'Turning Point(터닝 포인트)', 'Hello to my world(헬로 투 마이 월드)', '까만..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 정규 1집 커플링곡 ‘Breathe in Love’까지 M/V 3편 공개 완료! 믿듣 음악성 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23732</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23732"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 ‘Breathe in Love’ 뮤직비디오로 유니크한 청춘 감성을 선보였다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 22일 0시 공식 유튜브 채널에 첫 번째 정규앨범 ‘소화(韶華) 1장 : 청춘 시절’ 커플링곡 ‘Breathe in Love(브리드 인 러브)’의 뮤직비디오 영상을 공개했다.‘Breathe in Love’는 이펙스의 밝고 에너제틱한 샤우팅과 챈팅 멜로디가 돋보이는 곡으로, “숨을 쉬듯 네가 필요해”라는 뜨겁고 순수한 사랑 고백을 담고 있다. 앞선 선공개곡 ‘졸업식’과..]]></content>
     </entry>
 </feed>
