@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-04-30T05:13:55.742Z</updated>
+    <updated>2024-04-30T06:20:05.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 16 CIRCLE CHART: BOYNEXTDOOR 'HOW?' Leads Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23767</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23767"/>
+        <updated>2024-04-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 16 CIRCLE CHART of 2024, BOYNEXTDOOR 'HOW?' topped the weekly Retail Album Chart by selling 150,846 copies at retailers.'HOW?' was the top seller as of 7PM (KST) on the date of its release, April 15th (Monday, week 16).'HOW?' is the 3rd mini-album from BOYNEXTDOOR..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOUNITE(유나이트), 신곡 ‘GEEKIN’ 두 번째 MV 티저 공개…역대급 컴백 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23765</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23737"/>
         <updated>2024-04-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 비오(BE’O)가 ‘밤새’로 아련한 여름밤 감성을 전한다.비오는 지난 22일 오후 소속사 빅플래닛메이드엔터 공식 유튜브 채널에 두 번째 EP ‘Affection (어펙션)’ 타이틀곡 ‘밤새’의 뮤직비디오 티저 영상을 공개했다.영상은 비오가 사진을 바라보며 생각에 잠긴 모습으로 시작했다. 이어 비오는 여러 개의 알람 시계에 둘러싸여 공허한 표정을 짓거나 잠들지 못하고 뒤척이는 등 감정연기로 이목을 사로잡았다. 도로 위에 선 비오가 의문의 불빛에 얼굴을 가리는 장면은 뮤직비디오 본편의 전개를 더욱 궁금하게 했다.특히 비오는 아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOZ(티오지), 신보 'TO my new friends' 트랙리스트 공개…하루토 타이틀곡 'NU SHOES' 작사 참여]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23736</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23736"/>
-        <updated>2024-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Mnet '보이즈 플래닛' 출신 보이그룹 TOZ(티오지)가 완성도 높은 음악을 선보인다.TOZ(안토니, 하루토, 유토, 타쿠토)는 지난 22일 공식 SNS를 통해 새 앨범 'TO my new friends(투 마이 뉴 프렌즈)'의 트랙리스트 이미지를 공개했다.트랙리스트에 따르면 이번 앨범에는 첫 번째 트랙 'NU SHOES(뉴 슈즈)'를 시작으로 'Turning Point(터닝 포인트)', 'Hello to my world(헬로 투 마이 월드)', '까만..]]></content>
     </entry>
 </feed>
