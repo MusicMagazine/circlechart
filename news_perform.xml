@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-05-07T01:02:14.124Z</updated>
+    <updated>2024-05-07T02:31:18.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비아이, 아시아 투어 ‘HYPE UP’ 서울 첫 공연 전석 매진! 티켓 파워 시동]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23777</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23777"/>
+        <updated>2024-05-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 아티스트 비아이(B.I)가 티켓 파워를 발휘했다.7일 소속사 131레이블은 “지난 3일 오픈된 비아이의 2024 아시아 투어 ‘HYPE UP(하입 업)’의 서울 첫 공연 티켓이 전석 매진을 기록했다”라고 밝혔다.‘HYPE UP’은 비아이가 2년 연속으로 진행하는 아시아 투어다. 앞서 서울, 홍콩, 방콕, 싱가포르, 마닐라, 자카르타, 마카오 개최를 알린 데 이어 쿠알라룸푸르 공연까지 추가하며 총 8개 도시 일정을 확정했다. 비아이는 전체 투어의 포문을 여는 서울 공연 티켓을 매진시키며 티켓 파워에 본격적인 시동을 걸었다.투어..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 휘인, 환호 속 亞 투어 성료..."긴장 속 솔로 첫 해외 투어, 응원해 준 팬들에 감사"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23771</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23731"/>
         <updated>2024-04-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이스(A.C.E)가 완전체 팬미팅으로 팬들과 재회했다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 20일 오후 3시와 7시 30분 총 2회차에 걸쳐 서울 강남구 백암아트홀에서 2024 단독 팬미팅 'HOME SWEET A.C.E'(홈 스윗 에이스)를 성공적으로 개최했다.'HOME SWEET A.C.E'는 에이스가 다섯 멤버 전원의 군 복무 이후 완전체로는 약 3년 만에 진행한 단독 공연이다. 올해 미니 6집 'My Girl : "My Choice"'(마이 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 비(RAIN), 6월 'STILL RAINING' 서울 단독 콘서트... 23일 선예매 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23720</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23720"/>
-        <updated>2024-04-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 비(RAIN)가 9년 만에 오는 6월 서울에서 단독 콘서트로 국내 팬들과 만난다.오는 6월 8일과 9일 양일간 서울 올림픽공원 올림픽홀에서 단독 콘서트 [2024 RAIN CONCERT IN SEOUL &lt;STILL RAINING&gt;]가 열리는 가운데, 23일 오후 8시 콘서트 티켓 선예매가 시작된다.티켓 예매는 인터넷 예매 사이트 인터파크 티켓에서 단독 진행된다. 네이버 팬카페 (officialcloud) 가입자를 대상으로 한 선예매는 오는 4월 23일(화) 오후 8시부터 진행되며, [비(RAIN) 11기 팬클럽 ‘구..]]></content>
     </entry>
 </feed>
