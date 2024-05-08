@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-05-08T00:52:34.870Z</updated>
+    <updated>2024-05-08T01:34:41.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 조이X빅나티, 깜짝 듀엣 성사! 15일 ‘내 입술 따뜻한 커피처럼’ 리메이크 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23786</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23786"/>
+        <updated>2024-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 레드벨벳 조이(JOY)와 아티스트 빅나티(BIG Naughty·서동현)가 듀엣으로 뭉친다.조이, 빅나티가 가창에 참여한 영화 ‘남은 인생 10년’의 컬래버레이션 프로젝트 음원 ‘내 입술 따뜻한 커피처럼’이 오는 15일 오후 6시 발매를 확정했다.‘내 입술 따뜻한 커피처럼’은 2001년 발매된 그룹 샵(S#ARP)의 4.5집 앨범에 수록된 동명의 타이틀곡으로, 조이와 빅나티의 목소리를 통해 2024년 버전으로 새롭게 재해석됐다.조이와 빅나티는 이별을 앞둔 남녀가 서로의 마음을 이야기하는 듯한 애틋한 가사를 담백하고 진솔하게 표현..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더윈드, 15일 데뷔 1주년 신곡 '빛을 담아 너에게 줄게 Part.2' 발매!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23783</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23762"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 헤이즈(Heize)가 '남은 인생 10년'의 컬래버레이션 음원 가창자로 나선다.헤이즈가 가창에 참여한 영화 '남은 인생 10년'의 컬래버레이션 음원 '넌 어디에'가 오는 5월 6일 발매된다.'넌 어디에'는 지난 2012년 그룹 블락비(Block B)가 발매한 정규앨범 'BLOCKBUSTER (블록버스터)'의 수록곡으로, 이해하지 못했던 사랑하는 사람의 행동과 말투조차 그리워하며 다시 돌아와달라는 메시지를 담았다.특히 헤이즈는 섬세한 감정 표현과 담백한 보이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스터트롯2' 추혁진, 오늘(29일) 신곡 '혹시나 했는데 역시나' 발매…만능 엔터테이너 존재감 폭발]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23758</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23758"/>
-        <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 추혁진이 신곡을 통해 만능 엔터테이너의 존재감을 발산한다.추혁진은 29일 정오 각종 온라인 음원 사이트를 통해 새 싱글 '혹시나 했는데 역시나'를 발매한다.'혹시나 했는데 역시나'는 디스코 장르를 접목시킨 신나는 댄스 트로트로, 노래, 춤, 외모 삼박자를 갖춘 만능 엔터테이너 추혁진의 아이덴티티가 가득 담긴 곡이다.진미령의 '미운사랑'부터 문희옥의 '평행선', 서지오의 '남이가' 등 수많은 히트곡을 만든 송광호 작곡가가 이번 곡의 작사에 참여해 또 하나의 ..]]></content>
     </entry>
 </feed>
