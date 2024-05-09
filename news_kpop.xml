@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-05-09T01:03:00.081Z</updated>
+    <updated>2024-05-09T02:28:50.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 17 CIRCLE CHART: ILLIT, LeeChanWon, and CRUSH Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23792</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23792"/>
+        <updated>2024-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 17 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ILLIT, LeeChanWon, and CRUSH.KMCA, publisher of CIRCLE CHART, announced that “As of week 17 (2024.04.21.~2024.04.27.), ILLIT, LeeChanWon, and CRUSH each swept 3 charts.”ILLIT’s debut title track ‘Magnetic’ swept a total of three ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MCND, '韓 대표 아이돌'로 카타르에 뜬다...해외 페스티벌 잇단 러브콜]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23789</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23769"/>
         <updated>2024-05-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 리오(LEO)가 음악 역량을 발휘한 웰메이드 EP를 선보인다.리오는 2일 0시 131레이블 공식 SNS에 첫 번째 EP ‘COME CLOSER (컴 클로저)’의 트랙리스트 포스터 이미지를 공개했다.리오의 감각적인 비주얼을 클로즈업한 트랙리스트에 따르면 이번 EP에는 타이틀곡 ‘Come Closer (컴 클로저)’를 비롯해 ‘One Look (원 룩)’, ‘Pretty Plzzz (프리티 플리즈) (Feat. B.I)’, ‘Farewell (페어웰)’ 등 총 4곡이 수록된다.지난달 뮤직비디오로 선공개된 ‘Pretty Plzz..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 16 CIRCLE CHART: BOYNEXTDOOR 'HOW?' Leads Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23767</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23767"/>
-        <updated>2024-04-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 16 CIRCLE CHART of 2024, BOYNEXTDOOR 'HOW?' topped the weekly Retail Album Chart by selling 150,846 copies at retailers.'HOW?' was the top seller as of 7PM (KST) on the date of its release, April 15th (Monday, week 16).'HOW?' is the 3rd mini-album from BOYNEXTDOOR..]]></content>
     </entry>
 </feed>
