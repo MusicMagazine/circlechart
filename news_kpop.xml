@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-05-08T23:16:02.570Z</updated>
+    <updated>2024-05-09T01:03:00.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[MCND, '韓 대표 아이돌'로 카타르에 뜬다...해외 페스티벌 잇단 러브콜]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23789</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23789"/>
+        <updated>2024-05-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 MCND(엠씨엔디, 캐슬제이, 빅, 민재, 휘준, 윈)가 카타르에 뜬다.MCND는 오는 10일 카타르 최대 규모 쇼핑센터 몰 오브 카타르(Mall of Qatar)에서 개최되는 '대한민국 관광문화의료페스티벌(Korea Tourism, Culture &amp; Medical Festival)'에 K팝 대표 아티스트로 초청돼 공연을 펼친다.이번 공연은 한국과 카타르의 수교 50주년을 기념하기 위한 특별한 행사다. 현지 한국관광공사는 지난 4일 공식 SNS를 통해 MCND의 페스티벌 출연 소식을 알리며 이들을 '..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경력직 신인' 어센트, 데뷔 기념 팬 쇼케이스 성료 "꿈 잃지 않게 항상 응원해 주셔서 감사"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23787</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23767"/>
         <updated>2024-04-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 16 CIRCLE CHART of 2024, BOYNEXTDOOR 'HOW?' topped the weekly Retail Album Chart by selling 150,846 copies at retailers.'HOW?' was the top seller as of 7PM (KST) on the date of its release, April 15th (Monday, week 16).'HOW?' is the 3rd mini-album from BOYNEXTDOOR..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE(유나이트), 신곡 ‘GEEKIN’ 두 번째 MV 티저 공개…역대급 컴백 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23765</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23765"/>
-        <updated>2024-04-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[브랜뉴뮤직 소속 보이그룹 YOUNITE(유나이트)가 새 앨범 ‘ANOTHER’의 타이틀곡 ‘GEEKIN’의 두 번째 MV 티저를 공개했다.금일(30일) 0시, 유나이트는 공식 SNS 채널들을 통해 6TH EP ‘ANOTHER’의 타이틀곡 ‘GEEKIN’의 두 번째 MV 티저를 공개했는데,&nbsp;영상 속엔 링 위에 오른 복싱 선수를 연상시키는 군무와 어둠 속에서 펼쳐지는 댄스브레이크,&nbsp;그리고 샴페인과 돈다발을 뿌리며 자유롭게 즐기는 유나이트의 매력 넘치는 모습들이 담기며 이번 컴백에 대한 기대감을 한껏 끌어 올렸다.특히,&nbsp;이번 티저에서 공..]]></content>
     </entry>
 </feed>
