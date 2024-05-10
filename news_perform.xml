@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-05-10T01:02:30.040Z</updated>
+    <updated>2024-05-10T02:30:28.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트, 오늘(10일) 단독 콘서트 'LIGHTS GO ON, AGAIN' 그랜드 오픈!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23797</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23797"/>
+        <updated>2024-05-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[하이라이트의 10, 11, 12일 사흘간 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 2024 단독 콘서트 'LIGHTS GO ON, AGAIN'(라이츠 고 온, 어게인)을 개최한다.'LIGHTS GO ON, AGAIN'은 하이라이트가 2022년 5월 'INTRO'(인트로) 이후 2년 만에 여는 완전체 콘서트이자, 멤버들의 전역 후 최대 규모로 펼쳐지는 단독 공연이다. 일반 예매 시작과 함께 KSPO DOME 전석이 전 회차 매진을 기록하고 시야제한석까지 추가 오픈하며 하이라이트의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SG워너비, '우리의 노래' 전국투어 매진→7월 KSPO DOME서 앙코르 공연 깜짝 발표]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23784</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743"/>
         <updated>2024-04-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA['페스티벌의 황제' 데이브레이크가 국내 페스티벌에 헤드라이너로 출격한다.데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 27일 서울 올림픽공원 KSPO DOME에서 개최되는 '2024 러브썸 페스티벌'의 헤드라이너 자격으로 무대에 오른다.소중한 일상들과 아름다운 음악 그리고 감성 가득한 책이 함께하는 '러브썸 페스티벌'은 음악, 책이라는 기본 콘셉트에 전년도 화제가 됐던 책을 부제로 한 콘셉트가 더해지는 가운데, 올해는 무운 작가의 힐링 그림 에세이 '마음 방울 채집'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 인도네시아 팬콘 ‘Mystery Elevator’ 성료! 감성+스윗+치명美 다 갖춘 공연 ‘만능 스펙트럼’ 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23733</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23733"/>
-        <updated>2024-04-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 차은우가 팬콘 투어로 핫한 글로벌 행보를 펼치고 있다.차은우는 지난 20일 인도네시아 자카르타에서 단독 팬콘 ‘2024 Just One 10 Minute [Mystery Elevator]’(2024 저스트 원 텐 미닛 [미스테리 엘리베이터])를 개최했다.‘2024 Just One 10 Minute [Mystery Elevator]'는 네 번째 시즌으로 돌아온 차은우의 대표 브랜드 공연이다. 지난 2월 서울 첫 공연을 시작으로 말레이시아, 태국, 필리핀, 일본, 싱가포르에 이어 인도네시아에서도 성공적으로 열리며 ..]]></content>
     </entry>
 </feed>
