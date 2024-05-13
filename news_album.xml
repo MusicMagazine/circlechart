@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-05-13T01:04:32.692Z</updated>
+    <updated>2024-05-13T02:31:04.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘판타지오 신인’ 루네이트, 6월 19일 日 정식 데뷔 확정…첫 싱글 ‘Evergreen’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23803</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23803"/>
+        <updated>2024-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)가 6월 19일 일본에서 정식 데뷔한다.루네이트(진수·카엘·타쿠마·준우·도현·이안·지은호·은섭)는 오는 6월 19일 일본 데뷔 싱글 ‘Evergreen’(에버그린)을 발매한다.‘Evergreen’에는 동명의 타이틀곡 ‘Evergreen’과 커플링곡 ‘My Tune’(마이 튠)을 비롯해 일본 오리지널 곡 ‘LOUDER’(라우더), 국내 데뷔곡 ‘Wild Heart’(와일드 하트) 일본어 버전, 미니 2집 수록곡 ‘PASTEL’(파스텔) 일본어 버전까지 총 5곡이 수록된다.타이틀곡 ‘Evergre..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['걸스플래닛'-'쇼미9' 유다연, 11일 신곡 'keep it low' 발매...'실력파 신예' 에너지 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23795</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23779"/>
         <updated>2024-05-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 저스디스(JUSTHIS)가 올봄 힙합신을 뒤흔들 신곡으로 돌아온다.저스디스는 7일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '서울 파트2(SsEeOoUuLl Pt. II) (feat. 양홍원)'를 발매한다.'서울 파트2'는 지난 2014년 발매된 저스디스의 세 번째 믹스테이프 '머니 Vs. 러브: 드림(Money Vs. Love: Dream)(MVLD)' 10주년을 기념한 신곡이다. 힙합 '레전드'로 불리는 그의 전매특허인 타이트한 래핑과 감각적인 플로우, 저..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 태일, '세자가 사라졌다' OST 가창자 합류…11일 '내 곁에 있어요' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23778</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23778"/>
-        <updated>2024-05-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[NCT 태일의 목소리를 안방극장에서 만난다.태일이 가창한 MBN 주말 미니시리즈 '세자가 사라졌다' OST Part. 2 '내 곁에 있어요'가 오는 11일 오후 6시 발매된다.&nbsp;'세자가 사라졌다'는 왕세자가 세자빈이 될 여인에게 보쌈 당하면서 벌어지는 조선판 로맨스 코미디 드라마다.'내 곁에 있어요'는 도성대군(김민규 분)이 최명윤(홍예지 분)과의 우연한 만남을 회상하는 장면에 처음 등장했던 곡으로, 사랑 앞에서 간절한 한 남자의 짝사랑을 노래한다.앞서 세자 이건 역을 맡은 ..]]></content>
     </entry>
 </feed>

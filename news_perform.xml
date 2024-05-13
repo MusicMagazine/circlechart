@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-05-13T01:04:32.700Z</updated>
+    <updated>2024-05-13T02:31:04.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비, 日 오사카→도쿄 팬콘서트 성료...'믿고 듣는 그룹' 에너지 완벽 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23802</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23802"/>
+        <updated>2024-05-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 비투비(BTOB)가 팬콘서트 일본 공연을 성공적으로 마무리했다.비투비는 지난 10일 일본 오사카 제프 남바(ZEPP NAMBA), 12일 도쿄 제프 하네다(ZEPP HANEDA)에서 단독 팬콘서트 '2024 비투비 팬콘 '아워 드림'(2024 BTOB FAN-CON 'OUR DREAM')'을 각 2회씩 총 4회 공연으로 개최하고 현지 팬들과 만났다.'아워 드림'은 비투비가 2012년 데뷔 이후 처음으로 개최한 팬콘서트로, 멜로디(비투비 공식 팬클럽명)와 비투비가 함께 이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트, 오늘(10일) 단독 콘서트 'LIGHTS GO ON, AGAIN' 그랜드 오픈!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23797</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23747"/>
         <updated>2024-04-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 부산에서 단독 팬미팅을 개최한다.드리핀은 오는 5월 12일 부산 롯데시네마 센텀시티 6관에서 '2024 드리핀 시네마 팬미팅(2024 DRIPPIN CINEMA FANMEETING)'을 개최하고 오후 2시와 5시 2회 공연으로 팬들과 만난다.드리핀이 단독 팬미팅을 개최하는 것은 지난해 7월 개최한 '여름날의 꿈' 이후 약 10개월 만이다. 최근 네 번째 싱글 '뷰티풀 메이즈(Beautiful MAZE)'를 발..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['페스티벌의 황제' 데이브레이크, 오는 27일 '2024 러브썸 페스티벌' 헤드라이너 출격!...피날레 장식]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23743"/>
-        <updated>2024-04-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['페스티벌의 황제' 데이브레이크가 국내 페스티벌에 헤드라이너로 출격한다.데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 27일 서울 올림픽공원 KSPO DOME에서 개최되는 '2024 러브썸 페스티벌'의 헤드라이너 자격으로 무대에 오른다.소중한 일상들과 아름다운 음악 그리고 감성 가득한 책이 함께하는 '러브썸 페스티벌'은 음악, 책이라는 기본 콘셉트에 전년도 화제가 됐던 책을 부제로 한 콘셉트가 더해지는 가운데, 올해는 무운 작가의 힐링 그림 에세이 '마음 방울 채집'..]]></content>
     </entry>
 </feed>
