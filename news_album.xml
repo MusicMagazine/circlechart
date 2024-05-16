@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-05-16T01:03:11.891Z</updated>
+    <updated>2024-05-16T02:27:39.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정동하, 21일 더 넛츠 '또르르' 리메이크 음원 발매…원곡과는 또 다른 매력 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23813</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23813"/>
+        <updated>2024-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 정동하가 방구석 캐스팅 프로젝트 가창에 참여한다.정동하는 오는 21일 방구석 캐스팅 음원 '또르르'를 발매한다.'또르르'는 지난 2013년 발매된 더 넛츠(The Nuts)의 디지털 싱글 'Return To Love (리턴 투 러브)'의 타이틀곡으로 대중의 많은 사랑을 받은 곡이다. 정동하가 11년 만에 정동하만의 색깔로 재해석해 깊은 여운을 선사할 예정이다.특히 정동하의 아련하면서도 강렬한 울림을 주는 보컬이 브리티시 모던 록 기반의 편곡과 어우러져 곡의 감정선을 이끌고, 애절한 무..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['6월 日 데뷔' 경서, 현지 애니메이션 오프닝곡 가창! 글로벌 행보 본격화]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23809</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23788"/>
         <updated>2024-05-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 박재정이 입대 전 마지막 신곡을 선보인다.박재정은 9일 오후 6시 각종 온라인 음원 사이트를 통해 신곡 '무슨 일 있었니'를 발매한다.'무슨 일 있었니'는 '헤어지자 말해요'가 수록된 정규 앨범 1집 'Alone(얼론)' 이후 1년 1개월 만에 선보이는 신곡이다. '헤어지자 말해요'에 이어 이번 곡도 박재정이 작사, 작곡에 이름을 올려 또 하나의 명곡을 탄생시켰다.또한 박재정은 뮤직비디오에서 직접 연기에 도전해 기존의 이미지와는 전혀 다른 파격적인 모습을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 조이X빅나티, 깜짝 듀엣 성사! 15일 ‘내 입술 따뜻한 커피처럼’ 리메이크 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23786</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23786"/>
-        <updated>2024-05-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 레드벨벳 조이(JOY)와 아티스트 빅나티(BIG Naughty·서동현)가 듀엣으로 뭉친다.조이, 빅나티가 가창에 참여한 영화 ‘남은 인생 10년’의 컬래버레이션 프로젝트 음원 ‘내 입술 따뜻한 커피처럼’이 오는 15일 오후 6시 발매를 확정했다.‘내 입술 따뜻한 커피처럼’은 2001년 발매된 그룹 샵(S#ARP)의 4.5집 앨범에 수록된 동명의 타이틀곡으로, 조이와 빅나티의 목소리를 통해 2024년 버전으로 새롭게 재해석됐다.조이와 빅나티는 이별을 앞둔 남녀가 서로의 마음을 이야기하는 듯한 애틋한 가사를 담백하고 진솔하게 표현..]]></content>
     </entry>
 </feed>
