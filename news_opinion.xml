@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-05-16T03:18:39.949Z</updated>
+    <updated>2024-05-16T04:14:54.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[앨범 판매량  올해 첫 1천만장 돌파 - 4월 리뷰(2024)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23815</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23815"/>
+        <updated>2024-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2024년 4월 TOP400 가수별 써클지수 점유율 조사에서 아이유가 400위권 내 총 16곡을 올려놓으며 (합산)점유율 4.2%로 1위에 올랐습니다.2024년 4월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 0.3% 증가했지만, 전년 동기에 비해서는 12.1% 감소한 것으로 조사되었습니다.&nbsp;&nbsp;2024년 4월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 94.3%, 전년 동기에 비해서는 22.3% 증가했습니다.&nbsp;2024년 4월 TOP400 가수별 앨범 판매량 점유율 조사에서 세..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<이슈&이슈> 하이브의 멀티 레이블 시스템 ?]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23750</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23400"/>
         <updated>2024-01-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 12월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 12곡을 올려놓으며 (합산)점유율 5.4%로 1위에 올랐습니다.&nbsp;&nbsp;2023년 12월 음원 이용량400(1위부터 400위까지 이용량 합계)이 지난달 대비 2.2% 감소, 전년 동기에 비해서도 18.9% 감소했습니다.&nbsp;2023년 12월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 72.9% 감소, 전년 동기에 비해서도 33.6% 감소했습니다.&nbsp;&nbsp;&nbsp;2023년 12월 TOP400 가수별 앨범 판매량 점유율 조사에서 AT..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨범 판매량 리뷰 세븐틴 올해 1천 6백만 장! - 2023]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23345</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23345"/>
-        <updated>2023-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[본 칼럼의 판매량 집계는 연간차트 400위를 기준으로 작성되었습니다. (그해 가장 많은 판매량을 기록한 연간차트 1위부터 400위까지 판매량 기준, 2023년은 1주차~50주차 까지의 결과임)&nbsp;매월 발표하는 월간 누적 앨범 차트 집계(1월 1위부터 400위까지 판매량 합계 + 2월 1위부터 400위까지 판매량 합계+3월....)와는 전체 판매량에서 다소 차이가 있습니다)위 그래프는 2013년부터 2023년까지 연간 앨범차트 400 판매량을 나타낸 것입니다. (연간 앨범차트 1위부터 400위까지의 판매량 합계, 2023년은 1주차~5..]]></content>
     </entry>
 </feed>
