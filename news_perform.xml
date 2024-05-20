@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-05-20T01:03:48.659Z</updated>
+    <updated>2024-05-20T02:30:11.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘오늘 컴백’ 비아이, 아시아 투어 ‘HYPE UP’ 서울 첫 콘서트 성료! 신곡 ‘Tasty’ 선공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23822</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23822"/>
+        <updated>2024-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 비아이(B.I)가 서울에서 아시아 투어의 포문을 열었다.비아이는 지난 17일과 18일 서울 영등포구 명화라이브홀에서 2024 아시아 투어의 첫 번째 공연 ‘HYPE UP’ in seoul(‘하입 업’ 인 서울)을 개최했다.이번 서울 콘서트는 당초 예정됐던 18일 공연이 전석 매진을 기록하면서 17일 공연 추가 개최를 결정했다. 비아이는 이틀 연속 웰메이드 무대에 앙코르까지 25곡 이상을 풍성하게 선보이며 아티스트로서 진면목을 확인시켰다. 팬들 또한 떼창, 플래시 이벤트로 분위기를 더욱 달궜다.이날 비아이는 오프닝곡 ‘MIC..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트, 7년만에 '무한대집회' 개최 확정→ 6월 9일 신곡 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23820</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23777"/>
         <updated>2024-05-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[글로벌 아티스트 비아이(B.I)가 티켓 파워를 발휘했다.7일 소속사 131레이블은 “지난 3일 오픈된 비아이의 2024 아시아 투어 ‘HYPE UP(하입 업)’의 서울 첫 공연 티켓이 전석 매진을 기록했다”라고 밝혔다.‘HYPE UP’은 비아이가 2년 연속으로 진행하는 아시아 투어다. 앞서 서울, 홍콩, 방콕, 싱가포르, 마닐라, 자카르타, 마카오 개최를 알린 데 이어 쿠알라룸푸르 공연까지 추가하며 총 8개 도시 일정을 확정했다. 비아이는 전체 투어의 포문을 여는 서울 공연 티켓을 매진시키며 티켓 파워에 본격적인 시동을 걸었다.투어..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무 휘인, 환호 속 亞 투어 성료..."긴장 속 솔로 첫 해외 투어, 응원해 준 팬들에 감사"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23771</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23771"/>
-        <updated>2024-05-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 휘인(Whee In)이 일본 도쿄에서 아시아 투어의 성공적인 마침표를 찍었다.휘인은 지난 1일 오후 7시 일본 도쿄 제프 다이버시티(Zepp DiverCity)에서 펼쳐진 공연을 끝으로 '2024 휘인 퍼스트 월드 투어 : 휘 인 더 무드 [비욘드](2024 Whee In 1ST WORLD TOUR : WHEE IN THE MOOD [BEYOND])'(이하 '휘 인 더 무드 [비욘드]') 아시아 투어를 마무리했다.'휘 인 더 무드 [비욘드]'는 올해로 데뷔 10주년을 맞이한 휘인이 솔..]]></content>
     </entry>
 </feed>
