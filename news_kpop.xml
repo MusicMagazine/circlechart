@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-05-28T01:04:07.431Z</updated>
+    <updated>2024-05-28T02:29:46.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘라이징 서머퀸’ 시그니처, 다섯 번째 EP ‘Sweetie but Saltie’ 첫 콘셉트 포토 공개! 달콤 벗 키치한 비주얼]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23854</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23854"/>
+        <updated>2024-05-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[걸그룹 시그니처(cignature)가 반전 매력으로 ‘Sweetie but Saltie’의 새 콘셉트를 예고했다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 28일 0시 공식 SNS에 다섯 번째 EP ‘Sweetie but Saltie (스위티 벗 솔티)’의 첫 번째 단체 및 유닛 콘셉트 포토를 공개했다.단체 포토에서 시그니처는 카펫 위에 모여 누워 키치한 무드를 드러냈다. 한 손에 각기 다른 색상의 알록달록한 수화기를 든 멤버들은 밝은 미소부터 신비로운 표정까지 다채롭게 선보이며 눈길을 사로잡고 있다.유닛 포토 속 지원..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 20 CIRCLE CHART: ZEROBASEONE 'You had me at HELLO' Tops Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23852</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23837"/>
         <updated>2024-05-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 시그니처(cignature) 멤버 지원이 EDM 음악에 참여했다.23일 소속사 C9엔터테인먼트는 "시그니처 지원이 EDM 아티스트 제트비(ZB)와 에이션(ATION)의 새 디지털 싱글 앨범 ‘Eternal Time (이터널 타임)’에 피처링으로 참여했다"라고 밝혔다.EDM 장르의 선두주자 제트비(ZB)와 에이션(ATION)이 오늘(23일) 발매하는 ‘Eternal Time’은 업템포 기반의 해피 하드코어 장르의 음악이다. 시그니처 지원은 매력적인 보컬로 곡의 분위기를 한층 더 돋보이게 한다. 지원의 목소리가 여..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 19 CIRCLE CHART: ILLIT, Lim Young Woong, and SEVENTEEN Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23836</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23836"/>
-        <updated>2024-05-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 19 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by ILLIT, Lim Young Woong, and SEVENTEEN.KMCA, publisher of CIRCLE CHART, announced that “As of week 19 (2024.05.05.~2024.05.11.), ILLIT topped the Global K-pop Chart while Lim Young Woong swept 6 charts and SEVENTEEN took the..]]></content>
     </entry>
 </feed>
