@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-05-28T23:16:42.228Z</updated>
+    <updated>2024-05-29T01:07:40.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 콜드, 6월 소극장 콘서트 'my little blue boat' 개최 확정! 오늘(28일) 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23860</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23860"/>
+        <updated>2024-05-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 콜드(Colde)가 소극장 콘서트로 팬들과 음악 항해를 떠난다.콜드는 오는 6월 21일부터 23일까지 3일간 LG아트센터 서울 U+ 스테이지에서 2024 콜드 소극장 콘서트 'my little blue boat pier 2 윤슬(마이 리틀 블루 보트 피어 2 윤슬)'을 개최한다.'my little blue boat'는 콜드가 지난해 12월 선보인 2023 콜드 단독 콘서트 'Blue Room(블루 룸)' 이후 약 6개월 만에 개최하는 단독 공연이자, 1년 전 진행한 소극장 콘서..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하, 5년 만에 소극장 콘서트 '潤夏 : 빛나는 여름' 개최 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23855</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23804"/>
         <updated>2024-05-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 SG워너비(김용준, 김진호, 이석훈)가 앙코르 콘서트로 다시 관객들과 만난다.SG워너비는 오는 7월 20일과 21일 양일간 서울 송파구 KSPO DOME에서 'SG워너비 콘서트 : 우리의 노래 2024 앙코르' 공연을 개최한다.'우리의 노래'는 SG워너비가 데뷔 20주년을 맞아 8년 만에 개최하는 전국투어 콘서트로, 전국 연일 매진을 기록하며 여전한 티켓 파워를 입증했다. 이에 SG워너비는 서울 앙코르 공연 개최 소식을 알리며 '우리의 노래'에 대한 열기를 끌어올리고 있다.&nbsp;&nbsp;특히 S..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 日 오사카→도쿄 팬콘서트 성료...'믿고 듣는 그룹' 에너지 완벽 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23802</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23802"/>
-        <updated>2024-05-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB)가 팬콘서트 일본 공연을 성공적으로 마무리했다.비투비는 지난 10일 일본 오사카 제프 남바(ZEPP NAMBA), 12일 도쿄 제프 하네다(ZEPP HANEDA)에서 단독 팬콘서트 '2024 비투비 팬콘 '아워 드림'(2024 BTOB FAN-CON 'OUR DREAM')'을 각 2회씩 총 4회 공연으로 개최하고 현지 팬들과 만났다.'아워 드림'은 비투비가 2012년 데뷔 이후 처음으로 개최한 팬콘서트로, 멜로디(비투비 공식 팬클럽명)와 비투비가 함께 이..]]></content>
     </entry>
 </feed>
