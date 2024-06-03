@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-06-02T23:14:27.049Z</updated>
+    <updated>2024-06-03T01:05:54.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양파, 콘서트 'Seoul Romantique' 성공적 마무리…완벽 라이브+깜짝 게스트 헤이즈·김민석까지 '감동 선사']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23879</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23879"/>
+        <updated>2024-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 양파가 단독 콘서트 'Seoul Romantique'를 성공적으로 마무리했다.양파는 지난 1일과 2일 양일간 서울 용산구 노들섬 라이브하우스에서 2024 양파 단독 콘서트 2024 양파 콘서트 'Seoul Romantique (서울 로맨티크)'를 열고 팬들과 만났다.'Seoul Romantique'는 양파가 지난해 10월 진행한 콘서트 'AWAKENING (어웨이크닝)' 이후 약 8개월 만에 개최하는 공연이다. 양파는 17년 만에 정규앨범 'Seoul Romant..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 콜드, 6월 소극장 콘서트 'my little blue boat' 개최 확정! 오늘(28일) 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23860</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23806"/>
         <updated>2024-05-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴웨이즈컴퍼니 소속 첫 5인조 보이그룹 어센트(ASC2NT)가 일본 팬들과 첫 만남을 갖는다.&nbsp;어센트(가람, 인준, 제이, 레온, 카일)는 오는 6월 16일 일본 요코하마에서 &lt;2024 ASC2NT FAN-CON IN JAPAN 'Expecting Tomorrow'&gt;(2024 어센트 팬-콘 인 재팬 '익스펙팅 투모로우)'를 개최한다.&nbsp;지난 7일 첫 번째 싱글 앨범 'Expecting Tomorrow(익스펙팅 투모로우)'를 발매하며 데뷔한 어센트는 일본에서의 팬콘 개최를 확정하며 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SG워너비, 앙코르 콘서트 '우리의 노래' 오늘(14일) 예매 시작!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23804</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23804"/>
-        <updated>2024-05-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 SG워너비(김용준, 김진호, 이석훈)가 앙코르 콘서트로 다시 관객들과 만난다.SG워너비는 오는 7월 20일과 21일 양일간 서울 송파구 KSPO DOME에서 'SG워너비 콘서트 : 우리의 노래 2024 앙코르' 공연을 개최한다.'우리의 노래'는 SG워너비가 데뷔 20주년을 맞아 8년 만에 개최하는 전국투어 콘서트로, 전국 연일 매진을 기록하며 여전한 티켓 파워를 입증했다. 이에 SG워너비는 서울 앙코르 공연 개최 소식을 알리며 '우리의 노래'에 대한 열기를 끌어올리고 있다.&nbsp;&nbsp;특히 S..]]></content>
     </entry>
 </feed>
