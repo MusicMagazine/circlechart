@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-06-04T01:05:12.353Z</updated>
+    <updated>2024-06-04T02:31:25.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 21 CIRCLE CHART: aespa, NewJeans, and ECLIPSE Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23885</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23885"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 21 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by aespa, NewJeans, and ECLIPSE.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 21 (2024.05.19.~2024.05.25.), aespa swept 4 charts while ECLIPSE and NewJeans topped 3 and 2 charts respectively.”aespa swept a total..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지니어스 예영, '세자가 사라졌다' OST 참여…8일 '백일몽' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23884</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23863"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 카더가든이 덤덤한 작별 인사를 전한다.카더가든이 가창에 참여한 영화 '남은 인생 10년'의 컬래버레이션 프로젝트 음원 '이젠 안녕'이 29일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'이젠 안녕'은 떠나간 연인을 향한 덤덤한 작별 인사를 담은 곡으로, 카더가든이 가진 특유의 빈티지한 정서를 더해 사랑의 씁쓸함을 전한다.간결한 피아노 멜로디와 카더가든의 허스키한 음색이 절묘하게 어우러져 한층 풍부한 사운드를 완성했으며, 영화 속 한 장면을 떠올리게 하는 카더가든의 향수 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 1000°(천도), 오늘(29일) 정오 새 싱글 'WHO I AM' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23862</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23862"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 1000°(천도)가 29일 정오 신곡 'WHO I AM(후 아이 엠)'을 발매한다.&nbsp;1000°(천도)가 이전 앨범 자작곡 '늘 그렇듯'에 이어 발표하는 'WHO I AM'은 팝을 기반으로 도입부의 피아노 훅이 반복을 이어가다 후렴 부분부터 강렬한 비트가 쏟아지는 곡이다. 1000°(천도)만의 묵직한 중저음과 허스키한 음색 그리고 1000°(천도)의 음악 지향점을 담았다.&nbsp;또 'WHO I AM'은 제목 그대로 '이게 나야'라는 1000°(천도)의 자신..]]></content>
     </entry>
 </feed>
