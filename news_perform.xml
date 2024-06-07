@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-06-06T23:19:03.853Z</updated>
+    <updated>2024-06-07T01:07:37.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 아시아 이어 남미 ‘Mystery Elevator’ 성공적 마무리…"모든 곡 따라 불러주신 팬분들께 감동"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23894</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23894"/>
+        <updated>2024-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 차은우가 남미에서 첫 단독 공연을 성료했다.차은우는 지난 1일(이하 현지 시간) 브라질 상파울루, 4일과 5일 멕시코 멕시코시티에서 단독 팬콘 ‘2024 Just One 10 Minute [Mystery Elevator]’(2024 저스트 원 텐 미닛 [미스테리 엘리베이터])를 개최했다.지난 2월부터 4월까지 서울을 포함한 아시아 8개 지역에서 ‘Mystery Elevator’ 투어를 성공적으로 마친 차은우는 이달 남미로 향했다. 단독 공연으로 처음 브라질, 멕시코를 찾은 차은우는 전석 매진으로 뜨거운 관심을 보내준 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양파, 콘서트 'Seoul Romantique' 성공적 마무리…완벽 라이브+깜짝 게스트 헤이즈·김민석까지 '감동 선사']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23879</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23807"/>
         <updated>2024-05-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 팬앤스타에서 새롭게 론칭한 콘서트의 첫 번째 아티스트로 출격한다.&nbsp;고스트나인(이신, 손준형, 최준성, 이강성, 프린스, 이우진, 이진우)은 오는 31일 오후 8시 서울 강서구 스카이아트홀에서 개최되는 ‘I.CON: FANNSTAR CONCERT(아이콘: 팬앤스타 콘서트, 이하 I.CON)’ 무대에 오른다.&nbsp;‘I.CON’은 온라인 종합 매체 더팩트가 운영하는 아이돌 전문 종합 서비스 팬앤스타에서 매달 개최하는 K팝 콘서트다. ‘BE THE NEXT ICON’이라는 콘서트 슬로건에 걸맞게 차세대 아이콘을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경력직 신인' 어센트(ASC2NT), 日 팬콘 개최 확정! 글로벌 활동 본격 돌입]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23806</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23806"/>
-        <updated>2024-05-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[뉴웨이즈컴퍼니 소속 첫 5인조 보이그룹 어센트(ASC2NT)가 일본 팬들과 첫 만남을 갖는다.&nbsp;어센트(가람, 인준, 제이, 레온, 카일)는 오는 6월 16일 일본 요코하마에서 &lt;2024 ASC2NT FAN-CON IN JAPAN 'Expecting Tomorrow'&gt;(2024 어센트 팬-콘 인 재팬 '익스펙팅 투모로우)'를 개최한다.&nbsp;지난 7일 첫 번째 싱글 앨범 'Expecting Tomorrow(익스펙팅 투모로우)'를 발매하며 데뷔한 어센트는 일본에서의 팬콘 개최를 확정하며 ..]]></content>
     </entry>
 </feed>
