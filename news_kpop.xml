@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-06-10T06:22:11.888Z</updated>
+    <updated>2024-06-10T07:14:55.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[May 2024 CIRCLE CHART: ILLIT, ZICO, and ATEEZ Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23900</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23900"/>
+        <updated>2024-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[ILLIT, ZICO, and ATEEZ, Lim Young Woong, and ECLIPSE were the top acts in the May CIRCLE CHART.&nbsp;KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for May 2024, ILLIT dominated the Global K-pop Chart while ZICO topped 2 charts and ATEEZ led in the Album Chart."&nbsp;For ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 22 CIRCLE CHART: ZEROBASEONE 'You had me at HELLO' Tops May Retail Album Ch..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23899</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23883"/>
         <updated>2024-06-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 권은비가 여름 가요계를 뒤흔들 신보로 돌아온다.소속사 울림엔터테인먼트는 지난 3일 오후 6시 공식 유튜브 채널을 통해 권은비의 두 번째 싱글 '사보타지(SABOTAGE)' 트레일러 영상을 공개하고 컴백 소식을 알렸다.공개된 영상은 어두운 하늘 아래 자동차에 기대어 선 권은비의 치명적인 옆태를 비추며 시작됐다. 권은비의 눈부신 비주얼과 무르익은 성숙미가 흑백 무드로 연출돼 시크함을 더했고, 감각적인 비트 위로 그의 파워풀한 애드리브가 이어져 눈과 귀를 동시에 사로잡았다.권은비 특유의 빠져들게 만드는 눈빛과 매혹적인..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범수, 문상훈 출연 정규 9집 수록곡 '나이' 흑백 M/V 공개! 원테이크+스마트폰 촬영 '독특한 감성']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23882</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23882"/>
-        <updated>2024-06-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김범수의 9집 앨범 수록곡 '나이'를 소재로 뮤직비디오 디렉터 겸 포토그래퍼 채남혁이 배우 문상훈과 특별한 협업을 성사했다.&nbsp;김범수는 지난 3일 공식 SNS 및 유튜브 채널을 통해 신곡 '나이'의 뮤직비디오 영상을 공개했다.공개된 뮤직비디오는 사진작가이자 영상 감독으로 활동 중인 채남혁이 '나이'를 듣고 영감을 받아 촬영됐다. 채남혁은 삶을 살아가며 느끼는 감정들을 감각적으로 풀어냈고, 문상훈은 섬세한 표정 연기로 힘을 보태며 뮤직비디오의 완성도를 높였다.영상 속 흑백 화면 속 원테이..]]></content>
     </entry>
 </feed>
