@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-06-09T23:14:51.129Z</updated>
+    <updated>2024-06-10T01:07:53.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['최강 퍼포먼스' 올아워즈, 6개월 만에 돌아온다! 7월 2일 컴백 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23895</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23895"/>
+        <updated>2024-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 올아워즈(ALL(H)OURS)가 6개월 만에 컴백한다.&nbsp;올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 10일 0시 공식 SNS를 통해 컴백 스케줄러 이미지를 공개했다.&nbsp;스케줄러에는 두 번째 미니앨범명 'WITNESS(위트니스)'가 의미심장한 느낌을 자아내는 문양으로 담겨 있어 눈길을 끈다. 올아워즈는 11일 첫 번째 콘셉트 포토 공개를 시작으로 트랙리스트, 트랙 스포일러 이모지, 뮤직비디오 티저, 두 번째 콘셉트 포토 등을 잇달아 오픈하며 컴백 열기를 끌어올릴 예정이다. 7월 2일 오후 6시에는 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위키미키, 12일 새 싱글 ‘CoinciDestiny’ 공개…팬들에게 마지막 인사 전한다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23893</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23877"/>
         <updated>2024-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뉴웨이즈컴퍼니 소속 첫 5인조 보이그룹 어센트(ASC2NT)가 데뷔 활동을 성황리에 마쳤다.&nbsp;어센트(가람, 인준, 제이, 레온, 카일)는 지난달 29일 MBC M '쇼! 챔피언'과 31일 아리랑 TV '심플리케이팝' 무대를 끝으로 첫 번째 싱글 앨범 'Expecting Tomorrow(익스펙팅 투모로우)' 음악 방송 활동을 마무리했다.그룹 대국남아 출신 가람, 인준, 제이와 새 멤버 레온, 카일이 합류해 지난달 7일 새 보이그룹으로 데뷔한 어센트는 약 3주간의 음악 방송 활동을 통해 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 7월 1일 'Metamorphic' 발매 확정! 데뷔 3년 반 만에 첫 정규앨범 '기대']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23876</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23876"/>
-        <updated>2024-06-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 7월 1일 데뷔 첫 정규앨범을 발매한다.&nbsp;3일 하이업엔터테인먼트는 "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 7월 1일 첫 번째 정규앨범 'Metamorphic(메타모르픽)'을 발매한다"고 밝혔다.&nbsp;공식 SNS를 통해 공개된 스포일러 이미지 속 스테이씨는 호피 패턴이 가미된 믹스매치 스타일링으로 우아한 변신을 알렸다. 모노톤의 컬러감에서도 체감할 수 있는 여섯 멤버의 화려한 비주얼이 감탄을 자아냈다.&nbsp;스포일러 영상은 'Metamorphic' 앨..]]></content>
     </entry>
 </feed>
