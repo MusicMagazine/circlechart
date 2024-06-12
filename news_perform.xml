@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-06-11T23:14:55.139Z</updated>
+    <updated>2024-06-12T01:06:15.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트, 15일 데뷔 첫 베트남 콘서트 'T-OUR' 개최…특별한 무대 선물 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23909</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23909"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 베트남 콘서트를 앞두고 기대감을 고조시키고 있다.템페스트는 오는 15일 오후 7시(현지 시간) 베트남 호찌민시에서 콘서트 'T-OUR: TEMPEST Voyage(티-아워: 템페스트 보야지)'를 열고 팬들을 만난다.이번 공연은 템페스트가 데뷔 후 처음으로 베트남에서 개최하는 콘서트다. 템페스트는 지난해 12월 베트남 '호조 뮤직 페스티벌(HOZO Music festival)'에 참여해 뜨거운 반응을 불러 모았고, 이후 현지 팬들과 꾸준히 소통하며 베트남에서 입지를 다져나가..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 아시아 이어 남미 ‘Mystery Elevator’ 성공적 마무리…"모든 곡 따라 불러주신 팬분들께 감동"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23894</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23818"/>
         <updated>2024-05-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA['트롯 걸즈 재팬'이 첫 콘서트로 팬들을 만난다.'트롯 걸즈 재팬 2024(TROT GIRLS JAPAN 2024)(가제)' 콘서트가 오는 6월 30일 일본 도쿄 오테마치 미츠이 홀에서 개최된다.'트롯 걸즈 재팬 2024'는 앞서 일본 대표 위성 방송 채널 'WOWOW(와우와우)'와 최대 OTT 플랫폼 'ABEMA(아베마)'에서 방영돼 큰 인기를 얻은 '트롯 걸즈 재팬(Trot Girls Japan)' 종영 이후 처음으로 선보이는 콘서트다. n.C..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고스트나인, 31일 팬앤스타 새 론칭 K팝 콘서트 ‘I.CON’ 출격! “한국서 첫 콘서트…열심히 준비 중”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23807</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23807"/>
-        <updated>2024-05-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 팬앤스타에서 새롭게 론칭한 콘서트의 첫 번째 아티스트로 출격한다.&nbsp;고스트나인(이신, 손준형, 최준성, 이강성, 프린스, 이우진, 이진우)은 오는 31일 오후 8시 서울 강서구 스카이아트홀에서 개최되는 ‘I.CON: FANNSTAR CONCERT(아이콘: 팬앤스타 콘서트, 이하 I.CON)’ 무대에 오른다.&nbsp;‘I.CON’은 온라인 종합 매체 더팩트가 운영하는 아이돌 전문 종합 서비스 팬앤스타에서 매달 개최하는 K팝 콘서트다. ‘BE THE NEXT ICON’이라는 콘서트 슬로건에 걸맞게 차세대 아이콘을..]]></content>
     </entry>
 </feed>
