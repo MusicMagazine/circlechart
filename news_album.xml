@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-06-17T01:08:16.965Z</updated>
+    <updated>2024-06-17T02:35:17.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, 28일 탄산음료 컬래버 신곡 발매...여름 무더위 책임질 '쿨+짜릿' 에너지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23923</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23923"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아이브(IVE)가 펩시와 새 컬래버레이션 음원을 발매한다.펩시와 스타쉽엔터테인먼트(이하 스타쉽)는 지난 16일 오후 7시 공식 SNS를 통해 '2024 펩시 캠페인' 파트너 아이브의 커밍순 이미지를 공개했다.공개된 이미지는 펩시를 상징하는 비비드한 블루와 톡톡 튀는 라임 컬러의 그러데이션이 돋보이는 배경에 커다란 원이 그려진 유니크한 디자인으로 단번에 시선을 사로잡았다.여기에 아이브의 로고와 신곡 발매일시인 '2024.06.28', '6PM'이 함께 새겨져 있어 펩시와 아이브의 새로운..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[래퍼 카키, 오늘(14일) 1년 만에 새 EP ‘Home’ 발매…트렌디 힙합의 진수 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23920</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23896"/>
         <updated>2024-06-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 시그니처(cignature)가 다섯 번째 EP로 10개월 만에 컴백한다.시그니처(채솔, 지원, 셀린, 클로이, 세미, 도희)는 10일 오후 6시 각종 온라인 음원 사이트를 통해 다섯 번째 EP ‘Sweetie but Saltie (스위티 벗 솔티)’를 발매한다.‘Sweetie but Saltie’는 시그니처가 10개월 만에 선보이는 새 앨범으로, 제목 그대로 달콤 짭짤한 사랑과 고민을 총 네 개 트랙에 풀어냈다. 시그니처는 아찔하고 설레는 사랑의 ‘단짠’ 기류를 특유의 밝고 통통 튀는 음악색으로 표현했다.타이틀곡 ‘풍덩’은 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘13일 컴백’ 주니(JUNNY), 새 EP 타이틀곡은 'RUSH'…바비·쏠·따마 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23891</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23891"/>
-        <updated>2024-06-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[떠오르는 대세 아티스트 주니(JUNNY)가 새로운 타이틀곡 'RUSH'로 컴백한다.주니(JUNNY)는 5일과 6일 공식 SNS를 통해 새 EP 'dopamine'(도파민)의 트랙리스트와 하이라이트 메들리를 연이어 공개하며 컴백 기대감을 끌어올리고 있다.공개된 트랙리스트에 따르면, 이번 앨범에는 타이틀곡 'RUSH (ft. BOBBY)'(러시)를 비롯해 'Here We Go Again'(히어 위 고 어게인), 'TASTE'(테이스트), 'Complicati..]]></content>
     </entry>
 </feed>

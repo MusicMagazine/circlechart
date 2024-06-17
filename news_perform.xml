@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-06-17T01:08:16.978Z</updated>
+    <updated>2024-06-17T02:35:17.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트, 데뷔 첫 베트남 콘서트 'T-OUR' 성료 "팬들의 사랑 잊지 않을 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23921</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23921"/>
+        <updated>2024-06-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 데뷔 후 첫 베트남 콘서트를 성황리에 마쳤다.&nbsp;템페스트는 지난 15일 오후 베트남 호찌민시에서 콘서트 'T-OUR: TEMPEST Voyage(티-아워: 템페스트 보야지)'를 개최했다.&nbsp;이날 'LIGHTHOUSE(라이트하우스)'와 'Dragon(飛上)(드래곤)', 'Vroom Vroom(브룸 브룸)'을 오프닝 무대로 선보인 템페스트는 "베트남에서 첫 단독 콘서트의 항해를 시작했다. 템페스트와 iE(팬덤명)가 하나 되어 우리의 시간을 만든..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트, 15일 데뷔 첫 베트남 콘서트 'T-OUR' 개최…특별한 무대 선물 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23909</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23820"/>
         <updated>2024-05-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 데뷔 기념일에 신곡을 발매하고, 7년 만의 완전체 팬미팅으로 글로벌 팬들과 만난다.소속사 인피니트 컴퍼니는 17일 0시 공식 SNS를 통해 인피니트의 스케줄러를 공개했다.공개된 이미지는 창을 통해 쏟아지는 빛 아래 5월부터 7월까지의 일정이 빼곡히 적힌 종이가 놓여 있는 의미심장하면서도 감각적인 디자인으로 시선을 사로잡았다. 해당 이미지를 통해 베일에 싸여 있던 인피니트의 새 소식이 디지털 싱글과 단독 팬미팅 '무한대집회'로 밝혀져 글..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯 걸즈 재팬', 6월 30일 日 도쿄서 첫 콘서트 개최…신유·김다현 추가 공연 지원 사격!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23818</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23818"/>
-        <updated>2024-05-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['트롯 걸즈 재팬'이 첫 콘서트로 팬들을 만난다.'트롯 걸즈 재팬 2024(TROT GIRLS JAPAN 2024)(가제)' 콘서트가 오는 6월 30일 일본 도쿄 오테마치 미츠이 홀에서 개최된다.'트롯 걸즈 재팬 2024'는 앞서 일본 대표 위성 방송 채널 'WOWOW(와우와우)'와 최대 OTT 플랫폼 'ABEMA(아베마)'에서 방영돼 큰 인기를 얻은 '트롯 걸즈 재팬(Trot Girls Japan)' 종영 이후 처음으로 선보이는 콘서트다. n.C..]]></content>
     </entry>
 </feed>
