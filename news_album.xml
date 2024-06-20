@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-06-20T01:04:38.902Z</updated>
+    <updated>2024-06-20T02:31:03.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['믿고 듣는' 에픽하이, 오늘(20일) 첫 믹스테이프 'PUMP' 발매! "데뷔 초 마음가짐 담았다"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23935</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23935"/>
+        <updated>2024-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 리스너들의 공감을 불러일으키는 음악으로 돌아온다.에픽하이(타블로, 투컷, 미쓰라)는 20일 오후 6시 각종 온라인 음원사이트를 통해 새 앨범 'PUMP(펌프)'를 발매한다.'PUMP'는 에픽하이의 첫 믹스테이프이자 지난해 11월 발표한 'Screen Time(스크린 타임)' 이후 약 7개월 만에 발매하는 신보다. 에픽하이는 자신들의 루키 시절을 연상시키는 날카로운 애티튜드와 특유의 품격 있는 정서를 사운드에 녹여내며 퀄리티 높은 앨범을 완성시켰다.듣는 이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지아, 2000년대 감성 재해석…오늘(19일) 박상민 '해바라기' 리메이크 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23934</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23917"/>
         <updated>2024-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 제아가 신곡으로 돌아온다.소속사 아우라엔터테인먼트는 지난 13일 공식 SNS를 통해 제아의 새 싱글 '그때는 왜 몰랐을까' 티저 영상과 이미지를 공개하며 발매 소식을 전했다.티저는 몽환적인 분위기를 자아낸 가운데, 최근 미국 할리우드 진출을 알린 대세 배우 김지훈이 함께 등장하며 남다른 케미를 더해 기대감을 높였다.제아의 새 싱글 '그때는 왜 몰랐을까'는 Uk Garage, Bedroom Pop(일렉트로 댄스 팝) 장르의 클래식하면서도 감성적인 나일론 기타 사운드가 조화를 이룬 곡이다. 휘파람을 불..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고경표?강한나 주연 '비밀은 없어', 오늘(13일) 온라인 컴필레이션 발매…26개 웰메이드 '인생 트랙']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23915</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23915"/>
-        <updated>2024-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[드라마 '비밀은 없어'의 여운을 이제 음원으로 즐길 수 있다.JTBC 수목드라마 '비밀은 없어(연출 장지연 / 극본 최경선 / 제작 SLL·키이스트)'의 OST 컴필레이션 앨범이 13일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.이번 컴필레이션 앨범에는 극 중 예능인이자 트로트 가수 김정헌 역을 맡은 주종혁 배우가 가창한 '토끼 짝꿍 너구리'가 메인 음원 타이틀로 실린다. '비밀은 없어'의 색다른 명장면을 완성한 '토끼 짝꿍 너구리' 정식 음원 발매 소식..]]></content>
     </entry>
 </feed>
