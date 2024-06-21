@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-06-20T23:17:14.574Z</updated>
+    <updated>2024-06-21T01:05:20.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2am 이창민, 메이저나인과 전속계약 체결…바이브·장혜진→포맨과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23939</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23939"/>
+        <updated>2024-06-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2am 이창민이 메이저나인과 전속계약을 체결했다.21일 메이저나인은 "이창민과 최근 전속계약을 체결했다"라며 "가창력과 작곡 능력을 겸비한 이창민의 새로운 출발을 함께 하게 돼 기쁘다. 다양한 음악 활동과 공연 등에 아낌없이 지원할 계획"이라고 밝혔다.2008년 그룹 2am으로 데뷔한 이창민은 '이노래', '죽어도 못 보내', '잘못했어', '전활 받지 않는 너에게' 등 수많은 대표곡을 통해 실력파 메인보컬로 인정받았다. 또 2010년부터는 Hom..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 5월 2일 韓 정식 데뷔 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23405"/>
         <updated>2024-01-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 대국남아 출신 가람, 인준, 제이(지환)가 5인조 보이그룹으로 재데뷔한다.&nbsp;뉴웨이즈컴퍼니는 17일 "가람, 인준, 제이를 비롯해 새 멤버 2명을 영입해 5인조 보이그룹 어센트(ASC2NT)를 론칭한다"고 밝혔다. 이와 함께 공식 SNS를 통해 어센트 완전체 사진을 공개했다.최근 JTBC 오디션 프로그램 '피크타임'에서 팀 23시로 출연해 실력파 면모를 드러냈던 가람, 인준 제이는 강인한 표정을 통해 새롭게 데뷔하는 비장한 의지를 드러냈다.&nbsp;특히 새 멤버 2인의 정체가 베일을 벗어 눈길을 끌었다. 레..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가수 홍자, 미스틱스토리와 전속계약 종료...“새롭게 만들어갈 앞날 응원]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23372</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23372"/>
-        <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 홍자가 미스틱스토리와 전속계약 종료를 알렸다.미스틱스토리는 지난 3일 “3년간 미스틱스토리와 함께한 아티스트 홍자와 전속 계약이 종료 되었다”라고 밝혔다.이어, “그간 미스틱스토리의 소속 아티스트로 함께 해준 홍자에게 감사함을 전한다”라며, “곰탕 같은 보이스로 많은 이들에게 희로애락을 전할 홍자의 새롭게 만들어갈 앞날을 항상 응원하겠다”라고 덧붙였다.홍자는 지난 2019년 TV조선 ‘내일은 미스트롯’에 출연, 듣는 이의 마음을 울리는 곰탕 보이스와 독보적인 무대로 뜨거운 관심을 받았다. 이후 울산시 홍보대사, 대한적십자사 헌..]]></content>
     </entry>
 </feed>
