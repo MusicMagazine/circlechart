@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-06-23T23:15:11.425Z</updated>
+    <updated>2024-06-24T01:07:29.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허용별, QWER '고민중독' 발라드 버전으로 재해석! 30일 스페셜 싱글 발매 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23942</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23942"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 허용별이 QWER의 '고민중독'을 새롭게 부른다.허용별은 오는 30일 각종 온라인 음원사이트를 통해 스페셜 싱글 '고민중독(Ballad Ver.)'을 발매한다.'고민중독'은 밴드 QWER(큐더블유이알)이 지난 4월 발매한 곡으로, 동경하는 상대와 가까워지기 위해 고민하는 화자의 마음을 가사에 담아냈다. 허용별은 각종 음원 차트 순위에 오르며 리스너들의 마음을 사로잡은 '고민중독'을 발라드 버전으로 편곡해 듣기만 해도 애절한 감성으로 듣는 이들의 공감을 불러일으킬 전망이다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['믿고 듣는' 에픽하이, 오늘(20일) 첫 믹스테이프 'PUMP' 발매! "데뷔 초 마음가짐 담았다"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23935</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23920"/>
         <updated>2024-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 카키(Khakii)가 새로운 앨범으로 컴백한다.&nbsp;카키는 14일 오후 6시 각종 온라인 음원 사이트를 통해 새 EP ‘Home(홈)’을 발매한다.&nbsp;‘Home’은 카키가 지난해 6월 선보인 싱글앨범 ‘그냥’ 이후 약 1년 만에 발표하는 신보다. 여러 가지 문제와 상황을 안고 돌아왔을 때, 온전히 쉴 수 있는 쉼터이자 위로를 안기는 공간이 되어주는 집에 대한 다양한 메시지를 담았다.&nbsp;이번 앨범은 얼터너티브 힙합/알앤비 장르를 녹여낸 앨범으로 카키 특유의 Chill(칠)한 감성이 돋보이는 타이틀곡 ‘Coffee(커피)’를 비롯해 ‘C..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제아, 신곡 '그때는 왜 몰랐을까' 티저 공개…대세 배우 김지훈과 몽환적 케미]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23917</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23917"/>
-        <updated>2024-06-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 제아가 신곡으로 돌아온다.소속사 아우라엔터테인먼트는 지난 13일 공식 SNS를 통해 제아의 새 싱글 '그때는 왜 몰랐을까' 티저 영상과 이미지를 공개하며 발매 소식을 전했다.티저는 몽환적인 분위기를 자아낸 가운데, 최근 미국 할리우드 진출을 알린 대세 배우 김지훈이 함께 등장하며 남다른 케미를 더해 기대감을 높였다.제아의 새 싱글 '그때는 왜 몰랐을까'는 Uk Garage, Bedroom Pop(일렉트로 댄스 팝) 장르의 클래식하면서도 감성적인 나일론 기타 사운드가 조화를 이룬 곡이다. 휘파람을 불..]]></content>
     </entry>
 </feed>

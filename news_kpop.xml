@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-06-23T23:15:11.420Z</updated>
+    <updated>2024-06-24T01:07:29.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[브라운 아이드 걸스, 제아 신곡 '그때는 왜 몰랐을까' 챌린지 완전체 참여! 여전한 의리]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23945</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23945"/>
+        <updated>2024-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 제아의 신곡 '그때는 왜 몰랐을까' 뮤직비디오 패러디 영상이 화제다.지난 18일 발매된 제아의 새 싱글 '그때는 왜 몰랐을까' 뮤직비디오에는 대세 배우 김지훈이 출연해 제아와 함께 몽환적 케미를 발산했다.&nbsp;뮤직비디오에는 김지훈의 두 손이 묶인 장면을 담으며 사랑의 속박을 암시했고, 제아가 김지훈을 카트에 실어 옮기는 모습, 미련을 끊어내려 도끼를 든 장면 등 헤어진 후 연인들의 복잡미묘한 감정을 의미심장하게 담아냈다.&nbsp;뮤직비디오가 공개되자 사진작가 겸 뮤직비디오 감독, 유튜버 등 '프로 N잡..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비 "'SABOTAGE' 퍼포먼스, 의자 활용한 안무 주목해서 봐주길" [일문일답]]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23938</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23918"/>
         <updated>2024-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 감각적인 변신을 예고했다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 12일과 13일, 공식 SNS를 통해 첫 번째 정규앨범 'Metamorphic(메타모르픽)'의 트레일러 포토를 모두 공개했다.이날 공개된 포토는 앞서 오픈된 트레일러 필름의 몽환적이고 빈티지한 무드를 한층 디테일하게 담아냈다. 스테이씨의 동화 속 비주얼이 신비로운 감성과 어우러져 비밀스러운 분위기를 배가했다.&nbsp;발레코어 감성이 가미된 클래식한 스타일링과 여섯 멤버의 비주얼 케미스트리 또한 몽환적인 매력을 자..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 23 CIRCLE CHART: WayV 'Give Me That - The 5th Mini Album' Tops Retail Album..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23916</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23916"/>
-        <updated>2024-06-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 23 CIRCLE CHART of 2024, WayV 'Give Me That - The 5th Mini Album' claimed the No. 1 spot in the weekly Retail Album Chart by selling 198,721 copies at retailers.Released on June 3rd, 'Give Me That - The 5th Mini Album' was the top seller as of 7PM (KST) on June 7th (Frida..]]></content>
     </entry>
 </feed>
