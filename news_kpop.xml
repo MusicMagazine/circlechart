@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-06-25T01:06:13.541Z</updated>
+    <updated>2024-06-25T02:32:12.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브, '극강 비주얼' 상큼+청량의 인간화...신곡 'SUMMER FESTA' 새 콘셉트 포토 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23950</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23950"/>
+        <updated>2024-06-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아이브(IVE)가 여름 플레이리스트를 책임질 '쿨'한 신곡으로 돌아온다.펩시와 스타쉽엔터테인먼트(이하 스타쉽)는 지난 24일 오후 7시 공식 SNS를 통해 '2024 펩시 캠페인' 파트너 아이브의 신곡 '썸머 페스타(SUMMER FESTA)' 두 번째 콘셉트 포토를 공개했다.이미지 속 아이브는 펩시의 인기 제품인 제로 슈거 라임향을 연상케 하는 상큼한 라임 컬러 의상을 입고 스타일리시한 매력을 뽐냈다. 뜨거운 여름 햇살같은 여신들의 매혹적인 자태와 완벽한 비주얼 시너지가 글로벌 팬들을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브라운 아이드 걸스, 제아 신곡 '그때는 왜 몰랐을까' 챌린지 완전체 참여! 여전한 의리]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23945</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23919"/>
         <updated>2024-06-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[걸그룹 크랙시(CRAXY)가 역대급 퍼포먼스로 컴백 기대감을 높이고 있다.크랙시(우아, 카린, 혜진, 수안)는 14일 공식 SNS를 통해 첫 번째 싱글앨범 'RE_'의 메가 크루 퍼포먼스 티저 영상을 공개했다.공개된 영상 속 크랙시는 화이트 앤 실버 착장으로 힙한 비주얼을 드러내고 있다. 짧은 영상임에도 크랙시만의 압도적 카리스마와 강력한 임팩트가 고스란히 담겨 있어 앞으로 이들이 선사할 감각적인 퍼포먼스를 향한 기대감이 더해지고 있다.특히 메가 크루 사이를 걸어 나오는 우아의 모습과 "가자"라는 멘트가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7월 1일 컴백' 스테이씨, 정규 1집 'Metamorphic' 트레일러 포토 공개 완료! 확신의 '전원 센터' 존재감]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23918</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23918"/>
-        <updated>2024-06-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 감각적인 변신을 예고했다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 12일과 13일, 공식 SNS를 통해 첫 번째 정규앨범 'Metamorphic(메타모르픽)'의 트레일러 포토를 모두 공개했다.이날 공개된 포토는 앞서 오픈된 트레일러 필름의 몽환적이고 빈티지한 무드를 한층 디테일하게 담아냈다. 스테이씨의 동화 속 비주얼이 신비로운 감성과 어우러져 비밀스러운 분위기를 배가했다.&nbsp;발레코어 감성이 가미된 클래식한 스타일링과 여섯 멤버의 비주얼 케미스트리 또한 몽환적인 매력을 자..]]></content>
     </entry>
 </feed>
