@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-06-27T23:16:46.379Z</updated>
+    <updated>2024-06-28T01:07:06.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 25 CIRCLE CHART: JEONGHAN X WONWOO (SEVENTEEN) '1st Single Album `THIS MAN`..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23962</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23962"/>
+        <updated>2024-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 25 CIRCLE CHART of 2024, JEONGHAN X WONWOO (SEVENTEEN) '1st Single Album `THIS MAN`' took the No. 1 spot in the weekly Retail Album Chart by selling 183,736 copies at retailers.'1st Single Album `THIS MAN`' was the top seller as of 7PM (KST) on the date of its release, Ju..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브, 신곡 'SUMMER FESTA' MV 티저 공개...역대급 사운드+청량감 '초강력 중독성']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23959</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23936"/>
         <updated>2024-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 핫하면서도 쿨한 매력을 선보인다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 18일과 19일 양일간 공식 SNS를 통해 첫 번째 정규앨범 'Metamorphic(메타모르픽)'의 콘셉트 포토를 모두 공개했다.&nbsp;먼저 공개된 'Cheeky(치키)' 버전은 붉은빛의 거친 모래사막 위 스테이씨를 담아냈다. 스테이씨는 핑크 디테일을 살린 블랙드레스로 핫한 아우라를 완성하며 신비로운 분위기를 자아냈다. 특히 심장과 폭탄 오브제를 활용한 과감한 무드 연출이 스테이씨가 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비, 오늘(18일) 'SABOTAGE'로 화려한 컴백...글로벌 '서머 퀸'의 업그레이드 귀환]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23928</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23928"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[여름 무더위를 한방에 날려줄 '서머 퀸' 권은비가 돌아온다.권은비는 18일 오후 6시 각종 음원 사이트를 통해 두 번째 싱글 '사보타지(SABOTAGE)'를 발매하고 글로벌 팬들 곁으로 화려하게 귀환한다.동명의 타이틀곡 '사보타지'는 80년대 디스코 사운드에서 영감받은 유로 하우스 장르의 곡으로, 강렬한 하우스 비트 위에 유려하고 다이내믹한 보컬 레인지가 매력적이다. 레트로한 드럼과 신시사이저에 모던하고 다채로운 사운드를 녹여내 청량하면서도 뜨거운 여름의 열기를 연상시킨다.'사보타지..]]></content>
     </entry>
 </feed>
