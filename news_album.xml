@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-06-30T23:16:50.304Z</updated>
+    <updated>2024-07-01T01:14:00.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 오늘(1일) 데뷔 첫 정규앨범 'Metamorphic' 발매! 3년 8개월 음악적 성취 집약]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23967</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23967"/>
+        <updated>2024-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 데뷔 첫 정규앨범으로 새로운 음악적 질주를 떠난다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 1일 오후 6시 각종 온라인 음원사이트를 통해 첫 번째 정규앨범 'Metamorphic(메타모르픽)'을 발매한다.'Metamorphic'은 스테이씨가 지난해 8월 발매한 세 번째 미니앨범 'TEENFRESH(틴프레시)' 이후 약 11개월 만에 국내에서 선보이는 앨범이다. '변화'를 뜻하는 앨범명에 걸맞은 콘셉트의 진화와 비주얼 변신, 업그레이드된..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 진진, 오늘(28일) 신곡 ‘자존감(self-esteem)’ 발매!…세 번째 ‘JIN LAB’ 프로젝트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23964</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23947"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 고스트나인(GHOST9)의 신곡 '째깍째깍 (Awesome day)'이 예능까지 접수했다.&nbsp;고스트나인(이신, 손준형, 이강성, 최준성, 프린스, 이우진, 이진우)이 지난 6일 발매한 '째깍째깍 (Awesome day)'이 코미디TV 'THE 맛있는 녀석들'의 타이틀송으로 선정됐다.&nbsp;'째깍째깍 (Awesome day)'은 리더 손준형이 직접 작사, 작곡했고, 멤버 이강성과 이우진이 랩 메이킹에 참여해 '시간이 흘러가도 우리는 뒤돌아보지 않고 지금 이 순간을 즐길 거..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허용별, QWER '고민중독' 발라드 버전으로 재해석! 30일 스페셜 싱글 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23942</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=23942"/>
-        <updated>2024-06-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 허용별이 QWER의 '고민중독'을 새롭게 부른다.허용별은 오는 30일 각종 온라인 음원사이트를 통해 스페셜 싱글 '고민중독(Ballad Ver.)'을 발매한다.'고민중독'은 밴드 QWER(큐더블유이알)이 지난 4월 발매한 곡으로, 동경하는 상대와 가까워지기 위해 고민하는 화자의 마음을 가사에 담아냈다. 허용별은 각종 음원 차트 순위에 오르며 리스너들의 마음을 사로잡은 '고민중독'을 발라드 버전으로 편곡해 듣기만 해도 애절한 감성으로 듣는 이들의 공감을 불러일으킬 전망이다..]]></content>
     </entry>
 </feed>

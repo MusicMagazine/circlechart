@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-06-30T23:16:50.219Z</updated>
+    <updated>2024-07-01T01:14:00.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김범수, 5일 단독 콘서트 '여행, The Original' 호주 공연 개최! 월드투어 포문 연다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23966</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23966"/>
+        <updated>2024-07-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김범수가 호주에서 월드투어의 시작을 알린다.김범수는 오는 5일 호주 시드니의 State Theatre(스테이트 시어터)에서 '2024 김범수 콘서트 &lt;여행, The Original&gt;' 호주 공연을 개최한다.'2024 김범수 콘서트 &lt;여행, The Original&gt;'은 김범수가 데뷔 25주년을 기념하여 팬들과 뜻깊은 시간을 보내기 위해 준비한 공연이다. 지난 4월 서울을 시작으로 6월까지 부산, 대전, 전주, 광주, 대구에서 공연을 개최하며 팬들과 소통했다.김범수는 국내 콘서트를..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘페스티벌계 미슐랭’ 데이브레이크, ‘서울 파크 뮤직 페스티벌’서 3스타급 공연 선보인다...‘기대 UP!’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23949</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23879"/>
         <updated>2024-06-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 양파가 단독 콘서트 'Seoul Romantique'를 성공적으로 마무리했다.양파는 지난 1일과 2일 양일간 서울 용산구 노들섬 라이브하우스에서 2024 양파 단독 콘서트 2024 양파 콘서트 'Seoul Romantique (서울 로맨티크)'를 열고 팬들과 만났다.'Seoul Romantique'는 양파가 지난해 10월 진행한 콘서트 'AWAKENING (어웨이크닝)' 이후 약 8개월 만에 개최하는 공연이다. 양파는 17년 만에 정규앨범 'Seoul Romant..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 콜드, 6월 소극장 콘서트 'my little blue boat' 개최 확정! 오늘(28일) 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23860</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23860"/>
-        <updated>2024-05-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 콜드(Colde)가 소극장 콘서트로 팬들과 음악 항해를 떠난다.콜드는 오는 6월 21일부터 23일까지 3일간 LG아트센터 서울 U+ 스테이지에서 2024 콜드 소극장 콘서트 'my little blue boat pier 2 윤슬(마이 리틀 블루 보트 피어 2 윤슬)'을 개최한다.'my little blue boat'는 콜드가 지난해 12월 선보인 2023 콜드 단독 콘서트 'Blue Room(블루 룸)' 이후 약 6개월 만에 개최하는 단독 공연이자, 1년 전 진행한 소극장 콘서..]]></content>
     </entry>
 </feed>
