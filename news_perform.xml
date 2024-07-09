@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-09T01:08:00.090Z</updated>
+    <updated>2024-07-09T02:34:03.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['트롯 걸즈 재팬', 첫 한국 팬미팅 '더 비기닝' 성료…"앞으로 더 다양한 공연으로 찾아뵐 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23996</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23996"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['트롯 걸즈 재팬' 출연자들이 첫 한국 팬미팅을 성황리에 마쳤다.지난 6일과 7일 서울 무신사 개러지에서 '트롯 걸즈 재팬' 첫 번째 팬미팅 'The Beginning(더 비기닝)'이 열렸다.이번 팬미팅에는 앞서 일본 대표 위성 방송 채널 'WOWOW(와우와우)'와 최대 OTT 플랫폼 'ABEMA(아베마)'에서 인기리에 방영된 '트롯 걸즈 재팬(TROT GIRLS JAPAN)' 출연자 후쿠다 미라이, 우타고코로 리에, 아즈마 아키, 마코토, 스미다..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이기광, 올 여름 5년 만에 솔로 콘서트 'OBSESSED' 개최 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23991</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23940"/>
         <updated>2024-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이스(A.C.E)가 북미 투어를 성공적으로 출발했다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 19일(이하 현지 시간) 미국 매디슨(위스콘신 주) 오르페움 극장(Orpheum Theater)에서 2024 US 투어 'REWIND US'(리와인드 어스)의 첫 번째 공연을 성공적으로 개최했다.'REWIND US'는 에이스의 세 번째 미주 투어이자, 멤버들의 군 복무 이후 콘서트 형식으로는 전 세계 최초로 진행된 공연이다. 에이스는 오프닝곡 '도깨비(Favotite Boys)..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯 걸즈 재팬', 7월 첫 한국 콘서트 '더 비기닝' 개최…오늘(19일) 티켓 예매 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23931</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23931"/>
-        <updated>2024-06-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['트롯 걸즈 재팬' 출연자들이 한국에서 첫 콘서트를 펼친다.'트롯걸즈재팬 1st 미니 콘서트 The Beginning'(이하 '더 비기닝')이 오는 7월 6일과 7일 양일간 서울 마포구에 위치한 무신사 개러지에서 개최된다.'더 비기닝'은 앞서 일본 대표 위성 방송 채널 'WOWOW(와우와우)'와 최대 OTT 플랫폼 'ABEMA(아베마)'에서 방영돼 화제를 모은 '트롯 걸즈 재팬(TROT GIRLS JAPAN)' 출연자들이 한국에서 최..]]></content>
     </entry>
 </feed>
