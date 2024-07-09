@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-09T05:15:53.710Z</updated>
+    <updated>2024-07-09T06:21:32.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 26 CIRCLE CHART: aespa, TWS, and Lee Young Ji Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24000</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24000"/>
+        <updated>2024-07-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 26 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by aespa, TWS, and Lee Young Ji.KMCA, publisher of CIRCLE CHART, announced that As of week 26 (2024.06.23.~2024.06.29.), aespa and TWS topped 2 charts each while Lee Young Ji swept 3 charts.aespa topped 2 charts with Supernova, the ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 26 CIRCLE CHART: WayV 'Give Me That - The 5th Mini Album' Tops June Retail ..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23999</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23980"/>
         <updated>2024-07-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 25 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by aespa, NewJeans, and JEONGHAN X WONWOO (SEVENTEEN).KMCA, publisher of CIRCLE CHART, announced that “As of week 25 (2024.06.16.~2024.06.22.), aespa swept 3 charts while NewJeans and JEONGHAN X WONWOO (SEVENTEEN) topped 2 charts ea..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비디유, 데뷔 앨범 'Wishpool' 재킷 비하인드 공개...글로벌 팬심 뒤흔드는 '청량 甲' 비주얼]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23979</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23979"/>
-        <updated>2024-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[실력파 보컬돌 비디유(B.D.U, 제이창, 승훈, 빛새온, 김민서)의 데뷔 앨범 재킷 비하인드가 공개됐다.소속사 오르카뮤직은 지난 2일 오후 8시 공식 유튜브 채널을 통해 비디유의 첫 번째 미니 앨범 '위시풀(Wishpool)' 재킷 비하인드 필름을 공개했다.공개된 영상은 '위시풀'의 재킷 사진 촬영에 임하는 비디유의 다양한 모습과 인터뷰를 담고 있어 글로벌 팬들의 폭발적인 반응을 불러왔다.촬영 첫 주자로 나선 리더 빛새온은 "촬영 장소가 너무 예쁘다"라며 설레는 마음을 드러냈다. 이어 밝..]]></content>
     </entry>
 </feed>
