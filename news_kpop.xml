@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-11T01:08:30.730Z</updated>
+    <updated>2024-07-11T02:35:27.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무 휘인, 'coco water' 새 콘셉트 포토 공개...글로벌 팬심 뒤흔드는 '아련+청초' 비주얼]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24007</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24007"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 휘인(Whee In)이 여름 가요계를 감성으로 물들일 신곡으로 돌아온다.소속사 더라이브는 지난 10일 오후 6시 공식 SNS를 통해 휘인의 새 디지털 싱글 '코코 워터(coco water)' 두 번째 콘셉트 포토를 공개했다.공개된 이미지는 파도치는 바닷가의 풍경을 비추는 컷과 푸른 들판에서 알 수 없는 표정으로 유리잔을 바라보는 휘인의 모습을 담은 컷 두 장으로 공개돼 글로벌 팬들을 열광하게 만들었다.이미지 속 휘인은 바람에 흩날리는 짙은 흑발과 내추럴한 메이크업으로 청초하면서도 신비로운 매력을 뽐냈다. 물오른 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOUNITE(유나이트), ‘로드 투 킹덤’ 새 시즌 출격…‘ANOTHER’한 실력 입증할 것]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24005</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23990"/>
         <updated>2024-07-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업이 8월 8일 컴백을 앞두고 선공개곡 애니메이션 영상을 공개했다.&nbsp;방용국&amp;정대현&amp;유영재&amp;문종업은 8일 0시 공식 SNS를 통해 첫 번째 EP 'CURTAIN CALL(커튼 콜)' 선공개곡 '빛바랜 날들 이젠 잊고 다 안녕(FAREWELL)'의 캐릭터 애니메이션 영상을 공개했다.공개된 영상은 'CURTAIN CALL' 앨범의 시작을 알리기 위한 것으로, 방용국&amp;정대현&amp;유영재&amp;문종업..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스(A.C.E), ‘수출형 아이돌’ 되나? 미국 3대 지상파 방송사 ABC 출연하며 ‘연신 인기몰이’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23988</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23988"/>
-        <updated>2024-07-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 K팝 아티스트로는 최초로 미국 ABC의 대표 지역방송을 연신 섭렵하며 수출형 아이돌로 거듭나고 있다.&nbsp;에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 3일(이하 한국 시간) 미국 대형 지상파 방송사 ABC의 대표 지역방송 ‘Great Day Live!(그레잇 데이 라이브!)’에 출연해 화제를 모았다.ABC는 월트 디즈니(Walt Disney) 산하의 방송국으로, NBC와 CBS와 함께 미국 내 3대 지상파 방송국 중 하나이다. CNN 다음으로 높은 권위를 자랑하는 ABC 방송에서의 출연은 에이스의..]]></content>
     </entry>
 </feed>

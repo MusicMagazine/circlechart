@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-11T01:08:30.751Z</updated>
+    <updated>2024-07-11T02:35:27.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘14일 컴백’ 경서, 미니 2집 ‘Knock’ 발매 기념 버스킹 개최 확정! 신곡 무대 최초 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24006</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24006"/>
+        <updated>2024-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 경서가 미니 2집 발매를 기념해 오프라인 라이브 무대를 선보인다.경서는 오는 12일 서울 마포구 홍대 상상마당 앞, 17일 강북구 영훈고등학교, 19일 종로구 마로니에공원에서 두 번째 미니앨범 ‘Knock (노크)’ 발매 기념 오프라인 무대를 가진다.오는 14일 미니 2집 ‘Knock’로 돌아오는 경서는 컴백 전후로 버스킹에 스쿨어택까지 다양한 형태의 오프라인 무대를 진행하며 팬들과 가까운 소통을 펼친다. 특히 12일 공연에서 ‘Knock’에 실리는 신곡 무대를 최초로 공개하며, 17일에는 깜짝 스쿨어택으로 영훈고등학교을 찾아..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백예빈, 14일 생일 기념 팬미팅 'YEPPY BIRTHDAY' 개최…7개월 만의 재회 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24003</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23944"/>
         <updated>2024-06-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김성규가 여름 감성 가득한 포스터로 단독 콘서트 기대감을 높였다.소속사 더블에이치티엔이는 24일 0시 공식 SNS를 통해 김성규의 단독 콘서트 '[LV] 3'(Let's Vacay) 메인 포스터와 티저 영상을 공개했다.두 가지 버전으로 공개된 포스터는 모래사장에 누워 따사로운 햇살을 즐기는 김성규의 모습, 의자에 앉아 다리를 쭉 뻗고 장난기 가득한 표정을 짓고 있는 김성규의 모습을 각각 담고 있다. 평화로운 배경과 스타일리시한 캐주얼 룩이 자유롭고 편안한 분위기를 자아내며, 빈티지한 색감과 감성 넘치는 디..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피크닉과 함께 즐기는 음악 ‘반석산 피크닉’ 6월 21일 하반기 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23941</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23941"/>
-        <updated>2024-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[화성시문화재단(대표이사 김신아)은 21일 금요일, 재단 아트홀 인기 프로그램 ‘반석산 피크닉’의 하반기 티켓 오픈을 진행한다고 밝혔다.상반기 ‘Musical in the Forest’와 ‘Indie Night’을 통해 누구나 즐길 수 있는 무대를 선보였던 ‘반석산 피크닉’은 두 공연 모두 티켓 오픈과 동시에 매진을 기록하며, 소규모 페스티벌의 느낌을 담은 야외공연으로 시민의 사랑을 받고 있다. 특히 5월 공연에는 비가 왔음에도 불구하고 관객만족도 점수 99점을 기록, ‘비가 왔음에도 소름끼치게 완벽한 공연’, ‘라인업도 너무 좋았고..]]></content>
     </entry>
 </feed>
