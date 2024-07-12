@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-07-11T23:18:08.379Z</updated>
+    <updated>2024-07-12T01:07:14.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['감성 보컬' 로키드, 메이저나인과 전속계약 체결…바이브·장혜진→포맨과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012"/>
+        <updated>2024-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 로키드(Lokid)가 메이저나인과 전속계약을 체결했다.12일 메이저나인은 "싱어송라이터로서 풍부한 감성을 표현하는 로키드와 계약하게 되어 기쁘다"라며 "로키드의 새로운 출발에 많은 응원과 사랑 부탁드리고, 앞으로도 다양한 음악 활동을 통해 발전하는 아티스트가 될 수 있도록 적극적인 지원을 아끼지 않을 예정"이라고 밝혔다.로키드는 2018년 EP 앨범 'Bubble Love(버블 러브)'로 데뷔한 뒤 'sowhereareyounow?(소웨어아유나우?)', 'Rain..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정이라고 하자' 작곡가 KIXO(키조), 신규 음악 레이블 'NO MORE BLUE' 론칭]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23965</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635"/>
         <updated>2024-03-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[트로트 가수 김지현이 새로운 출발에 나선다.n.CH엔터테인먼트의 트로트 레이블 그레인엔터테인먼트는 26일 "최근 김지현과 전속 계약을 체결하고 매니지먼트를 담당하게 됐다"고 밝혔다.김지현은 광주광역시 무형문화재 제14호 판소리 심청가 이수자로, 타고난 실력과 끼를 겸비한 트로트 가수다. 지난 2020년 첫 싱글 '사랑의 연금술사'로 데뷔했고, 같은 해 방송된 SBS '트롯신이 떴다2 - 라스트 찬스', MBC '트로트의 민족' 등 다양한 트로트 오디션 프로그램에 출연해 눈도장..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음색 여신' 수란, K타이거즈 엔터와 전속계약 체결! NEW 행보 '기대']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23602</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23602"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['실력파 음색 여신' 가수 수란이 K타이거즈 엔터테인먼트와 새로운 출발을 함께한다.&nbsp;18일 K타이거즈 엔터테인먼트는 "수란과 최근 전속계약을 체결했다. 수란이 다방면에서 더욱 많은 활동을 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 것이다. 수란의 음악적 행보를 기대해 달라"고 밝혔다.&nbsp;지난 2014년 싱글 'I Feel(아이 필)'로 데뷔한 수란은 특색 있는 음색과 기교는 물론 작사?작곡?프로듀싱 실력까지 갖춘 싱어송라이터다. 여러 아티스트에게 수많은 러브콜을 받고 있으며, 다양한 뮤지션..]]></content>
     </entry>
 </feed>

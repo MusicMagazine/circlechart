@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-11T23:18:08.372Z</updated>
+    <updated>2024-07-12T01:07:14.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['18일 컴백' 엔싸인(n.SSign), 'Tiger' 두 번째 콘셉트 포토 공개…'호랑이 기세' 담았다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24010</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24010"/>
+        <updated>2024-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 남다른 기세로 팬심을 저격했다.엔싸인은 지난 10일부터 12일 0시 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 콘셉트 포토를 공개했다.앞서 공개된 'Tiger' 버전에 이어 이번에는 'New Flavour' 버전의 콘셉트 포토가 베일을 벗었다. 포토 속 엔싸인은 짙은 밤거리를 배경으로 힙한 스타일의 스트릿 패션을 착장하고 드라마틱한 감성을 선보였다.엔싸인은 시크하면서도 기세 넘치는 눈빛으로 은은한 아우라를 뿜어내며 카메라를 압도했..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 휘인, 'coco water' 새 콘셉트 포토 공개...글로벌 팬심 뒤흔드는 '아련+청초' 비주얼]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24007</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23992"/>
         <updated>2024-07-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 8월 컴백을 확정했다.소속사 울림엔터테인먼트는 8일 오전 8시 공식 SNS를 통해 드리핀의 다섯 번째 싱글 '위켄드(Weekend)' 커밍순 이미지를 공개하고 컴백 소식을 알렸다.공개된 이미지는 푸른색 배경에 새 싱글 타이틀 '위켄드'가 커다랗게 적혀 있는 심플한 디자인으로 시선을 사로잡았다. 여름에 걸맞은 시원하고 청량한 분위기가 드리핀의 색다른 매력을 예고하며 컴백의 기대감을 끌어올렸다.드리핀의 컴백은 지난 4월 발매한..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['B.A.P 출신' 방용국&정대현&유영재&문종업, 선공개곡 '빛바랜 날들 이젠 잊고 다 안녕' 애니메이션 영상 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23990</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=23990"/>
-        <updated>2024-07-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업이 8월 8일 컴백을 앞두고 선공개곡 애니메이션 영상을 공개했다.&nbsp;방용국&amp;정대현&amp;유영재&amp;문종업은 8일 0시 공식 SNS를 통해 첫 번째 EP 'CURTAIN CALL(커튼 콜)' 선공개곡 '빛바랜 날들 이젠 잊고 다 안녕(FAREWELL)'의 캐릭터 애니메이션 영상을 공개했다.공개된 영상은 'CURTAIN CALL' 앨범의 시작을 알리기 위한 것으로, 방용국&amp;정대현&amp;유영재&amp;문종업..]]></content>
     </entry>
 </feed>
