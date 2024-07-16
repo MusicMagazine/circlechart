@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-07-16T01:09:22.730Z</updated>
+    <updated>2024-07-16T02:35:08.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 8년 만에 8월 솔로 데뷔 확정…첫 앨범은 ‘DUSK’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24025</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24025"/>
+        <updated>2024-07-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 8월 중 첫 솔로 앨범 ‘DUSK’를 선보인다.윤산하는 16일 0시 판타지오 공식 SNS를 통해 첫 솔로 미니앨범 ‘DUSK’(더스크) 발매 소식을 알리는 ‘about to enter the DUSK’를 공개했다.‘DUSK’는 지난 2016년 아스트로로 데뷔한 윤산하가 8년 만에 솔로 아티스트로서 첫발을 내딛는 앨범이다. ‘황혼’, ‘개와 늑대의 시간’이라는 뜻을 담은 앨범명으로 황혼의 시기를 지나 진정한 성장을 이루겠다는 포부를 드러냈다.영상 속 윤산하는 청초하고 신비로운 화이트, 다크하고 강렬..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 서은광, 려욱 원곡 '어린왕자' 리메이크 확정! 21일 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24018</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24004"/>
         <updated>2024-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 탑현이 MBTI를 소재로 색다른 사랑 이야기를 노래한다.탑현은 오는 14일 새 디지털 싱글 ‘T의 연애’를 발매한다. 이는 탑현이 올해 1월 발매한 ‘저 별들도 질투할 만큼’ 이후 6개월 만에 선보이는 신곡이다.‘T의 연애’는 성격유형 검사인 MBTI 유형 중 이성적인 T와 감성적인 F 두 가지 상반된 성향을 소재로 한 곡으로, T인 남자가 연애를 시작하면서 점점 F로 변해가는 모습을 표현했다.‘너를 생각해’, ‘아무래도 난’ 등 히트곡을 보유한 주시크가 작사, 작곡에 참여해 탑현과 색다른 감성 시너지를 선보일 예정이다.발매에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혁오와 선셋 롤러코스터, 10일 오후 6시 프로젝트 음반  공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24002</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24002"/>
-        <updated>2024-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[오늘 오후 6시, ‘혁오’(HYUKOH)와 ‘선셋 롤러코스터’(Sunset Rollercoaster)의 프로젝트 음반 &lt;AAA&gt;가 드디어 베일을 벗는다. &lt;AAA&gt;에 수록되는 8곡 중 6곡이 타이틀곡으로, 아시아를 대표하는 두 밴드가 협업한 결과물의 정수를 맛볼 수 있을 것으로 기대된다.&nbsp;6개의 타이틀곡 중에 하나이자, 음반의 무드를 대표하는 곡 ‘Glue’(글루)의 뮤직비디오도 새롭게 공개된다. ‘Glue’는 다양한 코드들이 정교하게 얽혀 완성된 멜로디와 간결하면서도 낭만적인 가사가 매력적인 곡으로, 혁오와 ..]]></content>
     </entry>
 </feed>
