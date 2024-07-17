@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-17T01:08:35.431Z</updated>
+    <updated>2024-07-17T02:34:23.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 D-1' 엔싸인(n.SSign), 'Tiger (New Flavour)' M/V 티저 공개…호랑이 기세로 팬심 저격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24027</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24027"/>
+        <updated>2024-07-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 기세 넘치는 퍼포먼스를 선보였다.엔싸인은 지난 16일 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 타이틀곡 'Tiger (New Flavour)(타이거 (뉴 플레이버)' 뮤직비디오 티저 영상을 공개했다.영상 속 엔싸인은 땅을 짚고 앞을 향해 질주하는 듯한 역동적인 퍼포먼스를 선보이며 눈길을 사로잡았다. 강렬한 비트와 완벽하게 어우러지는 박진감 넘치는 동작들을 통해 엔싸인만의 거침없는 기세를 느낄 수 있다.이어 시크한 표정으로 카메라를 응시하는 멤..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올아워즈, 갓세븐 영재→스테이씨·키스오브라이프까지 '도깨비' 챌린지 지원사격!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24024</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24001"/>
         <updated>2024-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 강렬한 스타일로 컴백 기대감을 높였다.엔싸인은 지난 9일 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 콘셉트 필름을 공개했다.영상 속 엔싸인은 학교 건물을 배경으로 복고풍 교복을 착장하고 거친 매력을 발산했다. 특히 멤버들의 얼굴에 새겨진 상처들과 사연을 담은 듯한 눈빛이 시선을 집중시켰다. 멤버들 저마다의 청춘 자화상을 선보인 가운데 강렬하고 묵직한 사운드가 장면을 압도하며 팬들의 두근거림을 배가했다.이어 엔싸인은 각자 개성 넘치는 스트릿 패션을 힙하게 소화..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 26 CIRCLE CHART: aespa, TWS, and Lee Young Ji Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24000</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24000"/>
-        <updated>2024-07-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 26 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by aespa, TWS, and Lee Young Ji.KMCA, publisher of CIRCLE CHART, announced that As of week 26 (2024.06.23.~2024.06.29.), aespa and TWS topped 2 charts each while Lee Young Ji swept 3 charts.aespa topped 2 charts with Supernova, the ..]]></content>
     </entry>
 </feed>
