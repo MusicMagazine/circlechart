@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-17T23:16:43.381Z</updated>
+    <updated>2024-07-18T01:07:11.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['24일 데뷔' 디그니티, 90년대 힙합 레전드 듀스 오마주! 아이코닉 무대 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24036</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24036"/>
+        <updated>2024-07-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신인 보이그룹 디그니티(DIGNITY)가 90년대 힙합 레전드 듀스를 오마주한 곡으로 가요계에 출사표를 던진다.디그니티(루오·민석·루크·온·형진)는 오는 24일 첫 번째 미니앨범 'Digmotion'(디그모션)을 발매하며 가요계에 정식 데뷔한다. 이 가운데 타이틀곡 '식혀'가 1990년대 힙합 레전드 듀스를 향한 오마주의 기획의도를 담은 트랙으로 알려져 화제를 모으고 있다.'Digmotion'은 레트로 감성을 5세대 아이돌의 청량함으로 재해석한 앨범이다. 이에 1번 트랙이자 타이틀곡 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 D-1' 엔싸인(n.SSign), 'Tiger (New Flavour)' M/V 티저 공개…호랑이 기세로 팬심 저격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24027</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24005"/>
         <updated>2024-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직 소속 보이그룹 YOUNITE(유나이트)가 하반기 방송 예정인 Mnet 보이그룹 서바이벌 '로드 투 킹덤' 새 시즌 출연을 확정했다.2020년 방송된 첫 시즌 이후 약 4년 만에 새롭게 리브랜딩 된 ‘로드 투 킹덤’은 실력과 잠재력을 갖추고 있는 보이그룹들을 다시 한 번 재조명하는&nbsp;K팝 보이그룹 라이징 프로젝트로 재탄생 되어 K팝 팬들의 뜨거운 호응을 이어갈 것으로 기대를 모았다.&nbsp;‘로드 투 킹덤’의 새 시즌은 방송 예정 소식을 알린 시점부터 뜨거운 화제를 일으키며 라인업에 대한 궁금증을 자아냈다.&nbsp;글로벌 팬..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['18일 컴백' 엔싸인(n.SSign), 리패키지 앨범 'Tiger' 콘셉트 필름 공개…강렬+힙한 스타일]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24001</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24001"/>
-        <updated>2024-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 강렬한 스타일로 컴백 기대감을 높였다.엔싸인은 지난 9일 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 콘셉트 필름을 공개했다.영상 속 엔싸인은 학교 건물을 배경으로 복고풍 교복을 착장하고 거친 매력을 발산했다. 특히 멤버들의 얼굴에 새겨진 상처들과 사연을 담은 듯한 눈빛이 시선을 집중시켰다. 멤버들 저마다의 청춘 자화상을 선보인 가운데 강렬하고 묵직한 사운드가 장면을 압도하며 팬들의 두근거림을 배가했다.이어 엔싸인은 각자 개성 넘치는 스트릿 패션을 힙하게 소화..]]></content>
     </entry>
 </feed>
