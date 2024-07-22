@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-21T23:15:59.283Z</updated>
+    <updated>2024-07-22T01:10:47.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 첫 솔로 앨범 ‘DUSK’ 다큐멘터리 공개…“욕심 많이 냈다”]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24044</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24044"/>
+        <updated>2024-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 진솔한 다큐멘터리로 첫 솔로 앨범을 직접 소개했다.윤산하는 지난 19일과 22일 0시 판타지오 공식 유튜브 채널을 통해 첫 솔로 미니앨범 ‘DUSK’(더스크)의 다큐멘터리 영상 ‘about DUSK’(황혼에 대하여) #1과 #2를 공개했다.2편의 영상을 통해 윤산하는 데뷔 8년 만에 발매하는 첫 솔로 앨범 ‘DUSK’와 총 6곡의 신곡을 직접 소개했다. 그는 “‘DUSK’(황혼)를 키워드로 단계별 무드를 트랙에 담고자 했다”라고 밝혔다. 실제로 각 트랙은 노을이 지기 시작해 점차 밤에 이르는 황혼..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 미니 3집 ‘AWAKENING’ 스케줄러 공개…HIP&NERD 콘셉트 ‘이목 집중’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24038</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24019"/>
         <updated>2024-07-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 첫 영화의 성공적인 개봉과 함께 특별한 팬 서비스를 펼쳤다.최근 'n.SSign THE MOVIE(엔싸인 더 무비)'가 일본 전역 85개 극장에서 동시 개봉됐다.'n.SSign THE MOVIE'는 엔싸인의 일본 공연과 활동을 담은 다큐멘터리 형식의 영화로, 지난해 11월 도쿄 아리아케 아레나에서 개최한 콘서트 'BIRTH OF COSMO(버스 오브 코스모)'를 중심으로 엔싸인이 일본에 정식 데뷔하기까지의 여정을 담아냈다.'n.SSign THE MOVI..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['18일 컴백' 엔싸인(n.SSign), 'Tiger' 두 번째 콘셉트 포토 공개…'호랑이 기세' 담았다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24010</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24010"/>
-        <updated>2024-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 남다른 기세로 팬심을 저격했다.엔싸인은 지난 10일부터 12일 0시 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 콘셉트 포토를 공개했다.앞서 공개된 'Tiger' 버전에 이어 이번에는 'New Flavour' 버전의 콘셉트 포토가 베일을 벗었다. 포토 속 엔싸인은 짙은 밤거리를 배경으로 힙한 스타일의 스트릿 패션을 착장하고 드라마틱한 감성을 선보였다.엔싸인은 시크하면서도 기세 넘치는 눈빛으로 은은한 아우라를 뿜어내며 카메라를 압도했..]]></content>
     </entry>
 </feed>

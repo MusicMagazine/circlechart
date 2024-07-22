@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-07-21T23:15:59.278Z</updated>
+    <updated>2024-07-22T01:10:47.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[페노메코, 이고그룹과 전속계약 체결! 브랜드 레이블 'if i' 론칭]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24041</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24041"/>
+        <updated>2024-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['프로듀서 겸 아티스트' 페노메코가 이고그룹과 함께한다.22일 이고그룹은 "페노메코와 최근 전속계약을 체결했다"라며 "페노메코는 이고그룹 안에서 브랜드 레이블 'if i(이프 아이)'를 론칭하고 활동할 예정이며, 탄탄한 그의 음악처럼 단단하고 거침없는 걸음을 내디딜 수 있도록 아낌없이 지원할 계획이다. 앞으로 만들어갈 페노메코의 음악 세계에 많은 관심 부탁드린다"고 밝혔다.페노메코는 독보적인 톤과 출중한 프로듀싱 능력을 갖춘 올라운더 아티스트로, 지난 2014년 싱글 '..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['감성 보컬' 로키드, 메이저나인과 전속계약 체결…바이브·장혜진→포맨과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23640"/>
         <updated>2024-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 제아가 아우라엔터테인먼트와 새로운 출발을 한다.26일 소속사 아우라엔터테인먼트는 "풍부한 감성과 실력을 갖춘 제아와 최근 전속계약을 체결했다"고 밝혔다.&nbsp;브라운 아이드 걸스의 리더이자 리드보컬 제아는 솔로 음원 발매를 비롯해 드라마 '마에스트라', '오늘도 사랑스럽개' OST, '야오키 프로젝트', 리디 웹툰 '상수리나무 아래' OST 가창 및 듀엣곡 등 여러 음악 프로젝트에 참여하며 활발한 활동을 이어오고 있다.&nbsp;최근에는 후배 가수의 쇼케이스 MC와 웹예..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 가수 김지현, n.CH 트로트 레이블 그레인엔터와 전속 계약 체결…신유와 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23635"/>
-        <updated>2024-03-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[트로트 가수 김지현이 새로운 출발에 나선다.n.CH엔터테인먼트의 트로트 레이블 그레인엔터테인먼트는 26일 "최근 김지현과 전속 계약을 체결하고 매니지먼트를 담당하게 됐다"고 밝혔다.김지현은 광주광역시 무형문화재 제14호 판소리 심청가 이수자로, 타고난 실력과 끼를 겸비한 트로트 가수다. 지난 2020년 첫 싱글 '사랑의 연금술사'로 데뷔했고, 같은 해 방송된 SBS '트롯신이 떴다2 - 라스트 찬스', MBC '트로트의 민족' 등 다양한 트로트 오디션 프로그램에 출연해 눈도장..]]></content>
     </entry>
 </feed>
