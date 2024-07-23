@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-23T06:22:08.655Z</updated>
+    <updated>2024-07-23T07:15:38.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 28 CIRCLE CHART: ENHYPEN 'ROMANCE : UNTOLD' is No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24050</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24050"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 28 CIRCLE CHART of 2024, ENHYPEN 'ROMANCE : UNTOLD' topped the weekly Retail Album Chart by selling 398,138 copies at retailers.'ROMANCE : UNTOLD' was the top seller as of 4PM (KST) on the date of its release, July 12th (Friday, week 28).ROMANCE : UNTOLD' is the 2nd s..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍지윤, '가요무대' 접수한 여신의 무대…'해운대 엘레지' 감성 가득 가창력]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24021"/>
         <updated>2024-07-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 27 CIRCLE CHART of 2024, NCT WISH ‘Songbird’ topped the weekly Retail Album Chart by selling 101,536 copies at retailers.&nbsp;'Songbird' was the top seller as of 7PM (KST) on the date of its release, July 1st (Monday, week 27).‘Songbird’ is the new single from NCT WISH. It features a..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[June 2024 CIRCLE CHART: aespa, RIIZE, and NewJeans Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24020</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24020"/>
-        <updated>2024-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The June CIRCLE CHART saw strong showings by aespa, RIIZE, and NewJeans.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for June 2024, aespa swept 3 charts while RIIZE dominated the Album Chart and NewJeans topped 2 charts."aespa topped a total of 3 charts with ‘..]]></content>
     </entry>
 </feed>
