@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-23T01:08:35.126Z</updated>
+    <updated>2024-07-23T02:34:10.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[홍지윤, '가요무대' 접수한 여신의 무대…'해운대 엘레지' 감성 가득 가창력]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 홍지윤이 눈부신 비주얼과 완벽한 가창력을 보여줬다.&nbsp;홍지윤은 지난 22일 방송된 KBS 1TV '가요무대'에 출연해 '7월 신청곡' 편을 꾸몄다.&nbsp;이날 홍지윤은 '해운대 엘레지' 무대를 선보였다. 홍지윤은 보랏빛 드레스에 흑발 웨이브 헤어로 등장해 여신 비주얼로 이목을 사로잡았다. '트롯 바비걸'다운 홍지윤의 매력이 빛을 발하며 무대 내내 감탄을 이끌어냈다.&nbsp;홍지윤은 눈부신 비주얼만큼이나 완벽한 가창력으로 몰입도를 높였다. 홍지윤만의 매..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 첫 솔로 앨범 ‘DUSK’ 다큐멘터리 공개…“욕심 많이 냈다”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24044</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24020"/>
         <updated>2024-07-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The June CIRCLE CHART saw strong showings by aespa, RIIZE, and NewJeans.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for June 2024, aespa swept 3 charts while RIIZE dominated the Album Chart and NewJeans topped 2 charts."aespa topped a total of 3 charts with ‘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인(n.SSign), 'n.SSign THE MOVIE' 日 85개 극장 동시 개봉→무대 인사까지 '퍼펙트 행보']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24019</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24019"/>
-        <updated>2024-07-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 첫 영화의 성공적인 개봉과 함께 특별한 팬 서비스를 펼쳤다.최근 'n.SSign THE MOVIE(엔싸인 더 무비)'가 일본 전역 85개 극장에서 동시 개봉됐다.'n.SSign THE MOVIE'는 엔싸인의 일본 공연과 활동을 담은 다큐멘터리 형식의 영화로, 지난해 11월 도쿄 아리아케 아레나에서 개최한 콘서트 'BIRTH OF COSMO(버스 오브 코스모)'를 중심으로 엔싸인이 일본에 정식 데뷔하기까지의 여정을 담아냈다.'n.SSign THE MOVI..]]></content>
     </entry>
 </feed>

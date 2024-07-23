@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-23T01:08:35.129Z</updated>
+    <updated>2024-07-23T02:34:10.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['R&B 여신' 쏠(SOLE), 데뷔 7년 만에 첫 단독 콘서트 개최!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24048</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24048"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[R&amp;B 아티스트 쏠(SOLE)이 데뷔한지 7년 만에 오는 8월 첫 단독 콘서트를 연다.쏠은 오는 8월 10일 오후 7시 서울 한남동 현대카드 언더스테이지에서 '현대카드 Curated 94 SOLE' 공연을 개최한다.쏠은 앞서 따마와 함께한 '2022 AMOEBAWEEK'를 성료하고, WSG워너비 콘서트를 통해서도 남다른 소울 가창력과 유니크한 음악 색깔을 보여준 바 있다. 올해도 각종 음악 페스티벌을 종횡무진하고 있는 쏠이 8월 첫 솔로 콘서트를 선보인다.앞서 공개된 스포일러 영상과 포스터 이미지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마마무 휘인, 앙코르 콘서트 성료..."팬=나의 원동력, 음악으로 진심 전하는 가수 될 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24042</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23989"/>
         <updated>2024-07-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최예나(YENA)가 마카오 팬들과 특별한 시간을 보냈다.&nbsp;최예나는 지난 6일 오후 마카오 브로드웨이 시어터(Broadway Theatre)에서 2024 YENA 팬 콘서트 'SUPER YENA(슈퍼 예나)'를 개최했다.&nbsp;지난해 7월 개최한 첫 번째 팬미팅 'YENA Friends(예나 프렌즈)' 이후 1년 만에 'SUPER YENA'로 마카오를 다시 찾은 최예나는 이날 'Good Morning(굿모닝)'과 'SMARTPHONE(스마트폰)'으로 화려한 오프닝..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 김성규, 8월 단독 콘서트 '[LV] 3' 전석 매진...韓 대표 '명품 보컬리스트' 막강 티켓 파워]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23982</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23982"/>
-        <updated>2024-07-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김성규가 단독 콘서트 전석 매진을 기록했다.지난 3일 오후 8시 티켓링크를 통해 예매가 진행된 김성규의 단독 콘서트 '[LV] 3'(Let's Vacay)은 티켓 오픈과 동시에 8월 3일과 4일 양일 공연 전석이 매진됐다.1년 6개월 만에 개최되는 이번 '[LV]'는 '렛츠 베케이(Let's Vacay)'의 줄임말이다. 지난 2022년 개최한 '[LV] 1'은 '라이트 &amp; 보이스(Light &amp; Voice)', 지난해 개최한 &amp;#..]]></content>
     </entry>
 </feed>
