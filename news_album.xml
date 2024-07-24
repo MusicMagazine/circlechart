@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-07-23T23:17:49.057Z</updated>
+    <updated>2024-07-24T01:09:30.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['라이징 서머퀸' 시그니처 지원, 30일 서머송 '바다 가자' 깜짝 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24051</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24051"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['라이징 서머퀸' 시그니처 지원이 '바다 가자'를 리메이크한다.시그니처 지원은 오는 30일 발매되는 음악 프로젝트 '오늘의 선곡'의 열한 번째 음원 '바다 가자'에 가창자로 참여한다.'바다 가자'는 2022년 발매된 버추얼 인플루언서 로지(Rozy)의 '바다 가자'를 리메이크한 서머송이다. 제목 그대로 바다로 떠나자는 테마를 갖고, 푸릇한 연인들의 사랑과 추억을 표현했다.지원은 시그니처의 다섯 번째 EP 타이틀곡 '풍덩' 활동을 비롯..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 서은광X이민혁, 유닛 구공탄 결성...31일 신곡 'TANG TANG TANG' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24047</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24026"/>
         <updated>2024-07-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 pH-1이 이영지와 컬래버레이션한 신곡 ‘FLAT COKE’로 돌아왔다.pH-1은 16일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘FLAT COKE(플랫 코크) (Feat. 이영지)’를 발매했다.‘FLAT COKE’는 pH-1만의 트렌디한 음악적 감각과 칠(chill)하고 레트로한 무드가 조화롭게 섞인 힙합 곡이다. 이영지가 피처링으로 참여해 듣는 재미를 높였다.특히 pH-1은 부드럽지만 날카로운 래핑과 플로우로, 이영지는 이와 대비되는 무게감 있는 탄탄한 랩과 보이스로 신선한 합을 만들어냈다.pH-1은 지난 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 윤산하, 8년 만에 8월 솔로 데뷔 확정…첫 앨범은 ‘DUSK’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24025</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24025"/>
-        <updated>2024-07-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 8월 중 첫 솔로 앨범 ‘DUSK’를 선보인다.윤산하는 16일 0시 판타지오 공식 SNS를 통해 첫 솔로 미니앨범 ‘DUSK’(더스크) 발매 소식을 알리는 ‘about to enter the DUSK’를 공개했다.‘DUSK’는 지난 2016년 아스트로로 데뷔한 윤산하가 8년 만에 솔로 아티스트로서 첫발을 내딛는 앨범이다. ‘황혼’, ‘개와 늑대의 시간’이라는 뜻을 담은 앨범명으로 황혼의 시기를 지나 진정한 성장을 이루겠다는 포부를 드러냈다.영상 속 윤산하는 청초하고 신비로운 화이트, 다크하고 강렬..]]></content>
     </entry>
 </feed>
