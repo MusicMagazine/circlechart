@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-25T01:08:41.205Z</updated>
+    <updated>2024-07-25T02:34:43.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['8월 컴백' 드리핀, 美 LA에 뜬다...27일 깜짝 게릴라 공연 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24061</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24061"/>
+        <updated>2024-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 LA에서 공연을 펼친다.드리핀은 오는 27일 오후 8시(이하 현지시간) 미국 LA에 위치한 부에나파크(Buena Park)의 더 소스몰(The Source OC)에서 게릴라 공연을 개최하고 글로벌 팬들과 만난다.이번 공연에서 드리핀은 지난 4월 발매한 네 번째 싱글 '뷰티풀 메이즈(Beautiful MAZE)'를 비롯해 글로벌 팬들의 뜨거운 사랑을 받은 수많은 곡들과 커버곡 무대까지 다채롭게 선보인다. 이 외에도 즐거움을 더할 코너로 유..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잔나비, 단독 콘서트 1차 전석 매진→오늘(24일) 2차 예매 시작! 피켓팅 2차전 '기대']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24054</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24003"/>
         <updated>2024-07-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 백예빈이 생일을 기념해 팬들과 만난다.소속사 냠냠엔터테인먼트는 10일 "백예빈이 오는 14일 서울 종로구에 위치한 교원투어 콘서트홀에서 '2024 BAEKYEBIN 2nd FANMEETING : YEPPY BIRTHDAY(2024 백예빈 두 번째 팬미팅 : 예피 버스데이, 이하 'YEPPY BIRTHDAY')'를 개최한다"고 밝혔다.이에 앞서 백예빈 공식 SNS 계정을 통해 팬미팅 포스터가 공개됐다. 포스터 속 백예빈은 생일 케이크를 든 채 활짝 웃음 짓고 있다. 특히 여름과 잘 어울..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트롯 걸즈 재팬', 첫 한국 팬미팅 '더 비기닝' 성료…"앞으로 더 다양한 공연으로 찾아뵐 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23996</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=23996"/>
-        <updated>2024-07-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['트롯 걸즈 재팬' 출연자들이 첫 한국 팬미팅을 성황리에 마쳤다.지난 6일과 7일 서울 무신사 개러지에서 '트롯 걸즈 재팬' 첫 번째 팬미팅 'The Beginning(더 비기닝)'이 열렸다.이번 팬미팅에는 앞서 일본 대표 위성 방송 채널 'WOWOW(와우와우)'와 최대 OTT 플랫폼 'ABEMA(아베마)'에서 인기리에 방영된 '트롯 걸즈 재팬(TROT GIRLS JAPAN)' 출연자 후쿠다 미라이, 우타고코로 리에, 아즈마 아키, 마코토, 스미다..]]></content>
     </entry>
 </feed>

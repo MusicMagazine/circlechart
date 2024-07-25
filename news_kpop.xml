@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-25T01:08:41.218Z</updated>
+    <updated>2024-07-25T02:34:43.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비 구공탄 서은광X이민혁, 범접불가 '빌런' 카리스마...신곡 'TANG TANG TANG' 콘셉트 포토 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24060</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24060"/>
+        <updated>2024-07-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 비투비(BTOB) 유닛 구공탄(90TAN)의 첫 콘셉트 포토가 베일을 벗었다.소속사 비투비 컴퍼니는 지난 24일 오후 6시 공식 SNS를 통해 서은광과 이민혁의 유닛 구공탄 첫 번째 싱글 '탕탕탕(TANG TANG TANG)' 콘셉트 포토를 공개했다.공개된 이미지는 어두운 창고 속 붉은 색감이 강렬한 캐주얼 의상을 입은 구공탄의 모습을 담고 있어 단번에 시선을 사로잡았다. 서은광과 이민혁은 한층 더 깊어진 눈빛으로 영화 속 '빌런'을 연상케 하는 시크한 카리스마를 발산, 완벽한 비주얼 시너지로 글로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 28 CIRCLE CHART: aespa, ENHYPEN, and Lee Young Ji Lead the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24056</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24036"/>
         <updated>2024-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[신인 보이그룹 디그니티(DIGNITY)가 90년대 힙합 레전드 듀스를 오마주한 곡으로 가요계에 출사표를 던진다.디그니티(루오·민석·루크·온·형진)는 오는 24일 첫 번째 미니앨범 'Digmotion'(디그모션)을 발매하며 가요계에 정식 데뷔한다. 이 가운데 타이틀곡 '식혀'가 1990년대 힙합 레전드 듀스를 향한 오마주의 기획의도를 담은 트랙으로 알려져 화제를 모으고 있다.'Digmotion'은 레트로 감성을 5세대 아이돌의 청량함으로 재해석한 앨범이다. 이에 1번 트랙이자 타이틀곡 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 D-1' 엔싸인(n.SSign), 'Tiger (New Flavour)' M/V 티저 공개…호랑이 기세로 팬심 저격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24027</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24027"/>
-        <updated>2024-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 기세 넘치는 퍼포먼스를 선보였다.엔싸인은 지난 16일 공식 SNS를 통해 두 번째 미니 앨범 리패키지 'Tiger(타이거)'의 타이틀곡 'Tiger (New Flavour)(타이거 (뉴 플레이버)' 뮤직비디오 티저 영상을 공개했다.영상 속 엔싸인은 땅을 짚고 앞을 향해 질주하는 듯한 역동적인 퍼포먼스를 선보이며 눈길을 사로잡았다. 강렬한 비트와 완벽하게 어우러지는 박진감 넘치는 동작들을 통해 엔싸인만의 거침없는 기세를 느낄 수 있다.이어 시크한 표정으로 카메라를 응시하는 멤..]]></content>
     </entry>
 </feed>
