@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-25T23:17:27.957Z</updated>
+    <updated>2024-07-26T01:08:00.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스테이씨, 1년 3개월 만 단독 팬미팅 'STAYC MOVIE CLUB' 전석 매진! 뜨거운 관심 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24064</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24064"/>
+        <updated>2024-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 티켓 파워를 증명했다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)의 단독 팬미팅 2024 STAYC FANMEETING [STAYC MOVIE CLUB]이 지난 25일 티켓 오픈 이후 전석 매진을 기록했다.스테이씨는 앞서 단독 팬미팅 2024 STAYC FANMEETING [STAYC MOVIE CLUB] 개최 소식을 알렸다. 이어 열띤 티켓 예매 열기 속 폭발적인 인기를 드러내며 티켓 파워를 다시 한번 입증했다.2024 STAYC FANMEETING [STAYC MOVIE CLUB]은 지난해 5..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8월 컴백' 드리핀, 美 LA에 뜬다...27일 깜짝 게릴라 공연 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24061</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24006"/>
         <updated>2024-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 경서가 미니 2집 발매를 기념해 오프라인 라이브 무대를 선보인다.경서는 오는 12일 서울 마포구 홍대 상상마당 앞, 17일 강북구 영훈고등학교, 19일 종로구 마로니에공원에서 두 번째 미니앨범 ‘Knock (노크)’ 발매 기념 오프라인 무대를 가진다.오는 14일 미니 2집 ‘Knock’로 돌아오는 경서는 컴백 전후로 버스킹에 스쿨어택까지 다양한 형태의 오프라인 무대를 진행하며 팬들과 가까운 소통을 펼친다. 특히 12일 공연에서 ‘Knock’에 실리는 신곡 무대를 최초로 공개하며, 17일에는 깜짝 스쿨어택으로 영훈고등학교을 찾아..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백예빈, 14일 생일 기념 팬미팅 'YEPPY BIRTHDAY' 개최…7개월 만의 재회 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24003</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24003"/>
-        <updated>2024-07-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 백예빈이 생일을 기념해 팬들과 만난다.소속사 냠냠엔터테인먼트는 10일 "백예빈이 오는 14일 서울 종로구에 위치한 교원투어 콘서트홀에서 '2024 BAEKYEBIN 2nd FANMEETING : YEPPY BIRTHDAY(2024 백예빈 두 번째 팬미팅 : 예피 버스데이, 이하 'YEPPY BIRTHDAY')'를 개최한다"고 밝혔다.이에 앞서 백예빈 공식 SNS 계정을 통해 팬미팅 포스터가 공개됐다. 포스터 속 백예빈은 생일 케이크를 든 채 활짝 웃음 짓고 있다. 특히 여름과 잘 어울..]]></content>
     </entry>
 </feed>

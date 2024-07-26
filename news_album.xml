@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-07-25T23:17:27.955Z</updated>
+    <updated>2024-07-26T01:08:00.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로꼬·쿠기, ‘창모 피처링’ 컬래버 싱글 ‘ON FIRE’ 발매…스파크 튀는 힙합 시너지]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24063</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24063"/>
+        <updated>2024-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 로꼬(Loco)와 쿠기(Coogie)가 올여름을 뜨겁게 달굴 ‘ON FIRE’로 돌아왔다.로꼬와 쿠기는 지난 25일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘ON FIRE(온 파이어) (Feat. CHANGMO)’를 발매했다.‘ON FIRE’는 로꼬, 쿠기와 피처링 아티스트 창모(CHANGMO)의 파워풀한 래핑에 신나는 비트가 어우러진 곡이다. “Yes We We on Fire”가 반복되는 훅은 강한 중독성을 자아낸다.특히 힙합씬을 대표하는 대세 아티스트 로꼬, 쿠기, 창모의 각자 개성과 탄탄한 실력을 살린 파트는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계절 노래 장인' 크래커, 8월 1일 새 싱글 '맴맴' 발매! 장마 극복송 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24059</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24034"/>
         <updated>2024-07-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 경서가 일본 싱글 2집을 성공적으로 발표했다.18일 소속사 꿈의엔진은 “경서가 오늘(18일) 0시 일본 싱글 2집 ‘初キスでハトは120BPM(첫 키스에 내 심장은 120BPM, First Kiss)’을 발매했다”라고 밝혔다.‘初キスでハ?トは120BPM(첫 키스에 내 심장은 120BPM)’은 경서의 국내 미니 1집에 실린 타이틀곡 ‘첫 키스에 내 심장은 120BPM’의 일본어 버전으로, 사랑에 빠진 감정을 심장 박동에 비유한 가사와 감성적인 밴드 사운드가 특징이다.지난달 일본에서 첫 싱글 ‘夜空の星を(밤하늘의 별을)’을 발매하며..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인(n.SSign), 오늘(18일) 리패키지 앨범 'Tiger' 발매…'호랑이 기세'로 새로운 도약!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24033</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24033"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 '호랑이의 기세'로 새로운 도약에 나선다.엔싸인은 18일 오후 6시 두 번째 미니 앨범 리패키지 'Tiger(타이거)'를 발매하고 컴백 활동을 시작한다.'Tiger'는 엔싸인이 지난 2월 발매한 두 번째 미니 앨범 'Happy &amp;(해피 앤드)' 이후 5개월 만에 선보이는 리패키지 앨범이다.&nbsp;앞서 'Happy &amp;', 'FUNK JAM(펑크 잼)', 'Love, Love, Love Love Love!..]]></content>
     </entry>
 </feed>

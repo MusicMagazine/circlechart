@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-25T23:17:27.957Z</updated>
+    <updated>2024-07-26T01:08:00.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쏠(SOLE), 8월 10개월 만에 전격 컴백! 새 EP 로고 모션 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24062</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24062"/>
+        <updated>2024-07-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[R&amp;B 아티스트 쏠(SOLE)이 올해 첫 신곡을 선보인다.쏠은 오는 8월 9일 오후 6시 각종 온라인 음원 사이트를 통해 새 EP 앨범을 발매한다.이번 신보를 통해 쏠은 지난해 9월 발매한 리메이크 앨범 'A Love Supreme (어 러브 슈프림)' 이후 10개월 만에 전격 컴백한다. 또 한번 앨범 단위의 컴백작을 준비한 만큼 쏠의 음악 프리즘에 대한 기대감이 고조되고 있다.특히 쏠은 발매 다음날인 8월 10일 첫 단독 콘서트 '현대카드 Curated 94 SOLE'를 앞두고 있어 이번 신곡들..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 구공탄 서은광X이민혁, 범접불가 '빌런' 카리스마...신곡 'TANG TANG TANG' 콘셉트 포토 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24060</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24037"/>
         <updated>2024-07-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 데뷔곡을 다시 부른다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 19일 KBS 2TV '뮤직뱅크'에 출연해 지난 2020년 11월 발표한 첫 번째 싱글 'Star To A Young Culture(스타 투 어 영 컬쳐)' 타이틀곡 'SO BAD(소 배드)' 무대를 꾸민다.이날 스테이씨는 3년 8개월 만에 초심을 상징하는 데뷔곡 'SO BAD'를 다시 부른다. 이와 함께 데뷔 첫 정규앨범 'Metamorphic(메타모르픽)'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['24일 데뷔' 디그니티, 90년대 힙합 레전드 듀스 오마주! 아이코닉 무대 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24036</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24036"/>
-        <updated>2024-07-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 보이그룹 디그니티(DIGNITY)가 90년대 힙합 레전드 듀스를 오마주한 곡으로 가요계에 출사표를 던진다.디그니티(루오·민석·루크·온·형진)는 오는 24일 첫 번째 미니앨범 'Digmotion'(디그모션)을 발매하며 가요계에 정식 데뷔한다. 이 가운데 타이틀곡 '식혀'가 1990년대 힙합 레전드 듀스를 향한 오마주의 기획의도를 담은 트랙으로 알려져 화제를 모으고 있다.'Digmotion'은 레트로 감성을 5세대 아이돌의 청량함으로 재해석한 앨범이다. 이에 1번 트랙이자 타이틀곡 ..]]></content>
     </entry>
 </feed>
