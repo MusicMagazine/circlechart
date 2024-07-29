@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-07-28T23:15:53.792Z</updated>
+    <updated>2024-07-29T01:10:32.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['감성 보컬' 로키드, 8월 3일 새 싱글 '너랑 절교하고 싶어' 발매…"친구 같은 음악 되길"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24069</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24069"/>
+        <updated>2024-07-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 로키드(Lokid)가 새 소속사 이적 후 첫 신곡으로 돌아온다.로키드는 오는 8월 3일 오후 6시 새 싱글 '너랑 절교하고 싶어'를 발매한다.'너랑 절교하고 싶어'는 로키드가 지난 5월 발매한 '미안하고 고마웠고 축하해' 이후 3개월 만에 선보이는 신곡이다.&nbsp;그간 다양한 곡의 가창은 물론 작사, 작곡에도 참여해 감성 싱어송라이터로서 사랑받아 온 로키드는 이번 신곡의 작사, 작곡에도 이름을 올려 자신만의 색깔을 더욱 확실히 굳힐 예정이다.특히 '너랑 절교하고 싶어'는 로키..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, 인디고 히트곡 '여름아! 부탁해' 다시 부른다...28일 리메이크 음원 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24066</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24046"/>
         <updated>2024-07-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 박재범이 한층 강렬한 매력을 담은 ‘Xtra McNasty’로 돌아온다.&nbsp;&nbsp;박재범은 오는 26일 새 싱글 ‘Xtra McNasty(엑스트라 맥내스티)(Feat. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO)’를 발매한다.&nbsp;‘Xtra McNasty’는 지난달 30일 발매돼 음악 팬들의 큰 호응을 얻었던 박재범의 힙합 트랙 ‘McNasty’에 8인의 아티스트가 참여해 자극적인 재미를 더한 곡이다.&nbsp;‘Xtra McNasty’에는 제시(Jessi)를..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riaan(리안), 데뷔 싱글 'Treat Me Better' 30일 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24045</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24045"/>
-        <updated>2024-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신예 아티스트 Riaan(리안)이 30일 오후 6시 데뷔 싱글 'Treat Me Better'를 통해 음악계에 첫 발을 내딛는다. 이 곡은 감미로운 멜로디와 진솔한 가사, 산뜻한 피아노 연주가 어우러진 R&amp;B 트랙으로, 청자들에게 기분 좋은 감성을 선사할 예정이다.'Treat Me Better'는 Riaan이 직접 작사에 참여해 단순한 사랑 노래를 넘어, 연인 관계 속에서 느끼는 사랑, 두근거림과 그리움, 그리고 상대방에게 조금 더 다가가고 싶은 마음을 가사에 담아 Riaan의 솔직함을 들여다볼 ..]]></content>
     </entry>
 </feed>
