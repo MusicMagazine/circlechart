@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-30T23:14:03.958Z</updated>
+    <updated>2024-07-31T00:58:21.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 첫 솔로 앨범 ‘DUSK’ 전곡 라이브로 미리 듣기…황혼처럼 빠져드는 치명적 보컬]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24077</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24077"/>
+        <updated>2024-07-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 라이브 형식의 하이라이트 메들리로 ‘DUSK’의 완성도를 예고했다.윤산하는 31일 0시 판타지오 공식 SNS와 유튜브 채널을 통해 첫 솔로 미니앨범 ‘DUSK’(더스크)의 하이라이트 메들리 영상 ‘at DUSK’(황혼 녘에)를 공개했다.영상에서 윤산하는 짙어가는 황혼 녘의 하늘을 배경으로 이번 ‘DUSK’에 수록된 총 6곡의 음원 일부를 라이브로 들려줘 글로벌 리스너들의 눈과 귀를 사로잡았다. 전체 트랙을 황혼 시간대의 흐름을 느낄 수 있게 배치한 윤산하는 이와 맞물리는 감성 짙은 보컬과 영상미로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 미니 3집 ‘AWAKENING’ 하이라이트 메들리 공개…자유로운 청춘 에너지 ‘여름 정조준’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24075</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049"/>
         <updated>2024-07-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 홍지윤이 눈부신 비주얼과 완벽한 가창력을 보여줬다.&nbsp;홍지윤은 지난 22일 방송된 KBS 1TV '가요무대'에 출연해 '7월 신청곡' 편을 꾸몄다.&nbsp;이날 홍지윤은 '해운대 엘레지' 무대를 선보였다. 홍지윤은 보랏빛 드레스에 흑발 웨이브 헤어로 등장해 여신 비주얼로 이목을 사로잡았다. '트롯 바비걸'다운 홍지윤의 매력이 빛을 발하며 무대 내내 감탄을 이끌어냈다.&nbsp;홍지윤은 눈부신 비주얼만큼이나 완벽한 가창력으로 몰입도를 높였다. 홍지윤만의 매..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아스트로 윤산하, 첫 솔로 앨범 ‘DUSK’ 다큐멘터리 공개…“욕심 많이 냈다”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24044</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24044"/>
-        <updated>2024-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 진솔한 다큐멘터리로 첫 솔로 앨범을 직접 소개했다.윤산하는 지난 19일과 22일 0시 판타지오 공식 유튜브 채널을 통해 첫 솔로 미니앨범 ‘DUSK’(더스크)의 다큐멘터리 영상 ‘about DUSK’(황혼에 대하여) #1과 #2를 공개했다.2편의 영상을 통해 윤산하는 데뷔 8년 만에 발매하는 첫 솔로 앨범 ‘DUSK’와 총 6곡의 신곡을 직접 소개했다. 그는 “‘DUSK’(황혼)를 키워드로 단계별 무드를 트랙에 담고자 했다”라고 밝혔다. 실제로 각 트랙은 노을이 지기 시작해 점차 밤에 이르는 황혼..]]></content>
     </entry>
 </feed>
