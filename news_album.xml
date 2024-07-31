@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-07-31T01:42:58.108Z</updated>
+    <updated>2024-07-31T02:15:37.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤종신, 오늘(31일) ‘월간 윤종신’ Repair 7월호 ‘그늘’ 발매...무더위 달랠 윤종신표 휴식!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24079</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24079"/>
+        <updated>2024-07-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ Repair 7월호를 발매한다.윤종신은 오늘(31일) 오후 6시 각종 온라인 음원 사이트를 통해 2024 ‘월간 윤종신’ Repair 7월호 ‘그늘’을 선보인다.‘그늘’은 지난 2001년 9집 앨범 ‘그늘’을 통해 발매된 원곡의 리페어 버전으로, 쉬어가는 여름에 찾아온 삶의 단상을 담은 곡이다. 잠시 멈췄기에 떠오르는 기억과 정리되는 생각, 새로이 품게 되는 다짐으로서의 ‘그늘’을 표현했다.또한, 2024 ‘월간 윤종신’ Repair 7월호 ‘그늘’은 쉼에 대한 윤종신의 달라진 태도..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 8월 8일 첫 번째 싱글 'Dream It' 발매 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24076</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24063"/>
         <updated>2024-07-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 로꼬(Loco)와 쿠기(Coogie)가 올여름을 뜨겁게 달굴 ‘ON FIRE’로 돌아왔다.로꼬와 쿠기는 지난 25일 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘ON FIRE(온 파이어) (Feat. CHANGMO)’를 발매했다.‘ON FIRE’는 로꼬, 쿠기와 피처링 아티스트 창모(CHANGMO)의 파워풀한 래핑에 신나는 비트가 어우러진 곡이다. “Yes We We on Fire”가 반복되는 훅은 강한 중독성을 자아낸다.특히 힙합씬을 대표하는 대세 아티스트 로꼬, 쿠기, 창모의 각자 개성과 탄탄한 실력을 살린 파트는..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['계절 노래 장인' 크래커, 8월 1일 새 싱글 '맴맴' 발매! 장마 극복송 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24059</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24059"/>
-        <updated>2024-07-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 크래커(CRACKER)가 크래커표 여름 포크송으로 돌아온다.크래커는 오는 8월 1일 새 싱글 '맴맴' 발매를 확정했다. 이와 함께 공식 SNS를 통해 무드 샘플러와 콘셉트 포토를 연이어 공개했다.먼저 지난 23일 공개된 무드 샘플러에는 신곡 '맴맴'의 음원 일부가 담겨 있어 귀를 사로잡았다. 초록이 우거진 숲속에 우산을 들고 서 있는 모습과 음악이 어우러져 음악 팬들의 궁금증을 자극했다.특히 크래커 특유의 어쿠스틱한 기타 선율이 영상의 물기 가득 머금은 듯한 분위기를 극대화했다. 또 "..]]></content>
     </entry>
 </feed>

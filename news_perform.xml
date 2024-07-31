@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-07-31T01:42:58.106Z</updated>
+    <updated>2024-07-31T02:15:37.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['빌드업 우승' 비디유, 팬들과 특별한 시간...8월 4일 데뷔 첫 단독 팬미팅 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24078</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24078"/>
+        <updated>2024-07-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[실력파 보컬돌 비디유(B.D.U, 제이창, 승훈, 빛새온, 김민서)가 첫 단독 팬미팅을 개최한다.비디유는 오는 8월 4일 서울 노들섬 라이브하우스에서 첫 단독 팬미팅 '2024 비디유 퍼스트 더 미팅(2024 B.D.U FIRST THE MEETING)'을 개최하고 오후 3시와 7시 2회 공연으로 팬들과 만난다.비디유는 Mnet 오디션 프로그램 '빌드업 : 보컬 보이그룹 서바이벌'(이하 '빌드업')을 통해 결성된 프로젝트 그룹이다. 지난 6월 첫 번째 미니 앨범 '위시풀(Wishpo..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티아이오티(TIOT), 대만 팬심 접수! 팬콘서트 'TIOT IS LOVING TAIPEI' 성공적 마무리]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24068</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24040"/>
         <updated>2024-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[SG워너비가 약 5개월간의 전국투어를 성료했다.SG워너비는 지난 20일과 21일 양일간 서울 KSPO DOME(올림픽체조경기장)에서 SG워너비 콘서트 '우리의 노래' 2024 앙코르 공연을 개최했다.'우리의 노래'는 SG워너비가 데뷔 20주년을 맞아 개최하는 완전체 콘서트로, 지난 2016년 이후 8년 만에 진행하는 전국투어다. 지난 3월 서울을 시작으로 대구, 전주, 인천, 광주, 대전, 부산을 거쳐 마지막 서울 앙코르 공연까지 전국에서 관객들의 뜨거운 호평을 받으며 성황리에 막을 내렸다.이날 SG워너..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비, 서울 단독 콘서트 1차 티켓 초고속 전석 매진…여전한 티켓 파워 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24039</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24039"/>
-        <updated>2024-07-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹사운드 잔나비가 변함 없는 티켓 파워를 드러냈다.19일 소속사 페포니뮤직은 "지난 18일 진행된 잔나비의 단독 콘서트 '판타스틱 올드 패션드 2024 : MOVIE STAR RISING(무비 스타 라이징)'의 1차 티켓이 오픈과 동시에 양일 전석 매진을 기록했다"고 밝혔다.잔나비는 앞서 오는 8월 31일부터 9월 1일, 9월 7일부터 8일까지 서울 잠실실내체육관에서, 9월 14일부터 15일까지 부산 벡스코 오디토리움에서 3주간 단독 콘서트 '판타스틱 올드 패션드 2024 : MOVIE STAR..]]></content>
     </entry>
 </feed>
