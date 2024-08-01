@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-07-31T23:15:36.619Z</updated>
+    <updated>2024-08-01T01:14:44.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 최연소 K팝 막내에서 솔로 아티스트로…8년 바람직한 성장]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24082</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24082"/>
+        <updated>2024-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 솔로 데뷔로 성장의 결실을 맺는다.윤산하는 오는 6일 데뷔 8년 만에 첫 솔로 미니앨범 ‘DUSK’(더스크)를 발표한다. 데뷔 초 ‘폭풍 성장’이란 캐치프레이즈를 내세웠던 그가 솔로 아티스트로 새롭게 도약해 음악적인 그리고 인간적인 성장까지 보여주겠다는 포부다.지난 2016년 아스트로 막내이자 당시 최연소 K팝 보이그룹 멤버로 데뷔한 윤산하는 결코 어리지 않은 탄탄한 가창력, 퍼포먼스력과 다재다능한 음악적 역량으로 존재감을 키우기 시작했다. 팀 활동으로 초석을 다져온 그는 아스트로 미니 8집 수록..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 첫 솔로 앨범 ‘DUSK’ 전곡 라이브로 미리 듣기…황혼처럼 빠져드는 치명적 보컬]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24077</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24050"/>
         <updated>2024-07-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 28 CIRCLE CHART of 2024, ENHYPEN 'ROMANCE : UNTOLD' topped the weekly Retail Album Chart by selling 398,138 copies at retailers.'ROMANCE : UNTOLD' was the top seller as of 4PM (KST) on the date of its release, July 12th (Friday, week 28).ROMANCE : UNTOLD' is the 2nd s..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍지윤, '가요무대' 접수한 여신의 무대…'해운대 엘레지' 감성 가득 가창력]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24049"/>
-        <updated>2024-07-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 홍지윤이 눈부신 비주얼과 완벽한 가창력을 보여줬다.&nbsp;홍지윤은 지난 22일 방송된 KBS 1TV '가요무대'에 출연해 '7월 신청곡' 편을 꾸몄다.&nbsp;이날 홍지윤은 '해운대 엘레지' 무대를 선보였다. 홍지윤은 보랏빛 드레스에 흑발 웨이브 헤어로 등장해 여신 비주얼로 이목을 사로잡았다. '트롯 바비걸'다운 홍지윤의 매력이 빛을 발하며 무대 내내 감탄을 이끌어냈다.&nbsp;홍지윤은 눈부신 비주얼만큼이나 완벽한 가창력으로 몰입도를 높였다. 홍지윤만의 매..]]></content>
     </entry>
 </feed>
