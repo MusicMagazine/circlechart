@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-02T02:34:58.121Z</updated>
+    <updated>2024-08-02T03:19:44.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소희X카노 미유 듀엣 아틀란티스 키츠네, 9일 장윤정 원곡 리메이크 '어머나!' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24088</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24088"/>
+        <updated>2024-08-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[소희와 카노 미유가 아틀란티스 키츠네로 듀엣 활동에 나선다.2일 소속사 nCH 엔터테인먼트는 "소희와 카노 미유의 듀엣 아틀란티스 키츠네가 오는 9일 첫 번째 디지털 싱글 '어머나!'를 발매하고 본격적인 활동을 시작한다"고 밝혔다.그룹 네이처(NATURE) 출신이자 '트롯 걸즈 재팬(TROT GIRLS JAPAN)'의 TOP6 소희와 MBN '한일가왕전', '한일톱텐쇼'에서 인기를 모은 카노 미유가 결성한 아틀란티스 키츠네는 Lucky팡팡(김다현x스미다아이코)에..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['계절 노래 장인' 크래커, 오늘(1일) 새 싱글 '맴맴' 발매! 크래커표 여름 사랑 노래 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24081</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24069"/>
         <updated>2024-07-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 로키드(Lokid)가 새 소속사 이적 후 첫 신곡으로 돌아온다.로키드는 오는 8월 3일 오후 6시 새 싱글 '너랑 절교하고 싶어'를 발매한다.'너랑 절교하고 싶어'는 로키드가 지난 5월 발매한 '미안하고 고마웠고 축하해' 이후 3개월 만에 선보이는 신곡이다.&nbsp;그간 다양한 곡의 가창은 물론 작사, 작곡에도 참여해 감성 싱어송라이터로서 사랑받아 온 로키드는 이번 신곡의 작사, 작곡에도 이름을 올려 자신만의 색깔을 더욱 확실히 굳힐 예정이다.특히 '너랑 절교하고 싶어'는 로키..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비, 인디고 히트곡 '여름아! 부탁해' 다시 부른다...28일 리메이크 음원 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24066</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24066"/>
-        <updated>2024-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 권은비가 인디고의 히트곡 '여름아 부탁해'를 리메이크한다.권은비는 오는 28일 오후 6시 각종 음원 사이트를 통해 리메이크 신곡 '여름아! 부탁해'를 발매하고 '서머 퀸'의 화려한 귀환을 알린다.권은비의 이번 신곡은 시대와 장르를 넘어 색다른 스타일로 리메이크하는 카카오엔터테인먼트 '프로젝트 체인지'의 일환이다. '여름아! 부탁해'는 남성 듀오 인디고가 2002년 발매한 데뷔 앨범 타이틀곡으로, 시대의 감성을 대변하는 솔직하고 풋풋한 가사와 기분 좋은 상쾌..]]></content>
     </entry>
 </feed>
