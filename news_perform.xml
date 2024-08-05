@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-04T23:17:21.311Z</updated>
+    <updated>2024-08-05T01:10:53.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['경력직 신인' 어센트(ASC2NT), 대만·홍콩·캐나다에 뜬다! 팬콘 '익스펙팅 투모로우' 개최 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24095</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24095"/>
+        <updated>2024-08-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뉴웨이즈컴퍼니 소속 첫 5인조 보이그룹 어센트(ASC2NT)가 팬콘을 통해 글로벌 팬들을 만난다.&nbsp;5일 뉴웨이즈컴퍼니는 "어센트(가람, 인준, 제이, 레온, 카일)가 오는 10월, 11월 대만, 홍콩, 캐나다에서 2024 ASC2NT 'Expecting Tomorrow' FAN-CON (2024 어센트 '익스펙팅 투모로우' 팬-콘)을 개최한다"고 밝혔다.&nbsp;어센트는 10월 13일 대만을 시작으로 20일 홍콩, 11월 8일 벤쿠버, 10일 몬트리올, 12일 핼리팩스, 16일 토론토에서 팬콘을 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빌드업 우승' 비디유, 팬들과 특별한 시간...8월 4일 데뷔 첫 단독 팬미팅 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24078</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24042"/>
         <updated>2024-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 휘인(Whee In)이 앙코르 콘서트를 성황리에 마무리했다.휘인은 지난 20일과 21일 양일간 서울 올림픽공원 올림픽홀에서 '2024 휘인 퍼스트 월드 투어 : 휘 인 더 무드 [비욘드](2024 Whee In 1ST WORLD TOUR : WHEE IN THE MOOD [BEYOND])'(이하 '휘 인 더 무드 [비욘드]') 앙코르 공연을 개최하고 글로벌 팬들과 만났다.'휘 인 더 무드 [비욘드]'는 올해로 데뷔 10주년을 맞이한 휘인이 솔로 아티스트로 처음 개최하는 단독 콘서트다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7만 관객 매료…SG워너비, 8년 만의 전국투어 콘서트 '우리의 노래' 성황리 마무리!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24040</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24040"/>
-        <updated>2024-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[SG워너비가 약 5개월간의 전국투어를 성료했다.SG워너비는 지난 20일과 21일 양일간 서울 KSPO DOME(올림픽체조경기장)에서 SG워너비 콘서트 '우리의 노래' 2024 앙코르 공연을 개최했다.'우리의 노래'는 SG워너비가 데뷔 20주년을 맞아 개최하는 완전체 콘서트로, 지난 2016년 이후 8년 만에 진행하는 전국투어다. 지난 3월 서울을 시작으로 대구, 전주, 인천, 광주, 대전, 부산을 거쳐 마지막 서울 앙코르 공연까지 전국에서 관객들의 뜨거운 호평을 받으며 성황리에 막을 내렸다.이날 SG워너..]]></content>
     </entry>
 </feed>
