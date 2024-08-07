@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-06T23:16:34.108Z</updated>
+    <updated>2024-08-07T01:09:46.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[故 박보람, 영원히 기억될 목소리…오늘(7일) 데뷔 10주년 앨범 'The Last Song' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24108</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24108"/>
+        <updated>2024-08-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[고(故) 박보람의 목소리가 다시 세상에 나온다.&nbsp;고 박보람의 데뷔 10주년 앨범 'The Last Song(더 라스트 송)'이 7일 오후 6시 발매된다.&nbsp;'The Last Song'은 고 박보람의 데뷔 10주년을 기념하는 앨범으로, 박보람의 가족과 동료들의 요청 속에 발매가 결정됐다. 이 앨범에는 고 박보람이 앞서 발매한 '세월이 가면', '애쓰지 마요(2022)', '내일이 빛날 테니까', '가만히 널 바라보면', '좋겠다'까지 5..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 오늘(6일) 8년 만에 솔로 데뷔…진정한 성장 이룰 ‘DUSK’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24104</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24076"/>
         <updated>2024-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 4개월 만에 돌아온다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 최근 공식 SNS를 통해 커밍순 영상을 게재하며 오는 8월 8일 첫 번째 싱글 'Dream It(드림 잇)' 발매 소식을 알렸다.공개된 영상 속 미니 게임기가 레트로한 사운드와 아날로그 비주얼로 시선을 끄는 가운데, 깜빡이는 디스플레이 위로 캐치더영의 새로운 프로필 로고가 등장했다. 이에 캐치더영이 오는 8월 8일 컴백으로 새롭게 들려줄 음악에 대한 기대감을 더했다.다음날 앨범..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) 윤규, 채종협X김소현 주연 '우연일까?' OST 가창 참여! 오늘(30일) 'Destiny' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24073</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24073"/>
-        <updated>2024-07-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[8TURN(에잇턴) 멤버 윤규가 드라마 OST 가창에 참여했다.윤규는 30일 오후 6시 각종 온라인 음원사이트를 통해 tvN 월화드라마 '우연일까?'의 네 번째 OST 'Destiny(데스티니)'를 발매한다.'Destiny'는 스위트한 팝 록 장르로, 제목처럼 운명적인 만남과 사랑을 이야기하는 곡이다. 시원한 윤규의 보이스와 어우러지는 절대 놓지 않겠다는 순수하고 풋풋한 마음이 담긴 가사가 극의 로맨스에 설렘을 더할 전망이다.특히 윤규는 특유의 밝고 에너지 넘치는 목소리로 'Dest..]]></content>
     </entry>
 </feed>
