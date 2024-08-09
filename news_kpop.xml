@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-08-09T01:10:44.689Z</updated>
+    <updated>2024-08-09T02:37:01.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[드리핀, 여름 시원하게 물들일 '청량돌' 귀환...'Weekend' 콘셉트 포토 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24115</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24115"/>
+        <updated>2024-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 '청량돌'의 정석으로 귀환한다.소속사 울림엔터테인먼트는 지난 8일 오후 10시 공식 SNS를 통해 드리핀의 다섯 번째 싱글 '위켄드(Weekend)' 콘셉트 포토를 공개했다.공개된 이미지는 푸른 논밭을 줄지어 걸어가는 드리핀의 모습과 끝없이 펼쳐진 바다를 향해 달려가는 뒷모습을 담고 있어 단번에 시선을 사로잡았다. 두 팔을 쭉 뻗고 환하게 웃음 짓는 멤버들의 모습과 자연의 푸르고 싱그러운 분위기가 완벽하게 어우러져 보는 이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 D-1' 캐치더영, 첫 싱글 'Dream It' M/V 티저 공개! 엉뚱한 상상 총집합]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24107</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24094"/>
         <updated>2024-08-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 데뷔 첫 '펜타포트' 공연을 성공적으로 마쳤다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 지난 2일부터 4일까지 3일간 인천 연수구 송도달빛축제공원에서 개최된 '2024 인천펜타포트 락 페스티벌(이하 '펜타포트')' 무대에 올랐다.&nbsp;'펜타포트'는 지난 2006년 이후 올해 19년째 명성을 이어오고 있는 대표적인 음악 축제다. 캐치더영은 '펜타포트' 개최일인 2일 글로벌 스테이지에 올라..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘솔로 데뷔 D-1’ 아스트로 윤산하, ‘DUSK’ 기대 포인트 #블루아워 #탈피 #올라운더]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24093</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24093"/>
-        <updated>2024-08-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 한계를 뛰어넘은 ‘DUSK’로 솔로 출사표를 던진다.윤산하는 오는 6일 첫 솔로 미니앨범 ‘DUSK’(더스크)를 정식 발매하며 솔로 아티스트로 첫걸음을 내딛는다. 지난 8년간 노력과 성장을 거듭해온 윤산하의 음악적인 욕심과 포부를 눌러 담은 이번 앨범과 그의 본격적인 행보에 뜨거운 관심이 모이고 있다.# 데뷔 8년 만에 솔로 출격! 빠져드는 윤산하의 ‘블루아워’‘DUSK’는 윤산하가 아스트로 막내에서 솔로 아티스트로 나아가는 과정에 느낀 혼란을 황혼 녘 빛과 어둠의 경계가 모호해지는 ‘블루아워’(..]]></content>
     </entry>
 </feed>
