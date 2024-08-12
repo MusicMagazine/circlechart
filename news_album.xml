@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-12T01:11:44.198Z</updated>
+    <updated>2024-08-12T02:38:22.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘감성 보컬리스트’ 포맨 하은, 오늘(12일) ‘원하고 원망하죠’ 발매…원곡 뛰어넘는 감동]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24121</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24121"/>
+        <updated>2024-08-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[보컬 그룹 포맨(4MEN)의 하은이 호소력 짙은 보이스로 애절함을 선사한다.하은은 12일 오후 6시 각종 온라인 음원 사이트를 통해 웹툰 ‘세이렌 : 악당과 계약 가족이 되었다’의 컬래버레이션 음원 ‘원하고 원망하죠’를 발매한다.‘원하고 원망하죠’는 2001년 발매된 그룹 애즈원(As One)의 정규 2집 수록곡으로, 하은이 2024 버전으로 새롭게 재해석하고 프로듀서 에이밍(AIMING)이 프로듀싱에 참여해 완성도를 높였다.하은은 잔잔한 멜로디, 애틋한 가사로 큰 사랑을 받았던 원곡의 느낌을 그대로 살리면서 자신만의 음색을 더해 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['韓日 트로트 듀엣' 아틀란티스 키츠네, 오늘(9일) '어머나!' 발매…흥 폭발 서머송 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24114</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24100"/>
         <updated>2024-08-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 저스디스(JUSTHIS)가 신곡을 통해 이유 있는 '톱 클래스'의 자신감을 드러냈다.저스디스는 지난 5일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '고트(GOAT)'를 발매하고 '힙합 레전드'의 귀환을 알렸다.'고트'는 묵직한 베이스 라인과 보컬 샘플링이 돋보이는 비트 위로 저스디스 특유의 타이트한 랩핑이 리스너들에게 시원한 타격감을 선사하는 곡으로, 국내 최고의 힙합 뮤지션 다이나믹 듀오(Dynamicduo)와 대세 래퍼 머쉬베놈(MUSHVENOM)이 피처링..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 10주년' 故 박보람 목소리 다시 듣는다! 'The Last Song'으로 재탄생]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24099</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24099"/>
-        <updated>2024-08-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[올해 데뷔 10주년을 맞이한 고(故) 박보람이 데뷔일인 8월 7일에 맞춰 '세월이 가면'을 포함해 기존에 발매했던 음원들을 재발매한다.&nbsp;지난 2월 허각과 듀엣 신곡 '좋겠다' 발매를 시작으로 10주년 앨범 준비를 해오던 고 박보람이 지난 4월 갑작스럽게 세상을 떠난 가운데 동료들과 팬들의 애도가 여전히 이어지고 있다.'세월이 가면'은 고 박보람이 2010년 Mnet '슈퍼스타K2' 출연 당시 본선 첫 생방송 무대에서 완벽하게 소화해 심사위원들에게 극찬을 받았던 노래다. 박보람..]]></content>
     </entry>
 </feed>
