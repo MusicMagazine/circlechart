@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-08-13T06:23:22.099Z</updated>
+    <updated>2024-08-13T07:16:21.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[July 2024 CIRCLE CHART: aespa and Stray Kids Dominate the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24128</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24128"/>
+        <updated>2024-08-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The July CIRCLE CHART saw strong showings by aespa and Stray Kids.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for July 2024, aespa swept 3 charts while Stray Kids topped 2 charts."aespa topped a total of 3 charts with ‘Supernova’, the pre-release track from t..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가요무대' 홍지윤, 애절함으로 물들인 '연락선'…비주얼X음색 '무결점 무대']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24127</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24106"/>
         <updated>2024-08-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아틀란티스 키츠네가 분위기 여신의 면모를 선보였다.소희와 카노 미유의 듀엣 아틀란티스 키츠네는 지난 6일 '트롯 걸즈 재팬(TROT GIRLS JAPAN)' 한국 공식 SNS 채널을 통해 첫 번째 디지털 싱글 '어머나!'의 뮤직비디오 티저 영상을 공개했다.영상 속 두 사람은 초록초록한 배경과 잘 어울리는 싱그러운 스타일링을 한 채 아련한 눈빛을 보내고 있다. 느리게 진행되던 음악은 신나는 리듬으로 바뀌며 흥을 돋웠고, 소희와 카노 미유의 듀엣 시너지는 어떨지 기대감을 증폭시켰다.이에 앞서 지난 5일에는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['9일 컴백' 쏠(SOLE), 타이틀곡 '그럼에도 LOVE' 음원 일부 최초 공개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24105</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24105"/>
-        <updated>2024-08-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[R&amp;B 아티스트 쏠(SOLE)이 타이틀곡 '그럼에도 LOVE'를 노래한다.쏠은 지난 5일과 6일 소속사 아메바컬쳐 공식 SNS를 통해 새 EP 'Time Machine (타임 머신)'의 하이라이트 메들리와 이색적인 360 숏폼 콘텐츠를 공개했다.하이라이트 메들리를 통해 이번 EP의 타이틀곡 '그럼에도 LOVE'의 곡명과 음원 일부가 베일을 벗었다. 쏠이 앞서 개인 인스타그램에 업로드했던 릴스 음원은 '그럼에도 LOVE'의 일부분이었다는 사실도 이날 처음으로 공개됐다. ..]]></content>
     </entry>
 </feed>
