@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-13T23:15:25.822Z</updated>
+    <updated>2024-08-14T01:10:04.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[포레스텔라, 올해 첫 단독 공연 'FNL' 전석 매진! 명불허전 티켓파워]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24130</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24130"/>
+        <updated>2024-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라가 탄탄한 티켓 파워를 입증했다.포레스텔라의 라이브 쇼 'Forestella Night Live'(포레스텔라 나잇 라이브, FNL)의 티켓은 지난 13일 오후 온라인 예매처 티켓링크를 통해 오픈된 직후 빠르게 전석 매진을 기록했다.'Forestella Night Live'는 포레스텔라가 11개월 만에 준비한 단독 공연이다. 포레스텔라의 공식 팬클럽명 '숲별'이 처음 발표된 기념일인 9월 7일날, 더욱 특별한 팬들과의 교감이 펼쳐질 전망이다.이런 가운데 예매 오픈 당..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 김성규, 말레이시아 단독 콘서트 '[LV] 3' 성료..."환영해 준 팬들에 감사, 건강하고 행복하시길"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24120</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24054"/>
         <updated>2024-07-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹사운드 잔나비가 다시 한번 티켓팅 전쟁을 예고했다.잔나비의 단독 콘서트 '판타스틱 올드 패션드 2024 : MOVIE STAR RISING(무비 스타 라이징)'의 부산과 서울 2주 차 공연 예매가 티켓링크를 통해 24일 오후 7시와 8시에 각각 시작된다.&nbsp;'판타스틱 올드 패션드 2024 : MOVIE STAR RISING'은 잔나비가 약 1년 7개월 만에 개최하는 단독 콘서트로, 잔나비 음악 특유의 스토리를 풀어낼 것을 예고해 개최 소식부터 팬들의 뜨거운 기대를 모으고 있다.&nbsp;잔나비는 지난 18일 &amp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX(에이비식스), 팬 콘서트 ‘Find YOU’ 유럽+북미 투어 성료...”팬들과 함께할 수 있어 행복”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24052</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24052"/>
-        <updated>2024-07-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아이돌그룹 AB6IX(에이비식스)가 유럽과 북미에서 2024 AB6IX FAN CONCERT 'Find YOU' 투어를 성공적으로 마무리했다.AB6IX는 지난 6월 28일, 29일 파리와 런던을 거쳐 7월 3일 토론토를 시작으로 몬트리올, 뉴욕, 멕시코 시티, 마이애미, 애틀랜타, 오스틴, 덴버, 로스앤젤레스까지 유럽 2개 도시와 북미 9개 도시에서 팬 콘서트를 개최, 현지 팬들과 만났다.최근 앨범 ‘THE FUTURE IS OURS : FOUND’ 앨범의 수록곡 ‘TRAVELER’로 화려하게 포문을 연 AB6IX는 ..]]></content>
     </entry>
 </feed>
