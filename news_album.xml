@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-16T01:09:58.415Z</updated>
+    <updated>2024-08-16T02:36:32.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[페노메코, 22일 새 EP 'Organic2' 발매 확정! 1년 2개월 만의 컴백 '관심 고조']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24138</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24138"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로듀서 겸 아티스트 페노메코가 약 1년 2개월 만에 가요계에 컴백한다.페노메코는 오는 22일 새 EP 'Organic2 (올가닉 투)'를 발매한다. 이에 앞서 지난 15일 공식 SNS를 통해 'Organic2'의 트랙리스트 이미지를 공개했다.공개된 트랙리스트에 따르면 이번 앨범에는 'ORGANIC (올가닉)', '아수라발발타', 'SODA (소다)', '가랑비', 'AURORA (오로라)', 'ICN'까지 총 6개의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 오늘(14일) 미니 3집 ‘AWAKENING’ 발매…한여름 자유분방+시원한 일탈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24132</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24110"/>
         <updated>2024-08-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 청춘을 대변하는 음악을 선사한다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 8일 오후 6시 각종 온라인 음원사이트를 통해 첫 번째 싱글 'Dream It(드림 잇)'을 발매한다.'Dream It'은 캐치더영이 지난 4월 선보인 두 번째 미니앨범 'Fragments of Odyssey(프래그먼츠 오브 오디세이)' 이후 약 4개월 만에 선보이는 앨범이다. 동명의 타이틀곡 'Dream It'과 박철민?김..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['B.A.P 출신' 방용국&정대현&유영재&문종업, 오늘(8일) 6년 반 만에 컴백! 첫 EP 'CURTAIN CALL' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24109</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24109"/>
-        <updated>2024-08-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업의 6년 반 만의 신보가 베일을 벗는다.방용국&amp;정대현&amp;유영재&amp;문종업은 8일 오후 6시 각종 온라인 음원사이트를 통해 첫 EP 'CURTAIN CALL(커튼 콜)'을 발매한다.'CURTAIN CALL'은 방용국&amp;정대현&amp;유영재&amp;문종업이 지난 2017년 B.A.P 여덟 번째 싱글앨범 'EGO' 이후 약 6년 반 만에 발매하는 앨범이다. 네 사람은 다양한 장르로 구성된 이번 앨범을 통해..]]></content>
     </entry>
 </feed>
