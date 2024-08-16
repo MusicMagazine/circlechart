@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-08-16T06:21:55.616Z</updated>
+    <updated>2024-08-16T07:15:56.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 32 CIRCLE CHART: YOON SAN-HA (ASTRO) 'DUSK’ Tops Retail Album]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24140</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24140"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 32 CIRCLE CHART of 2024, YOONSAN-HA (ASTRO) 'DUSK’ topped the weekly Retail Album Chart by selling 26,606copies at retailers.&nbsp;Released on August 6th, ‘DUSK' was the topseller as of 6PM (KST) on August 9th (Friday, week 32).&nbsp;'DUSK' is the 1st solo mini-album of YOONSAN-HA ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트와이스 미나, KBS 대기획 '딴따라 JYP' 티저 다섯 번째 주인공…박진영 '엘리베이터' 소개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24139</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24126"/>
         <updated>2024-08-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[AB6IX (에이비식스)가 오늘(13일) 멤버별 솔로곡들이 담긴 새 앨범 'Find YOU'를 발매한다.AB6IX는 오늘(13일) 오후 6시 SPECIAL EP 'Find YOU'를 발매하며 2024 AB6IX FAN CONCERT ‘Find YOU’에서 첫 선보였던&nbsp;멤버들의 4인 4색 개별 솔로곡 음원을 공개하는데, 뜨거웠던 팬 콘서트 현장의 열기를 다시금 상기시키고&nbsp;팬들에게 그 날의 추억을 오랫동안 간직할 수 있는 특별한 선물이 될 예정이다.특히 이번 앨범은 AB6IX 멤버들이 각자 주도적으로 작업에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 필릭스, 2024 추석 KBS 대기획 '딴따라 JYP' 두 번째 티저 출연…'딴따라 DNA' 증명]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24125</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24125"/>
-        <updated>2024-08-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스트레이 키즈(Stray Kids) 필릭스가 박진영의 음악과 함께 '딴따라 DNA'를 증명했다.KBS는 13일 KBS 2TV와 KBS Kpop 유튜브 채널을 통해 KBS 대국민 초대형 공연 프로젝트 'KBS 대기획 - 데뷔 30주년 특집 딴따라 JYP'(이하 '딴따라 JYP')의 티저 영상을 공개했다.영상에는 스트레이 키즈 필릭스가 등장해 독보적인 남신 비주얼을 선보였다. 이어 필릭스는 CD플레이어로 박진영의 데뷔곡 '날 떠나지마'를 재생했다. 필릭스는 유선 이어폰으로 ..]]></content>
     </entry>
 </feed>
