@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-08-18T23:17:11.547Z</updated>
+    <updated>2024-08-19T01:10:54.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다이아 출신 주은, 로코베리와 손잡았다…브라더후드엔터 전속계약]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141"/>
+        <updated>2024-08-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 주은이 히트 작곡팀이자 밴드 로코베리와 손잡았다.19일 브라더후드엔터테인먼트는 “주은과 최근 전속계약을 체결했다. 자사 설립자이자 제작자 로코베리(로코, 베리)는 주은과 공동 작업을 통해 그의 대체 불가한 보컬과 프로듀싱에 감탄했고 소속사 영입을 발 빠르게 추진했다”라고 밝혔다.이어 “주은과 로코베리가 손잡고 준비 중인 디지털 싱글 앨범은 오는 9월 중 발매될 예정이다. 시너지를 빛낼 두 팀의 새로운 시작에 많은 기대와 관심을 부탁드린다”라고 전했다.주은은 청아하면서 담백한 목소리, 탄탄한 가창력은 물론 프로듀싱 실력까..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['콜드(Colde) 레이블' 레이어드 아일랜드, 인디 싱어송라이터 아라 영입! 전폭적 지원 약속]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24117</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23671"/>
         <updated>2024-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[n.CH엔터테인먼트가 트로트 시장에서도 경쟁력을 보여주고 있다.n.CH엔터테인먼트는 3일 "자사가 MBN 오디션 프로그램 '한일가왕전'에 출연하는 일본 출연진들의 매니지먼트를 맡게 됐다"고 밝혔다.지난 2일 첫 방송된 '한일가왕전'은 한국의 '현역가왕'과 일본의 '트롯걸즈 재팬(Trot Girls Japan)' TOP7으로 선정된 양국의 트로트 국가대표들이 자국의 명예를 걸고 펼치는 세계 최초 트로트 한일전이다.&nbsp;앞서 일본 대표 위성 방송 채널 'WOWO..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미스트롯2' 장태희, 그레인엔터와 전속계약 체결…신유와 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23664</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23664"/>
-        <updated>2024-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[트로트 가수 장태희가 그레인엔터테인먼트의 새 식구가 됐다.&nbsp;n.CH엔터테인먼트의 트로트 레이블 그레인엔터테인먼트는 2일 "다양한 재능을 가진 장태희와 함께하게 돼 기쁘다"라며 "장태희가 다방면에서 역량을 마음껏 펼칠 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;장태희는 2009년 경기민요 경창대회 경기도지사 대상을 수상한 뒤 2010년 1집 앨범 'Modern Trot(모던 트로트)'를 발매하며 데뷔했다. 이후 'Play Trot(플레이 트로트)', '한..]]></content>
     </entry>
 </feed>
