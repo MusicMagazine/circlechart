@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-19T23:17:19.502Z</updated>
+    <updated>2024-08-20T01:09:29.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['대세 아티스트' 주니(JUNNY), 북미 10개 도시 투어 'dopamine' 개최 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24149</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24149"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[떠오르는 핫트렌드 아티스트 주니(JUNNY)가 올 하반기 활발한 글로벌 행보를 이어간다.주니(JUNNY)는 오는 10월과 11월 북미 10개 도시에서 2024 단독 콘서트 투어 'dopamine with DAUL’(도파민 위드 다울)을 개최한다.북미 투어 개최 소식과 함께 공개된 포스터에 따르면 주니(JUNNY)는 10월 28일 캐나다 밴쿠버를 시작으로 11월 1일 토론토, 3일 몬트리올을 거쳐 4일 미국 브루클린, 6일 휴스턴, 7일 오스틴, 9일 애틀랜타, 10일 로스앤젤레스, 12일 샌프란시스코, 13일 시애틀에서 차례..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이기광, 역대급 솔로 콘서트 'OBSESSED' 성료! 매혹 퍼포먼스+명품 라이브 '만족도↑']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24144</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24067"/>
         <updated>2024-07-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 EPEX(이펙스)가 팬콘으로 제니스와 행복한 생일 추억을 만들었다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 27일과 28일 양일간 서울 강서구 KBS아레나에서 두 번째 단독 팬콘 투어 ‘YOUTH DAYS(유스 데이즈)’의 첫 공연을 성공적으로 개최했다.지난해 서울 팬콘보다 한층 커진 규모의 ‘YOUTH DAYS’에서 이펙스는 다채로운 선곡과 웰메이드 무대로 ‘믿고 듣는’ 폭넓은 스펙트럼을 재차 증명했다. 특히 올해 발매한 정규 1집 타이틀곡 ‘청춘에게’ 리믹스 버전, 커플링곡 ‘Breathe ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 1년 3개월 만 단독 팬미팅 'STAYC MOVIE CLUB' 전석 매진! 뜨거운 관심 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24064</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24064"/>
-        <updated>2024-07-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 티켓 파워를 증명했다.스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)의 단독 팬미팅 2024 STAYC FANMEETING [STAYC MOVIE CLUB]이 지난 25일 티켓 오픈 이후 전석 매진을 기록했다.스테이씨는 앞서 단독 팬미팅 2024 STAYC FANMEETING [STAYC MOVIE CLUB] 개최 소식을 알렸다. 이어 열띤 티켓 예매 열기 속 폭발적인 인기를 드러내며 티켓 파워를 다시 한번 입증했다.2024 STAYC FANMEETING [STAYC MOVIE CLUB]은 지난해 5..]]></content>
     </entry>
 </feed>
