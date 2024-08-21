@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-08-21T01:09:40.350Z</updated>
+    <updated>2024-08-21T02:35:36.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['B.A.P 출신' 방용국&정대현&유영재&문종업, 신곡 'Gone' 챌린지→댄스 퍼포먼스까지 '반응 HOT']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24151</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24151"/>
+        <updated>2024-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업이 다채로운 매력을 아우르며 진가를 증명했다.방용국&amp;정대현&amp;유영재&amp;문종업은 지난 8일 첫 EP 'CURTAIN CALL (커튼 콜)'을 발매하고 각종 SNS를 통해 타이틀곡 'Gone (곤)' 댄스 챌린지를 공개하며 팬들의 관심을 모으고 있다.이번 챌린지에는 KARD(카드) 제이셉, 이채연, 위클리 이재희, 조아, LIGHTSUM(라잇썸) 주현, SORN(손) 등 가요계 동료들이 대거 참여해 멤버들과 훈훈한 케미스..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['싱어게인3' TOP3 EJel(이젤), '김영철의 파워FM' 일요 코너 고정 게스트 합류! 미라클 모닝 '예고']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24148</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24133"/>
         <updated>2024-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 드리핀(DRIPPIN, 황윤성, 이협, 주창욱, 김동윤, 김민서, 차준호)이 '청량 끝판왕' 매력을 담은 신보로 돌아온다.&nbsp;&nbsp;드리핀은 오는 19일 오후 6시 각종 음원 사이트를 통해 다섯 번째 싱글 '위켄드(Weekend)'를 발매하고 글로벌 팬들 곁에 화려한 귀환을 알린다.&nbsp;&nbsp;드리핀의 컴백은 지난 4월 발매한 네 번째 싱글 '뷰티풀 메이즈(Beautiful MAZE)' 이후 약 4개월 만이다. '위켄드'를 통해 한 단계 업그레이드된 비주얼과 음악으로 역대급 컴백을 예고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 2024 CIRCLE CHART: aespa and Stray Kids Dominate the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24128</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24128"/>
-        <updated>2024-08-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The July CIRCLE CHART saw strong showings by aespa and Stray Kids.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for July 2024, aespa swept 3 charts while Stray Kids topped 2 charts."aespa topped a total of 3 charts with ‘Supernova’, the pre-release track from t..]]></content>
     </entry>
 </feed>
