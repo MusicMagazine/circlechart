@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-22T01:11:39.688Z</updated>
+    <updated>2024-08-22T02:37:00.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['불타는 트롯맨' TOP7, 9월 엔딩 콘서트 '약속 : You and I' 개최 확정! 오늘(22일) 예매 시작]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24158</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24158"/>
+        <updated>2024-08-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['불타는 트롯맨' TOP7이 마지막 콘서트를 개최하며 팬들과 소통한다.&nbsp;'불타는 트롯맨' TOP7은 오는 9월 21일 서울 광운대학교 동해문화예술관 대극장에서 '불타는 트롯맨' TOP7 엔딩 콘서트 '약속 : You and I'를 개최한다.'약속 : You and I'는 '불타는 트롯맨' TOP7이 18개월의 여정을 마무리하고 새로운 시작을 알리는 공연으로, '불타는 트롯맨'은 마지막 공연 개최 소식을 알리며 팬들의 열기를 끌어올리고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빌드업 우승' 비디유, 데뷔 첫 월드 투어 순항 중...전 세계 팬 열광]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24154</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24078"/>
         <updated>2024-07-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[실력파 보컬돌 비디유(B.D.U, 제이창, 승훈, 빛새온, 김민서)가 첫 단독 팬미팅을 개최한다.비디유는 오는 8월 4일 서울 노들섬 라이브하우스에서 첫 단독 팬미팅 '2024 비디유 퍼스트 더 미팅(2024 B.D.U FIRST THE MEETING)'을 개최하고 오후 3시와 7시 2회 공연으로 팬들과 만난다.비디유는 Mnet 오디션 프로그램 '빌드업 : 보컬 보이그룹 서바이벌'(이하 '빌드업')을 통해 결성된 프로젝트 그룹이다. 지난 6월 첫 번째 미니 앨범 '위시풀(Wishpo..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티(TIOT), 대만 팬심 접수! 팬콘서트 'TIOT IS LOVING TAIPEI' 성공적 마무리]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24068</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24068"/>
-        <updated>2024-07-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 대만에서 첫 팬콘서트를 진행하며 팬들에게 잊지 못할 감동과 추억을 선물했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 27일 대만 타이베이 클래퍼 스튜디오에서 2024 TIOT 팬콘서트 'TIOT IS LOVING TAIPEI(티아이오티 이즈 러빙 타이베이)'를 개최했다.이날 '가나요'로 공연의 시작을 알린 티아이오티는 대만 첫 방문 소감을 밝히고 글로벌 팬들과 소통하며 뜨거운 분위기를 이끌었다. 이어 'Surfing(서핑)', '아기..]]></content>
     </entry>
 </feed>
