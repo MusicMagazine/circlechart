@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-27T22:16:40.568Z</updated>
+    <updated>2024-08-28T01:12:03.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[린, 단독 콘서트 'HOME' 개최 확정! 오늘(28일) 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24174</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24174"/>
+        <updated>2024-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 린(LYn)의 단독 콘서트 티켓 예매가 오늘 2시에 시작된다.린의 2024 단독 콘서트 'HOME (홈)'이 오는 10월 5일과 6일 신한카드 SOL페이 스퀘어 라이브홀에서 개최된다.'HOME' 은 지난 2014년부터 이어진 린의 브랜드 공연으로, 올해 'HOME'이 10주년을 맞은 만큼, 린은 한층 더 깊어진 음색과 무대들로 팬들의 뜨거운 호응과 기대를 불러일으키고 있다.특히 린은 꾸준히 사랑을 받고 있는 명곡 무대와 특별한 라이브와 관객과의 교감이 돋보이는 무대 연출 등을 선보일 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故신해철 10주기 트리뷰트 콘서트, 블라인드 티켓 전체 매진! 화제성 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24171</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24130"/>
         <updated>2024-08-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[크로스오버 그룹 포레스텔라가 탄탄한 티켓 파워를 입증했다.포레스텔라의 라이브 쇼 'Forestella Night Live'(포레스텔라 나잇 라이브, FNL)의 티켓은 지난 13일 오후 온라인 예매처 티켓링크를 통해 오픈된 직후 빠르게 전석 매진을 기록했다.'Forestella Night Live'는 포레스텔라가 11개월 만에 준비한 단독 공연이다. 포레스텔라의 공식 팬클럽명 '숲별'이 처음 발표된 기념일인 9월 7일날, 더욱 특별한 팬들과의 교감이 펼쳐질 전망이다.이런 가운데 예매 오픈 당..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 김성규, 말레이시아 단독 콘서트 '[LV] 3' 성료..."환영해 준 팬들에 감사, 건강하고 행복하시길"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24120</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24120"/>
-        <updated>2024-08-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김성규가 말레이시아 단독 콘서트를 성공적으로 마무리했다.김성규는 지난 10일과 11일 양일간 말레이시아 제프 쿠알라룸푸르(ZEPP KUALA LUMPUR)에서 단독 콘서트 '[LV] 3'(Let's Vacay)를 개최하고 현지 팬들과 만났다.2022년 '[LV] 1'이 '라이트 &amp; 보이스(Light &amp; Voice)', 지난해 '[LV] 2'가 '라이크 유어 바이브(LIKE YOUR VIBES)'의 의미를 담은 것에 이어 이번 '..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-27T22:16:40.561Z</updated>
+    <updated>2024-08-28T01:12:03.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[진원, 3년 공백 깨고 신곡 ‘니가 아닌 다른 누군가와 사랑할 수 있을까’ 발표]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24173</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24173"/>
+        <updated>2024-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 진원이 3년의 공백을 깨고 컴백한다.진원은 28일 오후 6시 새 디지털 싱글 ‘니가 아닌 다른 누군가와 사랑할 수 있을까’를 발매한다.‘니가 아닌 다른 누군가와 사랑할 수 있을까’는 진원의 자전적인 이야기를 바탕으로 제작된 발라드곡이다. 진원 특유의 호소력 짙은 음색에 몰아치는 스트링 라인, 기타 연주가 더해져 슬픈 감정선을 진하게 전달한다.음원과 동시 공개되는 ‘니가 아닌 다른 누군가와 사랑할 수 있을까’ 뮤직비디오에는 진원이 직접 출연해 짙은 감성을 전한다. 진원은 그동안 길렀던 머리를 직접 자르는 파격적인 연기까지 선보이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이디야, 오늘(26일) 프로모션 싱글 'RIZZ' 깜짝 발매…"현재 새 앨범 준비 중"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24165</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24150"/>
         <updated>2024-08-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 로이킴이 가창한 '소년시절의 너' 컬래버레이션 음원이 베일을 벗는다.로이킴이 가창에 참여한 영화 '소년시절의 너' 컬래버레이션 음원 '도망가자(Run With Me)'가 20일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.'도망가자(Run With Me)'는 로이킴이 지난 2019년 발매된 선우정아의 곡을 재해석한 곡으로, 로이킴의 호소력 짙은 보컬과 차츰 고조되는 다이내믹한 사운드가 특징이다. 로이킴은 뚜렷한 음악적 개성으로 곡을 풍성하게 완성할 전망이다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['22일 발매' 페노메코, 새 EP 'Organic2' 크러쉬 피처링 지원 사격! 특급 시너지 '기대 ↑']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24146</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24146"/>
-        <updated>2024-08-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[프로듀서 겸 아티스트 페노메코가 크러쉬의 특급 피처링과 함께 컴백한다.페노메코는 최근 공식 SNS에서 진행한 퀴즈 이벤트를 통해 새 EP 'Organic2 (올가닉 투)'의 피처링 아티스트를 공개했다.이날 페노메코는 퀴즈의 정답을 맞힌 팬들에게 페노메코와 Crush(크러쉬)의 투샷이 담긴 비하인드 영상을 발송하며 베일에 싸인 피처링 아티스트의 정체가 크러쉬임을 밝혔다. 두 사람의 사진을 받은 팬들은 뜻밖의 놀라움에 뜨거운 반응을 보내며 컴백 기대감을 고조시켰다.특히 페노메코와 크러쉬가 그동안 'No.5'..]]></content>
     </entry>
 </feed>
