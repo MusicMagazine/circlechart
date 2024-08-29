@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-08-28T23:17:32.735Z</updated>
+    <updated>2024-08-29T01:12:52.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스, 31일 日 TBS 특집 방송 뜬다...'브리튼즈 갓 탤런트' 비하인드+앨범 제작 과정 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24177</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24177"/>
+        <updated>2024-08-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 블리처스(BLITZERS, 진화, 주한, 샤, 크리스, 루탄, 우주)의 앨범 제작기가 일본에서 방송된다.오는 31일 오후 10시 일본 TBS 채널1에서 블리처스의 특집 다큐멘터리 'K팝 뉴 웨이브 "블리처스" 글로벌 스타로의 첫걸음(K-POP NEW WAVE "BLITZERS" グロ?バルスタ?への第一?)'이 독점 방송된다.이번 방송에는 지난 5월 영국 대표 오디션 프로그램 '브리튼즈 갓 탤런트(Britain's Got Talent)'에 출연했던 블리처스의 모습이 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한일톱텐쇼' 황민우, 퍼포먼스 대가다운 존재감! 듀엣부터 솔로까지 압도적인 댄스]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24176</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24157"/>
         <updated>2024-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤하가 매력적인 콘셉트 포토로 7집의 새로운 스토리를 예고했다.윤하는 지난 20일부터 22일까지 사흘간 공식 SNS를 통해 일곱 번째 정규앨범 'GROWTH THEORY (그로우스 띠어리)'의 콘셉트 포토를 공개했다.공개된 사진 속 윤하는 장대한 여정을 떠나는 소녀의 모습을 표현하는 것은 물론 바다에서 펼쳐질 윤하만의 독보적인 스토리를 엿볼 수 있게 하고 있다. 올해 데뷔 20주년을 맞이했음에도 변함없이 아름다운 윤하의 동안 외모와 밝은 인상이 눈길을 사로잡는다.다채로운 이미지의 콘셉트 포토는 윤하가 'G..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 32 CIRCLE CHART: Jimin, aespa, and Stray Kids Rule the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24155</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24155"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 32 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by Jimin, aespa, and Stray Kids.KMCA, publisher of CIRCLE CHART, announced that “As of week 32 (2024.08.04.~2024.08.10.), Jimin topped the Global K-pop Chart while aespa topped 2 charts and Stray Kids dominated the Album Chart”.&nbsp;&nbsp;Ji..]]></content>
     </entry>
 </feed>
