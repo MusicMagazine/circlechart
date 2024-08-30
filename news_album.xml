@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-08-29T23:16:27.441Z</updated>
+    <updated>2024-08-30T01:12:33.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[차은우, 페더 엘리아스와 서머팝 컬래버…오늘(30일) ‘Hey Hello’ 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 차은우가 팝스타 페더 엘리아스(Peder Elias)와 늦여름을 물들일 서머 팝을 완성했다.차은우는 30일 0시 각종 온라인 음원 사이트를 통해 페더 엘리아스와 컬래버레이션한 새 디지털 싱글 ‘Hey Hello’(헤이 헬로우)를 발매했다.‘Hey Hello’는 캐치하면서 경쾌한 멜로디로 여름 무드를 풀어낸 팝 곡으로, 첫눈에 사랑에 빠진 사람과 함께라면 어떤 장소든 특별해진다는 이야기를 담아 설렘을 전달하는 노래다.특히 차은우와 페더 엘리아스의 부드럽고 달콤한 음색이 돋보이는 후렴구는 따라 부르기 쉬운 멜로디로 중독성..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악가 백현진, 신보 〈심플렉스: 담담함안담담함 라운지〉 발매와 함께 ‘일민미술관’서 개인전 연다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24178</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24153"/>
         <updated>2024-08-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 1000°(천도)가 새로운 변신에 나선다.&nbsp;1000°(천도)의 소속사 피크엠 엔터테인먼트는 21일 "1000°(천도)가 26일 신곡 '티 나게 (So obvious)'를 발매한다"라며 "최신 팝 음악 시장의 트렌드가 밴드 음악에 집중되고 있는 가운데, 1000°(천도) 역시 그 대열에 합류해 케이팝 밴드 음악을 선보인다"고 전했다.&nbsp;1000°(천도)는 그동안 보여줬던 팝 발라드나 자작곡에서 보여준 차분한 스타일에서 벗어나 강렬한 사운드의 팝 록을 통해 새로운 장르에 도전한다.&nbsp;..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['韓日 최초 트로트 그룹' Lucky팡팡(김다현x스미다 아이코), 오늘(21일) '담다디' 일본어 버전 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24152</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24152"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한일 최초 트로트 그룹 Lucky팡팡(김다현x스미다 아이코)이 일본어 버전 '담다디'를 공개했다.Lucky팡팡(김다현x스미다 아이코)은 21일 0시 일본의 각종 음원 사이트를 통해 '담다디' 일본어 버전을 발매했다.지난 6월 첫 번째 디지털 싱글 '담다디'를 발매한 Lucky팡팡(김다현x스미다 아이코)은 한국과 일본을 대표하는 '황금막내'의 만남으로 대중의 관심을 받았다. 특히 KBS 2TV '뮤직뱅크', MBC '쇼! 음악중심' 등 다양한 음악 ..]]></content>
     </entry>
 </feed>

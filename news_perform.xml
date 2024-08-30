@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-08-29T23:16:27.423Z</updated>
+    <updated>2024-08-30T01:12:33.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이준영, 10월 日 팬 이벤트 개최...업그레이드 매력 '열도 팬심 접수 예고']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24179</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24179"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[배우 이준영이 일본에서 팬 이벤트를 개최한다.소속사 빌리언스는 지난 29일 오후 6시 공식 SNS를 통해 '2024 이준영 팬 이벤트 인 요코하마 '약속'(2024 LEE JUN YOUNG FAN EVENT in YOKOHAMA '約束')(이하 '약속') 포스터를 공개했다.공연 소식과 함께 공개된 포스터는 빛바랜 배경 속 새끼손가락을 걸고 있는 두 손의 그림자를 비추고 있으며, 빈티지하면서도 감성 넘치는 디자인이 시선을 사로잡았다. 특히 두 손가락에 감겨있는 실이 하트 모양을 그리고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[린, 단독 콘서트 'HOME' 개최 확정! 오늘(28일) 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24174</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24142"/>
         <updated>2024-08-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 엘(L, 김명수)이 태국 팬미팅을 성공적으로 마쳤다.엘은 지난 17일 오후 6시 태국 방콕 울트라 아레나 브라보(ULTRA ARENA BRAVO BKK)에서 2024 아시아 투어 팬미팅 '리부트(REBOOT)'를 개최하고 현지 팬들과 만남을 가졌다.이날 공연에서 엘은 지난 5일 발매한 첫 번째 EP 앨범 '24/7'의 타이틀곡 '어떻게 널 사랑하지 않겠니'와 수록곡 '마이 유니버스(My Universe)'를 선보였고, 달콤한 음색과 가창력을 아낌없이 발산하며 '감..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라, 올해 첫 단독 공연 'FNL' 전석 매진! 명불허전 티켓파워]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24130</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24130"/>
-        <updated>2024-08-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[크로스오버 그룹 포레스텔라가 탄탄한 티켓 파워를 입증했다.포레스텔라의 라이브 쇼 'Forestella Night Live'(포레스텔라 나잇 라이브, FNL)의 티켓은 지난 13일 오후 온라인 예매처 티켓링크를 통해 오픈된 직후 빠르게 전석 매진을 기록했다.'Forestella Night Live'는 포레스텔라가 11개월 만에 준비한 단독 공연이다. 포레스텔라의 공식 팬클럽명 '숲별'이 처음 발표된 기념일인 9월 7일날, 더욱 특별한 팬들과의 교감이 펼쳐질 전망이다.이런 가운데 예매 오픈 당..]]></content>
     </entry>
 </feed>
