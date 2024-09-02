@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-01T23:16:09.515Z</updated>
+    <updated>2024-09-02T01:14:34.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비 이창섭, 오늘(2일) 정규 1집 ‘1991’ 선공개 5곡 발매…‘짜릿 고막 청소’ 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24184</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24184"/>
+        <updated>2024-09-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 비투비 멤버 겸 뮤지컬 배우 이창섭이 정규 1집 선공개 곡으로 ‘고막 청소’를 예고했다.이창섭은 2일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 정규앨범 ‘1991’의 선공개 싱글 PRE-RELEASE ‘1991’을 발매한다.이번 선공개 싱글에는 타이틀곡 ‘희망고문’을 비롯해 ‘NEW WAVE’(뉴 웨이브), ‘Golden Hour’(골든 아워), ‘STAY(幻)’(스테이), ‘#RUN’(#런)까지 신곡 총 5곡이 수록된다.타이틀곡 ‘희망고문’은 이창섭의 따뜻하고 깊은 목소리가 절제된 애절함을 전하는 곡이다. 뜨겁고 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우, 페더 엘리아스와 서머팝 컬래버…오늘(30일) ‘Hey Hello’ 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24156"/>
         <updated>2024-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 KIXO(키조)가 7개월 만에 신곡으로 돌아온다.KIXO(키조)는 오는 28일 오후 6시 새 디지털 싱글 ‘LOVE DILEMMA’(러브 딜레마)를 발매한다. 이번 싱글에는 신곡 ‘사랑이 죄야? (Feat. 10CM, B.I)’가 수록된다.‘사랑이 죄야?’는 KIXO(키조)가 올해 1월 발매한 싱글 ‘Alone Again’(얼론 어게인) 이후 7개월 만에 내놓는 신곡이다. 지난 6월 새로운 음악 레이블 ‘NO MORE BLUE’(노 모어 블루)를 론칭한 KIXO(키조)가 자체 레이블에서 선보이는 첫 번째 신곡이라는 점이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 1000°(천도), 26일 신곡 '티 나게' 발매…새로운 장르 도전]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24153</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24153"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 1000°(천도)가 새로운 변신에 나선다.&nbsp;1000°(천도)의 소속사 피크엠 엔터테인먼트는 21일 "1000°(천도)가 26일 신곡 '티 나게 (So obvious)'를 발매한다"라며 "최신 팝 음악 시장의 트렌드가 밴드 음악에 집중되고 있는 가운데, 1000°(천도) 역시 그 대열에 합류해 케이팝 밴드 음악을 선보인다"고 전했다.&nbsp;1000°(천도)는 그동안 보여줬던 팝 발라드나 자작곡에서 보여준 차분한 스타일에서 벗어나 강렬한 사운드의 팝 록을 통해 새로운 장르에 도전한다.&nbsp;..]]></content>
     </entry>
 </feed>
