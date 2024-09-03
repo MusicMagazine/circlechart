@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-02T23:16:43.639Z</updated>
+    <updated>2024-09-03T01:12:12.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[따마(THAMA), 6일 신곡 'Mileage' 발매 확정! 10개월 만에 전격 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24186</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24186"/>
+        <updated>2024-09-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[R&amp;B 아티스트 따마(THAMA)가 10개월 만에 전격 컴백한다.따마(THAMA)는 오는 6일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 'Mileage (마일리지)'를 발매한다.'Mileage'는 따마가 지난해 11월 발매한 정규 2집 'WOOOF! (우프!)' 이후 약 10개월 만에 선보이는 신곡이다. 정규앨범에서 보여준 완성도 높은 R&amp;B 소울 감성이 이번에도 물씬 풍길 것으로 기대된다.소속사 아메바컬쳐는 지난달 30일부터 공식 SNS를 통해 'Milea..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 이창섭, 오늘(2일) 정규 1집 ‘1991’ 선공개 5곡 발매…‘짜릿 고막 청소’ 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24184</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24159"/>
         <updated>2024-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 오반이 8개월 만에 더블 싱글로 컴백한다.22일 소속사 로맨틱팩토리는 "오반이 오는 29일 더블 싱글 '위태로울걸'을 발매한다"고 밝혔다.&nbsp;오반의 컴백은 지난해 12월 발매한 '입장차이' 이후 약 8개월 만이다. 이번 신보는 앨범과 동명의 타이틀곡 '위태로울걸'과 수록곡 '사랑만 하자' 등 두 트랙으로 구성됐다.타이틀곡 '위태로울걸'은 오반이 오랜만에 만든 이별 노래로, 오반 특유의 디테일한 가사와 정서를 담고 있어 리스너들의 기대감을 높인다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIXO(키조), 28일 신곡 ‘사랑이 죄야?’ 발매 확정! 십센치·비아이 피처링 지원 사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24156</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24156"/>
-        <updated>2024-08-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 KIXO(키조)가 7개월 만에 신곡으로 돌아온다.KIXO(키조)는 오는 28일 오후 6시 새 디지털 싱글 ‘LOVE DILEMMA’(러브 딜레마)를 발매한다. 이번 싱글에는 신곡 ‘사랑이 죄야? (Feat. 10CM, B.I)’가 수록된다.‘사랑이 죄야?’는 KIXO(키조)가 올해 1월 발매한 싱글 ‘Alone Again’(얼론 어게인) 이후 7개월 만에 내놓는 신곡이다. 지난 6월 새로운 음악 레이블 ‘NO MORE BLUE’(노 모어 블루)를 론칭한 KIXO(키조)가 자체 레이블에서 선보이는 첫 번째 신곡이라는 점이..]]></content>
     </entry>
 </feed>
