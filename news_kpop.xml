@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-03T23:17:52.991Z</updated>
+    <updated>2024-09-04T01:13:06.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 오늘(4일) 소집해제..."위니 생각 하루도 놓은 적 없어, 좋은 모습으로 보답할 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24192</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24192"/>
+        <updated>2024-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 원호(WONHO)가 소집해제 됐다.2022년 12월 5일 사회복무요원으로 대체 복무를 시작한 원호는 약 1년 8개월 동안 병역 의무를 성실히 이행하고 마침내 글로벌 팬들 곁으로 돌아오게 됐다.원호는 소속사 하이라인엔터테인먼트를 통해 "위니(원호 공식 팬클럽명)들을 만날 수 없는 시간이었기에 유난히 길게 느껴졌던 것 같다. 매일을 열심히 보내면서도 위니 생각을 하루도 놓은 적이 없다"라고 소감을 전했다.이어 "위니들이 기다려준 만큼 소중한 추억 만들어 드릴 수 있도록 노력하고, 더 좋은 모습으로 보답하겠다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 20주년 윤하, 1theK ‘리얼라이브’ 출연  13개 명곡 ‘갓벽’ 메들리 라이브 선사.. 역시 ‘히트곡 부자’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24189</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24168"/>
         <updated>2024-08-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 33 CIRCLE CHART of 2024, fromis_9 'Supersonic' topped the weekly Retail Album Chart by selling 35,609 copies at retailers.Released on August 12th, ‘Supersonic’ was the top seller as of 7PM (KST) on August 12th (Monday, week 33).'Supersonic' is the 3rd single mini-album fr..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불후의 명곡' DK·김연지, 발라드 킹X발라드 퀸 만남! 소름 돋는 고음으로 왕중왕전 접수]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24167</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24167"/>
-        <updated>2024-08-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 DK(디셈버)와 김연지가 '불후의 명곡' 왕중왕전을 고음으로 접수했다.&nbsp;DK와 김연지는 지난 24일 방송된 KBS 2TV '불후의 명곡'에서 '2024 상반기 왕중왕전' 1부를 꾸몄다.&nbsp;이날 DK와 김연지는 무대 전 레드카펫 인터뷰에서 남다른 각오를 전했다. DK는 "더 좋은 무대 보여주려고 열심히 노력했다. 연습도 사실 많이 했다"며 "아마 깜짝 놀랄 고음 무대가 있을 것이다. 저희 고음으로 시원하게 해 드리도록 하겠다"고 밝혔다.&nbsp;또 DK는 "왕..]]></content>
     </entry>
 </feed>

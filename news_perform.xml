@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-09-03T23:17:53.006Z</updated>
+    <updated>2024-09-04T01:13:06.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스, 5개 도시 팬콘 투어 성료! 日까지 달군 ‘YOUTH DAYS’ 화려한 대미]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24190</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24190"/>
+        <updated>2024-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 팬콘 투어의 대미를 장식하며 행복한 청춘 추억을 남겼다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 1일과 3일 제프 오사카 베이사이드(Zepp Osaka Bayside), 도쿄 제프 하네다(Zepp Haneda)에서 두 번째 팬콘 투어 ‘YOUTH DAYS(유스 데이즈)’의 마지막 일본 공연을 개최했다.‘YOUTH DAYS’는 이펙스가 지난해에 이어 2년 연속 진행한 팬콘 투어로, 지난 7월 서울에서 시작해 8월 대만과 마카오, 이달 오사카와 도쿄까지 5개 도시 총 9회 공연이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘페스티벌계 황제’ 데이브레이크, 오는 7일 ‘2024 이슬라이브 페스티벌’ 출격…자라섬 뜨겁게 달굴 퍼포먼스 예고!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24187</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24158"/>
         <updated>2024-08-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA['불타는 트롯맨' TOP7이 마지막 콘서트를 개최하며 팬들과 소통한다.&nbsp;'불타는 트롯맨' TOP7은 오는 9월 21일 서울 광운대학교 동해문화예술관 대극장에서 '불타는 트롯맨' TOP7 엔딩 콘서트 '약속 : You and I'를 개최한다.'약속 : You and I'는 '불타는 트롯맨' TOP7이 18개월의 여정을 마무리하고 새로운 시작을 알리는 공연으로, '불타는 트롯맨'은 마지막 공연 개최 소식을 알리며 팬들의 열기를 끌어올리고..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빌드업 우승' 비디유, 데뷔 첫 월드 투어 순항 중...전 세계 팬 열광]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24154</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24154"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[실력파 보컬돌 비디유(B.D.U, 제이창, 승훈, 빛새온, 김민서)가 월드 투어의 성공적인 시작을 알렸다.지난 16일(이하 현지시간) 미국 뉴저지 화이트 이글 홀(White Eagle Hall)에서 데뷔 첫 월드 투어 '투어 포 위시풀: 플래시 &amp; 라이트(Tour for Wishpool: flash &amp; light)'의 화려한 포문을 연 비디유는 18일 시카고 탈리아 홀(Thalia Hall)에서도 공연을 성료했다.특히 월드 투어의 시작을 알린 뉴저지는 멤버 제이창의 고향으로 공연 전부터 글로벌 팬들의 뜨..]]></content>
     </entry>
 </feed>
