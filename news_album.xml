@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-06T02:41:32.449Z</updated>
+    <updated>2024-09-06T03:20:10.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 웨이브투어스, 오늘(6일) 새 EP 'play with earth! 0.03' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24199</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24199"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 웨이브투어스(wave to earth)가 1년 5개월 만의 신보로 돌아온다.웨이브투어스(김다니엘, 차순종, 신동규)는 6일 오후 6시 각종 온라인 음원사이트를 통해 새 EP 'play with earth! 0.03 (플레이 위드 어스! 0.03)'을 발매한다.'play with earth! 0.03'은 웨이브투어스가 오는 16일 미주 지역을 시작으로 진행되는 월드투어 'play with earth : 0.03'을 앞두고 발매하는 신보로, 지난해 4월 발매한 정규앨범 '0.1 f..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유, 12일 벤 '열애중' 리메이크 음원 발매 확정! 원곡 감동 잇는 가치 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24198</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180"/>
         <updated>2024-08-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 차은우가 팝스타 페더 엘리아스(Peder Elias)와 늦여름을 물들일 서머 팝을 완성했다.차은우는 30일 0시 각종 온라인 음원 사이트를 통해 페더 엘리아스와 컬래버레이션한 새 디지털 싱글 ‘Hey Hello’(헤이 헬로우)를 발매했다.‘Hey Hello’는 캐치하면서 경쾌한 멜로디로 여름 무드를 풀어낸 팝 곡으로, 첫눈에 사랑에 빠진 사람과 함께라면 어떤 장소든 특별해진다는 이야기를 담아 설렘을 전달하는 노래다.특히 차은우와 페더 엘리아스의 부드럽고 달콤한 음색이 돋보이는 후렴구는 따라 부르기 쉬운 멜로디로 중독성..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악가 백현진, 신보 〈심플렉스: 담담함안담담함 라운지〉 발매와 함께 ‘일민미술관’서 개인전 연다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24178</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24178"/>
-        <updated>2024-08-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[음악가 백현진 〈심플렉스〉 시리즈의 신작 〈심플렉스: 담담함안담담함 라운지〉가 오늘 8월 29일 정오 국내외 각종 온라인 음원 사이트를 통해 발매된다.〈심플렉스〉 시리즈는 최소한의 멜로디로 구성된 연주 앨범의 연작으로, ‘소리’ 라는 매체에 집중을 기울여 음악의 원형을 들려준다. 이번 앨범 〈심플렉스: 담담함안담담함 라운지〉는 이 〈심플렉스〉 시리즈의 네번째 작품이 된다.지금까지의 〈심플렉스〉가 마스터링을 제외한 모든 제작 과정을 백현진 혼자 수행한 작업이었다면, 이번 앨범은 음악가 ‘김나언’ 이 2번, 3번 트랙의 피처링으로 참여..]]></content>
     </entry>
 </feed>

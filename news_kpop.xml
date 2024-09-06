@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-06T02:41:32.441Z</updated>
+    <updated>2024-09-06T03:20:10.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['발매 D-1' 손태진, 신곡 '백야' 콘셉트 포토→M/V 티저 공개 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24201</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24201"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[트로트 가수 손태진이 음악 팬들의 마음을 울릴 애절 감성을 예고했다.손태진은 지난 5일 공식 SNS를 통해 신곡 '백야'의 뮤직비디오 티저를 공개했다.공개된 티저는 떨어지는 하얀색 꽃잎을 맞으며 눈을 감고 있는 손태진의 모습으로 시작된다. 풍성한 피아노 선율과 어우러지는 블랙과 화이트 등 무채색이 돋보이는 영상은 서정적인 분위기를 배가시키며 팬들의 시선을 사로잡았다.특히 쓸쓸함이 느껴지는 손태진의 눈빛과 표정 연기가 감각적 무드를 강조했다. 또 영상 말미 타오르던 촛불이 음악과 함께 꺼지는 장면은 강한 여운을 남기며 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루네이트, 미니 3집 ‘AWAKENING’ 활동 성료…"열심히 노력한 모습 좋아해 주셔서 보람 느껴"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24196</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24172"/>
         <updated>2024-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 33 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by Jimin, aespa, and fromis_9.KMCA, publisher of CIRCLE CHART, announced that “As of week 33 (2024.08.11.~2024.08.17.), Jimin topped the Global K-pop Chart while aespa topped 2 charts and fromis_9 swept 3 charts”.Jimin of BTS topped..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 정규 1집 발매 앞서 깜짝 리스닝 파티 성료…신곡 3곡 무대 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24170</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24170"/>
-        <updated>2024-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비 멤버 겸 뮤지컬 배우 이창섭이 정규 1집 선공개곡을 팬들에게 먼저 들려줬다.이창섭은 지난 26일 오후 서울 강남구 스타필드 코엑스몰 라이브플라자에서 깜짝 리스닝 파티 ‘OPEN STAGE’(오픈 스테이지)를 열었다.‘OPEN STAGE’에서 이창섭은 오는 9월 2일 발매하는 첫 번째 솔로 정규앨범 ‘1991’의 선공개곡 ‘희망고문’, ‘#RUN’(#런), ‘STAY(幻)’(스테이)를 라이브 무대로 최초 공개해 팬들을 깜짝 놀라게 만들었다. 3곡을 연달아 열창하는 이창섭의 호소력 짙은 목소리는 현장을 감성으로 물들였다.앙..]]></content>
     </entry>
 </feed>
