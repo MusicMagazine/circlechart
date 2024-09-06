@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-06T05:17:39.777Z</updated>
+    <updated>2024-09-06T06:23:16.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 34 CIRCLE CHART: NMIXX 'Fe3O4: STICK OUT' Tops Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24202</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24202"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 34 CIRCLE CHART of 2024, NMIXX 'Fe3O4: STICK OUT' topped the weekly Retail Album Chart by selling 337,483 copies at retailers.&nbsp;&nbsp;'Fe3O4: STICK OUT' was the top seller as of 3PM (KST) on the date of its release, August 19th (Monday, week 34).&nbsp;'Fe3O4: STICK OUT' is t..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['발매 D-1' 손태진, 신곡 '백야' 콘셉트 포토→M/V 티저 공개 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24201</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24175"/>
         <updated>2024-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[데뷔 10년차 그룹 오마이걸(OH MY GIRL)이 '킬링 보이스'에 떴다.딩고 뮤직은 지난 27일 오후 7시 공식 유튜브 채널을 통해 오마이걸의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 "저희가 드디어 '킬링 보이스'에 나오게 됐다. 너무너무 설렌다"라고 반가운 인사를 전한 오마이걸은 지난 2020년 발매한 미니 7집 앨범 '논스톱(NONSTOP)'의 타이틀곡 '살짝 설렜어 (Nonstop)'로 '킬링 보이스'의 화려한 포문..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 33 CIRCLE CHART: Jimin, aespa, and fromis_9 Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24172</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24172"/>
-        <updated>2024-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 33 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by Jimin, aespa, and fromis_9.KMCA, publisher of CIRCLE CHART, announced that “As of week 33 (2024.08.11.~2024.08.17.), Jimin topped the Global K-pop Chart while aespa topped 2 charts and fromis_9 swept 3 charts”.Jimin of BTS topped..]]></content>
     </entry>
 </feed>
