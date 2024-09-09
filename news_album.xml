@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-08T23:18:31.012Z</updated>
+    <updated>2024-09-09T01:15:56.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지진희X김지수 주연 '가족X멜로', 오늘(9일) Woshi(우시) 가창 참여 OST 'We Come Around' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24203</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24203"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 Woshi(우시)가 '가족X멜로'의 진실된 감정을 전한다.Woshi가 가창에 참여한 JTBC 토일드라마 '가족X멜로(연출 김다예, 극본 김영윤, 제작 MI·SLL)'의 여섯 번째 OST 'We Come Around(위 컴 어라운드)'가 9일 오후 6시 발매된다.'We Come Around'는 언젠가 다시 마주치게 될 순간들을 떠올려보던 모두를 위한 곡으로, Woshi가 진정성 짙은 보이스로 진솔한 감정들을 표현해낸다. 또 극 중 변미래(손나은 분), 남태평(최민호..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밴드 웨이브투어스, 오늘(6일) 새 EP 'play with earth! 0.03' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24199</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24184"/>
         <updated>2024-09-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 비투비 멤버 겸 뮤지컬 배우 이창섭이 정규 1집 선공개 곡으로 ‘고막 청소’를 예고했다.이창섭은 2일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 정규앨범 ‘1991’의 선공개 싱글 PRE-RELEASE ‘1991’을 발매한다.이번 선공개 싱글에는 타이틀곡 ‘희망고문’을 비롯해 ‘NEW WAVE’(뉴 웨이브), ‘Golden Hour’(골든 아워), ‘STAY(幻)’(스테이), ‘#RUN’(#런)까지 신곡 총 5곡이 수록된다.타이틀곡 ‘희망고문’은 이창섭의 따뜻하고 깊은 목소리가 절제된 애절함을 전하는 곡이다. 뜨겁고 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차은우, 페더 엘리아스와 서머팝 컬래버…오늘(30일) ‘Hey Hello’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24180"/>
-        <updated>2024-08-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 배우 차은우가 팝스타 페더 엘리아스(Peder Elias)와 늦여름을 물들일 서머 팝을 완성했다.차은우는 30일 0시 각종 온라인 음원 사이트를 통해 페더 엘리아스와 컬래버레이션한 새 디지털 싱글 ‘Hey Hello’(헤이 헬로우)를 발매했다.‘Hey Hello’는 캐치하면서 경쾌한 멜로디로 여름 무드를 풀어낸 팝 곡으로, 첫눈에 사랑에 빠진 사람과 함께라면 어떤 장소든 특별해진다는 이야기를 담아 설렘을 전달하는 노래다.특히 차은우와 페더 엘리아스의 부드럽고 달콤한 음색이 돋보이는 후렴구는 따라 부르기 쉬운 멜로디로 중독성..]]></content>
     </entry>
 </feed>

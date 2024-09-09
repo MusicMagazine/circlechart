@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-08T23:18:31.018Z</updated>
+    <updated>2024-09-09T01:15:56.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['라이브 맛집' 어센트(ASC2NT), 10월 4일 컴백 확정! 180도 비주얼 변신 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24204</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24204"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 어센트(ASC2NT)가 10월 4일 컴백을 확정했다.&nbsp;소속사 뉴웨이즈컴퍼니는 9일 "어센트(가람, 인준, 제이, 레온, 카일)가 오는 10월 4일 두 번째 싱글 앨범 'Conversion Part.1(컨버전 파트원)'으로 컴백한다"고 밝혔다. 이와 함께 어센트 공식 SNS를 통해 타임 테이블 이미지를 공개하며 컴백 기대감을 자아냈다.&nbsp;타임 테이블에 따르면 어센트는 오는 12일 스페셜 비디오를 오픈한 뒤 19일 앨범 예약 판매를 시작한다. 20일과 23일에는 데이 버전과 나이트 버전의 콘셉트 포토를 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 34 CIRCLE CHART: NMIXX 'Fe3O4: STICK OUT' Tops Retail Album Chart]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24202</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24176"/>
         <updated>2024-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 황민우가 퍼포먼스 대가다운 존재감을 발산했다.황민우는 지난 27일 방송된 MBN '한일톱텐쇼'에 출연해 '최강 듀엣전'을 펼쳤다.이날 황민우는 김다현과 함께 팀을 이뤄 대결에 나섰다. 그는 과거 김다현에게 서당에서 춤을 가르쳐줬던 일화를 전했고 당시 서당에서 펼쳐진 12살 황민우의 댄스 수업 모습이 공개돼 모두를 놀라게 했다.&nbsp;이어 황민우는 김다현과 함께 도시아이들의 '텔레파시' 듀엣 무대를 펼쳤다. 황민우는 곡 초반부부터 필살 개다리춤을 비롯해 신들..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 오마이걸, '킬링 보이스'에 떴다...신곡 'Classified' 라이브 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24175</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24175"/>
-        <updated>2024-08-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[데뷔 10년차 그룹 오마이걸(OH MY GIRL)이 '킬링 보이스'에 떴다.딩고 뮤직은 지난 27일 오후 7시 공식 유튜브 채널을 통해 오마이걸의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 "저희가 드디어 '킬링 보이스'에 나오게 됐다. 너무너무 설렌다"라고 반가운 인사를 전한 오마이걸은 지난 2020년 발매한 미니 7집 앨범 '논스톱(NONSTOP)'의 타이틀곡 '살짝 설렜어 (Nonstop)'로 '킬링 보이스'의 화려한 포문..]]></content>
     </entry>
 </feed>
