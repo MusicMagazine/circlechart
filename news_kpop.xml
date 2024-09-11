@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-11T06:23:49.994Z</updated>
+    <updated>2024-09-11T07:15:56.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주니(JUNNY), 몬스타엑스 아이엠과 감격의 상봉…'키스 더 라디오' 재회에 역대급 케미 폭발]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24216</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24216"/>
+        <updated>2024-09-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신흥 대세 아티스트 주니(JUNNY)가 스페셜 DJ로 '플러팅 장인'의 새로운 매력을 발산했다.주니(JUNNY)는 지난 9일과 10일 KBS 쿨FM '몬스타엑스 아이엠(I.M)의 키스 더 라디오'(이하 '키스 더 라디오')에 스페셜 DJ에 이어 게스트로 출연하며 기분 좋은 밤을 선사했다.'키스 더 라디오' 시그널송의 주인공이자 약 2개월 간 매주 화요일마다 '키스 더 라디오'의 유일한 고정 게스트로 활약 중인 주니(JUNNY)는 이번에 해외 투어 공연을 떠난 D..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로코베리 손잡은 주은, 19일 신곡 ‘1,2,3,4’ 발매 확정! 문수진 피처링 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24211</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24188"/>
         <updated>2024-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 김소연이 다채로운 매력을 발산했다.김소연은 지난 2일 방송된 KBS 1TV '가요무대'의 '고향사랑의 날 특집'에 출연했다.이날 김소연은 최정자의 '초가삼간'을 선곡해 무대를 펼쳤다. 흰색 미니 드레스와 검고 긴 웨이브 머리를 늘어뜨린 김소연의 비주얼이 시선을 집중시켰다.이와 함께 김소연의 안정적인 가창력 역시 몰입도를 높였다. 트레이드 마크인 애교 넘치는 콧소리로 '초가삼간'을 자신만의 스타일로 재해석한 김소연은 남다른 강약 조절로 곡..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ 방예담, 새 앨범 'GOOD ViBES’ 발매 기념 포토 프레임 출시 ‘열띤 팬 소통’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24185</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24185"/>
-        <updated>2024-09-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 방예담이 새 앨범 발매를 기념하여 포토 프레임을 출시, 활발한 팬 소통을 이어간다.방예담은 지난달 28일 새 앨범 'GOOD ViBES (굿 바이브즈)' 발매를 하루 앞두고 진행한 'LISTENING PARTY : #GOODViBESONLY (리스닝 파티 : #굿바이브즈온리)'에서 국내 대표 셀프 포토 브랜드 '포토시그니처'와 함께한 한정판 포토 프레임을 선보였다.서울 을지로에서 진행된 이번 행사는 솔로 아티스트 방예담의 새로운 감성을 만끽할 수 있는 자리로 다양한 셀럽과 동료 연예인..]]></content>
     </entry>
 </feed>
