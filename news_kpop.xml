@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-12T02:42:10.252Z</updated>
+    <updated>2024-09-12T03:18:17.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고스트나인, 슈트 입은 회사원 변신! 데뷔 4주년 맞아 팝업스토어 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24218</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24218"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 고스트나인(GHOST9)이 데뷔 4주년 기념 팝업스토어를 열고 팬들과 특별한 시간을 보낸다.&nbsp;고스트나인(이신, 손준형, 이강성, 최준성, 프린스, 이우진, 이진우)은 오는 20일부터 30일까지 서울 중구에 위치한 현대시티아울렛 동대문점 지하 1층 에버라인 스토어에서 팝업스토어를 연다.&nbsp;이번 팝업스토어는 '고나기획'이라는 콘셉트로 회사원이 된 고스트나인 멤버들을 만나볼 수 있다. 또 다양한 MD 전시 및 판매가 이뤄지며, 특별한 포토존과 현장에서 즐길 수 있는 다양한 이벤트 및 팬들을 위한 스페셜 기프트도 준비해 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주니(JUNNY), 몬스타엑스 아이엠과 감격의 상봉…'키스 더 라디오' 재회에 역대급 케미 폭발]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24216</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24189"/>
         <updated>2024-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[데뷔 20주년을 맞은 가수 윤하가 풍성한 명곡 메들리 라이브로 팬들에게 즐거움을 선사했다. 카카오엔터테인먼트의 글로벌 K팝 대표 미디어 1theK(원더케이)가 기획 제작하는 이색 라이브 콘텐츠 ‘RE:@LIVE(리얼라이브)’에 출연, 20년간 사랑을 받았던 히트곡들을 라이브로 선보이며 팬들과 특별한 시간을 나눈 것.1theK ‘리얼라이브’는 아티스트가 스페셜 라이브 무대를 선보이며 팬들의 다양한 응원 등의 댓글을 확인, 소통을 나누는 신개념 라이브 콘텐츠다. 지난 2일 공개된 ‘리얼라이브’에서 윤하는 20년간 많은 곡들을 선보여온 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가요무대' 김소연, 애교 콧소리에 남다른 강약 조절까지…'초가삼간' 완벽 무대]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24188</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24188"/>
-        <updated>2024-09-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 트로트 가수 김소연이 다채로운 매력을 발산했다.김소연은 지난 2일 방송된 KBS 1TV '가요무대'의 '고향사랑의 날 특집'에 출연했다.이날 김소연은 최정자의 '초가삼간'을 선곡해 무대를 펼쳤다. 흰색 미니 드레스와 검고 긴 웨이브 머리를 늘어뜨린 김소연의 비주얼이 시선을 집중시켰다.이와 함께 김소연의 안정적인 가창력 역시 몰입도를 높였다. 트레이드 마크인 애교 넘치는 콧소리로 '초가삼간'을 자신만의 스타일로 재해석한 김소연은 남다른 강약 조절로 곡..]]></content>
     </entry>
 </feed>
