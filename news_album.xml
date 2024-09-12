@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-12T03:18:17.965Z</updated>
+    <updated>2024-09-12T04:21:24.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['힙합 특급 신예' 수엔, 오늘(12일) 신곡 'Like That' 발매...호미들 CK 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24219</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24219"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 아티스트 수엔(Suen)이 힙한 감성의 신곡을 선보인다.수엔은 12일 오후 6시 각종 음원 사이트를 통해 새 디지털 싱글 '라이크 댓(Like That) (with CK of Homies)'을 발매하고 글로벌 팬들 곁에 돌아온다.?'라이크 댓'은 힙한 코러스가 매력적인 곡으로, Mnet 댄스 서바이벌 프로그램 '스트릿 우먼 파이터 2'에서 최종 우승을 차지한 댄스 크루 베베(BEBE)의 리더 바다의 유튜브 채널을 통해 처음 공개됐다. 해당 유튜브 채널에서 바다와 여러 유명 게스트들이 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김승민X래원, 영화 '소년시절의 너' 가창자 참여…14일 신곡 '하루종일' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24217</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24197"/>
         <updated>2024-09-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 서리(Seori)가 희망적인 메시지를 전한다.서리(Seori)가 가창에 참여한 '더하기 기억'의 플레이 프로젝트 일곱 번째 음원 'High(하이)'가 오는 10일 발매를 확정했다.&nbsp;'더하기 기억'의 플레이 프로젝트는 '지나간 일상에 그리움을 더하고 새로움을 입힌다'는 슬로건 아래 좋은 음악들을 소개하고 있다. 서리가 참여한 'High'는 밝은 신스 베이스 기반의 브리티시 팝 사운드가 인상적인 곡이다. 서리 특유의 몽환적인 음색이 곡에 깊이 있는 감정..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경서 Pick’ 싱어송라이터 Hion, 오늘(5일) 정식 데뷔! 첫 싱글 ‘별’ 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24195</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24195"/>
-        <updated>2024-09-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신인 아티스트 Hion이 가요계에 출사표를 던진다.Hion은 5일 오후 6시 각종 온라인 음원 사이트를 통해 첫 번째 싱글 ‘별’을 발매하며 정식 데뷔한다.‘별’은 Hion이 직접 작사, 작곡을 맡은 자작곡이다. Hion은 데뷔 전부터 음악 플랫폼 사운드클라우드를 통해 이 곡을 공개하며 팬층을 불러모았고, 정식 발매 요청이 쇄도해왔다.특히 Hion의 맑고 유니크한 음색이 매력적인 기타 라인을 이끌며 풋풋하고 싱그러운 감성을 선사한다.Hion은 소속사 꿈의엔진에서 경서와 한솥밥을 먹고 있는 18세 신예 싱어송라이터다. ‘별’ 외에도 ..]]></content>
     </entry>
 </feed>

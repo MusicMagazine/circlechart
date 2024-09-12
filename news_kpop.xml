@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-12T03:18:17.964Z</updated>
+    <updated>2024-09-12T04:21:24.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, '설렘 한도 초과' 현실 남친美 정석...'너의 남자 (Boyfriend)' 콘셉트 포토 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24220</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24220"/>
+        <updated>2024-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 남우현이 순정만화 주인공 같은 화사한 비주얼을 뽐냈다.소속사 빌리언스는 12일 0시 공식 SNS를 통해 남우현의 세 번째 디지털 싱글 '너의 남자 (Boyfriend)' 콘셉트 포토를 공개했다.공개된 이미지는 청바지에 그레이 톤의 니트를 매치한 의상을 입고 포즈를 취하는 남우현의 다양한 모습을 담고 있어 단번에 이목을 집중시켰다.이미지 속 남우현은 캐주얼한 스타일링과 더불어 눈부신 비주얼과 싱그러운 미소로 설렘 가득한 '현실 남친미'를 뽐냈다. 소파에 누워 필름 카메라를 바라보거나 화면을 바라보며 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고스트나인, 슈트 입은 회사원 변신! 데뷔 4주년 맞아 팝업스토어 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24218</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24192"/>
         <updated>2024-09-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 원호(WONHO)가 소집해제 됐다.2022년 12월 5일 사회복무요원으로 대체 복무를 시작한 원호는 약 1년 8개월 동안 병역 의무를 성실히 이행하고 마침내 글로벌 팬들 곁으로 돌아오게 됐다.원호는 소속사 하이라인엔터테인먼트를 통해 "위니(원호 공식 팬클럽명)들을 만날 수 없는 시간이었기에 유난히 길게 느껴졌던 것 같다. 매일을 열심히 보내면서도 위니 생각을 하루도 놓은 적이 없다"라고 소감을 전했다.이어 "위니들이 기다려준 만큼 소중한 추억 만들어 드릴 수 있도록 노력하고, 더 좋은 모습으로 보답하겠다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 20주년 윤하, 1theK ‘리얼라이브’ 출연  13개 명곡 ‘갓벽’ 메들리 라이브 선사.. 역시 ‘히트곡 부자’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24189</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24189"/>
-        <updated>2024-09-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[데뷔 20주년을 맞은 가수 윤하가 풍성한 명곡 메들리 라이브로 팬들에게 즐거움을 선사했다. 카카오엔터테인먼트의 글로벌 K팝 대표 미디어 1theK(원더케이)가 기획 제작하는 이색 라이브 콘텐츠 ‘RE:@LIVE(리얼라이브)’에 출연, 20년간 사랑을 받았던 히트곡들을 라이브로 선보이며 팬들과 특별한 시간을 나눈 것.1theK ‘리얼라이브’는 아티스트가 스페셜 라이브 무대를 선보이며 팬들의 다양한 응원 등의 댓글을 확인, 소통을 나누는 신개념 라이브 콘텐츠다. 지난 2일 공개된 ‘리얼라이브’에서 윤하는 20년간 많은 곡들을 선보여온 ..]]></content>
     </entry>
 </feed>
