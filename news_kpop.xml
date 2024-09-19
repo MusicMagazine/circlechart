@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-19T07:16:58.913Z</updated>
+    <updated>2024-09-19T08:22:51.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[August 2024 CIRCLE CHART: Jimin, aespa, and ZEROBASEONE Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24237</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24237"/>
+        <updated>2024-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The August CIRCLE CHART saw strong showings by Jimin, aespa, and ZEROBASEONE.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for August 2024, Jimin dominated the Global K-pop Chart while aespa and ZEROBASEONE each topped 2 charts."&nbsp;Jimin of BTS topped the Global ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 35 CIRCLE CHART: Jimin, aespa, and ZEROBASEONE Dominate the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24236</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24211"/>
         <updated>2024-09-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 주은이 문수진과 시티팝으로 늦여름 감성을 저격한다.주은은 오는 19일 낮 12시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘1,2,3,4(Feat.문수진)’를 발매한다.‘1,2,3,4’는 주은과 R&amp;B 보컬리스트 문수진의 독보적인 보컬 시너지가 담긴 시티팝 장르의 곡이다. 주은의 유니크한 음색과 문수진의 소울풀한 가창이 절묘하게 조화를 이루며 늦여름과 어울리는 낭만을 선사할 예정이다.주은과 함께 브라더후드엔터테인먼트의 수장이자 히트 메이커 로코베리(로코, 베리) 그리고 뉴진스의 밴드마스터인 Nois upG..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘더트롯 연예뉴스’ 신유, 10월 컴백 예고 “자작곡 타이틀은 처음…음악 인생 시작”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24207</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24207"/>
-        <updated>2024-09-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 신유가 10월 컴백을 예고했다.신유는 지난 9일 방송된 SBS M ‘더트롯 연예뉴스’에 출연해 근황과 함께 신곡 발매를 예고했다.트로트 스타들을 만나 이야기를 들어보는 ‘스타 Who 코너’에 출연한 신유는 ‘더트롯쇼’ 추석 특별 무대를 앞두고 한복을 입고 등장했다. 신유는 훈훈한 비주얼을 칭찬 받자 “뭐 갖고 싶은 게 있으시냐”고 너스레를 떨며 분위기를 녹였다.&nbsp;‘데뷔 17년 차’ 신유는 자신의 롱런 비결에 대해 “평범한 것”이라고 말해 망언 스타 대열에 합류했다. 신유는 “꾸준함과 평범함, 저 되게 평범하다”며 “시간이 지날..]]></content>
     </entry>
 </feed>
