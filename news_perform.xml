@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-09-19T01:15:47.461Z</updated>
+    <updated>2024-09-19T02:45:31.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 첫 日 솔로 팬콘 성료…신곡 전곡 밴드 라이브+현지곡 재해석 ‘팬심 들썩’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24232</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24232"/>
+        <updated>2024-09-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 첫 일본 솔로 팬콘을 성황리에 마쳤다.윤산하는 지난 14일과 15일 오사카 NHK 오사카홀, 17일과 18일 도쿄 소닉시티홀 메인홀 등 일본 2개 도시에서 4회에 걸친 첫 솔로 팬콘 ‘Dusk Till Dawn’(더스크 틸 던)을 개최했다.‘Dusk Till Dawn’은 윤산하가 지난달 발매한 솔로 데뷔 앨범 ‘DUSK’(더스크)의 연장선에 있는 단독 공연이다. 공연 타이틀과 테마에 걸맞게 황혼부터 새벽에 이르는 하늘처럼 다채로운 윤산하의 음악적 스펙트럼과 무대력이 그간의 성장을 보여줬다.서정적인..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이핑크 초봄(박초롱·윤보미), 2년 만에 유닛 활동 재개! 10월 단독 팬미팅 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24222</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24190"/>
         <updated>2024-09-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 EPEX(이펙스)가 팬콘 투어의 대미를 장식하며 행복한 청춘 추억을 남겼다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 1일과 3일 제프 오사카 베이사이드(Zepp Osaka Bayside), 도쿄 제프 하네다(Zepp Haneda)에서 두 번째 팬콘 투어 ‘YOUTH DAYS(유스 데이즈)’의 마지막 일본 공연을 개최했다.‘YOUTH DAYS’는 이펙스가 지난해에 이어 2년 연속 진행한 팬콘 투어로, 지난 7월 서울에서 시작해 8월 대만과 마카오, 이달 오사카와 도쿄까지 5개 도시 총 9회 공연이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘페스티벌계 황제’ 데이브레이크, 오는 7일 ‘2024 이슬라이브 페스티벌’ 출격…자라섬 뜨겁게 달굴 퍼포먼스 예고!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24187</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24187"/>
-        <updated>2024-09-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[‘페스티벌계 황제’ 데이브레이크가 자라섬을 뜨겁게 달군다.데이브레이크(이원석, 김선일, 김장원, 정유종)는 오는 7일(토) 경기도 가평군 자라섬에서 열리는 ‘2024 이슬라이브 페스티벌’에 출격, 에너지 넘치는 무대로 페스티벌을 빛낸다.‘2024 이슬라이브 페스티벌’은 자라섬을 대표하는 페스티벌 중 하나이자 세계 유일 소주 뮤직페스티벌로, 에일리, 멜로망스, 이무진 등 다양한 분야의 유명 아티스트가 참여하는 것으로 알려져 MZ 세대들의 관심을 모으고 있다.지난달 30일에는 ‘2024 이슬라이브 페스티벌’ 공식 SNS를 통해 페스티벌..]]></content>
     </entry>
 </feed>
