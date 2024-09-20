@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-09-20T02:46:04.618Z</updated>
+    <updated>2024-09-20T03:20:12.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제시, DOD와 전속계약 체결→독립 레이블 언니(UNNI) 설립...새로운 도약 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240"/>
+        <updated>2024-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 제시(Jessi)가 새 출발 소식을 알렸다.제시는 최근 종합 엔터테인먼트사 디오디(DOD)와 레이블 및 매니지먼트 계약을 체결하고, 독립 레이블 언니(UNNI)를 설립하여 새로운 도약을 알렸다.제시는 본인이 추구하는 음악적 성향에 맞춰 독자적인 활동을 위한 법인 언니(UNNI)를 설립했다. 디오디와 레이블 및 매니지먼트 계약을 체결함으로서 더욱 풍성한 활동을 펼쳐 나갈 전망이다.디오디는 "다재다능한 끼와 재능을 가진 제시가 음악은 물론 다양한 분야에서 역량을 펼칠 수 있도록 최선을 다해 서포트할 예정"이라며 그의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이아 출신 주은, 로코베리와 손잡았다…브라더후드엔터 전속계약]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23681"/>
         <updated>2024-04-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 샤이니(SHINee) 멤버 겸 솔로 아티스트 태민(TAEMIN)이 감각적인 비주얼을 선보였다.태민은 지난 3일 오후 6시 공식 SNS와 유튜브 채널에 비주얼 필름을 공개하며 새 출발을 알렸다.비주얼 필름 속 태민은 셔츠와 니트 소재의 두 가지 스타일로 다채로운 콘셉트 소화력을 보여주고 있다. 감각적인 영상미를 통해 태민의 독보적인 비주얼과 분위기를 더욱 매력적으로 만날 수 있다.특히 모든 움직임이 멋이 되는 태민만의 아우라가 눈길을 사로잡는다. 태민은 매일 리즈를 경신하는 미모로 또 한번 글로벌 팬들을 매료시키고 있다.태민은 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.CH엔터, '한일가왕전' 日 TOP7 매니지먼트 맡는다…"트로트의 힘으로 한일 교류 도모할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23671</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23671"/>
-        <updated>2024-04-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[n.CH엔터테인먼트가 트로트 시장에서도 경쟁력을 보여주고 있다.n.CH엔터테인먼트는 3일 "자사가 MBN 오디션 프로그램 '한일가왕전'에 출연하는 일본 출연진들의 매니지먼트를 맡게 됐다"고 밝혔다.지난 2일 첫 방송된 '한일가왕전'은 한국의 '현역가왕'과 일본의 '트롯걸즈 재팬(Trot Girls Japan)' TOP7으로 선정된 양국의 트로트 국가대표들이 자국의 명예를 걸고 펼치는 세계 최초 트로트 한일전이다.&nbsp;앞서 일본 대표 위성 방송 채널 'WOWO..]]></content>
     </entry>
 </feed>
