@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-09-22T23:17:26.212Z</updated>
+    <updated>2024-09-23T01:17:23.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['불타는 트롯맨' TOP7, 오늘(23일) 정오 마지막 싱글 '약속' 발매! 1년 6개월 추억 담았다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24242</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24242"/>
+        <updated>2024-09-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['불타는 트롯맨' TOP7의 마지막 팬송이 베일을 벗는다.'불타는 트롯맨' TOP7(손태진, 신성, 민수현, 김중연, 박민수, 공훈, 에녹)은 23일 정오 각종 온라인 음원사이트를 통해 새 싱글 '약속(You and I)'을 발매한다.'약속'은 '불타는 트롯맨' TOP7이 1년 6개월의 활동을 마무리하며 팬들을 위해 준비한 마지막 선물이다. 그동안 많은 사랑과 열띤 응원을 보내준 팬들에게 고마운 마음을 전하는 팬송으로, TOP7 멤버 전원의 다양한 아이디어를 더..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[츄, 오늘(19일) 네이버웹툰 '환생좌' 컬래버 음원 'IN MY DREAM' 발매…세계관 담았다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24233</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24217"/>
         <updated>2024-09-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 김승민과 래원(Layone)이 영화 '소년시절의 너' 가창자로 나선다.김승민과 래원이 가창한 영화 '소년시절의 너' 컬래버레이션 음원 '하루종일'이 오는 14일 발매된다.'하루종일'은 주인공들의 애틋한 상황을 그려내며 영화의 여운을 더욱 끌어올릴 전망이다. 리드미컬한 사운드 위에 김승민의 감각적인 음색과 래원의 독특한 라임과 플로우가 조화를 이루며 듣는 재미를 더한다.특히 '하루종일'은 김승민과 래원이 직접 작곡과 작사에 참여해 주인공의 마음을 솔직한 가사..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정효빈, 13일 신곡 ‘어린 마음 꽃이 피었나’ 발매 확정! 화사한 새 프로필 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24215</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24215"/>
-        <updated>2024-09-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 정효빈이 오는 13일 컴백을 앞두고 꽃처럼 싱그러운 비주얼을 선보였다.정효빈은 새 디지털 싱글 ‘어린 마음 꽃이 피었나’ 발매에 앞서 지난 10일 오후 정효빈 공식 SNS를 통해 새로운 프로필 사진을 공개했다.사진 속 정효빈은 꽃 사이에 앉아 무언가를 회상하는 듯한 모습이다. 정효빈의 화사하면서 청초한 비주얼과 분위기가 이번 신곡 ‘어린 마음 꽃이 피었나’를 향한 기대감을 높이고 있다.‘어린 마음 꽃이 피었나’는 정효빈이 지난 7월 발매한 ‘빗속에’ 이후 2개월 만에 선보이는 신곡이다. 정효빈은 직접 작사에 참여한 가사로 사랑..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-09-22T23:17:26.248Z</updated>
+    <updated>2024-09-23T01:17:23.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, 단독 콘서트 '식목일4' 성료..."인스피릿=나의 뮤즈, 좋은 활동으로 보답할 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24245</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24245"/>
+        <updated>2024-09-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 남우현이 단독 콘서트를 성황리에 마쳤다.남우현은 지난 21일과 22일 양일간 서울 올림픽공원 올림픽홀에서 '2024 남우현 네 번째 솔로 콘서트 '식목일4 - 트리 월드'(2024 NAM WOO HYUN 4TH SOLO CONCERT '식목일4 - TREE WORLD')'(이하 '식목일4')를 개최하고 팬들과 만났다.이번 콘서트는 오프라인뿐만 아니라 공연장을 찾지 못한 국내외 팬들까지도 현장의 열기를 생생하게 느끼며 함께 즐길 수 있도록 K팝 팬덤 플랫폼 빅크(BIGC)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 첫 日 솔로 팬콘 성료…신곡 전곡 밴드 라이브+현지곡 재해석 ‘팬심 들썩’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24232</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24200"/>
         <updated>2024-09-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA['마왕' 신해철을 위한 트리뷰트 콘서트에 선후배 아티스트들이 함께한다.신해철 트리뷰트 콘서트 '마왕 10th : 고스트 스테이지' 제작진은 일반 티켓 예매를 앞둔 6일 출연 아티스트 라인업을 전체 공개했다.고(故) 신해철의 10주기를 기념해 열리는 '마왕 10th : 고스트 스테이지'는 오는 10월 26일과 27일 인천 영종도 인스파이어 아레나에서 진행된다. 신해철을 기억하고 변함없이 사랑하는 이들을 위해 마련됐으며, 앞서 블라인드 티켓이 오픈 직후 빠르게 전량 매진을 기록해 화제를 모았다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 5개 도시 팬콘 투어 성료! 日까지 달군 ‘YOUTH DAYS’ 화려한 대미]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24190</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24190"/>
-        <updated>2024-09-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 팬콘 투어의 대미를 장식하며 행복한 청춘 추억을 남겼다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 1일과 3일 제프 오사카 베이사이드(Zepp Osaka Bayside), 도쿄 제프 하네다(Zepp Haneda)에서 두 번째 팬콘 투어 ‘YOUTH DAYS(유스 데이즈)’의 마지막 일본 공연을 개최했다.‘YOUTH DAYS’는 이펙스가 지난해에 이어 2년 연속 진행한 팬콘 투어로, 지난 7월 서울에서 시작해 8월 대만과 마카오, 이달 오사카와 도쿄까지 5개 도시 총 9회 공연이..]]></content>
     </entry>
 </feed>
