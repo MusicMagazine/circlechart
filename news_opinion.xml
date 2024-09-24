@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-09-24T01:17:33.775Z</updated>
+    <updated>2024-09-24T02:49:36.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이식스 데뷔 10년 차 리뷰]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24253</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24253"/>
+        <updated>2024-09-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[올해로 데뷔 10년 차를 맞은 데이식스가 36~37주차 2주 연속 각기 다른 노래로 디지털 주간차트 1위에 올랐습니다. 사실, 데이식스가 디지털 차트에서 1위를 차지한 것은 이번이 처음입니다.&nbsp;&nbsp;또한, 기 발표 곡인 '한 페이지가 될 수 있게', '예뻤어' 등이 오랜 역주행 끝에 최근 차트 최상위권에 오르기도 했는데요,이번 칼럼에서는 데이식스와 관련한 과거부터 현재까지의 데이터를 살펴보도록 하겠습니다.&nbsp;데이식스는 데뷔 10년 차 밴드임에도 불구하고 주간 디지털 차트 50위권에 오른 곡들이 예상외로 적었으..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올림픽 스포츠 스타와 음악시장 - 8월 리뷰(2024)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24223</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23815"/>
         <updated>2024-05-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2024년 4월 TOP400 가수별 써클지수 점유율 조사에서 아이유가 400위권 내 총 16곡을 올려놓으며 (합산)점유율 4.2%로 1위에 올랐습니다.2024년 4월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 0.3% 증가했지만, 전년 동기에 비해서는 12.1% 감소한 것으로 조사되었습니다.&nbsp;&nbsp;2024년 4월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 94.3%, 전년 동기에 비해서는 22.3% 증가했습니다.&nbsp;2024년 4월 TOP400 가수별 앨범 판매량 점유율 조사에서 세..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<이슈&이슈> 하이브의 멀티 레이블 시스템 ?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23750</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23750"/>
-        <updated>2024-04-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[하이브의 멀티 레이블 시스템은 음악 비즈니스에서 말하는, 레이블 아래 딸려 있는 서브레이블(산하 레이블)의 개념을 말합니다. 예를 들어, 유니버설 뮤직 그룹은 산하에 팝뮤직을 담당하는 ‘EMI Record’외에도 ‘DEF JAM RECORDINGS’이라는 힙합 전문 레이블과 ‘Deutsche Grammophon’과 같은 클래식 음악 전문 레이블 등을 두고 있습니다.일반적으로 레이블이 산하에 여러 레이블을 두는 이유는, 메인 레이블의 브랜드를 희석시키지 않으면서 다양한 장르의 음악을 통해 더 많은 음악 소비자에게 다가가기 위함입니다...]]></content>
     </entry>
 </feed>
