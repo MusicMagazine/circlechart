@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-26T01:16:40.998Z</updated>
+    <updated>2024-09-26T02:48:20.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 ‘BORN LIKE THIS’ 첫 번째 콘셉트 포토 공개...컴백 기대감 UP]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24261</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24261"/>
+        <updated>2024-09-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 새 앨범의 첫 번째 콘셉트 포토를 공개했다.AB6IX는 26일 자정 AB6IX 공식 SNS 채널들을 통해 9TH EP ‘BORN LIKE THIS’의 첫 번째 콘셉트 포토를 공개하며 팬들의 시선을 사로잡았는데,&nbsp;공개된 단체 콘셉트 포토 속 멤버들은 캐주얼한 착장으로 각자의 개성을 드러내며 훈훈한 비주얼로 눈길을 끌었다.또한 4인 4색 개인 콘셉트 포토에서 전웅은 분홍색 머리를 완벽하게 소화하며 날카로운 옆모습을 드러냈고,&nbsp;김동현은 블랙 니트와 안경을 매치해 세련되면서도 댄디한 스타일링으로 매력을 극대..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 정규 1집 ‘1991’ 트랙리스트 공개…더블 타이틀곡 ‘33’·‘OLD TOWN’ 포함 총 12곡 수록]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24249</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24236"/>
         <updated>2024-09-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 35 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by Jimin, aespa, and ZEROBASEONE.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 35 (2024.08.25.~2024.08.31.), Jimin topped the Global K-pop Chart while aespa and ZEROBASEONE each topped 2 charts”.Jimin of BTS has..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 35 CIRCLE CHART: ZEROBASEONE 'CINEMA PARADISE' Tops August Retail Album Cha..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24235</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24235"/>
-        <updated>2024-09-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[ZEROBASEONE 'CINEMA PARADISE' topped the monthly Retail Album Chart for August 2024 by selling 406,927 copies at retailers.'CINEMA PARADISE' is the 4th mini-album from ZEROBASEONE and features a total of 7 tracks including the title track 'GOOD SO BAD'.The No. 2 spot of the m..]]></content>
     </entry>
 </feed>
