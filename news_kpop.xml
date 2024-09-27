@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-26T23:17:30.212Z</updated>
+    <updated>2024-09-27T01:17:36.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['10월 컴백' 티아이오티(TIOT), 새 싱글 무빙 포스터 공개! 감각적 영상미 '기대']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24262</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24262"/>
+        <updated>2024-09-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 컴백을 앞두고 기대감을 고조시키고 있다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 27일 0시 공식 SNS를 통해 새 디지털 싱글 '그 계절 긴 터널을 지나'의 무빙 포스터를 공개했다.공개된 영상 속 티아이오티는 한 편의 영화 같은 무드로 눈길을 끌고 있다. 티아이오티는 서점과 학교 앞 등 일상적인 공간에서 우연히 서로를 마주치며 공허하면서도 아련한 분위기를 드러내 팬들의 기대감을 높였다.특히 "눈부신 저 빛은 뭔가 우릴 부르는 것 같단 말야 / 생각보다는 쉽지 않은 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스), 새 앨범 ‘BORN LIKE THIS’ 첫 번째 콘셉트 포토 공개...컴백 기대감 UP]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24261</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24237"/>
         <updated>2024-09-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The August CIRCLE CHART saw strong showings by Jimin, aespa, and ZEROBASEONE.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for August 2024, Jimin dominated the Global K-pop Chart while aespa and ZEROBASEONE each topped 2 charts."&nbsp;Jimin of BTS topped the Global ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 35 CIRCLE CHART: Jimin, aespa, and ZEROBASEONE Dominate the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24236</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24236"/>
-        <updated>2024-09-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 35 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by Jimin, aespa, and ZEROBASEONE.&nbsp;KMCA, publisher of CIRCLE CHART, announced that “As of week 35 (2024.08.25.~2024.08.31.), Jimin topped the Global K-pop Chart while aespa and ZEROBASEONE each topped 2 charts”.Jimin of BTS has..]]></content>
     </entry>
 </feed>
