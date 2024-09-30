@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-09-30T07:18:11.863Z</updated>
+    <updated>2024-09-30T08:25:07.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 38 CIRCLE CHART: P1Harmony 'SAD SONG' is No. 1 in Retail Album Chart]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24271</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24271"/>
+        <updated>2024-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In the week 38 CIRCLE CHART of 2024, P1Harmony 'SAD SONG' topped the weekly Retail Album Chart by selling 80,830 copies at retailers.'SAD SONG' was the top seller as of 5PM (KST) on the date of its release, September 20th (Friday, week 38).‘SAD SONG’ is the 7th mini-album from P1Harm..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더윈드, '반가워, 나의 첫사랑' 포인트 안무+트랙비디오 공개! 태터 안무 디렉팅 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24270</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24244"/>
         <updated>2024-09-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 AB6IX (에이비식스)가 새 앨범 커밍순 포스터를 공개하며 컴백 소식을 알렸다.AB6IX는 23일 자정 AB6IX 공식 SNS 채널들을 통해 아홉 번째 EP ‘BORN LIKE THIS’의 커밍순 포스터를 깜짝 공개해 팬들의 뜨거운 반응을 얻었는데,&nbsp;공개된 포스터에는 기타, 카세트테이프, PARTY 등 다양한 디자인의 포스터가 벽에 잔뜩 붙어 있어 힙한 분위기를 자아냈고&nbsp;어두운 배경 속에 풍선 다발, 조명 등이 눈에 띄며 호기심을 자극했다.또한, 둥근 폰트로 앨범명 ‘BORN LIKE THIS’가 적혀 있어 앨범명에 담긴 의..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['10월 4일 컴백' 어센트(ASC2NT), 비주얼 파격 변신…퇴폐미 넘치는 아우라]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24243</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24243"/>
-        <updated>2024-09-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 어센트(ASC2NT)가 세련된 비주얼로 파격 변신했다.&nbsp;어센트(가람, 인준, 제이, 레온, 카일)는 23일 0시 공식 SNS를 통해 두 번째 싱글 앨범 'Conversion Part.1(컨버전 파트원)'의 나이트(Night) 버전 콘셉트 포토를 공개했다.&nbsp;앞서 데이(Day) 버전 콘셉트 포토를 통해 청량하면서도 몽환적인 아우라를 발산한 어센트는 이번에는 한 번도 보여준 적 없던 상반된 콘셉트를 선보이며 팬들의 시선을 사로잡았다.&nbsp;어센트는 나이트 버전 콘셉트에 맞게 레드빛의 조명 아래에서 블랙 슈트를 입고 치명적인..]]></content>
     </entry>
 </feed>
