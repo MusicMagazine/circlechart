@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-04T01:17:46.841Z</updated>
+    <updated>2024-10-04T02:50:41.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[서하준, 11월 1년 8개월 만의 일본 팬미팅 개최…"행복한 시간 선사할 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24277</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24277"/>
+        <updated>2024-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[배우 서하준이 11월 일본에서 팬미팅을 진행한다.서하준은 오는 11월 27일 오사카 TEMPO HARBOR THEATER(템포 하버 시어터), 11월 28일 도쿄 SHIBUYA PLEASURE PLEASURE(시부야 플레저 플레저)에서 일본 팬미팅 'Reunion(리유니온)'을 개최한다.'Reunion'은 서하준이 지난해 3월 개최한 도쿄 팬미팅 이후 1년 8개월 만에 일본 팬들을 만나는 자리다. 팬미팅 개최 소식이 공개됨과 동시에 현지 팬들의 뜨거운 관심을 모으고 있다.서하준은 "1년 8개월 만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수, 데뷔 25주년 기념 콘서트 '여행, The Original' 성료! 6개월간 총 10개 도시 투어]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24267</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24232"/>
         <updated>2024-09-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 아스트로(ASTRO) 윤산하가 첫 일본 솔로 팬콘을 성황리에 마쳤다.윤산하는 지난 14일과 15일 오사카 NHK 오사카홀, 17일과 18일 도쿄 소닉시티홀 메인홀 등 일본 2개 도시에서 4회에 걸친 첫 솔로 팬콘 ‘Dusk Till Dawn’(더스크 틸 던)을 개최했다.‘Dusk Till Dawn’은 윤산하가 지난달 발매한 솔로 데뷔 앨범 ‘DUSK’(더스크)의 연장선에 있는 단독 공연이다. 공연 타이틀과 테마에 걸맞게 황혼부터 새벽에 이르는 하늘처럼 다채로운 윤산하의 음악적 스펙트럼과 무대력이 그간의 성장을 보여줬다.서정적인..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 초봄(박초롱·윤보미), 2년 만에 유닛 활동 재개! 10월 단독 팬미팅 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24222</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24222"/>
-        <updated>2024-09-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[걸그룹 에이핑크(Apink) 유닛 초봄(CHOBOM)이 2년 만에 팬미팅을 개최한다.에이핑크 초봄(박초롱, 윤보미)은 오는 10월 5일 오후 2시와 7시 등 2회차에 걸쳐 서울 성신여대 운정그린캠퍼스 대강당에서 2024 팬미팅 투어 'MATCH IN SEOUL (매치 인 서울)'을 개최한다.'MATCH'는 에이핑크 초봄이 지난 2022년 개최한 팬미팅 'Framily (프래밀리)' 이후 2년 만에 준비한 단독 공연이다. 2년간 다양한 활동을 펼쳐온 박초롱과 윤보미의 다채로운 매력은 물론, ..]]></content>
     </entry>
 </feed>
