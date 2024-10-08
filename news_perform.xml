@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-07T23:16:54.592Z</updated>
+    <updated>2024-10-08T01:17:31.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하, 연말 전국투어 인천·대구·부산 개최 확정! 20회 릴레이 콘서트 대미]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24287</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24287"/>
+        <updated>2024-10-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 윤하가 연말 전국투어로 총 20회 릴레이 콘서트의 대미를 장식한다.윤하는 지난 7일 공식 SNS를 통해 2024 연말 콘서트 ‘GROWTH THEORY (그로우스 띠어리)’의 인천, 대구, 부산 공연 일정이 담긴 포스터를 공개했다.‘GROWTH THEORY’는 올해 데뷔 20주년을 맞아 총 20회의 릴레이 콘서트를 이어온 윤하의 마지막 공연 프로젝트다. 지난 2월과 3월 전국투어 ‘스물’, 7월엔 소극장 콘서트 ‘潤夏 : 빛나는 여름’을 성황리에 마친 윤하가 연말 새로운 전국투어로 돌아온다. 서울 첫 공연이 앞서 11월 15,..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 국내 첫 솔로 팬콘 성료…신곡 ‘Dive’·‘BLEEDING’ 라이브 퍼포먼스 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24284</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24252"/>
         <updated>2024-09-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 최유리의 단독 콘서트 티켓 예매가 오늘(24일) 오후 5시부터 온라인 예매사이트 인터파크 티켓과 세종문화회관 홈페이지에서 진행된다.최유리는 오는 11월 9일과 10일 양일간 세종문화회관 대극장에서 2024 최유리 콘서트 '우리의 언어'를 개최하고 팬들과 만난다.'우리의 언어'는 최유리가 지난해 11월 개최한 단독 콘서트 '생각을 멈추다 보면' 이후 1년 만의 공연으로, 데뷔 4년 만에 세종문화회관 대극장 입성 소식을 알리며 팬들의 뜨거운 관심을 받았다.최유리는 매 공연 전석 매..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이예준, 10월 10주년 기념 단독 콘서트 'Dear Ye's' 개최 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24251</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24251"/>
-        <updated>2024-09-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['무결점 보컬리스트' 이예준이 10주년 기념 단독 콘서트를 연다.이예준은 오는 10월 26일과 27일 서울 이화여자대학교 삼성홀에서 10주년 기념 단독 콘서트 'Dear Ye's (디어 예스)'를 개최한다.'Dear Ye's'는 이예준이 지난해 7월 성료한 'Say Ye's (세이 예스)' 이후 1년여 만에 선보이는 단독 콘서트다. 데뷔 10주년을 기념하는 공연인 만큼 많은 이들이 사랑하는 이예준의 노래를 만날 수 있다.앞서 이예준은 자신의 SNS에 직접..]]></content>
     </entry>
 </feed>
