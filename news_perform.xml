@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-09T23:18:56.065Z</updated>
+    <updated>2024-10-10T01:16:59.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['김재중x김준수' JX 韓·日 콘서트, 개최 전부터 고속 매진 이어 화제성 견인! K-POP 새 역사]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24292</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24292"/>
+        <updated>2024-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[레전드 아티스트 김재중과 김준수가 단독 콘서트로 역대급 화제성을 이끌어내고 있다.김재중과 김준수의 20주년 기념 단독 콘서트 'JX 2024 CONCERT [IDENTITY] in Seoul'(아이덴티티 인 서울)은 지난달 개최 소식에 이어 티켓 오픈에서 빠르게 전석 매진을 기록하며 특급 화제성을 입증했다.'JX 2024 CONCERT [IDENTITY]'은 오는 11월 8, 9, 10일 사흘간 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 개최된다. 이어 12월 14일과 15일 일본 사이타마 베..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하, 연말 전국투어 인천·대구·부산 개최 확정! 20회 릴레이 콘서트 대미]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24287</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24255"/>
         <updated>2024-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 거미가 전국투어의 2차 티켓을 오픈하며 관객들의 기대감을 부풀린다.거미는 24일 오후 소속사 아메바컬쳐 공식 SNS를 통해 2024 전국투어 콘서트 ‘LOVE (러브)’의 전체 공연 일정 및 공연장이 담긴 포스터를 게재하며, 2차 티켓 오픈을 공지했다.연말을 맞아 새 시즌으로 돌아오는 거미의 전국투어 ‘LOVE’는 오는 11월 전주·광주·청주, 12월 부산·서울·대구·성남까지 총 7개 지역에서 열린다. 지난 2016년부터 9년째 전국투어를 성공적으로 이끌고 있는 거미는 꾸준히 사랑받고 있는 히트곡은 물론 새로운 선곡과 이야기로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최유리, 11월 세종문화회관 대극장 입성…오늘(24일) 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24252</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24252"/>
-        <updated>2024-09-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 최유리의 단독 콘서트 티켓 예매가 오늘(24일) 오후 5시부터 온라인 예매사이트 인터파크 티켓과 세종문화회관 홈페이지에서 진행된다.최유리는 오는 11월 9일과 10일 양일간 세종문화회관 대극장에서 2024 최유리 콘서트 '우리의 언어'를 개최하고 팬들과 만난다.'우리의 언어'는 최유리가 지난해 11월 개최한 단독 콘서트 '생각을 멈추다 보면' 이후 1년 만의 공연으로, 데뷔 4년 만에 세종문화회관 대극장 입성 소식을 알리며 팬들의 뜨거운 관심을 받았다.최유리는 매 공연 전석 매..]]></content>
     </entry>
 </feed>

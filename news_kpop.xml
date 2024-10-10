@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-09T23:18:56.087Z</updated>
+    <updated>2024-10-10T01:16:59.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['30일 컴백' 존박, '킬링 보이스' 출격...새 앨범 타이틀곡 '꿈처럼' 최초 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24294</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24294"/>
+        <updated>2024-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 존박이 '킬링 보이스'에서 신곡을 최초 공개했다.딩고 뮤직은 지난 8일 오후 7시 공식 유튜브 채널을 통해 존박의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 존박은 가을 분위기가 물씬 느껴지는, 포근한 니트에 재킷을 매치한 댄디한 스타일링으로 등장부터 시선을 사로잡았다. 이어 "'킬링 보이스'를 즐겨 봤는데 이렇게 나오게 돼 기쁘다. 오늘 여러 노래 들려드리겠다"라는 첫인사로 기대감을 끌어올렸다.존박은 지난 2016년 발매한 싱글 '네 생각'으로 &amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페노메코, 기습 컴백 암시? 미공개 음원 '바람' 무드 비디오 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24289</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24271"/>
         <updated>2024-09-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 38 CIRCLE CHART of 2024, P1Harmony 'SAD SONG' topped the weekly Retail Album Chart by selling 80,830 copies at retailers.'SAD SONG' was the top seller as of 5PM (KST) on the date of its release, September 20th (Friday, week 38).‘SAD SONG’ is the 7th mini-album from P1Harm..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드, '반가워, 나의 첫사랑' 포인트 안무+트랙비디오 공개! 태터 안무 디렉팅 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24270</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24270"/>
-        <updated>2024-09-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 더윈드(The Wind)가 파워풀한 퍼포먼스와 함께 순수하고 예쁜 첫사랑을 노래한다.더윈드(김희수·타나톤·최한빈·박하유찬·안찬원·장현준)는 지난 주말 공식 SNS를 통해 세 번째 미니앨범 'Hello : My First Love'(헬로 : 마이 퍼스트 러브) 타이틀곡 '반가워, 나의 첫사랑'의 챌린지 안무 숏폼 영상과 트랙비디오를 각각 공개했다.챌린지 안무 숏폼을 통해 이번 '반가워, 나의 첫사랑'의 포인트가 되는 퍼포먼스 일부가 베일을 벗었다. 더윈드는 시원시원한 동작과 환한 미소로..]]></content>
     </entry>
 </feed>
