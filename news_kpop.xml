@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-10T06:27:26.393Z</updated>
+    <updated>2024-10-10T07:17:13.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 39 CIRCLE CHART: Jimin, DAY6, and NCT WISH Dominate the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24297</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24297"/>
+        <updated>2024-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 39 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings from Jimin, DAY6, and NCT WISH.KMCA, publisher of CIRCLE CHART, announced that “As of week 39 (2024.09.22.~2024.09.28.), Jimin topped the Global K-pop Chart while DAY6 swept 3 charts and NCT WISH went to No. 1 in the Album Cha..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['30일 컴백' 존박, '킬링 보이스' 출격...새 앨범 타이틀곡 '꿈처럼' 최초 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24294</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24275"/>
         <updated>2024-10-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 약 3개월 만에 돌아온다.2일 소속사 하이업엔터테인먼트는 "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 30일 컴백을 확정했다"라며 "현재 새 앨범 준비에 박차를 가하고 있다"고 밝혔다.&nbsp;이번 앨범은 스테이씨가 지난 7월 발표한 첫 번째 정규앨범 '메타모르픽(Metamorphic)' 이후 약 3개월 만에 발매하는 신보다. 앞서 타이틀곡 'Cheeky Icy Thang (치키 아이씨 땡)'으로 음악적 스펙트럼을 한층 넓힌 스테이씨는 더..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 38 CIRCLE CHART: P1Harmony 'SAD SONG' is No. 1 in Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24271</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24271"/>
-        <updated>2024-09-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 38 CIRCLE CHART of 2024, P1Harmony 'SAD SONG' topped the weekly Retail Album Chart by selling 80,830 copies at retailers.'SAD SONG' was the top seller as of 5PM (KST) on the date of its release, September 20th (Friday, week 38).‘SAD SONG’ is the 7th mini-album from P1Harm..]]></content>
     </entry>
 </feed>
