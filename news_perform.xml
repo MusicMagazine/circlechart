@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-10T23:16:59.365Z</updated>
+    <updated>2024-10-11T01:16:51.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다이나믹 듀오, 20주년 콘서트 메인 포스터 공개! 송강호·최민식과 완벽 싱크로율 ‘역대급 시너지’ 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24301</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24301"/>
+        <updated>2024-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이나믹 듀오가 흥미로운 포스터로 20주년 콘서트를 향한 기대감을 끌어올렸다.다이나믹 듀오(개코, 최자)는 지난 10일 오후 소속사 아메바컬쳐 공식 SNS에 2024 단독 콘서트 ‘가끔씩 오래 보자’의 메인 포스터를 공개했다.이번 포스터는 영화 ‘올드보이’의 촬영장에 놀러 온 배우 송강호와 주인공 최민식이 같이 찍힌 이미지를 패러디했다. 개코와 최자는 각각 송강호와 최민식으로 완벽 변신해 익살스러운 표정 연기로 웃음을 자아냈다. ‘올드보이’ 개봉 이듬해인 2004년 데뷔한 다이나믹 듀오만의 끈끈한 케미스트리가 돋보인다.지난해 ‘황조..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김재중x김준수' JX 韓·日 콘서트, 개최 전부터 고속 매진 이어 화제성 견인! K-POP 새 역사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24292</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24258"/>
         <updated>2024-09-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 최유리의 단독 콘서트가 티켓 오픈과 동시에 전회차 전석 매진됐다.최유리의 2024 단독 콘서트 '우리의 언어'는 지난 24일 오후 5시, 온라인 사이트 인터파크 티켓과 세종문화회관 홈페이지를 통해 티켓을 오픈했다.앞서 최유리는 단독 콘서트 '우리의 언어'의 개최 소식을 알림과 동시에 데뷔 4년 만에 세종문화회관 대극장 입성으로 화제를 모았으며, 예매 시작과 동시에 티켓을 단숨에 매진시켰다.'우리의 언어'는 지난해 11월 진행한 '생각을 멈추다 보면' 이후 최유리가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미, 전국투어 ‘LOVE’ 부산→서울 4개 지역 일정 추가 공개! 27일 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24255</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24255"/>
-        <updated>2024-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 거미가 전국투어의 2차 티켓을 오픈하며 관객들의 기대감을 부풀린다.거미는 24일 오후 소속사 아메바컬쳐 공식 SNS를 통해 2024 전국투어 콘서트 ‘LOVE (러브)’의 전체 공연 일정 및 공연장이 담긴 포스터를 게재하며, 2차 티켓 오픈을 공지했다.연말을 맞아 새 시즌으로 돌아오는 거미의 전국투어 ‘LOVE’는 오는 11월 전주·광주·청주, 12월 부산·서울·대구·성남까지 총 7개 지역에서 열린다. 지난 2016년부터 9년째 전국투어를 성공적으로 이끌고 있는 거미는 꾸준히 사랑받고 있는 히트곡은 물론 새로운 선곡과 이야기로..]]></content>
     </entry>
 </feed>
