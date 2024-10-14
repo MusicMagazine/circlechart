@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-13T23:17:18.042Z</updated>
+    <updated>2024-10-14T01:19:29.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유겸, 솔로 투어 ‘TRUSTY’ 순항 중… 싱가포르 이어 방콕에서 성황리 마무리!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24303</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24303"/>
+        <updated>2024-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 유겸(YUGYEOM)이 성공적인 솔로 투어를 이어가고 있다.유겸은 지난 5일 싱가포르를 시작으로 12일과 13일 태국 방콕에서 2024 YUGYEOM TOUR [TRUSTY (트러스티)]를 개최했다.태국 방콕 Impact Arena에서 양일간 진행된 이번 공연에서 유겸은 특별히 ‘네 잘못이야’, ‘허리를 감싸고’를 편곡해 가창하고, 피처링으로 참여한 태국 곡 ‘OOOWEE (feat. Twopee Southside, YUGYEOM)’를 부르는 등 현지 팬들과 잊지 못할 추억을 쌓았다. 이번 투어를 위해 준비한 미공개 신곡 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이나믹 듀오, 20주년 콘서트 메인 포스터 공개! 송강호·최민식과 완벽 싱크로율 ‘역대급 시너지’ 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24301</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24265"/>
         <updated>2024-09-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[캡틴플래닛(이병호, 최수지)이 특별한 울림을 전한다.캡틴플래닛은 오는 11월 2일과 3일 양일간 서울 이화여자대학교 삼성홀에서 2024 캡틴플래닛 콘서트 'with'를 개최한다. 이에 앞서 27일 오후 6시부터 온라인 티켓예매처 티켓링크를 통해 티켓 예매가 진행된다.2024 캡틴플래닛 콘서트 'with'는 캡틴플래닛이 지난 2022년 선보인 첫 번째 콘서트 'with'의 연장선이자 캡틴플래닛의 이름을 건 두 번째 공연이다.지난 'with'의 부제 '처음'에 이어..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최유리, 단독 콘서트 '우리의 언어' 초고속 전석 매진!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24258</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24258"/>
-        <updated>2024-09-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 최유리의 단독 콘서트가 티켓 오픈과 동시에 전회차 전석 매진됐다.최유리의 2024 단독 콘서트 '우리의 언어'는 지난 24일 오후 5시, 온라인 사이트 인터파크 티켓과 세종문화회관 홈페이지를 통해 티켓을 오픈했다.앞서 최유리는 단독 콘서트 '우리의 언어'의 개최 소식을 알림과 동시에 데뷔 4년 만에 세종문화회관 대극장 입성으로 화제를 모았으며, 예매 시작과 동시에 티켓을 단숨에 매진시켰다.'우리의 언어'는 지난해 11월 진행한 '생각을 멈추다 보면' 이후 최유리가..]]></content>
     </entry>
 </feed>
