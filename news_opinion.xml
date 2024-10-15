@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-10-15T05:18:15.339Z</updated>
+    <updated>2024-10-15T06:25:17.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이식스 뉴진스, 임영웅 제치고 써클지수 점유율 1위 - 9월 리뷰(2024)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24315</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24315"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2024년 9월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량은 13.8%, 6개월 이내 발매곡 31.5% 18개월 이내 발매곡 이용량 점유율은 57.5%를 기록했습니다.&nbsp;2024년 9월 TOP400 가수별 써클지수 점유율 조사에서 DAY6가 400위권 내 총 17곡을 올려놓으며 (합산)점유율 9.6%로 1위에 올랐습니다.&nbsp;2024년 9월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 4.0% 감소, 전년 동기에 비해서도 17.0% 감소한 것으로 조사되었습니다.&nbsp;2024년 9월..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이식스 데뷔 10년 차 리뷰]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24253</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23858"/>
         <updated>2024-05-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2014년부터 2023년까지 피지컬 앨범 차트 가수별 판매량 점유율 조사에서 방탄소년단이 400위권 내 총 19개의 앨범을 올려놓으며 (합산)점유율 13.0%로 1위에 올랐습니다.&nbsp;2014년부터 2023년까지 피지컬 앨범 차트 가수 형태별 판매량 점유율 조사에서 남성그룹이 46.9%의 점유율을 기록했습니다.&nbsp;2014년부터 2023년까지 피지컬 앨범 차트 가수 형태별(여성그룹) 판매량 조사에서 TWICE가 400위권 내 총 19개의 앨범을 올려놓으며 1위에 올랐습니다.&nbsp;남성 솔로로는 정국, 백현 (BAEKHYUN), V 등 아이돌 외..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨범 판매량  올해 첫 1천만장 돌파 - 4월 리뷰(2024)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23815</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23815"/>
-        <updated>2024-05-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2024년 4월 TOP400 가수별 써클지수 점유율 조사에서 아이유가 400위권 내 총 16곡을 올려놓으며 (합산)점유율 4.2%로 1위에 올랐습니다.2024년 4월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 0.3% 증가했지만, 전년 동기에 비해서는 12.1% 감소한 것으로 조사되었습니다.&nbsp;&nbsp;2024년 4월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 94.3%, 전년 동기에 비해서는 22.3% 증가했습니다.&nbsp;2024년 4월 TOP400 가수별 앨범 판매량 점유율 조사에서 세..]]></content>
     </entry>
 </feed>
