@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-15T01:18:12.549Z</updated>
+    <updated>2024-10-15T02:51:43.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids, 뮤빗 8월 아티스트 1위 …동영상, 팬투표 영역에서 고득점]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24314</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24314"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Stray Kids, 뮤빗 8월 아티스트 1위 …동영상, 팬투표 영역에서 고득점지민 /&nbsp;ZEROBASEONE /NMIX /LE SSERAFIM 뒤이어NewJeans /&nbsp;ZEROBASEONE /&nbsp;리사 /지민은 부문별1위 랭크&nbsp;뮤빗 팬덤연구소는 K-POP 아티스트의 주요 활동이라고 할 수 있는 음원, 음반, 동영상, 팬투표 4가지 관점에서 2024년 8월 한 달간의 아티스트 활동을 살펴보았다.&nbsp; 먼저 음원 및 음반 부문은 각각 8월 써클지수와 8월 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상차트(유튜브 동영상과 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[린, 아련+고혹美 담은 신보 'FRIENDLY+n page1.' 콘셉트 포토 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24309</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24286"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 38 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by Jimin, DAY6, and RIIZE.KMCA, publisher of CIRCLE CHART, announced that “As of week 38 (2024.09.15.~2024.09.21.), Jimin topped the Global K-pop Chart while DAY6 topped 2 charts and RIIZE went to No. 1 in the Album Chart”.Jimin of ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 39 CIRCLE CHART: SUPER JUNIOR-D&E 'INEVITABLE' Leads the Retail Album Chart]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24285</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24285"/>
-        <updated>2024-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[In the week 39 CIRCLE CHART of 2024, SUPER JUNIOR-D&amp;E 'INEVITABLE' topped the weekly Retail Album Chart by selling 52,355 copies at retailers.Released on September 25th, 'INEVITABLE' was the top seller as of 4PM (KST) on September 26th (Thursday, week 39).'INEVITABLE' is ..]]></content>
     </entry>
 </feed>
