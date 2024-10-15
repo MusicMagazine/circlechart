@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-10-14T23:17:11.931Z</updated>
+    <updated>2024-10-15T01:18:12.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그리즐리, 이번엔 몽환X서정 담았다…오늘(15일) 신곡 'I gotta go' 발매!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24310</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24310"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그리즐리가 서정적인 무드의 가을 신곡으로 돌아온다.&nbsp;그리즐리는 15일 오후 6시 각종 온라인 음원사이트를 통해 신곡 'I gotta go(아이 가타 고)'를 발매한다.'I gotta go'는 그리즐리 특유의 따스한 가성이 돋보이는 팝&amp;알앤비 장르의 곡이다. 정교한 아르페지오 선율과 몽환적이고 그루비한 리듬, 다채로운 사운드의 흐름이 클래식한 매력을 선사한다.이별 앞에서 담담한 모습을 그려낸 서정적인 노랫말 또한 오랜 사랑을 경험한 리스너들의 공감을 자극한다. 차분하고 담담해서 오히려 더욱 애틋한 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라, 26일 오리지널 신곡 'Apocalypse' 발매 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24306</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24291"/>
         <updated>2024-10-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[올가을을 달콤함으로 가득 채울 Lucky팡팡 (김다현X스미다아이코)의 신곡이 공개된다.Lucky팡팡은 8일 정오 각종 온라인 음원사이트를 통해 새 디지털 싱글 'Sugar(슈가)'를 발매한다.&nbsp;'Sugar'는 지난 6월 발매한 첫 번째 디지털 싱글 '담다디' 이후 Lucky팡팡이 약 4개월 만에 발표하는 신곡이다. 설레는 사랑의 감정을 달콤한 설탕에 빗대어 상대에게 점점 녹아드는 마음을 표현한 이 곡은 몽환적인 신스와 리드미컬한 기타 사운드, 화려한 백그라운드 보컬로 한층 더 풍성해진 트랙..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['21일 컴백' 다이몬(DXMON), 새 앨범명은 'Youth Never DIE'…라이언전과 협업]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24290</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24290"/>
-        <updated>2024-10-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 다이몬(DXMON)이 라이언전과 다시 만났다.8일 소속사 에이치뮤직엔터테인먼트는 "다이몬이 오는 21일 두 번째 싱글 앨범 'Youth Never DIE(유스 네버 다이)'를 발매하고 한층 업그레이드된 음악으로 돌아올 예정"이라고 밝혔다.이와 함께 다이몬 공식 SNS를 통해 커밍순 이미지가 공개됐다. 파란색의 빈티지한 이미지에는 앨범명 'Youth Never DIE'가 아티스틱한 무드로 새겨져 있어 신보에 대한 궁금증을 높인다.'Youth Never DIE'는 언제나 살..]]></content>
     </entry>
 </feed>

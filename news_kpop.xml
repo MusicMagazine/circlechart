@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-14T23:17:11.913Z</updated>
+    <updated>2024-10-15T01:18:12.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[린, 아련+고혹美 담은 신보 'FRIENDLY+n page1.' 콘셉트 포토 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24309</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24309"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 린(LYn)이 아련함을 가득 담은 신곡 콘셉트 포토를 공개했다.린은 지난 14일 공식 SNS를 통해 듀엣 프로젝트 앨범 'FRIENDLY+n page1. (프렌들린 페이지원)'의 콘셉트 포토를 게재했다.'FRIENDLY+n page1.'은 린의 음악 친구들과 함께 만들어 갈 노래를 담은 듀엣 프로젝트 'FRIENDLY+n'의 첫 번째 앨범으로, 첫 번째 가창자로 이수가 참여했다. 린은 다양한 아티스트들과 'FRIENDLY+n'을 통해 지속적으로 듀엣곡을 선보일 예정이다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 정규 1집 활동 마무리…“솔로 가수로서 성장할 수 있었던 감사한 활동”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24307</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24285"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In the week 39 CIRCLE CHART of 2024, SUPER JUNIOR-D&amp;E 'INEVITABLE' topped the weekly Retail Album Chart by selling 52,355 copies at retailers.Released on September 25th, 'INEVITABLE' was the top seller as of 4PM (KST) on September 26th (Thursday, week 39).'INEVITABLE' is ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티(TIOT), 새 싱글 '그 계절 긴 터널을 지나' 활동 성료…감성 퍼포먼스로 존재감 증명]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24281</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24281"/>
-        <updated>2024-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 팬들의 관심 속에 컴백 활동을 성공적으로 마쳤다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 3일 Mnet '엠카운트다운'을 시작으로 KBS2 '뮤직뱅크', MBC '쇼! 음악중심', SBS '인기가요'에 출연해 새 디지털 싱글 '그 계절 긴 터널을 지나' 무대를 선보였다.티아이오티는 매 무대 각자의 개성이 드러나면서도 통일감이 느껴지는 스타일링으로 보는 재미를 더했다. 또 유려한 퍼포먼스와 감성적인 표정 연기, 부..]]></content>
     </entry>
 </feed>
