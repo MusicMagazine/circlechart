@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-16T23:18:12.633Z</updated>
+    <updated>2024-10-17T01:17:40.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이핑크, 12월 일곱 번째 단독 콘서트 개최 확정! 핑크빛 크리스마스]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24320</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24320"/>
+        <updated>2024-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이핑크(Apink)가 연말 콘서트로 팬들을 만난다.에이핑크(박초롱, 윤보미, 정은지, 김남주, 오하영)는 오는 12월 21일과 22일 양일간 서울 강서구에 위치한 KBS 아레나에서 일곱 번째 단독 콘서트를 개최한다.따로 또 같이 왕성한 활동을 펼치고 있는 에이핑크는 이번 연말 콘서트로 연말까지 끈끈한 행보를 이어간다. 에이핑크는 심혈을 기울여 준비한 다채로운 무대들로 팬들에게 특별한 크리스마스 선물을 전한다는 각오다.특히 에이핑크의 이름을 건 단독 공연이라 의미를 더한다. 에이핑크는 지난해 4월 팬 콘서트 'Pink ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비 이민혁, 日 솔로 팬미팅 성료..."행복하고 소중했던 시간, 또 좋은 모습으로 찾아뵐 것"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24311</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24282"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 남우현이 대만 솔로 콘서트를 성황리에 마쳤다.남우현은 지난 5일 대만 타이베이에 위치한 NTU 스포츠 센터에서 '2024 남우현 네 번째 솔로 콘서트 '식목일4 - 트리 월드'(2024 NAM WOO HYUN 4TH SOLO CONCERT '식목일4 - TREE WORLD')'(이하 '식목일4')를 개최하고 팬들과 만났다.'식목일4'는 같은 시간 속 또 다른 공간에 존재하는 '트리 월드'의 남우현들이 팬들을 위해 지구를 방문해 공연장을 찾는다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서하준, 11월 1년 8개월 만의 일본 팬미팅 개최…"행복한 시간 선사할 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24277</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24277"/>
-        <updated>2024-10-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[배우 서하준이 11월 일본에서 팬미팅을 진행한다.서하준은 오는 11월 27일 오사카 TEMPO HARBOR THEATER(템포 하버 시어터), 11월 28일 도쿄 SHIBUYA PLEASURE PLEASURE(시부야 플레저 플레저)에서 일본 팬미팅 'Reunion(리유니온)'을 개최한다.'Reunion'은 서하준이 지난해 3월 개최한 도쿄 팬미팅 이후 1년 8개월 만에 일본 팬들을 만나는 자리다. 팬미팅 개최 소식이 공개됨과 동시에 현지 팬들의 뜨거운 관심을 모으고 있다.서하준은 "1년 8개월 만..]]></content>
     </entry>
 </feed>
