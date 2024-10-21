@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-10-20T23:18:02.719Z</updated>
+    <updated>2024-10-21T01:19:36.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['발매 D-DAY' 우타고코로 리에, 조동진 원곡 '제비꽃' 재해석…깊고 맑은 목소리 '기대']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24326</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24326"/>
+        <updated>2024-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['트롯 걸즈 재팬(TROT GIRLS JAPAN)' 준우승자 우타고코로 리에가 첫 한국 싱글로 음악팬들을 만난다.우타고코로 리에는 21일 오후 6시 첫 번째 싱글 '제비꽃'을 발매한다.&nbsp;'제비꽃'은 1985년 발매된 조동진의 원곡을 컨템퍼러리 팝 발라드로 재해석한 곡이다. 서정적인 기타와 피아노가 함께 어우러지며 드라마틱한 전개를 만들어내고, 우타고코로 리에의 애틋하면서도 따뜻한 허밍으로 곡 안에서 느낄 수 있는 모든 감정을 담담하면서도 차분하게 녹여냈다.또 '제비꽃'은 한 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황인엽?정채연 주연 '조립식 가족', 오늘(17일) 하성운 가창 첫 OST '그때의 우리' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24321</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24299"/>
         <updated>2024-10-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그리즐리가 오는 15일 컴백한다.그리즐리는 오는 15일 컴백을 확정 짓고, 지난 10일 EGO GROUP 공식 SNS를 통해 신곡 'I gotta go(아이 가타 고)'의 뮤직비디오 티저 영상을 공개했다.공개된 영상은 정교한 아르페지오 선율과 몽환적이고 서정적인 영상미로 마치 꿈속을 걷는 듯한 기분을 선사하고 있다. 일본 출신 모델 타카노 유고가 그리즐리와 연기 호흡을 맞췄으며, 세밀한 감정선과 표현력으로 곡의 서사를 한층 깊이감 있게 이끌고 있다.&nbsp;&nbsp;영상의 전반적인 흑색 연출 또한 두 인물의 복잡한 감정을 빈틈없이 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신유, 12일 자작곡 '러브스토리 (feat. 박애리)' 발매…올가을 적실 '럭셔리 트로트' 탄생]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24296</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24296"/>
-        <updated>2024-10-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신유는 오는 12일 오후 6시 새 디지털 싱글 '러브스토리 (feat. 박애리)'를 발매한다.'러브스토리 (feat. 박애리)'는 조선시대 원이엄마의 실화를 모티브로 만든 곡으로, 남편과 사별하는 과정을 가슴 아프고 애절하게 담아냈다.또 이번 신곡은 한국의 전통음악인 국악과 트로트가 크로스오버된 새로운 장르의 곡으로, 국악인 박애리가 피처링에 참여해 신유와 호흡을 맞췄다.특히 '러브스토리 (feat. 박애리)'의 작사, 작곡에도 참여한 신유는 데뷔 후 처음으로 자작곡을 들고 컴백하는 만큼 ..]]></content>
     </entry>
 </feed>
