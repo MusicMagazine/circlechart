@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-21T23:17:23.093Z</updated>
+    <updated>2024-10-22T01:18:30.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['26일 컴백' 포레스텔라, 신곡 'Apocalypse' 음원 일부 최초 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24333</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24333"/>
+        <updated>2024-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 'Apocalypse'로 새로운 감정선을 전한다.포레스텔라는 21일 0시 공식 SNS를 통해 새 디지털 싱글 'Apocalypse (아포칼립스)'의 무빙 로고와 음원 미리듣기 콘텐츠를 공개했다.이를 통해 'Apocalypse'의 음원 일부가 처음으로 베일을 벗었다. 쓸쓸함이 느껴지는 거친 멜로디가 포레스텔라의 새로운 이야기를 향한 궁금증을 고조시킨다. 앞서 공개된 콘셉트 포토 속 웅장한 비주얼도 자연스럽게 연상돼 'Apocalypse' ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 2024 CIRCLE CHART: Jimin, DAY6, ONEW, and BAEKHYUN Lead the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24332</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24314"/>
         <updated>2024-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Stray Kids, 뮤빗 8월 아티스트 1위 …동영상, 팬투표 영역에서 고득점지민 /&nbsp;ZEROBASEONE /NMIXX /LE SSERAFIM 뒤이어NewJeans /&nbsp;ZEROBASEONE /&nbsp;리사 /지민은 부문별1위 랭크&nbsp;뮤빗 팬덤연구소는 K-POP 아티스트의 주요 활동이라고 할 수 있는 음원, 음반, 동영상, 팬투표 4가지 관점에서 2024년 8월 한 달간의 아티스트 활동을 살펴보았다.&nbsp; 먼저 음원 및 음반 부문은 각각 8월 써클지수와 8월 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상차트(유튜브 동영상과..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[린, 아련+고혹美 담은 신보 'FRIENDLY+n page1.' 콘셉트 포토 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24309</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24309"/>
-        <updated>2024-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 린(LYn)이 아련함을 가득 담은 신곡 콘셉트 포토를 공개했다.린은 지난 14일 공식 SNS를 통해 듀엣 프로젝트 앨범 'FRIENDLY+n page1. (프렌들린 페이지원)'의 콘셉트 포토를 게재했다.'FRIENDLY+n page1.'은 린의 음악 친구들과 함께 만들어 갈 노래를 담은 듀엣 프로젝트 'FRIENDLY+n'의 첫 번째 앨범으로, 첫 번째 가창자로 이수가 참여했다. 린은 다양한 아티스트들과 'FRIENDLY+n'을 통해 지속적으로 듀엣곡을 선보일 예정이다...]]></content>
     </entry>
 </feed>
