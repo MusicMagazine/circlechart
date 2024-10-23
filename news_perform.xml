@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-22T23:18:27.002Z</updated>
+    <updated>2024-10-23T01:17:20.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 웨이브투어스, 11월 단독 콘서트 'play with earth! Seoul' 개최…24일 티켓 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24339</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24339"/>
+        <updated>2024-10-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 웨이브투어스(wave to earth)가 서울 공연을 개최하고 팬들과 만난다.웨이브투어스(김다니엘, 차순종, 신동규)는 오는 11월 30일과 12월 1일 서울 용산구 블루스퀘어 마스터카드홀에서 2024 단독 콘서트 'play with earth! Seoul (플레이 위드 어스! 서울)'을 개최한다.&nbsp;'play with earth! Seoul'은 '0.03 World Tour (0.03 월드 투어)'의 일환으로, 웨이브투어스가 EP 'play with earth! 0.03 (플레..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이브레이크, 오는 26일 ‘그랜드 민트 페스티벌 2024’ 헤드라이너 출격...‘페스티벌계 황제’ 진가 선보인다!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24335</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24308"/>
         <updated>2024-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에픽하이(EPIK HIGH)가 바이닐 앨범으로 특별함을 더한다.에픽하이(타블로, 투컷, 미쓰라)는 지난 14일 오후 6시부터 각종 음반 사이트를 통해 새 앨범 'PUMP COLLECTOR'S EDITION (펌프 컬렉터스 에디션)'의 바이닐(LP) 앨범 예약 판매를 시작했다.이와 함께 에픽하이는 공식 SNS를 통해 바이닐 앨범에 관한 추억을 서로 공유하는 모습을 담은 영상을 공개했다. 타블로는 "이번에 새로운 바이닐을 제작했다. 신곡도 있고, 곡들의 확장 버전도 담겼다. 사람들이 모으고 싶어 할만한..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유겸, 솔로 투어 ‘TRUSTY’ 순항 중… 싱가포르 이어 방콕에서 성황리 마무리!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24303</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24303"/>
-        <updated>2024-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 유겸(YUGYEOM)이 성공적인 솔로 투어를 이어가고 있다.유겸은 지난 5일 싱가포르를 시작으로 12일과 13일 태국 방콕에서 2024 YUGYEOM TOUR [TRUSTY (트러스티)]를 개최했다.태국 방콕 Impact Arena에서 양일간 진행된 이번 공연에서 유겸은 특별히 ‘네 잘못이야’, ‘허리를 감싸고’를 편곡해 가창하고, 피처링으로 참여한 태국 곡 ‘OOOWEE (feat. Twopee Southside, YUGYEOM)’를 부르는 등 현지 팬들과 잊지 못할 추억을 쌓았다. 이번 투어를 위해 준비한 미공개 신곡 ..]]></content>
     </entry>
 </feed>
