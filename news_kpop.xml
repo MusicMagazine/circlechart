@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-24T05:18:04.094Z</updated>
+    <updated>2024-10-24T06:25:26.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MUBEAT] 백현, 뮤빗 이달의 아티스트 선정 … 음반 부문 1위, 팬투표 부문에서도 고득점]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24346</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24346"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[BOYNEXTDOOR /쯔위 / DAY6 /찬열 뒤이어LE SSERAFIM은 동영상 부문 1위 랭크뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 관점에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 24년 9월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의 합)를 사용하였고, 팬투표는 뮤빗에서 주 단위로 진행하고 있는 ‘뮤빗 K-POP 팬투표’ 의 데이터를 취합하..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['26일 컴백' 포레스텔라, 'Apocalypse' 티저 속 환영술사 변신! 콘서트와 유기적 연계 '기대 UP']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24345</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24329"/>
         <updated>2024-10-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 'Apocalypse'로 새로운 감정선을 전한다.포레스텔라는 21일 0시 공식 SNS를 통해 새 디지털 싱글 'Apocalypse (아포칼립스)'의 무빙 로고와 음원 미리듣기 콘텐츠를 공개했다.이를 통해 'Apocalypse'의 음원 일부가 처음으로 베일을 벗었다. 쓸쓸함이 느껴지는 거친 멜로디가 포레스텔라의 새로운 이야기를 향한 궁금증을 고조시킨다. 앞서 공개된 콘셉트 포토 속 웅장한 비주얼도 자연스럽게 연상돼 'Apocalypse' ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨, 30일 새 싱글 '...l (닷닷닷)'으로 컴백! 차별화된 가을 무드로 돌아온다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24323</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24323"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 가을 감성을 듬뿍 담은 신곡으로 돌아온다.18일 하이업엔터테인먼트는 "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 30일 새 디지털 싱글 '...l (닷닷닷)'을 발매한다"고 밝혔다. 이에 앞서 공식 SNS를 통해 이미지 모션 영상을 공개했다.공개된 영상은 아기자기하면서도 키치한 핑크빛 핸드폰 이미지로 시선을 끌고 있다. 이어 짝사랑 중인 상대에게 "넌 내가 안 궁금해?" "이대로도 충분해?"라는 메시지를 보내는 장면으로 곧 다가올 ..]]></content>
     </entry>
 </feed>
