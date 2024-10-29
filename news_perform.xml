@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-28T23:17:04.700Z</updated>
+    <updated>2024-10-29T01:19:28.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 라탐·유럽 14개 도시 투어 순항 중! 11월 'PINATA' 컴백 기대 UP]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24358</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24358"/>
+        <updated>2024-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 라탐&amp;유럽 투어로 글로벌 파워를 실감하고 있다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 이달 초부터 라틴 아메리카, 유럽 각 지역에서 2024 라탐 &amp; 유럽 투어(A.C.E 2024 LATAM AND EUROPE TOUR) 'REWIND US'(리와인드 어스)를 성공적으로 진행하고 있다.CDMX(멕시코시티), SAO PAULO(상파울루), LIMA(리마), SANTIAGO(산티아고), BOGOTA(보고타)에서 라탐 투어를 성료한 에이스는 현재 반환점을 돌아 LONDO..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['무결점 보컬' 이예준, 10주년 단독 콘서트 'Dear Ye's' 성료! 티켓 파워 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24354</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24325"/>
         <updated>2024-10-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA['마왕 10th : 고스트 스테이지'에서 故(고) 신해철의 명곡을 다시 듣는다.오는 26일과 27일 인천 영종도 인스파이어 아레나에서 신해철 트리뷰트 콘서트 '마왕 10th : 고스트 스테이지'가 진행된다. 신해철과 그의 음악을 사랑하고 추억하는 이들을 위해 이색적인 셋 리스트가 공개돼 기대감을 고조시키고 있다.'마왕 10th : 고스트 스테이지'는 신해철의 10주기를 기념해 그의 뜻대로 마련된 특별한 음악 축제이자 트리뷰트 콘서트다. 신해철과 함께 활동했던 N.EX.T(김영석·김세황·이수..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 11월 데뷔 1주년 기념 콘서트 'DREAM IT' 개최 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24324</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24324"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 데뷔 1주년을 특별하게 기념한다.&nbsp;캐치더영(산이, 기훈, 남현, 준용, 정모)은 오는 11월 10일 서울 KT&amp;G 상상마당 홍대 라이브홀에서 데뷔 1주년 기념 콘서트 1ST ANNIVERSARY CONCERT 'DREAM IT(드림 잇)'을 개최한다.&nbsp;개최 소식과 함께 공개된 포스터는 SF영화를 연상케 하는 무드로 벌써부터 기대감을 높이고 있다. 캐치더영 또한 우주를 닮은 공간 속에 녹아들어 통통 튀는 에너지를 선사하고 있다.&nbsp;'..]]></content>
     </entry>
 </feed>
