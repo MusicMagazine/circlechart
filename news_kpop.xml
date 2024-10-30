@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-30T01:18:54.618Z</updated>
+    <updated>2024-10-30T02:52:05.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정식 데뷔 D-1' 이젤(EJel), 첫 싱글 'A N E W' 미니 청음회 영상 공개! 규현?이승기→백지영 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24365</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24365"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 이젤(EJel)이 정식 데뷔를 앞두고 연예계 동료들의 응원을 받았다.&nbsp;이젤(EJel)은 지난 29일 공식 SNS를 통해 오는 31일 발매를 앞둔 첫 싱글 'A N E W(어 뉴)' 미니 청음회 영상을 공개하며 데뷔 열기를 더하고 있다.공개된 영상에서 이젤(EJel)은 JTBC '싱어게인3-무명가수전(이하 '싱어게인3')' 출연으로 인연을 맺은 작사가 김이나, 가수 규현과 백지영, 이승기, 홍이삭을 만나 타이틀곡 'Now or Never(나우 오어 네버)'를 최초로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['가요무대' 진욱, 최병걸 '난 정말 몰랐었네'로 전한 짙은 가을 감성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24361</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24345"/>
         <updated>2024-10-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 강렬한 환영술사로 변신해 콘셉츄얼한 매력을 발산하고 있다.포레스텔라는 지난 22일부터 24일까지 사흘간 공식 SNS를 통해 조민규, 강형호, 배두훈의 새 디지털 싱글 'Apocalypse (아포칼립스)' 두 번째 콘셉트 포토 개인컷을 차례로 공개했다.흑백으로 구성된 이번 콘셉트 포토에서 포레스텔라는 11월 다가오는 단독 콘서트의 공연명이기도 한 'THE ILLUSIONIST (더 일루셔니스트)'로 변신했다. 조민규, 강형호, 배두훈은 화려한 패턴의 슈트 의상으로 각..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘30일 컴백’ 스테이씨, 새 싱글 ‘...l (닷닷닷)’ 첫 콘셉트 포토 공개! 순백의 동화 속 요정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24343</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24343"/>
-        <updated>2024-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 새로운 변신을 담은 콘셉트 포토를 공개했다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 23일 공식 SNS를 통해 새 디지털 싱글 ‘...l (닷닷닷)’의 첫 번째 콘셉트 포토 Fantasy(판타지) 버전을 공개했다.세은과 윤, 수민과 시은, 아이사와 재이로 나뉘어 촬영한 유닛 포토에는 숲을 배경으로 순백의 의상을 입은 스테이씨의 모습이 담겨 있다. 멤버들은 동화 속 요정을 보는 듯 몽환적이면서도 신비로운 분위기를 발산했고 빛나는 비주얼의 정점을 찍으며 글로벌 팬들의 뜨거운 반응을 얻고 ..]]></content>
     </entry>
 </feed>

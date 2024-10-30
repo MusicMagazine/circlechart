@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-30T01:18:54.513Z</updated>
+    <updated>2024-10-30T02:52:05.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['밴드 붐의 원조' 넬, 12월 역대 최대 규모 콘서트 '넬스룸 2024' 개최…오늘(30일) 티켓 예매 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24367</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24367"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 넬(Nell)이 대표 브랜드 콘서트 '넬스룸'으로 팬들을 만난다.넬은 오는 12월 20일부터 22일까지 사흘간 서울 잠실 학생체육관에서 연말 브랜드 콘서트 'CHRISTMAS IN NELL’S ROOM 2024'(이하 '넬스룸 2024')를 개최한다.'넬스룸 2024'는 자타공인 '무대 장인'인 넬이 2003년부터 개최해 온 대표 브랜드 콘서트다. 뛰어난 영상미와 완성도 높은 구성, 공연장을 가득 채운 향기까지 관객들의 오감을 만족시키는 '믿고 보는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이스(A.C.E), 라탐·유럽 14개 도시 투어 순항 중! 11월 'PINATA' 컴백 기대 UP]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24358</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24327"/>
         <updated>2024-10-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 저스디스(JUSTHIS)가 6년 만의 단독 콘서트를 성황리에 마무리했다.저스디스는 19일 오후 6시 서울 홍대 무신사 개러지(MUSINSA GARAGE)에서 단독 콘서트 'JT2DE: MVLD.'를 개최하고 팬들과 만났다.이번 콘서트는 지난 2014년 발매된 저스디스의 세 번째 믹스테이프 '머니 Vs. 러브: 드림(Money Vs. Love: Dream)(MVLD)' 10주년을 기념하는 공연이다. 또한 저스디스가 지난 2018년 개최한 'JT2DE: RE: Tired.' 이후 6년 만..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이 '그대에게'→넥스트·국카스텐 'Lazenca'…故 신해철 트리뷰트 콘서트 셋 리스트 깜짝 공개!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24325</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24325"/>
-        <updated>2024-10-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['마왕 10th : 고스트 스테이지'에서 故(고) 신해철의 명곡을 다시 듣는다.오는 26일과 27일 인천 영종도 인스파이어 아레나에서 신해철 트리뷰트 콘서트 '마왕 10th : 고스트 스테이지'가 진행된다. 신해철과 그의 음악을 사랑하고 추억하는 이들을 위해 이색적인 셋 리스트가 공개돼 기대감을 고조시키고 있다.'마왕 10th : 고스트 스테이지'는 신해철의 10주기를 기념해 그의 뜻대로 마련된 특별한 음악 축제이자 트리뷰트 콘서트다. 신해철과 함께 활동했던 N.EX.T(김영석·김세황·이수..]]></content>
     </entry>
 </feed>

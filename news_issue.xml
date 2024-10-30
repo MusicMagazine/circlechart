@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-10-30T01:18:54.517Z</updated>
+    <updated>2024-10-30T02:52:05.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[허각, 임한별이 설립한 OS프로젝트와 전속계약…대표X소속 가수로 동행]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366"/>
+        <updated>2024-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 허각이 OS프로젝트에 새 둥지를 틀었다.&nbsp;OS프로젝트는 30일 "명실상부 대한민국 최고의 가수로 손꼽히는 허각과 최근 전속계약을 체결했다"라며 "허각과 파트너로 함께 하게 돼 기쁘다. 앞으로 허각이 음악 활동에 전념할 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;OS프로젝트는 가수 임한별이 '좋은 음악은 반드시 통한다'라는 본인의 신념을 모토로 설립한 회사다. 훌륭한 가수들이 노래에만 집중할 수 있는 환경을 제공하는 것을 최우선으로 생각하는 회사를 지향한다.&nbsp;신용재, 임..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제시, DOD와 전속계약 체결→독립 레이블 언니(UNNI) 설립...새로운 도약 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Mnet '보이즈 플래닛' 출신 그룹 TOZ(티오지)가 5월 2일 한국에서 정식 데뷔한다.&nbsp;TOZ(안토니, 하루토, 유토, 타쿠토)는 지난 8일 오후 공식 SNS를 통해 앨범 발매를 예고하는 포스터를 게재했다.&nbsp;공개된 포스터에는 발매일 '5월 2일'과 함께 앨범명 'TO my new friends(투 마이 뉴 프렌즈)'가 담겼다. 그리고 TOZ만의 톡톡 튀는 개성과 넘치는 에너지를 연상시키는 로고 디자인이 눈길을 사로잡았다. 포스터 너머로는 하늘색 곰인형으로 보이는 물체가 궁금증을 자아내며..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태민, 빅플래닛메이드엔터 합류→비주얼 필름 공개! 독보적인 분위기 미남]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23681</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23681"/>
-        <updated>2024-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 샤이니(SHINee) 멤버 겸 솔로 아티스트 태민(TAEMIN)이 감각적인 비주얼을 선보였다.태민은 지난 3일 오후 6시 공식 SNS와 유튜브 채널에 비주얼 필름을 공개하며 새 출발을 알렸다.비주얼 필름 속 태민은 셔츠와 니트 소재의 두 가지 스타일로 다채로운 콘셉트 소화력을 보여주고 있다. 감각적인 영상미를 통해 태민의 독보적인 비주얼과 분위기를 더욱 매력적으로 만날 수 있다.특히 모든 움직임이 멋이 되는 태민만의 아우라가 눈길을 사로잡는다. 태민은 매일 리즈를 경신하는 미모로 또 한번 글로벌 팬들을 매료시키고 있다.태민은 ..]]></content>
     </entry>
 </feed>
