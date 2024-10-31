@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-10-30T23:17:37.758Z</updated>
+    <updated>2024-10-31T01:19:11.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스, 1년 2정규 만든 자신감! 정규 2집 앨범 프리뷰 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24370</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24370"/>
+        <updated>2024-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 한 해에 두 장의 정규앨범을 발매하면서 자신감을 드러낸다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 31일 0시 공식 유튜브 채널에 두 번째 정규앨범 '소화(韶華) 2장 : 청춘 결핍' 전곡의 하이라이트 구간을 엮은 앨범 프리뷰 영상을 공개했다.이를 통해 타이틀곡 'UNIVERSE(유니버스)'와 수록곡 'My Girl(마이 걸)', '낭만소녀 (1997)', 'It is what it is(잇 이즈 왓 잇 이즈)'..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정식 데뷔 D-1' 이젤(EJel), 첫 싱글 'A N E W' 미니 청음회 영상 공개! 규현?이승기→백지영 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24365</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24346"/>
         <updated>2024-10-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[BOYNEXTDOOR /쯔위 / DAY6 /찬열 뒤이어LE SSERAFIM은 동영상 부문 1위 랭크뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 관점에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 24년 9월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의 합)를 사용하였고, 팬투표는 뮤빗에서 주 단위로 진행하고 있는 ‘뮤빗 K-POP 팬투표’ 의 데이터를 취합하..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['26일 컴백' 포레스텔라, 'Apocalypse' 티저 속 환영술사 변신! 콘서트와 유기적 연계 '기대 UP']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24345</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24345"/>
-        <updated>2024-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 포레스텔라(Forestella)가 강렬한 환영술사로 변신해 콘셉츄얼한 매력을 발산하고 있다.포레스텔라는 지난 22일부터 24일까지 사흘간 공식 SNS를 통해 조민규, 강형호, 배두훈의 새 디지털 싱글 'Apocalypse (아포칼립스)' 두 번째 콘셉트 포토 개인컷을 차례로 공개했다.흑백으로 구성된 이번 콘셉트 포토에서 포레스텔라는 11월 다가오는 단독 콘서트의 공연명이기도 한 'THE ILLUSIONIST (더 일루셔니스트)'로 변신했다. 조민규, 강형호, 배두훈은 화려한 패턴의 슈트 의상으로 각..]]></content>
     </entry>
 </feed>

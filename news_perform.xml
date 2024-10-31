@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-30T23:17:37.746Z</updated>
+    <updated>2024-10-31T01:19:11.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[볼빨간사춘기, 11월 30일 서울 공연 시작으로 홍콩·대만 등 아시아 투어 'Bloom' 스타트!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24372</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24372"/>
+        <updated>2024-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 볼빨간사춘기가 1년 만에 아시아 팬들과 만난다.볼빨간사춘기는 지난 30일 소속사 쇼파르엔터테인먼트 공식 SNS를 통해 2025 볼빨간사춘기 아시아 투어 'Bloom (블룸)' 포스터를 공개했다. 이와 함께 아시아 투어 소식을 밝혔다.공개된 포스터에 따르면 볼빨간사춘기는 오는 11월 30일과 12월 1일 양일간 서울 장충체육관에서 진행되는 공연을 시작으로 내년 1월 4일 홍콩, 1월 11일 일본 도쿄, 1월 18일 싱가포르, 1월 25일 대만 타이베이 등 총 5개 도시에서 총 6회에 걸쳐 공연을 펼친다.볼빨간사춘기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밴드 붐의 원조' 넬, 12월 역대 최대 규모 콘서트 '넬스룸 2024' 개최…오늘(30일) 티켓 예매 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24367</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24328"/>
         <updated>2024-10-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 팬들을 위해 이색 팬미팅을 준비했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 20일 서울 강남구 일지아트홀에서 미니 팬미팅을 개최했다.이날 티아이오티는 미니 팬미팅에 앞서 'The Long Season (더 롱 시즌)' VIP 시사회를 진행했다. 시사회에선 지난 2일 발매된 티아이오티의 디지털 싱글 '그 계절 긴 터널을 지나' 뮤직비디오의 확장판이 최초로 공개되며 팬들의 뜨거운 반응을 얻었다. 반가운 인사와 함께 등장한 티아이오티는 뮤직비디오 비하인드 스..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저스디스, 환호 속 6년만 단독 콘서트 성료..."좋은 에너지 많이 받아, 더 많이 찾아뵐 것"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24327</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24327"/>
-        <updated>2024-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[래퍼 저스디스(JUSTHIS)가 6년 만의 단독 콘서트를 성황리에 마무리했다.저스디스는 19일 오후 6시 서울 홍대 무신사 개러지(MUSINSA GARAGE)에서 단독 콘서트 'JT2DE: MVLD.'를 개최하고 팬들과 만났다.이번 콘서트는 지난 2014년 발매된 저스디스의 세 번째 믹스테이프 '머니 Vs. 러브: 드림(Money Vs. Love: Dream)(MVLD)' 10주년을 기념하는 공연이다. 또한 저스디스가 지난 2018년 개최한 'JT2DE: RE: Tired.' 이후 6년 만..]]></content>
     </entry>
 </feed>
