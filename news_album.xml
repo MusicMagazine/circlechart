@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-10-31T23:20:09.615Z</updated>
+    <updated>2024-11-01T01:23:59.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하, 11월 14일 정규 7집 리패키지 앨범 'GROWTH THEORY : Final Edition' 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24373</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24373"/>
+        <updated>2024-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 윤하가 정규 7집 리패키지 앨범을 발매한다.윤하는 오는 11월 14일 각종 온라인 음원 사이트를 통해 정규 7집 리패키지 앨범 'GROWTH THEORY : Final Edition (그로우스 띠어리 : 파이널 에디션)'을 발매한다.올해 데뷔 20주년을 맞아 다양한 프로젝트를 선보이고 있는 윤하는 지난 9월 정규 7집 'GROWTH THEORY'를 성공적으로 발매한 바 있다. 이후 2개월 만에 리패키지 앨범으로 새로운 신곡을 선보인다. 윤하의 감성과 철학이 또 어떻게 확장될지 기대가 모아진다.오늘(..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바밍타이거, 오늘(31일) 새 EP 'Greatest Hits'로 1년 만에 컴백!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24371</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24347"/>
         <updated>2024-10-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 탑현이 새벽 사색을 담은 ‘겉잠’으로 불면증을 달랜다.탑현은 25일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘겉잠’을 발매한다.‘겉잠’은 잠이 오지 않는 새벽 뒤엉킨 생각을 풀어낸 탑현의 자작곡이다. 탑현은 저마다 머릿속을 떠다니는 고민으로 외로운 여정을 떠나고 있는 것이 아닐까 하는 사색을 담아 가사를 썼다. 마음과 달리 고요하기만 한 상황을 나타낸 이중적인 표현도 리스닝 포인트다.누군가에게 이야기를 들려주는 듯한 탑현의 담백하고 차분한 보컬은 모던한 악기 사운드, 부담스럽지 않은 멜로디와 어우러져 담담한..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 특별한 프로젝트로 귀환...31일 선공개곡 '불씨 (Please Stay)' 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24344</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24344"/>
-        <updated>2024-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 멤버 서은광, 이민혁, 임현식, 프니엘이 글로벌 팬심을 사로잡을 특별한 프로젝트를 선보인다.소속사 비투비 컴퍼니는 지난 23일 오후 6시 공식 SNS를 통해 비투비의 '비커밍 프로젝트(BECOMING PROJECT)' 포스터와 프로젝트 플랜, 프로모션 스케줄러를 공개하고, 프로젝트의 화려한 막을 열 선공개곡 '불씨 (Please Stay)' 발매 소식을 알렸다.'비커밍 프로젝트'는 비투비 컴퍼니 소속 서은광, 이민혁, 임현식, 프니엘 네 멤버가 함께하는 첫 번째 프로..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-10-31T23:20:09.613Z</updated>
+    <updated>2024-11-01T01:23:59.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[장기하, 12월 7일~8일 양일간 단독 공연 [하기장기하] 연다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24374</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24374"/>
+        <updated>2024-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[장기하 단독 공연 [하기장기하] 가 12월 7일 토요일과 8일 일요일 양일 간 블루스퀘어 마스터카드홀에서 열린다.장기하는 단독 공연 [하기장기하] 개최 소식을 알리며 공연 내용을 깜짝 스포했다. 장기하는 “모든 곡은 도미노처럼 포개지고 목걸이처럼 이어질 것. 말은 노래가 되고, 악기 소리도 하나둘 스며들 것. 우리는 하나의 뭉치가 되어 평화로운 시간을 보내고 작별의 시간이 오면 여러분들은 ‘아, 벌써 다시 보고 싶다, 장기하’라고 생각하게 될 것”이라며 새로운 공연에 대한 기대감을 불러일으켰다.함께 공개된 독특한 공연명 [하기장기하..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[볼빨간사춘기, 11월 30일 서울 공연 시작으로 홍콩·대만 등 아시아 투어 'Bloom' 스타트!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24372</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24334"/>
         <updated>2024-10-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 경서가 스탠딩 콘서트로 팬들과 추억을 쌓았다.경서는 지난 19일과 20일 양일간 서울 서대문구 예스24 원더로크홀에서 2024 경서 콘서트 ‘STAND BY YOU(스탠드 바이 유)’를 성공적으로 개최했다.첫 단독 스탠딩 콘서트 ‘STAND BY YOU’로 팬들과 만난 경서는 데뷔곡 ‘밤하늘의 별을(2020)’을 비롯해 ‘나의 X에게’, ‘첫 키스에 내 심장은 120BPM’, ‘고백연습’ 등 대표 히트곡들을 편곡 버전으로 들려주며 귀 호강을 선사했다.또 올해 7월 발매한 미니 2집의 타이틀곡 ‘밤새도록 어떤 말을 할까 고민해 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티(TIOT), 미니 팬미팅 성료…'그 계절 긴 터널을 지나' M/V 확장판 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24328</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24328"/>
-        <updated>2024-10-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 팬들을 위해 이색 팬미팅을 준비했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 20일 서울 강남구 일지아트홀에서 미니 팬미팅을 개최했다.이날 티아이오티는 미니 팬미팅에 앞서 'The Long Season (더 롱 시즌)' VIP 시사회를 진행했다. 시사회에선 지난 2일 발매된 티아이오티의 디지털 싱글 '그 계절 긴 터널을 지나' 뮤직비디오의 확장판이 최초로 공개되며 팬들의 뜨거운 반응을 얻었다. 반가운 인사와 함께 등장한 티아이오티는 뮤직비디오 비하인드 스..]]></content>
     </entry>
 </feed>

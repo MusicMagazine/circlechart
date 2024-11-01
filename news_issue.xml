@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-10-31T23:20:09.615Z</updated>
+    <updated>2024-11-01T01:23:59.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[워너원 출신 윤지성, 빌리언스와 전속계약 체결...음악·연기·예능 전방위 활동 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24376</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24376"/>
+        <updated>2024-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 배우 윤지성이 빌리언스와 전속계약을 체결했다.소속사 빌리언스는 1일 "가수 겸 배우 윤지성과 전속계약을 체결했다. 다재다능한 끼와 재능을 가진 윤지성이 다방면에서 역량을 펼칠 수 있도록 최선을 다해 지원할 예정"이라며 앞으로의 활동에 전폭적인 지원을 예고했다.윤지성은 2017년 Mnet 오디션 프로그램 '프로듀스 101 시즌2'를 통해 그룹 워너원(Wanna One)으로 데뷔, 리더이자 맏형으로 팀을 이끌며 글로벌 팬들의 큰 사랑을 받았다. 이후 2019년 솔로로 정식 데뷔해 '어사이드(..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허각, 임한별이 설립한 OS프로젝트와 전속계약…대표X소속 가수로 동행]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23939"/>
         <updated>2024-06-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2am 이창민이 메이저나인과 전속계약을 체결했다.21일 메이저나인은 "이창민과 최근 전속계약을 체결했다"라며 "가창력과 작곡 능력을 겸비한 이창민의 새로운 출발을 함께 하게 돼 기쁘다. 다양한 음악 활동과 공연 등에 아낌없이 지원할 계획"이라고 밝혔다.2008년 그룹 2am으로 데뷔한 이창민은 '이노래', '죽어도 못 보내', '잘못했어', '전활 받지 않는 너에게' 등 수많은 대표곡을 통해 실력파 메인보컬로 인정받았다. 또 2010년부터는 Hom..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보이즈 플래닛' 출신 TOZ(티오지), 5월 2일 韓 정식 데뷔 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23691"/>
-        <updated>2024-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Mnet '보이즈 플래닛' 출신 그룹 TOZ(티오지)가 5월 2일 한국에서 정식 데뷔한다.&nbsp;TOZ(안토니, 하루토, 유토, 타쿠토)는 지난 8일 오후 공식 SNS를 통해 앨범 발매를 예고하는 포스터를 게재했다.&nbsp;공개된 포스터에는 발매일 '5월 2일'과 함께 앨범명 'TO my new friends(투 마이 뉴 프렌즈)'가 담겼다. 그리고 TOZ만의 톡톡 튀는 개성과 넘치는 에너지를 연상시키는 로고 디자인이 눈길을 사로잡았다. 포스터 너머로는 하늘색 곰인형으로 보이는 물체가 궁금증을 자아내며..]]></content>
     </entry>
 </feed>
