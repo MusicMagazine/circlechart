@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-11-03T23:18:49.347Z</updated>
+    <updated>2024-11-04T01:19:45.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VVON(본), 10개월 만에 돌아온다! 오늘(4일) 신곡 'Empty Coffee' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24382</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24382"/>
+        <updated>2024-11-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[알앤비 아티스트 VVON(본)이 가을 감성을 자극하는 곡으로 돌아온다.VVON은 4일 정오 각종 온라인 음원사이트를 통해 새 디지털 싱글 'Empty Coffee (엠티 커피)'를 발매한다.'Empty Coffee'는 VVON이 지난 1월 발매한 'Need you (니드 유)' 이후 약 10개월 만의 신보로, 얼터너티브 인디 사운드와 시원한 기타 사운드 그리고 감각적인 신스가 어우러진 팝 장르의 곡이다. 우리가 살아가면서 느끼고 생각하는 것들을 음악으로 표현해 내는 VVON만의 감성을 느껴..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하, 11월 14일 정규 7집 리패키지 앨범 'GROWTH THEORY : Final Edition' 발매 확정!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24373</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24349"/>
         <updated>2024-10-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[래퍼 안병웅과 카키(Khakii)가 합작 앨범으로 돌아온다.안병웅과 카키는 25일 정오 각종 온라인 음원사이트를 통해 새 EP 'Snow Bros (스노우 브로스)'를 발매한다.'Snow Bros'는 WAVY 소속 두 래퍼의 케미스트리를 느낄 수 있는 프로젝트 앨범이다. 서로의 앨범에 피처링으로 참여하며 음악적 시너지를 증명한 두 사람은 이번 앨범을 통해 개인 앨범에선 보여주지 않았던 다양한 리듬감의 곡들로 색다른 매력을 선사할 전망이다.이번 앨범에는 타이틀곡 'OKAY NEW ! (오케이 뉴 !..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탑현, 오늘(25일) 자작곡 ‘겉잠’ 발매! 11월 9일 소극장 콘서트서 라이브 무대]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24347</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24347"/>
-        <updated>2024-10-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 탑현이 새벽 사색을 담은 ‘겉잠’으로 불면증을 달랜다.탑현은 25일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘겉잠’을 발매한다.‘겉잠’은 잠이 오지 않는 새벽 뒤엉킨 생각을 풀어낸 탑현의 자작곡이다. 탑현은 저마다 머릿속을 떠다니는 고민으로 외로운 여정을 떠나고 있는 것이 아닐까 하는 사색을 담아 가사를 썼다. 마음과 달리 고요하기만 한 상황을 나타낸 이중적인 표현도 리스닝 포인트다.누군가에게 이야기를 들려주는 듯한 탑현의 담백하고 차분한 보컬은 모던한 악기 사운드, 부담스럽지 않은 멜로디와 어우러져 담담한..]]></content>
     </entry>
 </feed>

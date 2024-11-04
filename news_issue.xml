@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-11-03T23:18:49.352Z</updated>
+    <updated>2024-11-04T01:19:45.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정세운·박문치, CAM과 손잡고 본격 새 출발 "전폭적 지원 예정"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24381</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24381"/>
+        <updated>2024-11-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 정세운과 박문치가 CAM과 전속계약을 체결하고 본격적인 새 출발을 시작한다.4일 CAM은 "가수 정세운과 박문치가 CAM과 전속계약을 체결했다"라며 "앞으로 아티스트들이 활발히 활동할 수 있도록 든든한 파트너로서 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.정세운은 청량하고 감미로운 보컬과 작사, 작곡, 연주를 아우르는 올라운더 싱어송라이터다. 정세운은 CAM에서의 음악 활동을 통해 아티스트로서의 입지를 견고히 할 것으로 기대를 모으고 있다.또한 재치 있는 음악 세계를 선보이며 대중의 관심을 받고..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워너원 출신 윤지성, 빌리언스와 전속계약 체결...음악·연기·예능 전방위 활동 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24376</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23948"/>
         <updated>2024-06-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 크랙시(CRAXY)의 소속사 SAI엔터테인먼트가 레벨 이엔엠(LEVEL ENM)으로 사명을 변경한다.25일 SAI엔터테인먼트는 레벨 이엔엠(LEVEL ENM)으로 사명 변경 소식을 발표하며 새로운 출발을 알렸다.레벨 이엔엠(LEVEL ENM)에는 엔터테인먼트 회사로서 고객의 니즈를 수용해 대중과의 수평을 유지한다는 의미가 담겨있다. 이와 함께 국내외에서 내부 임직원을 새롭게 영입하며 전 세계 케이팝 팬들의 취향 저격에 나설 전망이다.더 나아가 레벨 이엔엠(LEVEL ENM)은 앞으로도 진취적이고 신선한 이미지로 신뢰받는 엔터테..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2am 이창민, 메이저나인과 전속계약 체결…바이브·장혜진→포맨과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23939</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23939"/>
-        <updated>2024-06-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2am 이창민이 메이저나인과 전속계약을 체결했다.21일 메이저나인은 "이창민과 최근 전속계약을 체결했다"라며 "가창력과 작곡 능력을 겸비한 이창민의 새로운 출발을 함께 하게 돼 기쁘다. 다양한 음악 활동과 공연 등에 아낌없이 지원할 계획"이라고 밝혔다.2008년 그룹 2am으로 데뷔한 이창민은 '이노래', '죽어도 못 보내', '잘못했어', '전활 받지 않는 너에게' 등 수많은 대표곡을 통해 실력파 메인보컬로 인정받았다. 또 2010년부터는 Hom..]]></content>
     </entry>
 </feed>
