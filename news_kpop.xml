@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-11-08T01:16:35.992Z</updated>
+    <updated>2024-11-08T02:47:39.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['20일 컴백' 에이스(A.C.E), 오늘(8일) 공식 팬클럽 모집 시작! 국내 활동 예열]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24401</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24401"/>
+        <updated>2024-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 공식 팬클럽을 모집하며 컴백 준비에 박차를 가한다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 오늘(8일)부터 공식 홈페이지를 통해 팬클럽 초이스(THE 3RD CHOICE MEMBERSHIP) 모집을 시작한다.오는 20일 세 번째 싱글 'PINATA'(피냐타)로 전격 컴백하는 에이스는 공식 팬클럽 모집과 함께 본격적인 국내 활동 예열에 나선다.실제로 에이스는 그간 다양한 앨범 티저와 함께 공식 팬클럽에 관련된 'HAPPINATA'(해피냐타), 'CANDLELIG..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['28일 컴백' 장민호, 신보 '에세이 ep.3' 트랙리스트 공개…타이틀곡은 '사랑의 티키타카']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24395</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24377"/>
         <updated>2024-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 원호(WONHO)의 데뷔 첫 팬파티 비하인드가 공개됐다.소속사 하이라인엔터테인먼트는 지난달 31일 오후 8시 공식 유튜브 채널을 통해 원호의 팬파티 비하인드 영상을 공개했다.공개된 영상은 지난 9월 14일 이화여자대학교 ECC 삼성홀에서 개최된 '2024 원호 팬파티 '웰컴 백, 위니'(2024 WONHO FAN PARTY 'WELCOME BACK, WENEE')' 현장과 원호의 다양한 모습과 인터뷰를 담고 있어 글로벌 팬들을 열광하게 만들었다.리허설 무대에 오른 원호는 '베스..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐 제이비(JAY B), 오늘(1일) 전격 소집해제! 글로벌 솔로 2막 '기대']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24375</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24375"/>
-        <updated>2024-11-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[갓세븐(GOT7)의 리더이자 솔로 아티스트 제이비(JAY B)가 국방의 의무를 다하고 팬들 곁에 돌아온다.제이비(JAY B)가 사회복무요원으로 약 1년 9개월 간 대체 복무를 마치고 오늘(1일) 소집해제된다.제이비(JAY B)는 지난해 2월 스페셜 EP 'Seasonal Hiatus (시즈널 하이에이터스)'를 발매하고 이후 성실하게 병역 의무를 이행하였으며, 개인 SNS를 통해 진심 어린 손편지와 정성스러운 근황으로 팬 사랑을 전해왔다.제이비(JAY B)는 글로벌 보이그룹 갓세븐(GOT7)의 리더이자 팀 내 유닛 JJ..]]></content>
     </entry>
 </feed>
