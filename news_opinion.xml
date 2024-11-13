@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2024-11-13T01:17:17.308Z</updated>
+    <updated>2024-11-13T02:48:25.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[APT.  1위 10월 이용량 반등 - 10월 리뷰(2024)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24416</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24416"/>
+        <updated>2024-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2024년 10월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량은 17.9%, 6개월 이내 발매곡 29.3% 18개월 이내 발매곡 이용량 점유율은 56.0%를 기록했습니다.2024년 10월 TOP400 가수별 써클지수 점유율 조사에서 DAY6가 400위권 내 총 14곡을 올려놓으며 (합산)점유율 7.7%로 1위에 올랐습니다.2024년 10월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 8.0% 증가, 전년 동기에 비해서는 7.0% 감소한 것으로 조사되었습니다.2024년 10월..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외 음원 소비 현황 (Feat. J-POP in K-POP 차트)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24362</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23946"/>
         <updated>2024-06-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[올림픽은 지구촌 가장 큰 스포츠 행사 중 하나로, 수백만 명의 시청자와 스포츠 팬들이 관심을 가지는 빅 이벤트입니다. 하지만, 이러한 대규모 국제행사는 다른 여러 산업에 영향을 미칠 수 있는데, 특히 음악 시장에 상당한 영향을 주기도 합니다.이번 칼럼에서는 7월에 개최되는 2024 파리 올림픽이 국내 음악시장에 어떤 영향을 줄지, 과거 사례를 바탕으로 살펴보도록 하겠습니다.위 그래프는 2016 리우데자네이루 올림픽(8월05일~21일) 당시 월별 TOP400 음원 이용량 추이입니다. 올림픽 경기가 한창인 8월 이용량이&nbsp;7월 대비 9%..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 다시 OST 강세 '눈물의 여왕',  '선재 업고 튀어' - 5월 리뷰(2024)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23930</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=23930"/>
-        <updated>2024-06-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2024년 5월 TOP400 가수별 써클지수 점유율 조사에서 임영웅이 400위권 내 총 16곡을 올려놓으며 (합산)점유율 6.2%로 1위에 올랐습니다.&nbsp;2024년 5월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 6.1% 증가, 전년 동기에 비해서는 15.2% 감소한 것으로 조사되었습니다.&nbsp;                                                        2024년 5월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 33.0% 감소, 전년 동기에 ..]]></content>
     </entry>
 </feed>
