@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-11-13T23:17:03.419Z</updated>
+    <updated>2024-11-14T01:17:32.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E), 'PINATA' 콘셉트 포토 공개 완료! 코르셋→촛농 '성숙美 극대화']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24421</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24421"/>
+        <updated>2024-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 파격 스타일로 'PINATA'의 스펙터클한 여정을 펼쳐간다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 오는 20일 세 번째 싱글 앨범 'PINATA'(피냐타) 발매를 앞두고, 지난 11일부터 13일까지 공식 SNS를 통해 Trapped Mirror, Cracked Mirror, Destroyed Mirror 등 총 세 가지 버전의 다채로운 티저 이미지를 공개했다.앞서 블랙 쓰리 피스 정장 착장의 Trapped Mirror 콘셉트를 통해 젠틀한 절제 섹시미를 보여준 에이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October 2024 CIRCLE CHART: ROSE, Bruno Mars, SEVENTEEN, and HWANG YOUNG WOONG Le..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24418</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24403"/>
         <updated>2024-11-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 임창정의 신곡 뮤직비디오가 100만 뷰를 돌파했다.&nbsp;지난 1일 임창정 공식 유튜브 채널에서 공개된 임창정의 18번째 정규앨범 선공개곡 '일일일(일어날 일들은 일어나는 거고)'이 10일 유튜브 조회수 100만 뷰를 돌파하며 리스너들의 많은 사랑을 받고 있다.&nbsp;뮤직비디오는 도심 속 건물 옥상에서 홀로 걸어가는 임창정의 뒷모습을 비추며 시작했다. 이와 함께 "일어날 일들은 일어나는 거고 / 너와 나는 만났기에 이런 거고"라는 가사가 시작부터 애잔한 감정을 건드리며 임창정표 발라드의 진수를 보여줬다.&nbsp;또 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['20일 컴백' 에이스(A.C.E), 오늘(8일) 공식 팬클럽 모집 시작! 국내 활동 예열]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24401</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24401"/>
-        <updated>2024-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 공식 팬클럽을 모집하며 컴백 준비에 박차를 가한다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 오늘(8일)부터 공식 홈페이지를 통해 팬클럽 초이스(THE 3RD CHOICE MEMBERSHIP) 모집을 시작한다.오는 20일 세 번째 싱글 'PINATA'(피냐타)로 전격 컴백하는 에이스는 공식 팬클럽 모집과 함께 본격적인 국내 활동 예열에 나선다.실제로 에이스는 그간 다양한 앨범 티저와 함께 공식 팬클럽에 관련된 'HAPPINATA'(해피냐타), 'CANDLELIG..]]></content>
     </entry>
 </feed>
