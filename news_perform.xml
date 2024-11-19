@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-11-18T23:17:20.759Z</updated>
+    <updated>2024-11-19T01:21:43.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리즈, 내년 1월 日 단독 콘서트 개최 확정...'4년만 재결합' 열기 이어간다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24435</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24435"/>
+        <updated>2024-11-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 러블리즈(Lovelyz, 이수정, 유지애, 서지수, 이미주, 케이, 진, 류수정, 정예인)가 일본 콘서트 개최를 확정했다.소속사 울림엔터테인먼트는 지난 18일 오후 6시 공식 SNS를 통해 러블리즈의 데뷔 10주년 기념 단독 콘서트 ''겨울나라의 러블리즈 4' 인 재팬(冬の?のLOVELYZ 4 IN JAPAN)' 포스터를 공개하고 공연 개최 소식을 알렸다.2017년 첫 개최된 '겨울나라의 러블리즈'는 올 라이브 밴드로 진행되는 러블리즈의 겨울 시즌 콘서트로, 화려한 라이브와 퍼포먼스,..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이핑크, 12월 단독 콘서트 'PINK CHRISTMAS' 개최 확정! 13주년 피날레]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24427</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24399"/>
         <updated>2024-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)의 일본 홀 투어 첫 공연이 이틀 앞으로 다가왔다.엔싸인은 오는 10일부터 2025년 2월까지 일본 도쿄, 오사카, 나고야, 센다이 등 총 4개 도시를 순회하는 'n.SSign Japan Tour [EVERBLUE](엔싸인 재팬 투어 [에버블루])'를 개최한다.'EVERBLUE'는 지난해 11월 엔싸인이 진행한 도쿄 아리아케 아레나 공연 이후 약 1년 만에 일본에서 개최하는 콘서트다. 엔싸인은 아리아케 아레나 공연 당시 데뷔 3개월 차 신인 그룹으로서는 이례적인 커리어를 쓰며 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡틴플래닛, 콘서트 ‘with’ 성료! 이승기?팀?이석훈?다비치?박지윤?박새별 지원사격?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24398</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24398"/>
-        <updated>2024-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[캡틴플래닛(이병호, 최수지)이 단독 콘서트를 성공적으로 마무리했다.&nbsp;캡틴플래닛은 지난 2일과 3일 양일간 서울 이화여자대학교 삼성홀에서 관객들의 뜨거운 환호 속에 2024 캡틴플래닛 콘서트 ‘with(위드)’를 성료했다.&nbsp;이날 콘서트에는 가수 이승기, 팀, 이석훈, 다비치, 박지윤, 박새별 등 각기 다른 개성과 음색을 지닌 아티스트들이 무대에 올랐다. 캡틴플래닛과 아티스트들이 오랜 시간 쌓아온 우정을 강조하기 위해 작업실 분위기로 꾸며진 무대에서 이들은 최고의 호흡을 선보이며 단순한 게스트 그 이상의 존재감으로 관객들에게 여운을 안..]]></content>
     </entry>
 </feed>
