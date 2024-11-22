@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-11-21T23:17:52.405Z</updated>
+    <updated>2024-11-22T01:22:15.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['신예 솔로 보컬' 김뭉먕, 메이저나인과 전속계약 체결…바이브·장혜진→포맨·이창민과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24448</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24448"/>
+        <updated>2024-11-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김뭉먕(김수민)이 메이저나인과 손잡았다.22일 메이저나인은 "최근 김뭉먕과 전속계약을 체결했다"고 밝혔다. 이어 "다양한 재능과 가창력을 겸비한 김뭉먕과 함께하게 돼 기쁘다"라며 "앞으로 무한한 기량을 펼칠 수 있도록 적극적인 지원을 할 예정이다. 김뭉먕의 가수로서의 출발에 많은 응원과 사랑을 부탁드린다"고 전했다.18만 이상의 유튜브 구독자를 보유한 김뭉먕은 국내 음원뿐만 아니라 다양한 팝 음악들을 커버하며 좋은 반응을 얻었다. 지난 18일 영화 '청설'의 컬래버레이션..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정세운·박문치, CAM과 손잡고 본격 새 출발 "전폭적 지원 예정"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24381</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23965"/>
         <updated>2024-07-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 KIXO(키조)가 새로운 음악 레이블을 론칭한다.KIXO(키조)가 총괄 프로듀서로 나선 새로운 음악 레이블 'NO MORE BLUE'(노 모어 블루)가 지난달 30일 첫 번째 트레일러 영상을 공개하며 공식적인 출범을 알렸다.'NO MORE BLUE'는 창의적인 콘텐츠와 음원 제작으로 주목 받는 엔터테인먼트사 레이벡스의 산하 레이블이다. 레이블명 그대로 "더 이상의 우울은 없었으면 좋겠다"는 슬로건을 갖고 있다.이에 'NO MORE BLUE'는 진정성, 공감과 위로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크랙시 소속사' SAI엔터테인먼트, 레벨 이엔엠(LEVEL ENM)으로 새 출발…도약 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23948</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23948"/>
-        <updated>2024-06-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 크랙시(CRAXY)의 소속사 SAI엔터테인먼트가 레벨 이엔엠(LEVEL ENM)으로 사명을 변경한다.25일 SAI엔터테인먼트는 레벨 이엔엠(LEVEL ENM)으로 사명 변경 소식을 발표하며 새로운 출발을 알렸다.레벨 이엔엠(LEVEL ENM)에는 엔터테인먼트 회사로서 고객의 니즈를 수용해 대중과의 수평을 유지한다는 의미가 담겨있다. 이와 함께 국내외에서 내부 임직원을 새롭게 영입하며 전 세계 케이팝 팬들의 취향 저격에 나설 전망이다.더 나아가 레벨 이엔엠(LEVEL ENM)은 앞으로도 진취적이고 신선한 이미지로 신뢰받는 엔터테..]]></content>
     </entry>
 </feed>
