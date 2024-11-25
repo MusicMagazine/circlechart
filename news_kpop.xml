@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-11-24T23:17:50.636Z</updated>
+    <updated>2024-11-25T01:23:11.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘12월 9일 컴백’ 세븐어스, 새 타이틀곡은 ‘SLOMO’…미니 2집 트랙리스트 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24453</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24453"/>
+        <updated>2024-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 세븐어스(SEVENUS)가 새 타이틀곡 ‘SLOMO’로 컴백한다.세븐어스(희재, 이레)는 25일 0시 공식 SNS를 통해 두 번째 미니앨범 ‘STAY TUNED(스테이 튠드)’의 트랙리스트 이미지를 공개했다.세븐어스의 이번 미니 2집에는 타이틀곡 ‘SLOMO(슬로모)’를 비롯해 ‘Be My World(비 마이 월드)’, ‘by(바이)’, ‘Starlight(스타라이트)’, ‘바람(wish)’, ‘차갑고, 반짝이는’까지 총 6곡이 수록된다.‘느린 화면’을 의미하는 타이틀곡 ‘SLOMO’를 포함해 서로 다른 메시지를 품고 있는 곡..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MUBEAT] 세븐틴, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24452</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24433"/>
         <updated>2024-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이스(A.C.E)가 'PINATA'로 역대급 스케일과 퍼포먼스를 선보인다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 18일 오후 6시 공식 SNS와 유튜브 채널을 통해 세 번째 싱글 앨범 'PINATA'(피냐타) 타이틀곡 'PINATA'의 단체 티저 영상을 공개했다.이번 단체 티저 속 에이스는 매혹적인 뒷태 비주얼로 눈길을 사로잡는다. 이어 'PINATA'의 강렬한 음원과 퍼포먼스 일부가 최초로 공개됐다. 에이스는 49명의 댄스크루와 함께 강인한 결기가 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티(TIOT), 데뷔 첫 발라드 'Take It Slow' 활동 성료→韓日 단독 콘서트 개최 'HOT 행보']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24431</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24431"/>
-        <updated>2024-11-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 발라드곡 활동으로 다채로운 음악 스펙트럼을 입증했다.&nbsp;티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 15일 KBS2 '뮤직뱅크'를 시작으로 ENA 'ENA 케이팝업 차트쇼', 16일 MBC '쇼! 음악중심', 17일 SBS '인기가요'에 출연하며 새 디지털 싱글 'Take It Slow (테이크 잇 슬로)' 무대를 선보였다.티아이오티는 모던하고 세련된 스타일링으로 한층 성숙해진 매력을 선사했다. 지금의 계절과 잘 어울..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-11-24T23:17:50.640Z</updated>
+    <updated>2024-11-25T01:23:11.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["이름값 하는" 에이스(A.C.E), 'PINATA' 첫 주 활동 성료! 라이브 퍼포먼스 호평 일색]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24456</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24456"/>
+        <updated>2024-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 콘셉츄얼한 매력으로 'PINATA' 첫 주 활동을 펼쳤다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 20일 세 번째 싱글 앨범 'PINATA'(피냐타)를 발매하고 동명의 타이틀곡으로 활발한 활동을 시작했다.컴백 당일 에이스는 팬 콘서트 'SECRET NETWORK'(시크릿 네트워크)를 개최하고 팬들에게 'PINATA'를 비롯한 총 15곡 가량의 라이브 무대를 선사했다. 이어 21일에는 서울 코엑스에서 깜짝 버스킹을 진행, 팬들과 한 자..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러블리즈, 내년 1월 日 단독 콘서트 개최 확정...'4년만 재결합' 열기 이어간다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24435</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24402"/>
         <updated>2024-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[레전드 아티스트 김재중과 김준수가 JX 단독 콘서트로 팬들을 만난다.김재중과 김준수는 오늘(8일)부터 사흘간 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 데뷔 20주년 기념 단독 콘서트 'JX 2024 CONCERT [IDENTITY] in SEOUL'(아이덴티티 인 서울, 이하 [IDENTITY])을 개최한다.[IDENTITY]는 김재중과 김준수의 활동명 첫 글자를 딴 유닛 JX로서 처음 선보이는 프로젝트다. 오랜만에 한 무대에 서는 두 사람의 행보가 개최 소식부터 전 세계 팬들의 뜨거운 관심을 받고 있다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인, 日 홀 투어 콘서트 'EVERBLUE' D-2…'전석 매진' 도쿄에서 화려한 포문]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24399</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24399"/>
-        <updated>2024-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)의 일본 홀 투어 첫 공연이 이틀 앞으로 다가왔다.엔싸인은 오는 10일부터 2025년 2월까지 일본 도쿄, 오사카, 나고야, 센다이 등 총 4개 도시를 순회하는 'n.SSign Japan Tour [EVERBLUE](엔싸인 재팬 투어 [에버블루])'를 개최한다.'EVERBLUE'는 지난해 11월 엔싸인이 진행한 도쿄 아리아케 아레나 공연 이후 약 1년 만에 일본에서 개최하는 콘서트다. 엔싸인은 아리아케 아레나 공연 당시 데뷔 3개월 차 신인 그룹으로서는 이례적인 커리어를 쓰며 ..]]></content>
     </entry>
 </feed>
