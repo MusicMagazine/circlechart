@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-11-26T23:17:50.107Z</updated>
+    <updated>2024-11-27T01:23:34.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['49人 댄서 총출동' 에이스(A.C.E), 'PINATA' 메가 퍼포먼스 영상 공개 완료!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24463</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24463"/>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이스(A.C.E)가 'PINATA' 메가 퍼포먼스로 글로벌 팬심을 매료시켰다.에이스(박준희, 이동훈, 와우, 김병관, 강유찬)는 지난 25일과 26일 공식 유튜브 채널에 세 번째 싱글 앨범 타이틀곡 'PINATA'(피냐타)의 퍼포먼스 영상 고정캠, 무빙캠 버전을 차례로 공개했다.'PINATA'는 에이스가 코로나, 군백기를 거쳐 3년 만에 발매한 새 앨범이다. 앞서 49명의 댄스 크루와 함께한 1번 트랙 'Intro : Recuerda, recuerda'(인트로 : 레큐..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 46 CIRCLE CHART: ROSE, Bruno Mars, NCT DREAM, and ENHYPEN Rule the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24462</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24437"/>
         <updated>2024-11-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 45 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ROSE, Bruno Mars, and TOMORROW X TOGETHER.KMCA, publisher of CIRCLE CHART, announced that “As of week 45 (2024.11.03.~ 2024.11.09.), ROSE and Bruno Mars swept a total of 6 charts while TOMORROW X TOGETHER topped 2 charts”.ROSE an..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스, 정규 2집 신곡 ‘잃어버린 것들에 대하여’ M/V 추가 공개…12월 단독 콘서트 개최 ‘광폭 행보 ing’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24434</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24434"/>
-        <updated>2024-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 신곡 ‘잃어버린 것들에 대하여’ 뮤직비디오를 추가로 선보였다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 18일 오후 공식 유튜브 채널에 두 번째 정규앨범 ‘소화(韶華) 2장 : 청춘 결핍’ 수록곡 ‘잃어버린 것들에 대하여(Closer)’의 뮤직비디오를 공개했다.‘잃어버린 것들에 대하여’는 이펙스의 감성적인 보컬과 래핑이 강렬한 사운드를 이끄는 록 트랙이다. 상실감과 결핍이 때론 청춘을 성장시킨다는 메시지를 전한다. 앞서 음악 방송에서 타이틀곡 ‘UNIVERSE(유니버스)’와 무..]]></content>
     </entry>
 </feed>
