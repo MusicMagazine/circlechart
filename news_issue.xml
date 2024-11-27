@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-11-27T01:23:34.500Z</updated>
+    <updated>2024-11-27T03:00:23.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[D.Ark(디아크), 신생 기획사 GOD'S PLAN과 전속계약 체결! 피네이션 매니저와 '의리']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24464</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24464"/>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[래퍼 D.Ark(디아크)가 GOD'S PLAN과 함께 새로운 도약에 나선다.D.Ark(디아크)는 최근 GOD'S PLAN(가즈플랜)과 전속계약을 체결했다. 이어 29일 컴백을 확정하며 본격적인 음악 활동 재개를 알렸다.GOD'S PLAN은 올해 초 설립된 신생 매니지먼트사로, P NATION(피네이션)에서 D.Ark와 인연을 맺은 박진석 대표가 이끌고 있다. 박진석 대표는 독립 후 첫 행보로 D.Ark와 전속계약을 체결, 오랜 시간 쌓아온 신뢰를 시너지로 극대화할 계획이다.이와 관련 박진석 대표는 "D...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['신예 솔로 보컬' 김뭉먕, 메이저나인과 전속계약 체결…바이브·장혜진→포맨·이창민과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24448</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012"/>
         <updated>2024-07-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 로키드(Lokid)가 메이저나인과 전속계약을 체결했다.12일 메이저나인은 "싱어송라이터로서 풍부한 감성을 표현하는 로키드와 계약하게 되어 기쁘다"라며 "로키드의 새로운 출발에 많은 응원과 사랑 부탁드리고, 앞으로도 다양한 음악 활동을 통해 발전하는 아티스트가 될 수 있도록 적극적인 지원을 아끼지 않을 예정"이라고 밝혔다.로키드는 2018년 EP 앨범 'Bubble Love(버블 러브)'로 데뷔한 뒤 'sowhereareyounow?(소웨어아유나우?)', 'Rain..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정이라고 하자' 작곡가 KIXO(키조), 신규 음악 레이블 'NO MORE BLUE' 론칭]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23965</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=23965"/>
-        <updated>2024-07-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 KIXO(키조)가 새로운 음악 레이블을 론칭한다.KIXO(키조)가 총괄 프로듀서로 나선 새로운 음악 레이블 'NO MORE BLUE'(노 모어 블루)가 지난달 30일 첫 번째 트레일러 영상을 공개하며 공식적인 출범을 알렸다.'NO MORE BLUE'는 창의적인 콘텐츠와 음원 제작으로 주목 받는 엔터테인먼트사 레이벡스의 산하 레이블이다. 레이블명 그대로 "더 이상의 우울은 없었으면 좋겠다"는 슬로건을 갖고 있다.이에 'NO MORE BLUE'는 진정성, 공감과 위로..]]></content>
     </entry>
 </feed>

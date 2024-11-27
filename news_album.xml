@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-11-27T01:23:34.499Z</updated>
+    <updated>2024-11-27T03:00:23.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[반하나, 12월 4일 10주년 기념 리메이크 음원 ‘그대가 나를 본다면(2024)’ 발매 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24466</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24466"/>
+        <updated>2024-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 반하나가 데뷔 10주년 기념 리메이크 음원을 선보인다.반하나는 오는 12월 4일 오후 6시 리메이크 음원 ‘그대가 나를 본다면(2024)’을 발매한다. 이에 앞서 소속사 레이벡스와 반하나의 공식 SNS를 통해 음원 일부가 담긴 티저 영상이 공개됐다.‘그대가 나를 본다면(2024)’은 반하나가 지난 2014년 발매한 자신의 데뷔곡 ‘그대가 나를 본다면’을 10년 만에 새롭게 부른 곡이다. 다소 투박하면서 강렬한 매력으로 사랑받았던 원곡이 더욱 깊어진 반하나의 가창력과 감성으로 재탄생한다.이날 티저로 공개된 ‘그대가 나를 본다면(..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴 블랑코, 1.7억뷰 카카오 웹툰 '비밀사이' OST 두 번째 주자! 12월 3일 R&B 신곡 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24461</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24447"/>
         <updated>2024-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA['미안하다, 사랑한다 2024' OST 앨범이 리스너들의 추억을 자극한다.&nbsp;웨이브(Wavve) 뉴클래식 프로젝트 파트2의 포문을 연 '[감독판] 미안하다, 사랑한다 2024' OST 앨범이 22일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.&nbsp;이번 OST 앨범에는 박효신의 '눈의 꽃'이 2024년 버전으로 재해석되어 실린다. NCT 도영이 가창에 참여해, 원곡을 현대적이고 세련된 감각으로 리메이크했다.'미안하다, 사랑한다'의 메인 테마곡인 '눈의 꽃'은 차..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐어스, 12월 9일 미니 2집 'STAY TUNED' 발매 확정! 9개월 만에 컴백]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24446</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24446"/>
-        <updated>2024-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 세븐어스(SEVENUS)가 9개월 만에 전격 컴백한다.세븐어스(희재, 이레)는 오는 12월 9일 각종 온라인 음원 사이트를 통해 두 번째 미니앨범 'STAY TUNED (스테이 튠드)'를 발매한다.'STAY TUNED'는 세븐어스가 지난 3월 발매한 'SPRING CANVAS (스프링 캔버스)' 이후 9개월 만에 선보이는 새 앨범이다. 세븐어스는 '채널 고정'이라는 뜻을 지닌 이번 앨범을 통해 탄탄한 가창력과 하모니는 물론, 독보적인 음악 세계까지 선보일 계획이다.오늘(..]]></content>
     </entry>
 </feed>
