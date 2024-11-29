@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-11-28T23:17:53.965Z</updated>
+    <updated>2024-11-29T01:22:55.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자우림, 연말 서울 공연 이어 첫 일본 단독 콘서트 개최 확정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24476</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24476"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[자우림이 데뷔 27년 만에 첫 일본 단독 콘서트를 연다. ‘JAURIM Concert in JAPAN 2025 ~TOKYO EXPRESS~’ 공연은 내년 2월 1일(토)부터 2월 2일(일)까지 양일 간 도쿄 시부야에 위치한 duo MUSIC EXCHANGE에서 개최된다.자우림은 29일 공식 SNS 채널을 통해 일본 콘서트 포스터를 공개했다. 특히 국내 팬들도 일본 공연을 편하게 관람할 수 있도록 일본 콘서트 투어 패키지를 구성 중이란 소식도 전했다.이번 공연은 한일 양국 팬들이 각각 자국 플랫폼에서 티켓을 구매 할 수 있다. 국내에..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이름값 하는" 에이스(A.C.E), 'PINATA' 첫 주 활동 성료! 라이브 퍼포먼스 호평 일색]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24456</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24405"/>
         <updated>2024-11-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[데이브레이크가 오는 12월 새 프로젝트로 연말을 풍성하게 채운다.데이브레이크는 오늘(11일) 공식 SNS를 통해 ‘SEMICOLON’ PROJECT를 공개, 오는 12월 앨범 발매와 단독 콘서트 개최를 예고했다.공개된 ‘SEMICOLON’ PROJECT에 따르면 데이브레이크는 오는 12월 10일 오후 6시 ‘SEMICOLON’ 앨범을 발매하고 28일~29일 양일간 서울 광진구 예스24 라이브홀에서 단독 콘서트 ‘SEMICOLON’을 개최한다. 이는 미스틱스토리로 소속사 이적 후 처음으로 선보이는 신보와 콘서트인 만큼 수많은 팬들의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['D-DAY' 김재중X김준수 JX, 오늘(8일) 단독 콘서트 그랜드 오픈! 풀 밴드 라이브 '기대']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24402</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24402"/>
-        <updated>2024-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[레전드 아티스트 김재중과 김준수가 JX 단독 콘서트로 팬들을 만난다.김재중과 김준수는 오늘(8일)부터 사흘간 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 데뷔 20주년 기념 단독 콘서트 'JX 2024 CONCERT [IDENTITY] in SEOUL'(아이덴티티 인 서울, 이하 [IDENTITY])을 개최한다.[IDENTITY]는 김재중과 김준수의 활동명 첫 글자를 딴 유닛 JX로서 처음 선보이는 프로젝트다. 오랜만에 한 무대에 서는 두 사람의 행보가 개최 소식부터 전 세계 팬들의 뜨거운 관심을 받고 있다...]]></content>
     </entry>
 </feed>

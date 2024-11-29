@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-11-28T23:17:53.967Z</updated>
+    <updated>2024-11-29T01:22:55.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스, 8부작 학교 탐방 웹예능 ‘학생들을 부탁해!’ 학생부 첫방! 전교생 함께한 체육대회로 ‘동심 소환’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24474</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24474"/>
+        <updated>2024-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 EPEX(이펙스)가 학교 탐방을 시작했다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난 28일 유튜브 채널 ‘오늘 우리 학교는’을 통해 단독 웹예능 ‘학생들을 부탁해!(이하 ‘학생부’)’ 1화를 공개했다.‘학생부’는 이펙스가 전국 각지의 학교를 직접 방문해 다양한 체험을 하는 학교 탐방 콘텐츠다. 1화에선 전교생이 7명인 강원도 양양군의 상평초등학교 오색분교장을 찾은 이펙스의 모습이 그려졌다.이날 이펙스는 학생들과 함께 청팀(위시, 뮤, 에이든, 예왕)과 백팀(금동현, 아민, 백승, 제프)을 이뤄 체..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8TURN(에잇턴), 새 싱글 '이럴거면 다음생에' 음원+퍼포먼스 일부 첫 공개! 완벽 하이틴 비주얼]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24471</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24449"/>
         <updated>2024-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 아이칠린(ICHILLIN', 이지, 지윤, 재키, 주니, 채린, 예주, 초원)이 업그레이드된 매력을 담은 신보로 컴백한다.&nbsp;아이칠린은 22일 정오 각종 음원 사이트를 통해 일곱 번째 디지털 싱글 '프리퀄(Prequel)'을 발매하고 글로벌 팬들 곁에 화려한 귀환을 알린다.아이칠린의 컴백은 지난 3월 발매한 세 번째 미니 앨범 '필린 핫(Feelin' Hot)' 이후 약 8개월 만으로, '프리퀄'은 폭넓은 음악 스펙트럼을 가진 이들의 매력을 가감없이 담아낸 앨범이다.타이틀..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 25일 신곡 'Be Alright' 발매 확정...연말 따뜻하게 물들일 '감성 치유송']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24445</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24445"/>
-        <updated>2024-11-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘이 연말을 따뜻하게 물들일 신곡을 발매한다.소속사 비투비 컴퍼니는 지난 20일 오후 6시 공식 SNS를 통해 비투비의 '비커밍 프로젝트(BECOMING PROJECT)' 두 번째 곡 '비올라잇(Be Alright)' 프로모션 스케줄러를 공개하고 음원 발매 소식을 알렸다.공개된 이미지는 눈 내리는 밤 밝은 조명이 비추는 집의 모습을 담고 있다. 나무 위로 소복이 쌓인 흰 눈과 한 폭의 그림 같은 풍경이 포근한 연말 분위기를 자아내며 신곡의 기대감을 증..]]></content>
     </entry>
 </feed>
