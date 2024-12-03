@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-02T23:19:36.745Z</updated>
+    <updated>2024-12-03T01:24:26.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['글로벌 핫템' 템페스트, 11일 日 신보 'BUBBLE GUM' 발매→14·15일 현지 단독 콘서트 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24486</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24486"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 일본에서 신곡 발매와 함께 단독 콘서트를 개최한다.소속사는 3일 "템페스트가 오는 11일 일본 두 번째 미니앨범 'BUBBLE GUM(버블 검)'을 발매한다"고 밝혔다.이에 앞서 지난 2일 오후 일본 콜롬비아 뮤직 공식 유튜브 채널과 일본 트위터 계정을 통해 타이틀곡 'Bubble Gum(버블 검)' 뮤직비디오 티저 영상이 공개됐다.영상 속 템페스트는 한 치 오차 없는 칼각 군무로 보는 이들의 시선을 사로잡았다. 또한 겨울과 잘 어울리는 하얀색 의상과 개성 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이펙스, 8부작 학교 탐방 웹예능 ‘학생들을 부탁해!’ 학생부 첫방! 전교생 함께한 체육대회로 ‘동심 소환’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24474</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24452"/>
         <updated>2024-11-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 관점에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 24년 10월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의 합)를 사용하였고, 팬투표는 뮤빗에서 주 단위로 진행하고 있는 ‘뮤빗 K-POP 팬투표’의 데이터를 취합하여 반영했다. 뮤빗 아티스트 리포트는 4가지 부문의 데이터에서 아티스트가 차지하는 점유율을 점수화하..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린, 8개월만 신보 'Prequel'로 돌아온다...물오른 비주얼+한계 없는 음악 스펙트럼 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24449</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24449"/>
-        <updated>2024-11-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 아이칠린(ICHILLIN', 이지, 지윤, 재키, 주니, 채린, 예주, 초원)이 업그레이드된 매력을 담은 신보로 컴백한다.&nbsp;아이칠린은 22일 정오 각종 음원 사이트를 통해 일곱 번째 디지털 싱글 '프리퀄(Prequel)'을 발매하고 글로벌 팬들 곁에 화려한 귀환을 알린다.아이칠린의 컴백은 지난 3월 발매한 세 번째 미니 앨범 '필린 핫(Feelin' Hot)' 이후 약 8개월 만으로, '프리퀄'은 폭넓은 음악 스펙트럼을 가진 이들의 매력을 가감없이 담아낸 앨범이다.타이틀..]]></content>
     </entry>
 </feed>
