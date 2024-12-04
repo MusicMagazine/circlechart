@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-04T01:24:58.984Z</updated>
+    <updated>2024-12-04T03:02:32.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[케이시, 뉴 캐럴퀸 탄생 예감! 데뷔 첫 겨울 발라드 '녹지않을게' 기대 이유]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24489</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24489"/>
+        <updated>2024-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 케이시(Kassy)가 새 음악적 변신을 담은 신곡으로 올겨울 컴백한다.&nbsp;케이시는 오는 8일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '녹지않을게'를 발매한다. 데뷔 9년 만에 처음으로 발표하는 첫 겨울 발라드로 앞서 화제를 모은 만큼 그 어느 때보다 케이시를 향한 리스너들의 기대감이 뜨겁다.&nbsp;그간 케이시는 '그때가 좋았어', '가을밤 떠난 너', '진심이 담긴 노래' 등 이별 감성을 담은 히트곡으로 주목받아왔다. 특히 가을 계절감에 맞춘 다크한 무드의 곡과 케이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['핫 뮤지션' 폴 블랑코, 오늘(3일) 카카오웹툰 '비밀사이' OST '툭 꺼낸 말에는 오히려 거짓 없으니까' 발매!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24483</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24466"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 반하나가 데뷔 10주년 기념 리메이크 음원을 선보인다.반하나는 오는 12월 4일 오후 6시 리메이크 음원 ‘그대가 나를 본다면(2024)’을 발매한다. 이에 앞서 소속사 레이벡스와 반하나의 공식 SNS를 통해 음원 일부가 담긴 티저 영상이 공개됐다.‘그대가 나를 본다면(2024)’은 반하나가 지난 2014년 발매한 자신의 데뷔곡 ‘그대가 나를 본다면’을 10년 만에 새롭게 부른 곡이다. 다소 투박하면서 강렬한 매력으로 사랑받았던 원곡이 더욱 깊어진 반하나의 가창력과 감성으로 재탄생한다.이날 티저로 공개된 ‘그대가 나를 본다면(..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴 블랑코, 1.7억뷰 카카오 웹툰 '비밀사이' OST 두 번째 주자! 12월 3일 R&B 신곡 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24461</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24461"/>
-        <updated>2024-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 아티스트 폴 블랑코(Paul Blanco)가 '비밀사이' OST를 이어 부른다.폴 블랑코는 오는 12월 3일 발매되는 카카오웹툰 '비밀사이'의 OST Part.2 '툭 꺼낸 말에는 오히려 거짓 없으니까'에 가창자로 참여한다.'비밀사이'는 카카오웹툰에서 누적 조회수 1억 7천만 뷰를 돌파한 맥퀸스튜디오 작가의 오피스 BL 소재 웹툰이다. 카카오웹툰 외에도 북미 타파스, 일본 픽코마 등 6개국에 진출해 글로벌 각국에서 높은 인기를 얻고 있다. 앞서 주니(JUNNY)가 첫 번..]]></content>
     </entry>
 </feed>
