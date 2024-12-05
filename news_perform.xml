@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-12-05T01:24:39.483Z</updated>
+    <updated>2024-12-05T03:03:38.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카더가든, 내년 1월 단독 공연 ‘From Apartment(프롬 어파트먼트)’ 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24491</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24491"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[카더가든이 내년 1월 10일부터 12일까지 3일간, 블루스퀘어 마스터카드홀에서 단독 공연 ‘From Apartment(프롬 어파트먼트)’를 개최한다. 지난해 올림픽홀에서의 단독 공연 ‘Harmony(하모니)’ 2회차를 단시간에 전석 매진시킨 카더가든은 이번엔 좀 더 작은 공연장에서, 더 가깝게 팬들을 만난다.‘APARTMENT’는 2017년 12월 12일 발표한 카더가든의 정규 1집 음반 이름으로, 이번 공연의 핵심 키워드다. 빛을 등지고 묵묵히 걸어나가는 카더가든의 모습에, 잔상이 남은 듯한 효과가 담긴 포스터는 공연의 이름 ‘아..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙홀 35주년 기념 콘서트 개최 한국 헤비메탈을 이루다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24490</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24435"/>
         <updated>2024-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 러블리즈(Lovelyz, 이수정, 유지애, 서지수, 이미주, 케이, 진, 류수정, 정예인)가 일본 콘서트 개최를 확정했다.소속사 울림엔터테인먼트는 지난 18일 오후 6시 공식 SNS를 통해 러블리즈의 데뷔 10주년 기념 단독 콘서트 ''겨울나라의 러블리즈 4' 인 재팬(冬の?のLOVELYZ 4 IN JAPAN)' 포스터를 공개하고 공연 개최 소식을 알렸다.2017년 첫 개최된 '겨울나라의 러블리즈'는 올 라이브 밴드로 진행되는 러블리즈의 겨울 시즌 콘서트로, 화려한 라이브와 퍼포먼스,..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크, 12월 단독 콘서트 'PINK CHRISTMAS' 개최 확정! 13주년 피날레]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24427</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24427"/>
-        <updated>2024-11-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 에이핑크(Apink)가 팬들과 '핑크 크리스마스'를 함께 맞이한다.에이핑크(박초롱, 윤보미, 정은지, 김남주, 오하영)는 오는 12월 21일과 22일 양일간 서울 강서구 KBS아레나에서 2024 Apink 7th 단독 콘서트 'PINK CHRISTMAS (핑크 크리스마스)'를 개최한다.'PINK CHRISTMAS'는 에이핑크가 약 4년 만에 선보이는 완전체 단독 콘서트로 기대를 모으고 있다. 에이핑크는 연말 크리스마스 시즌을 맞아 오랜만에 만나는 팬들에게 설렘 가득한 무대와 비주얼을 ..]]></content>
     </entry>
 </feed>

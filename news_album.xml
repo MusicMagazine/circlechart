@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-05T01:24:39.505Z</updated>
+    <updated>2024-12-05T03:03:38.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VVON(본) X MELOH(멜로), 오늘(5일) 컬래버 음원 '4 Seasons' 발매! 키치 사운드 '완성도 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24492</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24492"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[알앤비 아티스트 VVON(본)과 MELOH(멜로)가 설렘을 자극하는 컬래버 음원으로 음악 팬들과 만난다.VVON과 MELOH는 5일 오후 6시 각종 온라인 음원사이트를 통해 새 디지털 싱글 '4 Seasons (포 시즌즈)'를 발매한다.'4 Seasons'는 기타 리프에 트랩 리듬을 기반으로 한 곡으로, 키치한 사운드가 돋보인다. 팝 사운드에 VVON과 MELOH의 개성이 드러나는 보컬이 조화를 이뤄 리스너들에게 듣는 재미를 선사한다.특히 '4 Seasons'는 가까운 아티스트 동료로 오랜..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이시, 뉴 캐럴퀸 탄생 예감! 데뷔 첫 겨울 발라드 '녹지않을게' 기대 이유]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24489</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24469"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[드라마 '조립식 가족'의 감동을 음원으로 나눈다.JTBC 수요드라마 '조립식 가족(극본 홍시영, 연출 김승호)'의 OST 온라인 컴필레이션 앨범이 28일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.이번 컴필레이션 앨범에는 눈부시게 빛나는 청춘의 순간을 그린 하성운의 '그때의 우리', 청춘을 닮은 따뜻한 힐링과 기분 좋은 활력을 더한 PITTA(강형호)의 '수백 번, 수천 번', 다정한 선율로 잔잔한 위로를 전하는 신지훈의 '키 작은 나무', 말하지 못한 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반하나, 12월 4일 10주년 기념 리메이크 음원 ‘그대가 나를 본다면(2024)’ 발매 확정!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24466</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24466"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 반하나가 데뷔 10주년 기념 리메이크 음원을 선보인다.반하나는 오는 12월 4일 오후 6시 리메이크 음원 ‘그대가 나를 본다면(2024)’을 발매한다. 이에 앞서 소속사 레이벡스와 반하나의 공식 SNS를 통해 음원 일부가 담긴 티저 영상이 공개됐다.‘그대가 나를 본다면(2024)’은 반하나가 지난 2014년 발매한 자신의 데뷔곡 ‘그대가 나를 본다면’을 10년 만에 새롭게 부른 곡이다. 다소 투박하면서 강렬한 매력으로 사랑받았던 원곡이 더욱 깊어진 반하나의 가창력과 감성으로 재탄생한다.이날 티저로 공개된 ‘그대가 나를 본다면(..]]></content>
     </entry>
 </feed>
