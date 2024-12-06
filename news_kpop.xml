@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-06T04:22:44.924Z</updated>
+    <updated>2024-12-06T05:18:40.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 47 CIRCLE CHART: ROSE, Bruno Mars, ATEEZ, and Hwang Karam Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24498</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24498"/>
+        <updated>2024-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 47 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by ROSE, Bruno Mars, ATEEZ, and Hwang Karam.KMCA, publisher of CIRCLE CHART, announced that "As of week 47 (2024.11.17.~2024.11.23.), ROSE and Bruno Mars swept a total of 3 charts while ATEEZ topped 2 charts and Hwang Kara..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지·선우정아·에이티즈 홍중·종호, 7일 첫방 ‘나라는 가수 인 독일’ 첫 버스킹 떠난다 “라인업에 경의”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24495</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24467"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[올해로 25주년을 맞은 국내 대표 창작 뮤지컬 &lt;베르테르&gt;(제작 CJ ENM)가 오늘(27일) 오후 2시 첫 번째 티켓 오픈을 앞둔 가운데, 캐릭터 포스터를 공개했다.공개된 ‘베르테르’와 ‘롯데’의 캐릭터 포스터는 아련하고 애틋한 감정을 고스란히 담아내 두 캐릭터에 깊이 몰입한 배우들의 모습을 엿볼 수 있다. ‘베르테르’ 역을 맡은 엄기준, 양요섭, 김민석이 사랑하는 이를 바라보는 따스한 눈빛을 통해 애틋하고 순수한 사랑을 담아냈다. 또, ‘롯데’ 역의 전미도, 이지혜, 류인아는 깨끗한 미소와 순수한 매력으로 관객들을 사..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['보컬 여제' 이영현, '킬링 보이스'에 떴다...신곡 'Just Love'·'STAR' 최초 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24465</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24465"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이영현이 '킬링 보이스'에서 신곡을 선공개했다.딩고 뮤직은 지난 26일 오후 7시 공식 유튜브 채널을 통해 이영현의 '킬링 보이스' 영상을 공개했다.이영현은 지난 2021년 빅마마 완전체로 '킬링 보이스'에 출연해 파워풀한 라이브로 음악 팬들의 뜨거운 반응을 불러온 바 있다. 3년 6개월 만에 솔로 가수로 '킬링 보이스'를 다시 찾은 그는 시청자들을 향해 환한 웃음을 지으며 반가운 인사를 전했다.이영현은 2009년 발매한 첫 싱글 '테이크 잇(Take it)..]]></content>
     </entry>
 </feed>
