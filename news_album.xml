@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-10T23:17:51.770Z</updated>
+    <updated>2024-12-11T01:24:54.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그리즐리, 오늘(11일) 새 EP ‘SO WHAT!’ 발매! 자유+반항적 사운드로 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24509</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24509"/>
+        <updated>2024-12-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 그리즐리 (Grizzly)의 새 EP가 드디어 베일을 벗는다.그리즐리는 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 EP 앨범 ‘SO WHAT!(쏘 왓!)’을 발매한다.‘SO WHAT!’은 음악, 패션, 언어 등 그 어떤 것에서도 경계를 두려 하지 않는 아티스트의 생각을 자유롭고 시원하며 때로는 반항적인 사운드와 가사로 풀어낸 앨범이다. 타이틀곡 ‘FTS’는 ‘Fxxk That Sxxt’의 약자로 자신을 억압하는 규칙과 타인들의 시선에서 벗어나 진정한 자신을 보여주겠다는 진심을 담았다.여기에 느긋한 기타 이팩트와 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 오늘(10일) 1.7억뷰 카카오웹툰 '비밀사이' OST 전격 공개!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24508</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24489"/>
         <updated>2024-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 케이시(Kassy)가 새 음악적 변신을 담은 신곡으로 올겨울 컴백한다.&nbsp;케이시는 오는 8일 오후 6시 각종 온라인 음원사이트를 통해 새 싱글 '녹지않을게'를 발매한다. 데뷔 9년 만에 처음으로 발표하는 첫 겨울 발라드로 앞서 화제를 모은 만큼 그 어느 때보다 케이시를 향한 리스너들의 기대감이 뜨겁다.&nbsp;그간 케이시는 '그때가 좋았어', '가을밤 떠난 너', '진심이 담긴 노래' 등 이별 감성을 담은 히트곡으로 주목받아왔다. 특히 가을 계절감에 맞춘 다크한 무드의 곡과 케이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핫 뮤지션' 폴 블랑코, 오늘(3일) 카카오웹툰 '비밀사이' OST '툭 꺼낸 말에는 오히려 거짓 없으니까' 발매!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24483</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24483"/>
-        <updated>2024-12-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[힙합 아티스트 폴 블랑코(Paul Blanco)가 '비밀사이' OST로 고백송을 선보인다.3일 오후 6시 각종 온라인 음원 사이트를 통해 폴 블랑코가 가창에 참여한 카카오웹툰 '비밀사이'의 OST Part.2 '툭 꺼낸 말에는 오히려 거짓 없으니까'가 발매된다.'툭 꺼낸 말에는 오히려 거짓 없으니까'는 누군가에게 건넬 수 없었던 진심과 늦은 깨달음, 그리고 그 뒤늦은 고백의 순간을 비유와 은유의 가사로 풀어낸 곡이다. 프로듀서 DOKO(도코)가 작사, 작곡에 참여해 완성도를 ..]]></content>
     </entry>
 </feed>
