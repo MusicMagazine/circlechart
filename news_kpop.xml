@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-11T23:17:58.882Z</updated>
+    <updated>2024-12-12T01:24:12.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방용국&정대현&유영재&문종업, 18일 발매 크리스마스 앨범 'Christmas With You' 하이라이트 첫 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24514</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24514"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업의 신보 하이라이트가 베일을 벗었다.방용국&amp;정대현&amp;유영재&amp;문종업은 지난 11일 공식 SNS를 통해 2024 크리스마스 스페셜 앨범 'Christmas With You (크리스마스 위드 유)'의 프리뷰 영상을 공개했다.공개된 영상에는 'Christmas With You' 언플러그드 버전을 시작으로 'Snow (스노우)', 타이틀곡 'Christmas With You', 'Winte..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘대한민국 대표 보컬’ 김범수, 오늘(11일) 영화 ‘김범수 25주년 콘서트 필름 : 여행’ 개봉]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24512</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24488"/>
         <updated>2024-12-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[브랜뉴뮤직 소속 8인조 보이그룹 YOUNITE(유나이트)가 1ST SINGLE ALBUM ‘Y’의 오피셜 포토를 공개하며 눈부신 비주얼을 뽐냈다.유나이트(은호, 스티브, 은상, 형석, 우노, DEY, 경문, 시온)는 지난 3일과 4일 0시,&nbsp;공식 SNS 채널들을 통해 두 가지 콘셉트의 오피셜 포토를 차례로 공개하며 한층 성숙하고 치명적인 매력을 선보였다.지난 3일 공개된 첫 번째 오피셜 포토는 밝은 하늘 아래 당당하면서도 자신감 넘치는 분위기를 연출한 단체 사진을 시작으로&nbsp;스트릿한 무드의 개성 넘치는 스타일링으로 각 멤버의 매력과 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TURN(에잇턴), 새 싱글 '이럴거면 다음생에' 숏폼 영상 공개! 설렘 폭발 '고백 공격']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24487</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24487"/>
-        <updated>2024-12-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[8TURN(에잇턴)이 귀여운 고백을 건넨다.&nbsp;8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 최근 공식 SNS를 통해 9일 발매를 앞둔 새 싱글 '이럴거면 다음생에'의 멤버별 숏폼 영상을 공개했다.&nbsp;공개된 영상 속 8TURN은 하이틴 영화 주인공처럼 수줍은 인사를 건네고 있다. 각각의 개성이 드러난 고백 메시지가 보는 이들에게 설렘과 함께 골라 듣는 재미를 선사하고 있다.멤버들은 "사귀자, 내가 진짜 잘해 줄게"와 같은 당찬 고백부터 "우리 사귈래?", "우린 ..]]></content>
     </entry>
 </feed>
