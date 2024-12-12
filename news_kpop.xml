@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-12T01:24:12.336Z</updated>
+    <updated>2024-12-12T03:01:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 48 CIRCLE CHART: ROSE, Bruno Mars, and TWS Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24517</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24517"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 48 CIRCLE CHART (formerly gaonchart) of 2024 saw strong showings by ROSE, Bruno Mars, and TWS.KMCA, publisher of CIRCLE CHART, announced that "As of week 48 (2024.11.24.~ 2024.11.30.), ROSE and Bruno Mars swept a total of 3 charts while TWS topped 2 charts".ROSE and Bruno Mars swept..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방용국&정대현&유영재&문종업, 18일 발매 크리스마스 앨범 'Christmas With You' 하이라이트 첫 공개!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24514</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24493"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[천재 프로듀서 드레스(dress)가 한 단계 업그레이드된 감성을 뽐냈다.소속사 하이라인엔터테인먼트는 지난 4일 오후 6시 공식 유튜브 채널을 통해 드레스의 새 디지털 싱글 'CMYK'에 수록된 신곡 '에브리씽 바웃 유(Everything bout you)' 비주얼라이저 영상을 공개했다.공개된 영상은 그리스 신화 속 이카루스의 이야기를 몽환적인 일러스트로 표현해 단번에 시선을 사로잡았다. 곡의 전개에 따라 단계적으로 변화하는 일러스트는 빛을 향해 나아간 그가 빛을 좇아 비행한 끝에 폭발을 맞이하며 최초의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OUNITE(유나이트), 새 싱글 앨범 'Y' 오피셜 포토 공개…‘비주얼 맛집’ 인증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24488</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24488"/>
-        <updated>2024-12-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[브랜뉴뮤직 소속 8인조 보이그룹 YOUNITE(유나이트)가 1ST SINGLE ALBUM ‘Y’의 오피셜 포토를 공개하며 눈부신 비주얼을 뽐냈다.유나이트(은호, 스티브, 은상, 형석, 우노, DEY, 경문, 시온)는 지난 3일과 4일 0시,&nbsp;공식 SNS 채널들을 통해 두 가지 콘셉트의 오피셜 포토를 차례로 공개하며 한층 성숙하고 치명적인 매력을 선보였다.지난 3일 공개된 첫 번째 오피셜 포토는 밝은 하늘 아래 당당하면서도 자신감 넘치는 분위기를 연출한 단체 사진을 시작으로&nbsp;스트릿한 무드의 개성 넘치는 스타일링으로 각 멤버의 매력과 ..]]></content>
     </entry>
 </feed>
