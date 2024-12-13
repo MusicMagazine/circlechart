@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-13T01:25:34.672Z</updated>
+    <updated>2024-12-13T03:03:43.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['명품 보컬리스트' 장혜진, 20일 신곡 '바람에 실어' 발매 확정?]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24519</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24519"/>
+        <updated>2024-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 장혜진이 연말을 따뜻하게 채워줄 신곡으로 팬들을 찾아온다.&nbsp;&nbsp;장혜진은 오는 20일 오후 6시 각종 음원 사이트를 통해 새 싱글 '바람에 실어'를 발매한다.&nbsp;'바람에 실어'는 내가 그리워하는 게 너인지, 아니면 그 시절의 나인지, 이별 후 지나간 시간 속에서 그리운 이를 향해 전하고 싶은 메시지를 담은 곡이다.&nbsp;특히 장혜진은 몸도 마음도 추운 이 계절을 보내고 있을 사람들에게 잠시나마 따스함에 머물 수 있는 순간이 되길 바라는 마음을 담아 특유의 호소력 짙은 보이스와 애절한 감성을 녹여 완성도 높은 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2am 이창민, 오늘(12일) 정오 6년 만의 솔로곡 '꿈 같은 널' 발매?]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24516</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24496"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 JEY가 첫 번째 정규앨범 'POV'의 리믹스 버전을 선보인다.&nbsp;JEY는 6일 정오 각종 온라인 음원사이트를 통해 지난 10월 발표한 첫 번째 정규앨범 'POV'의 리믹스 버전을 발매한다.&nbsp;'POV'는 JEY의 확고한 음악적 색채를 각인시킨 첫 정규앨범으로, 그간 JEY와 완벽한 합을 선보여 온 프로듀서 M/n이 전반적인 작업에 참여했다.이번 리믹스 버전은 댄스 뮤직 기반의 리믹스 트랙들로 구성되어 있으며, 한국을 대표하는 DJ들이 합류해 기존 트랙과는 다른 매력을 더했다.&nbsp;타..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고막 클리너' 이창섭, 10일 카카오웹툰 '비밀사이' 세 번째 OST 발매!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24494</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24494"/>
-        <updated>2024-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 이창섭이 '비밀사이' 세 번째 OST 주자로 나선다.이창섭은 오는 10일 발매되는 카카오웹툰 '비밀사이'의 OST Part.3 '거짓말의 반대말만 할게요'에 가창자로 참여한다.'비밀사이'는 카카오웹툰에서 누적 조회수 1억 7천만 뷰를 돌파한 맥퀸스튜디오 작가의 오피스 BL 소재 웹툰이다. 카카오웹툰 외에도 북미 타파스, 일본 픽코마 등 6개국에 진출해 글로벌 각국에서 높은 인기를 얻고 있다.앞서 주니(JUNNY)의 'How Can I (하우 캔 아이)', ..]]></content>
     </entry>
 </feed>

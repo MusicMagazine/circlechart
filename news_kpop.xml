@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-13T01:25:34.669Z</updated>
+    <updated>2024-12-13T03:03:43.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[pH-1, 16일 깜짝 연말 팬밋업 ‘pH-1 knows the truth’ 개최! 미발매 신곡 최초 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24518</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24518"/>
+        <updated>2024-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 pH-1이 연말을 맞아 팬들과 직접 만난다.pH-1은 오는 16일 서울 마포구 CGV 연남점에서 팬밋업 이벤트 ‘pH-1 knows the truth : Year-end fan meetup for ‘HANDS’’(pH-1 노즈 더 트루스 : 이어 엔드 팬밋업 포 ‘핸즈’)를 진행한다.‘pH-1 knows the truth : Year-end fan meetup for ‘HANDS’’는 pH-1이 연말을 맞아 팬들을 위해 준비한 깜짝 오프라인 이벤트다. 미발매 신곡의 뮤직비디오 및 라이브 선공개를 비롯해 랜덤게임, 하이터치 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 48 CIRCLE CHART: ROSE, Bruno Mars, and TWS Lead the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24517</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24495"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[‘나라는 가수 인 독일’이 첫 버스킹을 떠난다.오는 7일 첫 방송되는 KBS 2TV 음악 여행 리얼리티쇼 ‘나라는 가수 인 독일’에서는 가수 수지, 선우정아, 소향, 헨리, 보이그룹 에이티즈의 홍중과 종호, 기타리스트 자이로, 피아니스트 이나우의 첫 만남이 그려진다.클래식의 본토인 독일을 찾은 멤버들은 “확실히 분위기가 다르다”, “화려한데 담백하다”라며 이국적인 현지 분위기에 감탄한다. 막강한 ‘나라는 가수 인 독일’ 팀의 조합에 홍중은 “이 라인업을 다 모으신 제작진 분들한테 경의를 표한다”라며 놀라기도.뮌헨의 야외 광장과 전통..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천재 프로듀서' 드레스, 'Everything bout you' 비주얼라이저 공개...'신비+몽환' 영상美]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24493</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24493"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[천재 프로듀서 드레스(dress)가 한 단계 업그레이드된 감성을 뽐냈다.소속사 하이라인엔터테인먼트는 지난 4일 오후 6시 공식 유튜브 채널을 통해 드레스의 새 디지털 싱글 'CMYK'에 수록된 신곡 '에브리씽 바웃 유(Everything bout you)' 비주얼라이저 영상을 공개했다.공개된 영상은 그리스 신화 속 이카루스의 이야기를 몽환적인 일러스트로 표현해 단번에 시선을 사로잡았다. 곡의 전개에 따라 단계적으로 변화하는 일러스트는 빛을 향해 나아간 그가 빛을 좇아 비행한 끝에 폭발을 맞이하며 최초의 ..]]></content>
     </entry>
 </feed>
