@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-12-15T23:17:31.955Z</updated>
+    <updated>2024-12-16T01:27:21.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티(TIOT), 日 단독 콘서트 'THE SEASON' 성료… 팬들과 함께한 사계절 '추억']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24521</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24521"/>
+        <updated>2024-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 일본 현지 팬들에게 특별한 추억을 선사했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 14일, 도쿄 닛쇼홀(NISSHO HALL)에서 2024-2025 TIOT 콘서트 'THE SEASON(더 시즌)'을 개최하고 환호 속에 팬들을 만났다.이날 'Paradise(파라다이스)'로 현지 팬들에게 인사를 건넨 티아이오티는 그간 바쁘게 달려온 근황을 공유하며 현장의 분위기를 예열했다. 티아이오티는 이번 공연 타이틀명에 대해 "로티(공식 팬덤명)와 함께 보낸 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 1월 단독 콘서트 'Loud And Proud' 개최! 18일 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24513</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24484"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 어센트(ASC2NT)가 2024년의 마지막 날을 팬들과 함께 보낸다.&nbsp;&nbsp;어센트는 오는 31일 서울 용산구에 위치한 대원 콘텐츠 라이브 홀에서 2024 ASC2NT 'Expecting Tomorrow' FAN-CON FINAL In Seoul(2024 어센트 '익스펙팅 투모로우' 팬-콘 파이널 인 서울, 이하 'Expecting Tomorrow')을 개최한다.&nbsp;지난 6월부터 11월까지 일본 요코하마와 나고야, 오사카, 도쿄, 대만, 캐나다 밴쿠버, 토론토, 핼리팩스에서 팬콘을 개최하며 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 서울 단독 콘서트 ‘The Wayfarer’ 성료…“멀게만 느껴진 콘서트, 믿기지 않아”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24482</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24482"/>
-        <updated>2024-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 서울에서 전국투어의 성공적인 막을 열었다.이창섭은 지난달 30일과 이달 1일 양일간 서울 강서구 KBS아레나에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최했다.‘The Wayfarer’는 이창섭이 지난 2019년 1월 진행한 솔로 콘서트 이후 6년여 만에 준비한 전국투어다. 서울 첫 콘서트에선 이창섭의 독보적인 가창력은 물론 최초로 공개된 퍼포먼스, 깜짝 연기로 즐거움을 더한 VCR 등 풍성한 볼거리가 꽉 찬 감동을 선사했다.이날 이창섭은 최근 발매한 첫 솔로 정규앨범 ‘1991’의 ..]]></content>
     </entry>
 </feed>

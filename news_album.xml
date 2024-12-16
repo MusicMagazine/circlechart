@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-15T23:17:31.962Z</updated>
+    <updated>2024-12-16T01:27:21.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경서 “팬들의 행복한 시작을 위해 발매 결심”…19일 ‘시작’ 리메이크]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24520</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24520"/>
+        <updated>2024-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 경서가 박기영의 대표곡 ‘시작’을 재해석한다.경서는 오는 19일 오후 6시 리메이크 음원 ‘시작’을 발매한다.‘시작’은 지난 1999년 발매된 박기영의 정규 2집 타이틀곡으로, 경서의 목소리와 독창적인 감성으로 다시 태어난다. 경서는 원곡에 대한 존경과 함께 본인만의 재해석을 담아 많은 이들의 추억을 상기시키고, 새로운 감동을 전할 예정이다.밴드 스타일로 편곡된 경서의 ‘시작’은 원곡이 가진 레게 리듬과 강렬한 록킹 사운드를 기반으로, 곡명처럼 사랑을 시작하는 청춘의 풋풋하고 설레는 고백이 펼쳐진다. 경서는 섬세하면서도 모던한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['명품 보컬리스트' 장혜진, 20일 신곡 '바람에 실어' 발매 확정?]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24519</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24497"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 오반이 오는 12일 오후 6시 더블 싱글 앨범 '사랑할 결심'을 발표한다.'사랑할 결심'은 결혼을 앞둔 오반이 싱글로서 발매하는 마지막 앨범이라는 점에서 의미가 깊다. 특히 결혼을 결심하게 한 서사들을 두 곡에 담아 사랑에 대한 진정성을 느낄 수 있다.&nbsp;타이틀곡인 '사랑할 결심'은 '어떻게 지내'와 '행복' 등 오반의 대표곡들과 비슷한 구성으로 만든 곡으로, 작곡에는 국내 최고의 DJ겸 프로듀서 팀인 어드밴스드와 싱어송라이터 렉스디가 참여했다. 오반은 작사..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 JEY, 오늘(6일) 정오 첫 정규앨범 'POV' 리믹스 버전 발매! 한국 대표 DJ 대거 출격?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24496</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24496"/>
-        <updated>2024-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 JEY가 첫 번째 정규앨범 'POV'의 리믹스 버전을 선보인다.&nbsp;JEY는 6일 정오 각종 온라인 음원사이트를 통해 지난 10월 발표한 첫 번째 정규앨범 'POV'의 리믹스 버전을 발매한다.&nbsp;'POV'는 JEY의 확고한 음악적 색채를 각인시킨 첫 정규앨범으로, 그간 JEY와 완벽한 합을 선보여 온 프로듀서 M/n이 전반적인 작업에 참여했다.이번 리믹스 버전은 댄스 뮤직 기반의 리믹스 트랙들로 구성되어 있으며, 한국을 대표하는 DJ들이 합류해 기존 트랙과는 다른 매력을 더했다.&nbsp;타..]]></content>
     </entry>
 </feed>
