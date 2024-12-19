@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-12-18T23:17:53.381Z</updated>
+    <updated>2024-12-19T01:22:35.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA["제베원?투어스→스테이씨?엔믹스까지"…'2024 뮤직뱅크 글로벌 페스티벌 in JAPAN', 역대급 스페셜 무대 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24535</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24535"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['2024 뮤직뱅크 글로벌 페스티벌 in JAPAN'이 다채로운 스페셜 무대를 예고했다.최근 일본 후쿠오카 미즈호 페이페이돔에서 개최된 '2024 뮤직뱅크 글로벌 페스티벌 in JAPAN'이 19일(목) 오후 8시 30분 KBS 2TV를 통해 방송된다.이번 공연은 배우 신예은, 문상민, 르세라핌 홍은채 등 '뮤직뱅크' 역대 은행장들이 MC를 맡았다. 오랜만에 '뮤직뱅크' MC로 돌아온 신예은의 통통 튀는 매력은 물론, 전현직 은행장들의 폭발적인 시너지를 만나볼 수 있다.또 이..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 내년 2월 첫 대만 단독 콘서트 개최 확정…‘The Wayfarer’ 투어 해외로 확장]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24534</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24502"/>
         <updated>2024-12-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 골든차일드(Golden Child, 이대열, Y, 이장준, 배승민, 봉재현, 김동현, 홍주찬)가 팬콘서트를 성황리에 마쳤다.골든차일드는 지난달 30일 일본 도쿄 비행선홀(HIKOSEN THEATER), 지난 1일 오사카 템포 하버 시어터(TEMPO HARBOR THEATER), 7일과 8일 양일간 서울 한성대학교 낙산관에서 '2024 골든차일드 팬콘 '챕터'(2024 GOLDEN CHILD FAN-CON 'CHAPTER')'(이하 '챕터')를 개최하고 팬들과 만났다.&amp;#..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방용국&정대현&유영재&문종업, 내년 1월 아시아 투어 개최! 서울→일본·대만 등 방문]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24500</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24500"/>
-        <updated>2024-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 B.A.P 출신 방용국&amp;정대현&amp;유영재&amp;문종업이 다시 한번 아시아 팬들과 만난다.방용국&amp;정대현&amp;유영재&amp;문종업은 최근 공식 SNS를 통해 앙코르 콘서트 아시아 투어 'Farewell, Earth (페어웰, 어스)' 포스터를 공개하며 아시아 투어 개최 소식을 밝혔다.공개된 포스터에 따르면 방용국&amp;정대현&amp;유영재&amp;문종업은 내년 1월 11일과 12일 양일간 서울 KBS 아레나에서 진행되는 공연을 시작으로 1월 18일과 19일 일본 마쿠하리 인터내셔널 트레이닝 ..]]></content>
     </entry>
 </feed>
