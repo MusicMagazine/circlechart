@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2024-12-22T23:17:20.863Z</updated>
+    <updated>2024-12-23T01:19:56.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[pH-1, 오늘(23일) DS 'HANDS' 발매! 정지소 피처링 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24546</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24546"/>
+        <updated>2024-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 pH-1이 따뜻한 분위기의 겨울 앨범으로 깜짝 컴백한다.pH-1은 23일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 'HANDS(핸즈)'를 발매한다.이번 'HANDS'는 pH-1이 지난 7월 공개한 'FLAT COKE(플랫 코크) (Feat. 이영지)' 이후 5개월 만에 선보이는 신곡이다. 더블 타이틀곡 '인생영화 (Feat. 정지소)'와 'Trustfall(트러스트폴)'으로 구성돼 있다. 특히 영화 '기생충', 넷플릭스 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장혜진, 오늘(20일) 신곡 '바람에 실어' 발매…직접 그린 커버 이미지로 완성도 ↑]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24542</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24527"/>
         <updated>2024-12-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 유겸(YUGYEOM)이 오는 18일 신곡 ‘Sweet Like’로 돌아온다.유겸은 지난 16일 오후 AOMG 공식 SNS를 통해 새 디지털 싱글 ‘Sweet Like (스윗 라이크)’의 첫 번째 티저 영상을 공개했다.‘Sweet Like’는 유겸이 지난 2월 발매한 첫 솔로 정규앨범 ‘TRUST ME (트러스트 미)’ 이후 10개월 만에 선보이는 신곡이다. 세븐틴 버논이 작사에 참여해 유겸과 이제껏 보여준 바 없는 음악적 시너지로 글로벌 K팝 팬들을 사로잡을 예정이다.이날 공개된 티저 영상은 영화의 오프닝 시퀀스를 연상케 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서 “팬들의 행복한 시작을 위해 발매 결심”…19일 ‘시작’ 리메이크]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24520</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24520"/>
-        <updated>2024-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 경서가 박기영의 대표곡 ‘시작’을 재해석한다.경서는 오는 19일 오후 6시 리메이크 음원 ‘시작’을 발매한다.‘시작’은 지난 1999년 발매된 박기영의 정규 2집 타이틀곡으로, 경서의 목소리와 독창적인 감성으로 다시 태어난다. 경서는 원곡에 대한 존경과 함께 본인만의 재해석을 담아 많은 이들의 추억을 상기시키고, 새로운 감동을 전할 예정이다.밴드 스타일로 편곡된 경서의 ‘시작’은 원곡이 가진 레게 리듬과 강렬한 록킹 사운드를 기반으로, 곡명처럼 사랑을 시작하는 청춘의 풋풋하고 설레는 고백이 펼쳐진다. 경서는 섬세하면서도 모던한..]]></content>
     </entry>
 </feed>
