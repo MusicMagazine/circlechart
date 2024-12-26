@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicMagazine.github.io/circlechart/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-26T06:25:17.712Z</updated>
+    <updated>2024-12-26T07:16:51.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 앨범 판매량 리뷰 밀리언 셀러 감소 (Circle Chart ─ News ─ Opinion)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24555</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24555"/>
+        <updated>2024-12-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[본 칼럼의 판매량 집계는 연도별 1주차~50주차 누적 판매량 400위까지를 기준으로 작성되었습니다.&nbsp;매월 발표하는 월간 누적 앨범 차트 집계(1월, 1위부터 400위까지 판매량 합계 + 2월, 1위부터 400위까지 판매량 합계+3월....)와는 전체 판매량에서 다소 차이가 있습니다.)위 그래프는 2020년부터 2024년까지 연도별 1주차~50주차 누적 판매량 400위까지의 결과를 나타낸 것입니다. 올해는 지난해에 비해 (50주차 현재) 앨범 판매량이 19.5% 감소했습니다.2024년 1주차부터 50주차까지 TOP400 가수별 누적 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파(aespa) 써클지수 점유율 1위 - 11월리뷰(2024) (Circle Chart ─ News ─ Opinion)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24525</id>
@@ -66,13 +73,6 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24116"/>
         <updated>2024-08-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2024년 7월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 15곡을 올려놓으며 (합산)점유율 9.4%로 1위에 올랐습니다.2024년 7월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 3.4% 감소, 전년 동기에 비해서도 10.8% 감소한 것으로 조사되었습니다.2024년 7월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 54.4% 증가, 전년 동기에 비해서는 19.7% 감소했습니다.2024년 7월 TOP400 가수별 앨범 판매량 점유율 조사에서..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반기 리뷰(2024) (Circle Chart ─ News ─ Opinion)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24031</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24031"/>
-        <updated>2024-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2024년 상반기 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 13곡을 올려놓으며 (합산)점유율 5.4%를 기록했습니다.2024년 상반기 음원 이용량 400(1위부터 400위까지 이용량 합계)이 전년 동기에 비해 11.2% 감소, 2019년 고점 대비 38.4% 감소한 것으로 조사되었습니다.2024년 상반기 앨범 차트 기준 TOP400판매량(1위부터 400위까지 판매량 합계)이 약 4,670만 장을 기록했습니다.*상반기 차트 400위 기준 집계와 월간 누적 판매량 집계(1월 1위부터 400위까지 ..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pH-1, 오늘(23일) DS 'HANDS' 발매! 정지소 피처링 지원사격 (Circle Chart ─ News ─ Album)]]></title>
