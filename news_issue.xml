@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2024-12-26T23:16:27.079Z</updated>
+    <updated>2024-12-27T01:18:11.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오존,이디오테잎, CAM과 전속계약 체결! 다비치,정세운,실리카겔과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24556</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24556"/>
+        <updated>2024-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 오존(O3ohn)과 밴드 이디오테잎(IDIOTAPE)이 CAM과 새로운 시작에 나선다.&nbsp;27일 CAM은 "오존과 이디오테잎(디구루, 제제, 디알)이 CAM과 전속계약을 체결했다"며 "훌륭한 아티스트들과 새로운 시작을 함께 할 수 있어 영광이다. 든든한 파트너로서 적극적인 지지를 아끼지 않을 계획"이라고 밝혔다.&nbsp;오존은 특유의 몽환적인 보이스 톤과 담백하지만 섬세한 색채가 묻어난 곡들로 공감의 정서를 전하는 싱어송라이터다. CAM에 합류 후 내년 새 앨범과 공연으로 음악팬들을 한층 다채롭게 만..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D.Ark(디아크), 신생 기획사 GOD'S PLAN과 전속계약 체결! 피네이션 매니저와 '의리']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24464</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24041"/>
         <updated>2024-07-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA['프로듀서 겸 아티스트' 페노메코가 이고그룹과 함께한다.22일 이고그룹은 "페노메코와 최근 전속계약을 체결했다"라며 "페노메코는 이고그룹 안에서 브랜드 레이블 'if i(이프 아이)'를 론칭하고 활동할 예정이며, 탄탄한 그의 음악처럼 단단하고 거침없는 걸음을 내디딜 수 있도록 아낌없이 지원할 계획이다. 앞으로 만들어갈 페노메코의 음악 세계에 많은 관심 부탁드린다"고 밝혔다.페노메코는 독보적인 톤과 출중한 프로듀싱 능력을 갖춘 올라운더 아티스트로, 지난 2014년 싱글 '..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['감성 보컬' 로키드, 메이저나인과 전속계약 체결…바이브·장혜진→포맨과 한솥밥]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24012"/>
-        <updated>2024-07-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 로키드(Lokid)가 메이저나인과 전속계약을 체결했다.12일 메이저나인은 "싱어송라이터로서 풍부한 감성을 표현하는 로키드와 계약하게 되어 기쁘다"라며 "로키드의 새로운 출발에 많은 응원과 사랑 부탁드리고, 앞으로도 다양한 음악 활동을 통해 발전하는 아티스트가 될 수 있도록 적극적인 지원을 아끼지 않을 예정"이라고 밝혔다.로키드는 2018년 EP 앨범 'Bubble Love(버블 러브)'로 데뷔한 뒤 'sowhereareyounow?(소웨어아유나우?)', 'Rain..]]></content>
     </entry>
 </feed>

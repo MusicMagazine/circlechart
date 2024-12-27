@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2024-12-26T23:16:27.083Z</updated>
+    <updated>2024-12-27T01:18:11.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 D-3' 엔싸인(n.SSign), 'Love Potion' 하이라이트 메들리 공개…유한진 손잡고 명반 완성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24557</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24557"/>
+        <updated>2024-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 정체성 가득한 앨범을 선보인다.엔싸인은 지난 26일 공식 SNS를 통해 세 번째 미니앨범 'Love Potion(러브 포션)'의 하이라이트 메들리 영상을 공개했다.영상에는 첫 번째 트랙 'Apocalypse (:Superego)(아포칼립스 (:슈퍼에고))'부터 타이틀곡 'Love Potion (백일몽; 白日夢)(러브 포션)', 'Running After Love(러닝 애프터 러브)', 'Pit a Pat(핏 어 팻)', 'X..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고스트나인, 크리스마스 맞아 '서있을게(Down for you)' 라이브 클립 공개…달콤+설렘 가득한 선물]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24554</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24543"/>
         <updated>2024-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 배진영이 새로운 프로필 사진을 공개했다.&nbsp;배진영은 20일 오전 비스테이지(공식 팬 커뮤니티)를 오픈하고 프로필 사진을 공개하며 새 출발을 알렸다.사진 속 배진영은 올블랙 의상을 입고 모델 같은 아우라를 발산했다. 또 흑백 톤과 자연스럽게 어우러지는 짙은 카리스마를 선보였고, 깊은 눈빛과 시크한 분위기로 조각 같은 비주얼을 완성해 보는 이들의 감탄을 자아냈다.&nbsp;배진영은 비스테이지 오픈과 동시에 공식 SNS 계정을 오픈하며 국내외 팬들과의 적극적인 소통을 예고했다.최근 아우라엔터테인먼트와 전속계약을 체결한 배진영은 새 프로필 사진..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤두준, 데뷔 첫 단독 MC→다큐 내레이션까지…전방위 만능 치트키 행보]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24538</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24538"/>
-        <updated>2024-12-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 하이라이트 윤두준이 전방위적 행보로 ‘만능캐’의 존재감을 확실히 하고 있다.윤두준은 최근 예능 프로그램과 다큐멘터리, 콘텐츠 등 분야를 넘나드는 종횡무진 활약으로 연말을 꽉 채우고 있다. 올해 데뷔 15주년을 맞은 윤두준이 하이라이트 활동뿐만 아니라 개인으로도 두드러진 존재감을 빛내고 있는 것.만능 엔터테이너 윤두준의 새로운 도전은 올해도 이어졌다. 최근 공개된 ENA 웹예능 ‘찍는김에’를 통해 데뷔 첫 단독 MC로 나선 윤두준은 홍보팀 윤대리로 변신해 매회 다양한 게스트와 소통을 나눴다. ENA 첫 드라마인 ‘구필수는 없다’..]]></content>
     </entry>
 </feed>

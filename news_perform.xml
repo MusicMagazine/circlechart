@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2024-12-26T23:16:27.120Z</updated>
+    <updated>2024-12-27T01:18:11.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐어스, 2025년 서울 콘서트 ‘On Air Night with HEEALA’ 개최… 제작 PCS·유니온픽처스]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24560</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24560"/>
+        <updated>2024-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[JTBC ‘피크타임’ 준우승팀이자 최근 중국 QQ 뮤직 톱 10에 진입하며 글로벌 인기를 증명한 보이그룹 세븐어스(멤버 희재, 이레)가 2025년 서울 콘서트 ‘On Air Night with HEEALA’를 개최한다. 이번 콘서트는 세븐어스의 두 번째 미니앨범 발매 이후 진행되는 첫 공연으로, 글로벌 팬들의 관심을 한 몸에 받고 있다.이번 공연은 팬들의 지속적인 성원에 보답하기 위해 마련된 자리로, 특히 국내에서의 공연을 오래 기다려온 팬들을 위한 뜻깊은 무대가 될 예정이다.세븐어스는 2023년 보이그룹 서바이벌 프로그램 ‘피크타..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에픽하이, 12월 연말 콘서트 성료! 싸이?박재범?십센치 초호화 게스트 지원사격]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24550</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24521"/>
         <updated>2024-12-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 일본 현지 팬들에게 특별한 추억을 선사했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 14일, 도쿄 닛쇼홀(NISSHO HALL)에서 2024-2025 TIOT 콘서트 'THE SEASON(더 시즌)'을 개최하고 환호 속에 팬들을 만났다.이날 'Paradise(파라다이스)'로 현지 팬들에게 인사를 건넨 티아이오티는 그간 바쁘게 달려온 근황을 공유하며 현장의 분위기를 예열했다. 티아이오티는 이번 공연 타이틀명에 대해 "로티(공식 팬덤명)와 함께 보낸 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 1월 단독 콘서트 'Loud And Proud' 개최! 18일 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24513</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24513"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 또 한번 롤링홀 무대에 오른다.&nbsp;캐치더영(산이, 기훈, 남현, 준용, 정모)은 내년 1월 17일 서울 마포구 홍대 롤링홀에서 '캐치더영 롤링홀 30주년 콘서트 &lt;Loud And Proud(라우드 앤 프라우드)&gt;'를 개최한다.공연 개최 소식과 함께 공개된 포스터에는 한층 강해진 캐치더영만의 음악 에너지가 오롯이 느껴져 기대감을 높이고 있다. 풋풋한 청춘을 넘어선 당찬 록 스피릿이 전달되며 수많은 음악팬들을 설레게 하고 있다.이번 ..]]></content>
     </entry>
 </feed>
