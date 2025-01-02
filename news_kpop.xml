@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-01-01T23:17:17.303Z</updated>
+    <updated>2025-01-02T01:17:00.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 51 CIRCLE CHART: ROSE, Bruno Mars, and Stray Kids Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24562</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24562"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 51 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ROSE, Bruno Mars, and Stray Kids.KMCA, publisher of CIRCLE CHART, announced that "As of week 51 (2024. 12.15.~2024.12.21.), ROSE and Bruno Mars swept a total of 3 charts while Stray Kids topped 2 charts".&nbsp;ROSE and Bruno M..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 D-3' 엔싸인(n.SSign), 'Love Potion' 하이라이트 메들리 공개…유한진 손잡고 명반 완성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24557</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24544"/>
         <updated>2024-12-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The November CIRCLE CHART was dominated by ROSE, Bruno Mars, NCT DREAM, and TOMORROW X TOGETHER.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for November 2024, ROSE, Bruno Mars swept a total of 3 charts while TOMORROW X TOGETHER topped the Album Chart and NCT DREA..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배진영, 아우라엔터 이적 후 새 프로필 공개…조각 비주얼의 정석]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24543</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24543"/>
-        <updated>2024-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 배진영이 새로운 프로필 사진을 공개했다.&nbsp;배진영은 20일 오전 비스테이지(공식 팬 커뮤니티)를 오픈하고 프로필 사진을 공개하며 새 출발을 알렸다.사진 속 배진영은 올블랙 의상을 입고 모델 같은 아우라를 발산했다. 또 흑백 톤과 자연스럽게 어우러지는 짙은 카리스마를 선보였고, 깊은 눈빛과 시크한 분위기로 조각 같은 비주얼을 완성해 보는 이들의 감탄을 자아냈다.&nbsp;배진영은 비스테이지 오픈과 동시에 공식 SNS 계정을 오픈하며 국내외 팬들과의 적극적인 소통을 예고했다.최근 아우라엔터테인먼트와 전속계약을 체결한 배진영은 새 프로필 사진..]]></content>
     </entry>
 </feed>
