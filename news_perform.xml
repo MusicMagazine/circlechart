@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-01-08T01:18:33.917Z</updated>
+    <updated>2025-01-08T02:48:21.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[양다일, 오는 2월 22·23일 단독 콘서트 개최…13일 티켓오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24574</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24574"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[명품 보컬리스트 양다일이 1년 7개월 만의 단독 콘서트로 팬들을 찾는다.&nbsp;소속사 브랜뉴뮤직은 오는 2월 22일 토요일, 23일 일요일 양일간 서울 광진구에 위치한 예스24 라이브홀에서&nbsp;양다일 콘서트 'Memories of D.I.LAND 2025'를 개최한다고 밝혔다.&nbsp;‘미안해’, ‘고백’ 등 독보적인 음색으로 각종 음원 차트를 휩쓸었던 양다일은&nbsp;2024년 11월 세 번째 정규 앨범 ‘My insecure’를 발매하며,&nbsp;그동안 선보였던 애절하고 감수성 넘치는 발라드곡들이 아닌 R&amp;B, POP 등의 새로운 장르로..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['5세대 퍼포돌' 다이몬, 2월 데뷔 첫 팬미팅 개최…일본에서 특별한 추억 선사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24568</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24534"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 대만에서 첫 단독 콘서트를 연다.이창섭은 내년 2월 2일 대만 ZEPP NEW TAIPEI(제프 뉴 타이베이)에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다.‘The Wayfarer’는 이창섭이 현재 성황리에 진행 중인 첫 솔로 콘서트 투어로, 지난달부터 내년 1월까지 서울·광주·부산·대구·수원·청주 등 국내 6개 도시를 순회하고 있다. 내년 2월에는 대만에서 공연 열기를 이어가며 투어 규모를 확장한다.특히 해외에서 처음 단독 공연을 선보이게 된 이창섭이 어떤 선곡과 무대로 현지 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이브·이찬원→지누션·베복 등 출연" '2024 KBS 가요대축제 글로벌 페스티벌', 20일 180분간 생방송]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24528</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24528"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[한일 양국을 아우르는 '2024 KBS 가요대축제'가 안방을 찾아온다.'2024 KBS 가요대축제 글로벌 페스티벌'(이하 '가요대축제')이 오는 20일(금) 오후 8시 30분 일산 킨텍스에서 개최된다.이번 '가요대축제'는 가수 지코, 아이브(IVE) 장원영, 배우 김영대 등 3MC가 진행을 맡고, 다양한 장르의 뮤지션들이 대거 출연해 화려한 무대 향연을 선사한다.특히 서로 다른 시공간을 누비던 K팝 뮤지션들이 음악을 통해 무한히 연결된다는 '인피니티'를 콘셉트로..]]></content>
     </entry>
 </feed>
