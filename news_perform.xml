@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-01-08T23:16:51.786Z</updated>
+    <updated>2025-01-09T01:17:45.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다이나믹 듀오, 3월 28·29일 日 첫 단독 콘서트 ‘앞으로 가끔 보자’ 개최 확정!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24578</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24578"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[다이나믹 듀오가 일본에서 첫 단독 콘서트를 연다.다이나믹 듀오(개코, 최자)는 오는 3월 28일과 29일 양일간 일본 도쿄 시부야에 위치한 duo MUSIC EXCHANGE(듀오 뮤직 익스체인지)에서 단독 콘서트 ‘앞으로 가끔 보자’를 개최한다.‘앞으로 가끔 보자’는 다이나믹 듀오가 일본에서 처음 선보이는 단독 공연이다. 데뷔 20주년을 맞은 지난해 유럽 투어를 성황리에 마친 다이나믹 듀오는 새해 일본으로 발걸음을 옮겨 글로벌 행보를 이어간다.이번 콘서트 타이틀인 ‘앞으로 가끔 보자’는 다이나믹 듀오가 국내에서 지난 2023년부터 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양다일, 오는 2월 22·23일 단독 콘서트 개최…13일 티켓오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24574</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24535"/>
         <updated>2024-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA['2024 뮤직뱅크 글로벌 페스티벌 in JAPAN'이 다채로운 스페셜 무대를 예고했다.최근 일본 후쿠오카 미즈호 페이페이돔에서 개최된 '2024 뮤직뱅크 글로벌 페스티벌 in JAPAN'이 19일(목) 오후 8시 30분 KBS 2TV를 통해 방송된다.이번 공연은 배우 신예은, 문상민, 르세라핌 홍은채 등 '뮤직뱅크' 역대 은행장들이 MC를 맡았다. 오랜만에 '뮤직뱅크' MC로 돌아온 신예은의 통통 튀는 매력은 물론, 전현직 은행장들의 폭발적인 시너지를 만나볼 수 있다.또 이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 내년 2월 첫 대만 단독 콘서트 개최 확정…‘The Wayfarer’ 투어 해외로 확장]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24534</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24534"/>
-        <updated>2024-12-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 대만에서 첫 단독 콘서트를 연다.이창섭은 내년 2월 2일 대만 ZEPP NEW TAIPEI(제프 뉴 타이베이)에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다.‘The Wayfarer’는 이창섭이 현재 성황리에 진행 중인 첫 솔로 콘서트 투어로, 지난달부터 내년 1월까지 서울·광주·부산·대구·수원·청주 등 국내 6개 도시를 순회하고 있다. 내년 2월에는 대만에서 공연 열기를 이어가며 투어 규모를 확장한다.특히 해외에서 처음 단독 공연을 선보이게 된 이창섭이 어떤 선곡과 무대로 현지 ..]]></content>
     </entry>
 </feed>
