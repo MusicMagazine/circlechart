@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-01-09T23:17:37.451Z</updated>
+    <updated>2025-01-10T01:20:17.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드 더로즈 김우성, 오늘(10일) 리믹스 앨범 '4444: Reborn' 발매! 글로벌 아티스트 지원사격]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24584</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24584"/>
+        <updated>2025-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[밴드 더로즈(The Rose)의 멤버이자 싱어송라이터 김우성이 리믹스 프로젝트로 돌아온다.김우성은 10일 오후 2시 각종 온라인 음원사이트를 통해 지난해 10월 발표한 두 번째 정규앨범의 리믹스 앨범 '4444: Reborn (4444: 리본)'을 발매한다.'4444'는 김우성의 자아 발견과 내적 성찰 그리고 명료함을 탐구한 음반이다. 김우성은 리믹스 앨범을 통해 앨범의 주요 트랙을 새롭게 재해석하고, 전 세계적으로 사랑받는 아티스트들과 함께 장르를 초월하는 8개의 트랙을 선보일 예정이다.이번 리믹스 앨..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이예준, 오늘(9일) 이기찬 ‘미인’ 리메이크 음원 발매! 믿고 듣는 이별송]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24579</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24558"/>
         <updated>2024-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬 그룹 포맨(4MEN)의 요셉이 두 달 만에 신곡으로 돌아온다.&nbsp;요셉은 오는 31일 정오 새 싱글 '당신처럼'을 발매한다.&nbsp;'당신처럼'은 요셉이 지난 10월 발매한 '하염없이 아낌없이' 이후 두 달 만에 선보이는 곡이다. 그동안 표현하지 못했던 부모님을 향한 마음을 편지로 써 내려가듯 꾹꾹 눌러 담았다.&nbsp;'하염없이 아낌없이'를 직접 작사, 작곡하며 가을에 어울리는 프러포즈송을 완성한 요셉은 이번에는 작사에 참여해 진정성 가득한 가사를 썼다.&nbsp;2016년 윤요라는 이름으로 가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pH-1, 오늘(23일) DS 'HANDS' 발매! 정지소 피처링 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24546</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24546"/>
-        <updated>2024-12-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 pH-1이 따뜻한 분위기의 겨울 앨범으로 깜짝 컴백한다.pH-1은 23일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 'HANDS(핸즈)'를 발매한다.이번 'HANDS'는 pH-1이 지난 7월 공개한 'FLAT COKE(플랫 코크) (Feat. 이영지)' 이후 5개월 만에 선보이는 신곡이다. 더블 타이틀곡 '인생영화 (Feat. 정지소)'와 'Trustfall(트러스트폴)'으로 구성돼 있다. 특히 영화 '기생충', 넷플릭스 ..]]></content>
     </entry>
 </feed>
