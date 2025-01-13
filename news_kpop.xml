@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-01-13T06:26:48.606Z</updated>
+    <updated>2025-01-13T07:17:46.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 52 CIRCLE CHART: ROSE, Bruno Mars, Dreamcatcher, and IRENE Lead the Charts..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24590</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24590"/>
+        <updated>2025-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 52 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ROSE, Bruno Mars, Dreamcatcher, and IRENE.KMCA, publisher of CIRCLE CHART, announced that "As of week 52 (2024. 12.22.~2024.12.28.), ROSE and Bruno Mars swept a total of 3 charts while Dreamcatcher topped the Retail Album Cha..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올아워즈, 미니 3집 'Smoke Point'로 2월 4일 컴백 확정! 더블 타이틀곡 수록??]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24587</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24564"/>
         <updated>2025-01-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 린(LYn)의 신곡 뮤직비디오가 관심을 얻고 있다.린은 최근 공식 유튜브 채널을 통해 신곡 '시네마 천국'의 뮤직비디오를 공개했다.공개된 영상은 책상에 엎드려 있는 이정은의 모습으로 시작된다. 이정은은 햇빛이 비치는 창가에 앉아 책을 읽고, 가족들과 식사하며 행복한 시간을 보내는 등 일상적인 순간을 자연스러운 연기로 표현해 내며 시선을 사로잡았다.특히 이정은은 이제 나이가 들어 어머니를 똑 닮은 얼굴이 된 딸과 그 어머니까지 1인 2역을 소화해 화제를 모았다. 어머니가 된 딸의 시점으로 제작된 영상은 흘러나오는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, 23일 7th EP ‘THUNDER FEVER’ 발매 확정! 4인 체제 첫 컴백 카운트다운]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24563</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24563"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 오는 23일 정식 컴백한다.CIX(BX, 승훈, 용희, 현석)는 지난 5일과 6일 0시 공식 SNS와 유튜브 채널을 통해 일곱 번째 EP 앨범 ‘THUNDER FEVER (썬더 피버)’의 리더 필름 및 타임테이블 이미지를 공개하며, 컴백일을 오는 23일로 확정 지었다.먼저 리더 필름 영상에는 검은 고양이가 비 내리는 숲속에서 걸어 나와 천둥 치는 도시 한복판에 멈춰서는 모습이 담겼다. 이와 함께 CIX의 새로운 로고가 등장해 눈길을 사로잡았다. 이는 CIX의 앞선 ‘OK’ 시리즈 앨범의 리더 필름과 연결되..]]></content>
     </entry>
 </feed>
