@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-01-14T01:15:07.604Z</updated>
+    <updated>2025-01-14T02:41:22.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김영철, 만능 ‘개가수’로 돌아온다...오는 21일 디지털 싱글 ‘말하면 어떨까’ 발매!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24593</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24593"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[만능 ‘개가수’ 김영철이 신보로 돌아온다.김영철은 지난 13일 소속사 미스틱스토리 공식 SNS를 통해 디지털 싱글 ‘말하면 어떨까’ 리릭 티저를 공개하며 컴백 소식을 전했다.공개된 리릭 티저는 책의 한 페이지를 은은하게 조명으로 비추며 차분한 분위기를 자아내고 있다. 이어 ‘진심이라고 말하면 어떨까 나의 얘기를 들으면 피식 웃진 않을까’라는 가사가 한 편의 시처럼 적혀 있어 담담하면서도 애절한 감성을 자극한다.오는 21일(화) 오후 6시 발매되는 디지털 싱글 ‘말하면 어떨까’는 지난 2022년 발매한 ‘내돈내산 빵’ 이후 약 2년 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갓세븐, 미니앨범 타이틀곡은 'PYTHON'… 3년 만 신보 7人 전원 프로듀싱 참여]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24588</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24561"/>
         <updated>2024-12-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬 그룹 포맨(4MEN) 요셉의 신곡이 베일을 벗는다.&nbsp;요셉은 31일 정오 새 싱글 '당신처럼'을 발매한다.&nbsp;'당신처럼'은 그동안 표현하지 못했던 부모님을 향한 마음을 편지로 써 내려가듯 꾹꾹 눌러 담은 곡으로, 요셉이 직접 작사에 참여했다.&nbsp;요셉은 "나에게 당신은 나에게 그대는 / 이 세상을 다 줬던 사람 / 무엇보다 소중한 사람" "당신처럼 바보 같고 싶어요 / 그대처럼 강해지고 싶어요" 등의 가사를 통해 자녀들이 부모님께 하고 싶은 말을 진정성 있게 담아냈다.&nbsp;또 요셉..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 오늘(27일) 2024 ‘월간 윤종신’ 12월호 ‘속마음’ 발매... 자신을 이해하기 위한 고민에 대한 예찬!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24559</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24559"/>
-        <updated>2024-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 12월호를 발매한다.윤종신은 오늘(27일) 오후 6시 각종 온라인 음원 사이트를 통해 2024 ‘월간 윤종신’ 12월호 ‘속마음’을 선보인다.윤종신의 신곡 ‘속마음’은 자기 자신을 이해하기 위한 고민과 갈등의 시간을 예찬하는 곡이다. 타인에게 바로 이해받고 싶었던 마음이 중요했던 시절을 지나 몰라주는 사람을 향한 원망도 기꺼이 껴안을 수 있는 시절로 향하는 삶의 이행 과정을 담고 있다.또한, 윤종신은 드러내고 싶은 동시에 감추고 싶은 복잡한 심리와 고독함으로 인해 점점 성숙해지는 태..]]></content>
     </entry>
 </feed>
