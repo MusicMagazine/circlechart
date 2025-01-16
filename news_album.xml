@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-01-15T23:16:21.037Z</updated>
+    <updated>2025-01-16T01:16:50.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[21학번, 오늘(16일) 4개월 만의 신곡 '지치고 힘들 땐 내게 기대' 발매…"위로가 필요한 이들에게"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24607</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24607"/>
+        <updated>2025-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 21학번이 따뜻한 감성을 담은 신곡으로 돌아온다.21학번은 16일 오후 6시 신곡 '지치고 힘들 땐 내게 기대'를 발매한다.'지치고 힘들 땐 내게 기대'는 21학번이 지난해 9월 발매한 '스터디 카페' 이후 4개월 만에 선보이는 신곡이다.21학번은 이번 신곡을 통해 특유의 맑고 청아한 음색이 돋보이는 감성 발라드를 선사하며 2025년 새해 반가운 컴백 활동을 시작한다.또한 '지치고 힘들 때 외롭지 않게 노래를 불러준다'는 포근한 가삿말을 노래하며 위로가 필요한 리스너들에..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아노맨, 2월 2일 박재정과 듀엣곡 '비가' 발매…가창력 대결 노래 '기대 UP']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24606</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24606"/>
+        <updated>2025-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 피아노맨이 오는 2월 2일 신곡 '비가'로 컴백한다.&nbsp;'비가'는 피아노맨이 지난 2023년 11월 발매한 '영화' 이후 1년 3개월 만에 선보이는 신곡으로, 같은 소속사에서 수시로 함께 작업하던 박재정과의 첫 듀엣곡이라 더욱 이목이 집중된다.&nbsp;이 노래는 피아노맨이 작사·작곡했으며, 비가 내리는 날 느끼는 이별 감성을 오롯이 담았다. 피아노맨과 박재정이라는 두 발라드 보컬이 마치 가창력 대결을 하는 듯한 느낌을 자아냈다는 후문이다.&nbsp;특히 '비가'는 현재 군복무 중인 박재정..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이나믹 듀오X거미, 오늘(15일) 첫 컬래버 신곡 ‘Take Care’ 발매…힙합+발라드의 조화]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24597</id>
@@ -60,19 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24571"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[보컬 그룹 포맨(4MEN) 하은이 황홀한 사랑과 희망의 이야기를 노래한다.포맨 하은은 7일 오후 6시 각종 온라인 음원사이트를 통해 리뉴얼 프로젝트 컬래버레이션 음원 'Sparkle(스파클)'을 발매한다.'Sparkle'은 일본 유명 애니메이션 '너의 이름은'의 대표 OST로, 서로를 향한 그리움과 재회에 대한 희망을 노래한 곡이다. 하은이 한국어 번안곡 주자로 참여해 곡에 황홀한 분위기를 입혔다.하은의 부드러운 음색이 곡과 극의 서사를 더욱 드라마틱하게 완성하며 리스너들에게 진한 울림을 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서이브, 오늘(7일) 신곡 '어른들은 몰라요' 발매...'마라탕후루·쿵쿵따' 이을 '댄스 신드롬' 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24570</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24570"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 크리에이터 서이브가 가요계에 새로운 댄스 신드롬을 불러올 신곡으로 돌아온다.서이브는 7일 정오 각종 음원 사이트를 통해 신곡 '어른들은 몰라요 (They never know)'를 발매하고 글로벌 팬들 곁에 귀환한다.'어른들은 몰라요'는 1988년 선풍적 인기를 끈 영화 '어른들은 몰라요'의 동명 주제곡으로, 남녀노소 세대를 불문하고 오랜 시간 꾸준한 사랑을 받고 있다.서이브만의 감성으로 새롭게 태어난 '어른들은 몰라요'는 올해 중학생이 되는 그가 전하는 솔직담백한 이..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이나믹 듀오X거미, 1월 첫 컬래버 신곡 발매 확정! “새해를 알리는 첫 걸음”]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24569</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24569"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[다이나믹 듀오와 가수 거미가 1월 중 첫 컬래버레이션 신곡을 선보인다.다이나믹 듀오(개코, 최자)와 거미는 지난 6일 오후 소속사 아메바컬쳐 공식 SNS를 통해 1월 컬래버레이션 소식을 알리는 스포일러 티저 영상을 공개했다.티저에는 다이나믹 듀오와 거미의 이름 아래 “아메바컬쳐의 새해를 알리는 첫 걸음, 함께해 주시면 감사하겠습니다. 2025. 01”이라는 문구가 담겼다. 신곡명과 정확한 발매일시는 아직 공개되지 않은 가운데, 다이나믹 듀오와 거미가 새해를 여는 컬래버레이션을 통해 보여줄 케미스트리에 기대감이 높아진다.지난해 아메바..]]></content>
     </entry>
 </feed>
