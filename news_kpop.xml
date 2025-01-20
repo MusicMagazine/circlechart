@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-01-20T05:17:12.545Z</updated>
+    <updated>2025-01-20T06:25:19.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MUBEAT]스트레이 키즈, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24617</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24617"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[뮤빗 K-POP 팬투표에서 3차례 1위를 차지한 V, 박효신은 종합 순위 2위 차지로제, Bruno Mars는 압도적인 동영상 부문 점수로 종합 순위 3위 등극글로벌 K-POP 팬덤 플랫폼 뮤빗의 뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 부문에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 24년 12월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의 합)를 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX, ‘THUNDER’ 퍼포먼스 일부 최초 공개…“휘몰아치는 안무가 관전 포인트”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24616</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24592"/>
         <updated>2025-01-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 지수(JISOO)가 2월 솔로 컴백을 발표했다.지수는 지난 13일 오후 6시 소속사 블리수(BLISSOO) 공식 SNS를 통해 새 솔로앨범을 예고하는 커밍순 콘텐츠를 깜짝 공개했다.티저 영상은 거짓말 탐지기가 움직이는 모션을 담고 있다. 이어 'FEBRUARY 14'라는 날짜와 지수의 이름이 공개돼 강렬한 인상을 남긴다.이에 따르면 지수는 오는 2월 14일 두 번째 솔로앨범을 발매하고 전격 컴백한다. 이는 2023년 3월 발표한 솔로 데뷔곡 '꽃 (FLOWER)' 이후 2년 만이자 지수가 1인 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 52 CIRCLE CHART: ROSE, Bruno Mars, Dreamcatcher, and IRENE Lead the Charts..]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24590</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24590"/>
-        <updated>2025-01-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 52 CIRCLE CHART (formerly gaonchart) of 2024 was dominated by ROSE, Bruno Mars, Dreamcatcher, and IRENE.KMCA, publisher of CIRCLE CHART, announced that "As of week 52 (2024. 12.22.~2024.12.28.), ROSE and Bruno Mars swept a total of 3 charts while Dreamcatcher topped the Retail Album Cha..]]></content>
     </entry>
 </feed>
