@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2025-01-20T06:25:19.378Z</updated>
+    <updated>2025-01-20T07:17:15.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 연간차트 리뷰 (Annual Chart Review)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24618</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24618"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2024년 연간차트 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 14곡을 올려놓으며 (합산)점유율 6.2%를 기록했습니다.2024년 연간차트 음원 이용량 400(1위부터 400위까지 음원 이용량의 합)은 2023년에 비해 7.6% 감소한 것으로&nbsp; 나타났습니다.2024년 연간차트 TOP400&nbsp; 가수별 앨범 판매량 점유율 조사에서 세븐틴이 400위권 내 총 21장의 앨범을 올려놓으며 (합산)점유율 9.6%를 기록했습니다.2024년 연간차트 기준 앨범 판매량 400(1위부터 400위까지의 판매량 합계)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 앨범 판매량 1억 장 밑돌아... - 12월 리뷰(2024)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24591</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24223"/>
         <updated>2024-09-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2024년 8월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 14곡을 올려놓으며 (합산)점유율 8.3%로 1위에 올랐습니다.2024년 8월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 7.9% 감소, 전년 동기에 비해서도 14.8% 감소 한 것으로 조사되었습니다.2024년 8월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 51.0% 감소, 전년 동기에 비해서는 37.1% 감소했습니다.2024년 8월 TOP400 가수별 앨범 판매량 점유율 조사에..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 K-POP은 성장하고 있을까?]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24129</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24129"/>
-        <updated>2024-08-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[올해 상반기 피지컬 앨범 판매량이 전년 동기 대비 약 820만 장(-14.9%) 감소한 것으로 나타나, 케이팝 시장이 이미 고점을 찍은 것이 아니냐는 우려의 시선이 있습니다.이번 칼럼에서는 케이팝 산업의 성장 지표 중 하나인 구보 판매량과 2024년 상반기 수출 데이터를&nbsp; 살펴보도록 하겠습니다.신규 팬덤이 유입될 경우 구보 판매량이 동반하여 증가(Backward spillover)하는 현상이 일반적으로 나타나는데, 이를 통해 케이팝 시장의 성장 추이에 대해 살펴보도록 하겠습니다.위 그래프는 연도별 상반기 피지컬 앨범 판매량400 내..]]></content>
     </entry>
 </feed>
