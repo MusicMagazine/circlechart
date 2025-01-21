@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-01-20T23:15:53.497Z</updated>
+    <updated>2025-01-21T01:15:54.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인, 日 홀투어 나고야 공연도 매진 기록! 도하 합류 완전체 무대에 '현지 열광']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24622</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24622"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 일본 홀투어 공연에서 첫 완전체 무대를 선보이며 팬들을 사로잡았다.&nbsp;엔싸인은 지난 18일 일본 나고야에서 'n.SSign Japan Tour [EVERBLUE](엔싸인 재팬 투어 [에버블루])' 세 번째 공연을 펼쳤다.'EVERBLUE'는 팬들과의 소통시간을 위주로 한 팬 콘서트 1부와 더 다양한 음악과 무대를 선보이는 콘서트 2부로 나누어 진행되고 있다.&nbsp;이날 1부 팬 콘서트에서는 일본 두 번째 싱글 'EVERBLUE(에버블루)'를 시작으로, 개인 및 유닛 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['2월 4일 컴백' 올아워즈, 데뷔 후 첫 팬콘 'ALL the HOURS' 개최 확정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24614</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24567"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 EPEX(이펙스)가 3년 연속 단독 콘서트를 성료했다.이펙스(위시, 금동현, 뮤, 아민, 백승, 에이든, 예왕, 제프)는 지난달 28일과 29일 서울 강서구 KBS아레나에서 세 번째 단독 콘서트 ‘청춘결핍’을 개최했다.지난 2022년부터 매년 콘서트를 진행해온 이펙스는 이날 한층 커진 규모의 공연장에서 팬들과 재회했다. 지난해 정규 1집과 2집으로 활발한 활동을 펼친 이펙스는 이번 ‘청춘결핍’에서 신곡을 포함한 스토리 있는 선곡, 새로운 퍼포먼스와 편곡을 통해 더욱 업그레이드된 실력과 자신감을 보여줬다.그간 앨범에서 청춘을 둘..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 6개 도시 전국투어 콘서트 성료…2월 서울 앙코르 콘서트 일정 기습 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24566</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24566"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 올해도 전국투어 여정을 이어간다.이창섭은 지난해 11월 30일부터 이달 5일까지 서울을 시작으로 광주, 부산, 대구, 수원, 청주 등 6개 도시를 순회하는 첫 솔로 전국투어 ‘The Wayfarer’(더 웨이페러)를 개최했다. 오는 2월 7일과 8일, 9일에는 서울에서 또 한 번 ‘The Wayfarer’ 앙코르 콘서트를 개최하며 전체 투어 여정을 마무리한다.‘The Wayfarer’ 투어를 통해 이창섭은 탄탄한 가창력과 깊은 감성으로 ‘라이브 강자’의 진가를 증명했다. 완성도 높은 라이브 무대와 함께..]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-01-20T23:15:53.584Z</updated>
+    <updated>2025-01-21T01:15:54.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['발매 D-1' 캐치더영, 새 싱글 '넌 언제나' M/V 티저 공개…캐치더영표 사운드로 재탄생]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24621</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24621"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 뮤직비디오 티저를 공개하며 컴백 기대감을 끌어올렸다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 21일 0시 공식 SNS를 통해 새 싱글 '넌 언제나(2025)'의 뮤직비디오 티저 영상을 공개했다.공개된 영상 속 캐치더영은 파티가 끝난 것처럼 보이는 공간을 배경으로 합주를 시작하며 기분 좋은 에너지를 전달하고 있다. 이어 비눗방울이 흩날리며 보다 몽환적인 분위기를 더해 곧 공개될 뮤직비디오 본편에 대한 궁금증을 고조시켰다.특히 다이어리와 스노..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MUBEAT]스트레이 키즈, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24617</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24595"/>
         <updated>2025-01-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 올아워즈(ALL(H)OURS)가 독보적인 카리스마로 돌아왔다.&nbsp;올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 13일, 14일 공식 SNS를 통해 세 번째 미니앨범 'Smoke Point(스모크 포인트)'의 첫 번째 그룹 및 개인 콘셉트 포토를 공개했다.&nbsp;이번에 공개된 콘셉트 포토는 임퓨리티(Impurity) 버전으로, 폭발적인 에너지로 중무장한 올아워즈의 모습을 나타냈다. 올아워즈는 개성 넘치는 스트릿 패션으로 화려한 비주얼을 강조하는 한편, 거칠고 반항기 가득한 포스를 발산해 보는 이들의 시선을..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수, 2월 14일 2년 만에 솔로 컴백…이색적 무드 기대↑]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24592</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24592"/>
-        <updated>2025-01-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 지수(JISOO)가 2월 솔로 컴백을 발표했다.지수는 지난 13일 오후 6시 소속사 블리수(BLISSOO) 공식 SNS를 통해 새 솔로앨범을 예고하는 커밍순 콘텐츠를 깜짝 공개했다.티저 영상은 거짓말 탐지기가 움직이는 모션을 담고 있다. 이어 'FEBRUARY 14'라는 날짜와 지수의 이름이 공개돼 강렬한 인상을 남긴다.이에 따르면 지수는 오는 2월 14일 두 번째 솔로앨범을 발매하고 전격 컴백한다. 이는 2023년 3월 발표한 솔로 데뷔곡 '꽃 (FLOWER)' 이후 2년 만이자 지수가 1인 ..]]></content>
     </entry>
 </feed>
