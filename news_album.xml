@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-01-21T23:16:01.178Z</updated>
+    <updated>2025-01-22T01:17:37.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[캐치더영, 오늘(22일) 정오 새 싱글 '넌 언제나(2025)' 발매! X세대 대표 감성곡 GEN Z 밴드의 재해석 '기대 ↑']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24626</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24626"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 완전히 다른 매력의 '넌 언제나'를 선보인다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 22일 정오 각종 온라인 음원사이트를 통해 새 싱글 '넌 언제나(2025)'를 발매한다.'넌 언제나(2025)'는 밴드 모노(Mono)의 곡을 리메이크한 곡으로, 원곡을 향한 존경심과 뉴웨이브의 새로운 해석이 돋보인다. 캐치더영은 세련된 감각과 작곡, 편곡 능력을 통해 본인들만의 젊고 상큼한 버전으로 재해석했다.특히 정모의 안..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권진아, 2월 김건모 ‘핑계’ 정식 리메이크! ‘MZ the X Project’ 첫 주자]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24620</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24588"/>
         <updated>2025-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[글로벌 보이그룹 갓세븐(GOT7)이 새로운 타이틀곡 'PYTHON'으로 컴백한다.카카오엔터테인먼트는 13일 0시 갓세븐 공식 SNS를 통해 새 미니앨범 'WINTER HEPTAGON(윈터 헵타곤)'의 트랙리스트 이미지를 공개했다.이를 통해 타이틀곡 'PYTHON(파이톤)'을 포함해 'SMOOTH(스무스)', '청춘드라마', '기억할거야', 'Darling(달링)', 'TIDAL WAVE(타이달 웨이브)', 'OU..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드 더로즈 김우성, 오늘(10일) 리믹스 앨범 '4444: Reborn' 발매! 글로벌 아티스트 지원사격]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24584</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24584"/>
-        <updated>2025-01-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[밴드 더로즈(The Rose)의 멤버이자 싱어송라이터 김우성이 리믹스 프로젝트로 돌아온다.김우성은 10일 오후 2시 각종 온라인 음원사이트를 통해 지난해 10월 발표한 두 번째 정규앨범의 리믹스 앨범 '4444: Reborn (4444: 리본)'을 발매한다.'4444'는 김우성의 자아 발견과 내적 성찰 그리고 명료함을 탐구한 음반이다. 김우성은 리믹스 앨범을 통해 앨범의 주요 트랙을 새롭게 재해석하고, 전 세계적으로 사랑받는 아티스트들과 함께 장르를 초월하는 8개의 트랙을 선보일 예정이다.이번 리믹스 앨..]]></content>
     </entry>
 </feed>
