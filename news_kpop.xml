@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-03T23:16:28.377Z</updated>
+    <updated>2025-02-04T01:16:34.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[원호, 멕시코에서도 식지 않는 '운동 열정'...땀 범벅 민낯에도 눈부신 '심쿵 비주얼']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24655</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24655"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 원호(WONHO)가 멕시코 브이로그를 공개했다.원호는 지난 3일 오후 8시 개인 유튜브 채널 '오호호(ohhoho)'를 통해 지난해 11월 '2024 K팝 마스터즈 인 멕시코(2024 Kpop Masterz in Mexico)' 공연차 멕시코를 방문했을 때 촬영한 브이로그 영상을 게재했다.공개된 영상에서 멕시코시티에 도착한 원호는 가장 먼저 피트니스센터를 방문하는 모습으로 '운동 마니아'임을 증명했다. 댄서들과 서로의 자세를 체크해 주며 화기애애한 분위기 속에 기분 좋게 땀을 흘리는 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘매진남’ 김영철, ‘잇츠라이브’서 ‘말하면 어떨까’ 밴드 라이브 공개...  진정성 넘치는 애절 보이스!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24650</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24636"/>
         <updated>2025-01-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[소속사 로맨틱팩토리는 24일 "가수 오반이 오는 2월 17일 현역 육군으로 논산 육군훈련소로 입대해 국방의 의무를 다할 예정이다"고 밝혔다.&nbsp;2016년 '과일'로 데뷔한 이후, '어떻게 지내', '행복' 등 수많은 히트곡들을 발표하며 한 해도 쉬지 않고 꾸준히 활동해 왔던 오반은 이제 현역 군인으로서 당분간 대중의 곁을 떠나게 된다.소속사 측은 "오반은 최근 입대영장을 받아 갑작스레 입대일이 정해졌다"라며 "입대 직전까지 기존에 작업 중인 10곡짜리 정규..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2월 4일 컴백' 올아워즈, 활활 타오르는 자신감…신보 'Smoke Point' 하이라이트 메들리 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24633</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24633"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 올아워즈(ALL(H)OURS)가 신보 음원을 일부 공개하며 컴백 기대감을 끌어올렸다.&nbsp;올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 21일부터 24일까지 세 번째 미니앨범 'Smoke Point(스모크 포인트)'의 하이라이트 메들리 영상을 공개했다.&nbsp;올아워즈는 지난 17일 선공개한 더블 타이틀곡 'Graffiti(그래피티)'를 제외하고 베일에 싸인 첫 번째 트랙 'Smoke Point(스모크 포인트)'와 'GIMME GIMME(김미 김미)', 'K..]]></content>
     </entry>
 </feed>

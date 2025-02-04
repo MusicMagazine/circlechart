@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-03T23:16:28.378Z</updated>
+    <updated>2025-02-04T01:16:34.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈(ATEEZ), 2025 월드 투어 서울 피날레 공연 전석 매진...'글로벌 톱 퍼포머' 최강 티켓 파워]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24654</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24654"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 2025 월드 투어 피날레 공연을 매진시켰다.지난 3일 오후 8시 예스24(YES24)를 통해 예매가 진행된 2025 에이티즈 월드 투어 ''투워즈 더 라이트 : 윌 투 파워' 피날레 인 서울('TOWARDS THE LIGHT : WILL TO POWER' FINALE IN SEOUL)'은 티켓 오픈과 동시에 3월 22일과 23일 양일 공연이 전석 매진됐다.지난해 진행된 동명의 월드투어로 서울, 일본, 북미를 항해하며 '글로벌 톱 퍼포머'의 위엄을..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SG워너비 김진호, 2025 콘서트 성공적 마무리 “제 노래의 시작은 여러분” 감동 소감]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24651</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24608"/>
         <updated>2025-01-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이티즈(ATEEZ)가 KSPO DOME(구 체조경기장)에 입성한다.소속사 KQ엔터테인먼트는 지난 15일 공식 SNS를 통해 2025 에이티즈 월드 투어 ''투워즈 더 라이트 : 윌 투 파워' 피날레 인 서울('TOWARDS THE LIGHT : WILL TO POWER' FINALE IN SEOUL)' 개최 소식을 전했다.이번 월드 투어의 타이틀 '투워즈 더 라이트 : 윌 투 파워'는 우리 모두가 자신만의 빛을 가지고 있고, 그 빛을 향해 나아가자는 의미를 담고 있다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓세븐, 6년 만의 정식 콘서트! 팬들과 함께 축제 같은 공연 만든다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24596</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24596"/>
-        <updated>2025-01-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[글로벌 보이그룹 갓세븐(GOT7)이 새 앨범에 이어 단독 콘서트를 선보인다.카카오엔터테인먼트는 갓세븐이 오는 2월 1일과 2일 서울 올림픽공원 핸드볼경기장에서 단독 콘서트 [NESTFEST(네스트페스트)]를 개최하고 3년여 만에 국내 팬들을 만난다고 밝혔다.&nbsp;특히 이번 공연은 2019년 성료한 월드투어 'KEEP SPINNING(킵 스피닝)' 서울 공연 이후 약 6년 만의 정식 콘서트 무대로 오랫동안 완전체 무대를 기다려온 팬들의 심장을 뛰게 한다.카카오엔터테인먼트는 지난 14일 오후 6시 갓세븐 공식 SNS 채널과 ..]]></content>
     </entry>
 </feed>
