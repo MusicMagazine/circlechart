@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-05T23:17:05.301Z</updated>
+    <updated>2025-02-06T01:17:40.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['12일 발매' 청하, 음악+비주얼 다 미쳤다! 새 EP 'Alivio' 하이라이트 메들리 공개!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24663</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24663"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 청하의 새 앨범을 미리 만나볼 수 있는 하이라이트 메들리가 베일을 벗었다.청하는 지난 5일 공식 유튜브 및 SNS를 통해 새 EP 'Alivio (알리비오)'의 전곡 음원 하이라이트 메들리 영상을 공개했다.사랑에 빠진 감정을 부정하려는 내적 갈등을 섬세하게 담아낸 알앤비곡 'Creepin' (크리핀)'을 시작으로, 있는 그대로의 자신을 받아들이고자 하는 메시지를 담은 'Salty (with 선미) (솔티)', 영원히 함께하고 신뢰할 수 있는 단 한 사람을 찾는 이야기를 담은 &amp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘19일 컴백’ 루네이트, ‘나비’ 콘셉트 포토→가사·피지컬 앨범까지…색다른 티저 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24660</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24641"/>
         <updated>2025-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 지수(JISOO)가 'AMORTAGE'의 압도적인 아우라를 예고했다.지수는 31일 0시 소속사 블리수(BLISSOO) 공식 SNS를 통해 솔로 미니앨범 'AMORTAGE(아모르타주)'의 타이틀 포스터를 공개했다.타이틀 포스터 속 지수는 신비로운 분위기와 흡인력 있는 눈빛으로 시선을 사로잡는다. 이는 'AMORTAGE'의 첫 번째 비주얼로 공개 직후 글로벌 팬들의 뜨거운 반응을 얻고 있다. 한 컷만으로 서사를 예고하는 지수의 새로운 이야기에 관심이 모아진다.특히 솜사탕을 연상시키는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 카즈타, 첫 솔로 프로젝트 'Katabui' 작사·작곡 참여…퍼포먼스 영상 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24638</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24638"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)의 리더 카즈타가 첫 솔로 프로젝트로 팬들을 만난다.지난 21일 카즈타가 기획에 참여한 패션 브랜드 'SULA(수라)'의 유튜브와 SNS 등을 통해 'Katabui(카타부이)'의 댄스 퍼포먼스 영상이 공개됐다.&nbsp;'Katabui'는 카즈타의 첫 솔로 프로젝트 이름이자, 카즈타가 작사·작곡에 이름을 올리는 등 직접 제작에 참여한 곡이다.곡명 'Katabui'는 카즈타의 고향인 오키나와의 방언 '카타부이(片降い)'를 뜻하는 것으로 한쪽은 맑..]]></content>
     </entry>
 </feed>

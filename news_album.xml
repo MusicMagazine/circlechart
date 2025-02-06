@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-05T23:17:05.296Z</updated>
+    <updated>2025-02-06T01:17:40.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노래방VS’ 우승자 박종민, 11일 신곡 ‘INSIDE’ 발매 확정! 3개월 만에 컴백]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24662</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24662"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 뮤지션 박종민이 오는 11일 신곡 ‘INSIDE’로 컴백한다.박종민은 지난 5일 공식 SNS를 통해 새 싱글 ‘INSIDE(인사이드)’의 앨범 재킷 이미지를 공개하며, 발매 소식을 알렸다.지난해 11월 정식 데뷔한 박종민은 새해 신곡 ‘INSIDE’를 발매하며 3개월 만에 정식 컴백한다. 데뷔곡 ‘Dear My Star(디어 마이 스타)’로 짝사랑을 소환하는 매력적인 보컬을 들려준 박종민이 이번 ‘INSIDE’에는 어떤 메시지를 풀어냈을지 기대가 모인다.이날 공개된 재킷 이미지 속 박종민은 푸른 바다를 연상케 하는 배경과 번지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황가람, 허스키 보이스로 ‘미치게 그리워서’ 재해석! 세월 넘어선 감성 이별송]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24657</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24628"/>
         <updated>2025-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김보경이 ‘Storm’을 10년 만에 재해석한다.김보경은 오는 30일 리메이크 음원 ‘Storm(스톰)’ 발매를 확정했다.&nbsp;‘Storm’은 1999년 발매된 그룹 루머스의 정규앨범 ‘Storm’의 동명의 타이틀곡으로 오랜 시간 대중적인 사랑을 받아왔다. 김보경은 2015년 JTBC ‘백인백곡 - 끝까지 간다’에서 선보여 화제를 모았던 ‘Storm’ 음원을 10년 만에 새롭게 재해석하여 정식 음원으로 발매한다.당시 원곡의 파워풀한 매력을 살리면서도 특유의 호소력 짙은 가창력을 선보였던 김보경은 한층 더 농익은 보이스로 ‘Stor..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐치더영, 오늘(22일) 정오 새 싱글 '넌 언제나(2025)' 발매! X세대 대표 감성곡 GEN Z 밴드의 재해석 '기대 ↑']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24626</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24626"/>
-        <updated>2025-01-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 완전히 다른 매력의 '넌 언제나'를 선보인다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 22일 정오 각종 온라인 음원사이트를 통해 새 싱글 '넌 언제나(2025)'를 발매한다.'넌 언제나(2025)'는 밴드 모노(Mono)의 곡을 리메이크한 곡으로, 원곡을 향한 존경심과 뉴웨이브의 새로운 해석이 돋보인다. 캐치더영은 세련된 감각과 작곡, 편곡 능력을 통해 본인들만의 젊고 상큼한 버전으로 재해석했다.특히 정모의 안..]]></content>
     </entry>
 </feed>
