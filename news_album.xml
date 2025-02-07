@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-06T23:18:35.000Z</updated>
+    <updated>2025-02-07T01:17:56.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한해 X 문세윤, 오늘(7일) 듀엣 싱글 ‘가르쳐줘’  전격 발매...2000년대 감성 듬뿍 담은 알앤비 스타일 눈길]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24665</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24665"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한해와 문세윤이 금일 오후 6시 듀엣 싱글 ‘가르쳐줘’를 발매한다.오늘 공개되는 ‘가르쳐줘’는 2000년대 초반 감성을 듬뿍 담은 R&amp;B 곡으로,&nbsp;지난 2024년 발매한 ‘샴페인(Champagne)’ 이후 약 9개월 만에 음악적 행보를 이어가는&nbsp;한해와 그의 절친 문세윤의 개성 넘치는 음색과 더불어 이들이 펼칠 환상의 하모니가 기대되는 곡이다.앞서 브랜뉴뮤직은 공식 SNS 채널들을 통해 진지한 두 사람의 모습이 담긴 컨셉 포토를 공개해 눈길을 끌었는데,&nbsp;래퍼 한해와 코미디언 문세윤의 만남이라는 독특한 콜라보에 세간의 관심이 쏟..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘노래방VS’ 우승자 박종민, 11일 신곡 ‘INSIDE’ 발매 확정! 3개월 만에 컴백]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24662</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24629"/>
         <updated>2025-01-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 주호가 새해 첫 신곡 ‘안녕을 말할 때’로 돌아온다.주호는 오는 26일 오후 6시 각종 온라인 음원 사이트를 통해 새 디지털 싱글 ‘안녕을 말할 때’를 발매한다.‘안녕을 말할 때’는 주호의 호소력 짙은 보컬과 폭발력 있는 고음으로 이별에 아파하는 남자의 심정을 노래한 록발라드다. 주호가 작사, 작곡을 맡아 본인만의 깊은 감성으로 리스너들의 이별 기억을 소환할 예정이다.지난 20일 레이벡스 공식 SNS를 통해 ‘안녕을 말할 때’의 앨범 커버 이미지와 함께 음원 일부가 처음 공개됐다. “내게 안녕을 말할 때. 내게 이별을 말할 때..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보경, 30일 ‘Storm’ 발매 확정! ‘백인백곡’ 이후 10년 만에 정식 음원]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24628</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24628"/>
-        <updated>2025-01-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김보경이 ‘Storm’을 10년 만에 재해석한다.김보경은 오는 30일 리메이크 음원 ‘Storm(스톰)’ 발매를 확정했다.&nbsp;‘Storm’은 1999년 발매된 그룹 루머스의 정규앨범 ‘Storm’의 동명의 타이틀곡으로 오랜 시간 대중적인 사랑을 받아왔다. 김보경은 2015년 JTBC ‘백인백곡 - 끝까지 간다’에서 선보여 화제를 모았던 ‘Storm’ 음원을 10년 만에 새롭게 재해석하여 정식 음원으로 발매한다.당시 원곡의 파워풀한 매력을 살리면서도 특유의 호소력 짙은 가창력을 선보였던 김보경은 한층 더 농익은 보이스로 ‘Stor..]]></content>
     </entry>
 </feed>
