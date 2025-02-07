@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-07T01:17:56.076Z</updated>
+    <updated>2025-02-07T02:50:18.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 4 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, and KickFlip Dominate the Chart..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24669</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24669"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 4 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from ROSE, Bruno Mars, G-DRAGON, and KickFlip.KMCA, publisher of CIRCLE CHART, announced that “As of week 4 (2025.01.19.-2025.01.25.), ROSE and Bruno Mars topped the Global K-pop Chart while both G-DRAGON and KickFlip topped 2 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수, 'AMORTAGE' 4곡 포스터 공개 완료! 러블리→매혹美 콘셉트 올라운더]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24667</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24646"/>
         <updated>2025-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 3 CIRCLE CHART (formerly gaonchart)of 2025 was dominated by ROSE, Bruno Mars, G-DRAGON, and Park Ji Hyeon.&nbsp;KMCA, publisher of CIRCLE CHART, announcedthat "As of week 3 (2025.01.12.-2025.01.18.), ROSE and Bruno Mars toppedthe Global K-pop Chart while both G-DRAGON and Park Ji Hyeon toppe..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이장준·홍주찬·수윤·드리핀·권은비...울림 소속 아티스트들의 '개성 만점' 설 콘텐츠]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24645</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24645"/>
-        <updated>2025-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[울림엔터테인먼트 소속 아티스트들이 설 연휴를 유쾌한 에너지로 물들였다.&nbsp;&nbsp;울림엔터테인먼트는 지난 29일 오후 3시 공식 유튜브 채널을 통해 소속 아티스트 골든차일드 이장준, 홍주찬, 드리핀, 권은비의 설맞이 콘텐츠를 공개했다.&nbsp;&nbsp;골든차일드 이장준과 홍주찬은 절을 방문해 템플스테이를 체험하는 '깨장찬 템플스테이'를 통해 주지 스님과의 차담, 명상, 마당에서의 눈싸움에 이어 맛깔나는 공양 시간까지 하루 일과를 공개해 뜨거운 반응을 불러왔다. 아이돌계 '입담 천재'다운 두 사람의 남다른 예능감과 티격태격 케미..]]></content>
     </entry>
 </feed>
