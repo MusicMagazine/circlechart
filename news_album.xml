@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-10T23:17:41.155Z</updated>
+    <updated>2025-02-11T01:17:06.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘노래방VS’ 우승자 박종민, 오늘(11일) 신곡 ‘INSIDE’ 발매! 단독 콘서트까지 ‘열일’ 신호탄]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24675</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24675"/>
+        <updated>2025-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[신예 뮤지션 박종민이 ‘INSIDE’로 새해 활동에 돌입한다.박종민은 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘INSIDE(인사이드)’를 발매한다.‘INSIDE’는 막연한 꿈을 향해 나아가는 과정에 느끼는 감정과 미완성의 자아를 풀어낸 곡이다. 박종민은 현실의 벽에 부딪히고 넘어지기도 하지만 찬란한 꿈이 다시 자신을 일으킨다는 자전적인 메시지를 전한다.특히 박종민은 특유의 감미로운 미성이 돋보이는 매력적인 보컬로 눈부신 청춘을 노래한다. 박종민의 담백하면서도 진중한 감성이 청자들에게 응원과 울림을 건넬 전망이다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서제이 신곡 '마지막인 것처럼', 박근태X김이나X쟈니브로스 지원사격 '스타군단 뭉쳤다']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24674</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24643"/>
         <updated>2025-01-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[얼터너티브 케이팝 그룹 바밍타이거(Balming Tiger)가 일본으로 음악적 영역을 확장한다.바밍타이거는 29일 0시 국내외 각종 음원 사이트를 통해 신곡 'Wash Away(워시 어웨이)'를 전 세계 동시 발매했다.'Wash Away'는 지난 7일부터 일본 NHK 채널을 통해 방영 중인 드라마 'Tokyo Salad Bowl(도쿄 샐러드 보울)'의 OST다. 동명의 원작 일본 만화를 각색하여 제작된 'Tokyo Salad Bowl'은 도쿄의 국제수사과 형사와 업무 파트너인..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 오늘(31일) 2025 ‘월간 윤종신’ 1월호 ‘내리막길’ 발매...인생의 후반부로 향하는 마음가짐!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24639</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24639"/>
-        <updated>2025-01-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 월간 음악 프로젝트 ‘월간 윤종신’ 1월호를 발매한다.&nbsp;윤종신은 오늘(31일) 오후 6시 각종 온라인 음원 사이트를 통해 2025 ‘월간 윤종신’ 1월호 ‘내리막길’을 선보인다.&nbsp;윤종신의 신곡 ‘내리막길’은 삶의 중반부를 지나 이제는 후반부로 향하는 이의 마음가짐을 담고 있다. 세월에 따른 관점과 생각, 태도의 변화 속에 내려가는 길 또한 삶의 일부임을 받아들이는 마음과 내려가는 길이 비교적 수월하고 완만하기를 바라는 마음, 그리고 동행하는 사람들이 모두 무탈하기를 바라는 마음 등을 표현했다.&nbsp;&nbsp;또한 ‘내리막길’은 윤..]]></content>
     </entry>
 </feed>

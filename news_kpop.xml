@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-10T23:17:41.152Z</updated>
+    <updated>2025-02-11T01:17:06.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴), 여덟 명의 팬시 키드를 찾아라! 3월 4일 NEW 행보 '시동']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24678</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24678"/>
+        <updated>2025-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[8TURN(에잇턴)이 팬시한 매력의 아티스트로 돌아온다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 10일 공식 SNS를 통해 한 장의 커밍순 포스터를 게재하며 오는 3월 4일 컴백 소식을 알렸다.&nbsp;공개된 포스터 속 전단지의 'Missing Kids', 'Who's That Fancy Kids?'란 문구가 눈길을 끄는 가운데, '2025.03.04' 컴백일자와 8TURN의 숫자 8을 유희적으로 활용한 텍스트가 숨은 재미를 더하고 있다.특히 8TURN의 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트H, SBS '가요대전'→'서울패션위크'서 강렬한 눈도장…상반기 데뷔 기대감 ↑]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24673</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24655"/>
         <updated>2025-02-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 원호(WONHO)가 멕시코 브이로그를 공개했다.원호는 지난 3일 오후 8시 개인 유튜브 채널 '오호호(ohhoho)'를 통해 지난해 11월 '2024 K팝 마스터즈 인 멕시코(2024 Kpop Masterz in Mexico)' 공연차 멕시코를 방문했을 때 촬영한 브이로그 영상을 게재했다.공개된 영상에서 멕시코시티에 도착한 원호는 가장 먼저 피트니스센터를 방문하는 모습으로 '운동 마니아'임을 증명했다. 댄서들과 서로의 자세를 체크해 주며 화기애애한 분위기 속에 기분 좋게 땀을 흘리는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘매진남’ 김영철, ‘잇츠라이브’서 ‘말하면 어떨까’ 밴드 라이브 공개...  진정성 넘치는 애절 보이스!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24650</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24650"/>
-        <updated>2025-02-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['매사에 진심인 남자' 김영철이 신곡 밴드 라이브를 통해 특유의 감성을 뽐냈다.김영철은 지난 31일 유튜브 채널 'it's Live(잇츠라이브)'에서 새 디지털 싱글 '말하면 어떨까' 무대를 선보였다.공개된 영상 속 김영철은 포근한 겨울 분위기가 물씬 느껴지는 스웨터를 입고 등장, 밴드 버전의 ‘말하면 어떨까’ 무대를 라이브로 소화했다. 고백을 앞두고 있는 이들에게 용기를 북돋아 주며 라이브를 시작한 김영철은 모든 가사에 마음을 담아 섬세하게 열창했을 뿐만 아니라 진정성 넘치는 애절..]]></content>
     </entry>
 </feed>
