@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-12T23:16:33.573Z</updated>
+    <updated>2025-02-13T01:17:48.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 남우현, 환호 속 뮤지컬 'Bloody Love' 성료..."사랑해 주신 모든 분들께 감사, 더 멋있는 모습으로 인사드릴 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24686</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24686"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 남우현이 뮤지컬 '블러디 러브(Bloody Love)'를 성황리에 마쳤다.남우현은 지난 12일 오후 7시 30분 서울 서초구 한전아트센터에서 열린 무대를 끝으로 약 2개월에 걸쳐 공연된 뮤지컬 '블러디 러브'를 성공적으로 마무리했다.'블러디 러브'는 브람 스토커(Bram Stoker)의 고전 스테디셀러 소설을 원작으로 한 작품으로, 1995년 체코에서 초연됐으며 1998년 한국 초연을 비롯해 30년간 전 세계 관객들의 큰 사랑을 받았다. 문화콘텐츠 전문 기업인 (주)PR컴퍼니에서 새롭..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3월 컴백' 스테이씨, 4월 서울 단독콘서트 'STAY TUNED' 개최…12일 선예매?14일 일반예매 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24679</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24651"/>
         <updated>2025-02-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 SG워너비의 김진호가 관객들의 뜨거운 호응 속에 콘서트를 성료했다.&nbsp;김진호는 지난달 25일과 26일 양일간 서울 블루스퀘어 마스터카드홀에서 2025 김진호 콘서트 ‘그 노래의 시작은 무엇인가’를 열고 관객들을 만났다.&nbsp;‘그 노래의 시작은 무엇인가’는 김진호가 지난 2022년 개최한 ‘듣는 사진전’ 이후 약 3년 만에 선보인 단독 콘서트로 뜨거운 반응을 얻었다. 이날 김진호는 “설 연휴를 앞두고 귀한 발걸음 감사하다. 유행가는 아니지만 제 삶의 계절이 담긴 수필같은 곡들”이라고 소개하며 본격적으로 펼쳐질 공연에 기대감을 더했다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘12일 컴백’ 저스트비, 1년 3개월 만에 일본 팬미팅 개최 확정! 국내외 열일]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24649</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24649"/>
-        <updated>2025-02-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 저스트비(JUST B)가 1년 3개월 만에 단독 공연으로 일본을 찾는다.저스트비(임지민, 이건우, 배인, 시우, 전도염, 김상우)는 오는 22일 도쿄, 24일 오사카에서 2025 일본 팬미팅 ‘Always and Forever(올웨이즈 앤 포에버)’를 개최한다.‘Always and Forever’는 저스트비가 지난 2023년 12월 초 진행한 ‘MINI LIVE in JAPAN(미니 라이브 인 재팬)’ 이후 일본에서 약 1년 3개월 만에 여는 단독 공연이다. 오랜만에 현지 팬들과 재회하는 자리인 만큼 저스트비는 특별한 무대와 ..]]></content>
     </entry>
 </feed>

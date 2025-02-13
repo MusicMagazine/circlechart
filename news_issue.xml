@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2025-02-12T23:16:33.581Z</updated>
+    <updated>2025-02-13T01:17:48.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10CM·선우정아·카더가든, 씨에이엠위더스(CAM)와 전속계약…다비치·실리카겔·정세운과 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24684</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24684"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 10CM(십센치), 선우정아, 카더가든이 씨에이엠위더스(이하 CAM)에서 새로운 출발을 알렸다.13일 CAM은 "10CM, 선우정아, 카더가든이 CAM과 전속계약을 체결했다"고 밝혔다. 이에 앞서 지난 12일 공식 SNS를 통해 세 아티스트의 파파라치 컷을 공개하며 음악 팬들의 관심을 모았다.10CM는 독보적인 음색과 감각적인 송라이팅으로 대중에게 오랜 시간 큰 사랑을 받고 있는 싱어송라이터다. CAM에 합류 후 다채로운 앨범과 다양한 공연으로 팬들을 찾는다.선우정아는 호소력 짙은 목소리로 대중들을 매료시..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오존,이디오테잎, CAM과 전속계약 체결! 다비치,정세운,실리카겔과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24556</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24117"/>
         <updated>2024-08-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[인디 싱어송라이터 아라가 레이어드 아일랜드에 새롭게 합류한다.인디 레이블 레이어드 아일랜드는 지난 11일 공식 SNS를 통해 아라의 프로필을 공개하며 영입 소식을 공식화했다. 소속사에 따르면 아라는 오는 16일 첫 EP를 발매하고 레이어드 아일랜드에서의 활약을 이어간다.아라는 지난 2021년 첫 번째 싱글 '이유'로 데뷔한 싱어송라이터로, 몽환적인 보이스와 세련된 음악성으로 인디씬의 관심을 받고 있다. 특유의 개성이 묻어난 커버 영상 및 각종 유튜브 콘텐츠로 리스너들과 소통을 이어오고 있다.레이어드 아일랜드는 콜드(C..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페노메코, 이고그룹과 전속계약 체결! 브랜드 레이블 'if i' 론칭]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24041</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24041"/>
-        <updated>2024-07-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['프로듀서 겸 아티스트' 페노메코가 이고그룹과 함께한다.22일 이고그룹은 "페노메코와 최근 전속계약을 체결했다"라며 "페노메코는 이고그룹 안에서 브랜드 레이블 'if i(이프 아이)'를 론칭하고 활동할 예정이며, 탄탄한 그의 음악처럼 단단하고 거침없는 걸음을 내디딜 수 있도록 아낌없이 지원할 계획이다. 앞으로 만들어갈 페노메코의 음악 세계에 많은 관심 부탁드린다"고 밝혔다.페노메코는 독보적인 톤과 출중한 프로듀싱 능력을 갖춘 올라운더 아티스트로, 지난 2014년 싱글 '..]]></content>
     </entry>
 </feed>
