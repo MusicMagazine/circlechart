@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-14T01:17:38.559Z</updated>
+    <updated>2025-02-14T02:47:29.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수주, 첫 EP 앨범 ‘No Ghost’ 발매…장르의 경계 허문 5개 음악 트랙 선보여]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24692</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24692"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[수주의 데뷔 앨범인 ‘노 고스트’에는 재탄생과 자유라는 핵심 테마 아래 그녀가 지난 2년 동안 쓴 5개의 트랙이 담겨있다.그녀는 앨범 창작 과정에서 장르의 경계를 허물며, 자신의 다양한 음악적 취향을 바탕으로 색다른 시도를 선보였다. 50년대 컨트리 팝, 60년대 걸 그룹, 90년대 후반과 2000년대 초반의 일본 앰비언트 음악을 슈게이즈 사운드로 풀어내며, 그 결과 독특하면서도 감각적인 사운드를 완성해낼 수 있었다. 앨범에 수록된 5곡은 표면적으로 사랑과 상실에 관한 이야기지만, 전반적으로는 새로운 도전과 변화 속에서 느끼는 감정..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청하, 새 EP 'Alivio' 발매! 타이틀곡 'STRESS'→선미 피처링 'Salty'까지]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24685</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24657"/>
         <updated>2025-02-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 황가람이 발라드 명곡 ‘미치게 그리워서’를 정식 리메이크한다.황가람은 오는 9일 오후 6시 각종 온라인 음원 사이트를 통해 리메이크 싱글 ‘미치게 그리워서’를 발매한다.‘미치게 그리워서’는 지난 2015년 발매된 유해준의 자작곡으로, 드라마 ‘울지 않는 새’ OST로 삽입되어 대중적인 사랑을 받았다. 이별 후 사무친 그리움을 담아낸 애틋한 노랫말과 서정적인 멜로디가 특징이다.특유의 허스키하고 호소력 짙은 음색을 지닌 황가람이 ‘미치게 그리워서’를 재해석한다. 황가람의 깊이 있는 감성과 목소리가 세월을 넘어서는 발라드 명곡의 재..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마침내 타오르기 시작할 타이밍" 올아워즈, 오늘(4일) 미니 3집 'Smoke Point'로 컴백!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24653</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24653"/>
-        <updated>2025-02-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 올아워즈(ALL(H)OURS)의 신보가 베일을 벗는다.&nbsp;&nbsp;올아워즈(건호, 유민, 제이든, 민제, 마사미, 현빈, 온)는 4일 오후 6시 세 번째 미니앨범 'Smoke Point(스모크 포인트)'를 발매하며 컴백한다.&nbsp; &nbsp;'Smoke Point'는 올아워즈가 지난해 7월 발매한 두 번째 미니앨범 'WITNESS(위트니스)' 이후 7개월 만에 선보이는 신보다. 기름 등이 끓어오르기 시작하면서 발생하는 연기를 눈으로 확인할 수 있는 온도인 '발연점'이라는 의미를 가지고 있는 ..]]></content>
     </entry>
 </feed>
