@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-14T05:17:40.423Z</updated>
+    <updated>2025-02-14T06:23:58.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MUBEAT] 부석순, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24691</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24691"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱글 2집 [TELEPARTY]로 컴백한 부석순, 음반?팬투표 부문 고득점으로 정상 등극뮤빗 K-POP 팬투표에서 1위, 2위를 차지한 BTS 진과 아이브도 Top5 선정글로벌 K-POP 팬덤 플랫폼 뮤빗의 뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 부문에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 25년 1월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, BSS (SEVENTEEN), and Park Ji H..]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24690</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24673"/>
         <updated>2025-02-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[올 상반기 데뷔 예정인 5세대 슈퍼루키 프로젝트H가 '서울패션위크'에 출격했다.프로젝트H는 지난 9일 서울 동대문디자인플라자(DDP)에서 열린 '2025 F/W 서울패션위크'(이하 '서울패션위크')에 참석했다.이날 프로젝트H는 레드와 블랙 등의 컬러 조합이 돋보이는 캐주얼룩으로 등장해 눈길을 모았다. 과감한 색상에 편안함을 살린 착장으로 소녀다운 매력을 배가했고, 이를 스타일리시하게 소화한 다섯 멤버의 조합이 빛나는 시너지를 완성했다.프로젝트H는 지난해 개최된 '2024 SBS 가요..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수, 'AMORTAGE' 트랙 스포일러 공개! 네 가지 사랑 이야기]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24671</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24671"/>
-        <updated>2025-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 지수(JISOO)가 완성도 높은 음악으로 한층 깊어진 감성을 전한다.지수는 10일 0시 소속사 블리수(BLISSOO) 공식 SNS와 유튜브 채널을 통해 새 미니앨범 'AMORTAGE(아모르타주)'의 트랙 스포일러를 공개했다.이를 통해 'earthquake(얼스퀘이크)', 'Your Love(유어 러브)', 'TEARS(티어스)', 'Hugs &amp; Kisses (허그 앤 키세스)' 등 총 4곡의 음원 일부가 베일을 벗었다. 감각적인 사운드 디자인이 ..]]></content>
     </entry>
 </feed>

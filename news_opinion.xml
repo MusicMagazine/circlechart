@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2025-02-14T05:17:40.430Z</updated>
+    <updated>2025-02-14T06:23:58.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신곡 이용량 급감 - 1월 리뷰(2025)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24693</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24693"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2025년 1월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량은 11.3%, 6개월 이내 발매곡 25.8% 18개월 이내 발매곡 이용량 점유율은 51.6%를 기록했습니다.2025년 1월 TOP400 가수별 써클지수 점유율 조사에서 DAY6가 400위권 내 총 10곡을 올려놓으며 (합산)점유율 5.0%로 1위에 올랐습니다.2025년 1월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 5.9% 감소, 전년 동기에 비해서는 1.9% 증가한 것으로 조사되었습니다.&nbsp;2025년 1월 앨범..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 연간차트 리뷰 (Annual Chart Review)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24618</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24253"/>
         <updated>2024-09-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[올해로 데뷔 10년 차를 맞은 데이식스가 36~37주차 2주 연속 각기 다른 노래로 디지털 주간차트 1위에 올랐습니다. 사실, 데이식스가 디지털 차트에서 1위를 차지한 것은 이번이 처음입니다.&nbsp;&nbsp;또한, 기 발표 곡인 '한 페이지가 될 수 있게', '예뻤어' 등이 오랜 역주행 끝에 최근 차트 최상위권에 오르기도 했는데요,이번 칼럼에서는 데이식스와 관련한 과거부터 현재까지의 데이터를 살펴보도록 하겠습니다.&nbsp;데이식스는 데뷔 10년 차 밴드임에도 불구하고 주간 디지털 차트 50위권에 오른 곡들이 예상외로 적었으..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올림픽 스포츠 스타와 음악시장 - 8월 리뷰(2024)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24223</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24223"/>
-        <updated>2024-09-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2024년 8월 TOP400 가수별 써클지수 점유율 조사에서 NewJeans가 400위권 내 총 14곡을 올려놓으며 (합산)점유율 8.3%로 1위에 올랐습니다.2024년 8월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 7.9% 감소, 전년 동기에 비해서도 14.8% 감소 한 것으로 조사되었습니다.2024년 8월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 지난달 대비 51.0% 감소, 전년 동기에 비해서는 37.1% 감소했습니다.2024년 8월 TOP400 가수별 앨범 판매량 점유율 조사에..]]></content>
     </entry>
 </feed>
