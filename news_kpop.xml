@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-16T23:15:55.839Z</updated>
+    <updated>2025-02-17T01:20:12.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CIX, 'THUNDER'부터 'My Everlasting Sun'까지…일곱 번째 EP 활동 성료!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24694</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24694"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 'THUNDER'로 2025년을 힘차게 시작했다.CIX(BX, 승훈, 용희, 현석)는 지난 16일 방송된 SBS '인기가요'를 끝으로 약 4주간의 일곱 번째 EP 앨범 'THUNDER FEVER(썬더 피버)' 활동을 성료했다.'THUNDER FEVER'는 갑작스러운 자연현상인 천둥번개와 열병을 연결하여 불안과 열망이 뒤섞이는 격렬한 감정적 격변을 풀어낸 앨범이다. CIX는 1년 만에 컴백을 준비하며 한층 유니크한 팀 컬러를 찾아냈고, 감각적인 음악들..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MUBEAT] 부석순, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24691</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24678"/>
         <updated>2025-02-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[8TURN(에잇턴)이 팬시한 매력의 아티스트로 돌아온다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 10일 공식 SNS를 통해 한 장의 커밍순 포스터를 게재하며 오는 3월 4일 컴백 소식을 알렸다.&nbsp;공개된 포스터 속 전단지의 'Missing Kids', 'Who's That Fancy Kids?'란 문구가 눈길을 끄는 가운데, '2025.03.04' 컴백일자와 8TURN의 숫자 8을 유희적으로 활용한 텍스트가 숨은 재미를 더하고 있다.특히 8TURN의 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트H, SBS '가요대전'→'서울패션위크'서 강렬한 눈도장…상반기 데뷔 기대감 ↑]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24673</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24673"/>
-        <updated>2025-02-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[올 상반기 데뷔 예정인 5세대 슈퍼루키 프로젝트H가 '서울패션위크'에 출격했다.프로젝트H는 지난 9일 서울 동대문디자인플라자(DDP)에서 열린 '2025 F/W 서울패션위크'(이하 '서울패션위크')에 참석했다.이날 프로젝트H는 레드와 블랙 등의 컬러 조합이 돋보이는 캐주얼룩으로 등장해 눈길을 모았다. 과감한 색상에 편안함을 살린 착장으로 소녀다운 매력을 배가했고, 이를 스타일리시하게 소화한 다섯 멤버의 조합이 빛나는 시너지를 완성했다.프로젝트H는 지난해 개최된 '2024 SBS 가요..]]></content>
     </entry>
 </feed>
