@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-18T05:19:07.110Z</updated>
+    <updated>2025-02-18T06:24:33.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 6 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, PLAVE, and IVE Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24704</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24704"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 6 CIRCLE CHART (formerly gaonchart)of 2025 saw strong showings from leading acts such as ROSE, Bruno Mars, G-DRAGON,PLAVE, and IVE.&nbsp;KMCA, publisher of CIRCLE CHART, announcedthat "As of week 6 (2025.02.02.-2025.02.08.), ROSE and Bruno Mars toppedthe Global K-pop Chart while G-DRAGON top..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프로젝트 7' 김시훈X강현우, 드라마 '비밀은 없어' OST 'I Know' 라이브…섬세한 보컬로 감동 선사]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24701</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24681"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 청하가 그동안 보여준 적 없는 파격적인 티저로 기대감을 최고조로 끌어올리고 있다.청하는 지난 11일 공식 유튜브 및 SNS를 통해 새 EP 'Alivio (알리비오)' 타이틀곡 'STRESS (스트레스)'의 두 번째 뮤직비디오 티저 영상을 공개했다.공개된 영상에는 많은 사람들이 있는 강의실을 배경으로 자리를 박차고 걸어 나가는 청하의 모습이 담겼다. 이어 강의실을 나가기 전 손가락으로 파격적인 제스처를 취하며 충격적이면서도 강렬한 임팩트를 선사했다.특히 청하는 자신감 넘치는 표정과 당당한 매력으로 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트, 새 앨범 'LIKE INFINITE' 스케줄러 공개...'역대급 귀환' 카운트다운]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24680</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24680"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 완전체 컴백 카운트다운에 돌입했다.소속사 인피니트 컴퍼니는 12일 0시 공식 SNS를 통해 인피니트의 여덟 번째 미니 앨범 '라이크 인피니트(LIKE INFINITE)' 컴백 스케줄러를 공개했다.스케줄러에 따르면 오는 14일 '라이크 인피니트'의 트랙리스트, 17일 컴백 트레일러가 공개된다. 18일부터 20일, 24일부터 26일까지 총 6일간 인피니트의 물오른 비주얼을 확인할 수 있는 두 가지 버전의 콘셉트 포토가 공개되..]]></content>
     </entry>
 </feed>
