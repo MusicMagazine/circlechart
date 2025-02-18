@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-18T01:17:29.893Z</updated>
+    <updated>2025-02-18T02:46:13.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['프로젝트 7' 김시훈X강현우, 드라마 '비밀은 없어' OST 'I Know' 라이브…섬세한 보컬로 감동 선사]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24701</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24701"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['프로젝트 7' 출신 김시훈과 강현우가 팬들에게 특별한 선물을 전했다.지난 12일과 14일 유튜브 채널 '고고씽 GOGOSING'을 통해 '안준원의 뮤직 캠프 음악감상실'(이하 '음악감상실')과 라이브 영상 콘텐츠가 공개됐다.먼저 '음악감상실'에서 김시훈, 강현우는 안준원과 캠핑을 떠났다. 안준원은 "셋이 모이면 카메라 신경 안 쓰고 재밌게 놀 수 있을 것 같았다"라며 첫 번째 게스트로 두 사람을 초대한 이유를 밝혔다.특히 세 사람은 JTBC &amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX, 'THUNDER'부터 'My Everlasting Sun'까지…일곱 번째 EP 활동 성료!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24694</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24680"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 완전체 컴백 카운트다운에 돌입했다.소속사 인피니트 컴퍼니는 12일 0시 공식 SNS를 통해 인피니트의 여덟 번째 미니 앨범 '라이크 인피니트(LIKE INFINITE)' 컴백 스케줄러를 공개했다.스케줄러에 따르면 오는 14일 '라이크 인피니트'의 트랙리스트, 17일 컴백 트레일러가 공개된다. 18일부터 20일, 24일부터 26일까지 총 6일간 인피니트의 물오른 비주얼을 확인할 수 있는 두 가지 버전의 콘셉트 포토가 공개되..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴), 여덟 명의 팬시 키드를 찾아라! 3월 4일 NEW 행보 '시동']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24678</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24678"/>
-        <updated>2025-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[8TURN(에잇턴)이 팬시한 매력의 아티스트로 돌아온다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 10일 공식 SNS를 통해 한 장의 커밍순 포스터를 게재하며 오는 3월 4일 컴백 소식을 알렸다.&nbsp;공개된 포스터 속 전단지의 'Missing Kids', 'Who's That Fancy Kids?'란 문구가 눈길을 끄는 가운데, '2025.03.04' 컴백일자와 8TURN의 숫자 8을 유희적으로 활용한 텍스트가 숨은 재미를 더하고 있다.특히 8TURN의 ..]]></content>
     </entry>
 </feed>
