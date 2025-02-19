@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-18T23:16:55.131Z</updated>
+    <updated>2025-02-19T01:18:14.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['5세대 슈퍼루키' 프로젝트H, 다섯 번째 멤버 이안 공개…팔색조 매력 '시선 집중']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24707</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24707"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[프로젝트H의 다섯 번째 멤버가 베일을 벗었다.에이치뮤직엔터테인먼트는 지난 18일 'PROJECT H 2025' 공식 SNS에 프로젝트H 다섯 번째 멤버 이안의 이미지를 공개했다.사진 속 이안은 편안한 캐주얼부터 순백의 무대의상, 스타일리시한 힙합 패션까지 다채로운 이미지를 소화하며 시선을 집중시켰다. 또한 매 사진마다 흑발의 긴 생머리와 우윳빛 피부가 눈길을 끌며 순수하고 맑은 느낌을 자아냈다.앞서 조혜린, 비비(VV), 서희, 양서진 등 네 명의 멤버가 순차적으로 공개된 가운데, 다섯 번째 멤버 이안이 베일을 벗으며..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 6 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, PLAVE, and IVE Lead the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24704</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24682"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최수호가 '현역가왕2' 결승에 진출했다.최수호는 지난 11일 오후 방송된 MBN '현역가왕2' 준결승전에서 국악 전공 필살기를 갈아 넣은 애절한 무대를 선보이며 결승전 진출을 확정했다.'현역가왕2'는 한일 수교 60주년 기념 대기획으로, 올해 치러질 '한일가왕전'에 나갈 대한민국 대표 '최정상급 남성 현역 가수' 톱7을 뽑는 국가대표 선발 서바이벌 예능이다.이날 방송에서는 결승전으로 가는 마지막 관문인 준결승전 2라운드 '막장전'이 그려졌다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하, 신곡 'STRESS' 두 번째 M/V 티저 공개…쿨하고 당당한 매력 '궁금증 ↑']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24681</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24681"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 청하가 그동안 보여준 적 없는 파격적인 티저로 기대감을 최고조로 끌어올리고 있다.청하는 지난 11일 공식 유튜브 및 SNS를 통해 새 EP 'Alivio (알리비오)' 타이틀곡 'STRESS (스트레스)'의 두 번째 뮤직비디오 티저 영상을 공개했다.공개된 영상에는 많은 사람들이 있는 강의실을 배경으로 자리를 박차고 걸어 나가는 청하의 모습이 담겼다. 이어 강의실을 나가기 전 손가락으로 파격적인 제스처를 취하며 충격적이면서도 강렬한 임팩트를 선사했다.특히 청하는 자신감 넘치는 표정과 당당한 매력으로 ..]]></content>
     </entry>
 </feed>

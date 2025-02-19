@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-18T23:16:55.124Z</updated>
+    <updated>2025-02-19T01:18:14.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지수, 솔로 컴백 기념 스페셜 팬밋업 'SOO IN LOVE' 성료!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24708</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24708"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 지수(JISOO)가 솔로 컴백을 기념해 훈훈한 팬 사랑을 전했다.지수는 지난 14일 서울 CGV 청담 씨네시티에서 2회에 걸쳐 새 미니앨범 'AMORTAGE(아모르타주)' 발매를 기념한 스페셜 이벤트 팬밋업 'SOO IN LOVE(수 인 러브)'를 개최하고 팬들과 직접 만나 소통했다.이번 'SOO IN LOVE'는 지수의 컴백 당일 진행된 만큼 실물 앨범과 타이틀곡 'earthquake'의 비하인드 영상을 최초로 공개하고, 이에 대한 다양한 이야기를 나누는 자리로 마..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지윤이 전하는 위로…괜찮다는 말 끝에 선 다정한 적막 ‘괜찮아요’콘서트 성료]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24700</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24661"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤지성이 단독 팬미팅을 개최한다.윤지성은 오는 23일 서울 마포구 구름아래소극장에서 단독 팬미팅 '레터 프롬 윤니버스(Letter from Yooniverse)'를 열고 팬들과 만난다.공연 소식과 함께 공개된 포스터는 시크한 블랙 의상에 모래시계를 들고 포즈를 취하는 윤지성의 모습을 담고 있다. 윤지성은 귀공자 같은 훤칠한 비주얼로 한층 더 성숙하고 깊어진 눈빛을 발산해 글로벌 팬들의 이목을 집중시켰다.'레터 프롬 윤니버스'는 윤지성이 지난 2023년 12월 개최한 '더 스페셜 크리스마스 :..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지수, 14일 미니앨범 'AMORTAGE' 발매 기념 팬밋업 개최→아시아 7개 도시 팬미팅 투어로 소통 본격화]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24659</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24659"/>
-        <updated>2025-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 지수(JISOO)가 팬밋업과 아시아 팬미팅 투어로 팬들을 직접 만난다.지수는 오는 14일 새 미니앨범 'AMORTAGE(아모르타주)' 발매를 기념해 서울 강남구 CGV 청담 씨네시티에서 오후 6시와 8시 등 총 2회에 걸쳐 스페셜 이벤트 팬밋업(FAN MEET-UP) 'SOO IN LOVE(수 인 러브)'를 개최한다.이어 올 상반기 마닐라, 방콕, 도쿄, 마카오, 타이페이, 홍콩, 하노이 등 아시아 7개 도시에서 2025 팬미팅 투어 'LIGHTS, LOVE, ACTION!(라이츠, 러브..]]></content>
     </entry>
 </feed>
