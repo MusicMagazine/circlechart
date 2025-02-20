@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-19T23:16:57.968Z</updated>
+    <updated>2025-02-20T01:18:17.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오반, 정규 2집 타이틀곡은 '교회오빠'…아이콘 바비와 컬래버]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24710</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24710"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 오반이 정규 2집을 선보인다.20일 소속사 로맨틱팩토리는 "오반이 오는 3월 13일 정규 2집 '교회오빠'를 발매한다"고 밝혔다.이번 앨범에는 동명의 타이틀곡 '교회오빠'를 비롯해 다양한 장르의 열 곡이 수록됐다. 오랜만에 함께 한 빈첸을 포함해 임수, 런치, 박재정 등의 아티스트들과 호흡을 맞춰 기대를 높인다.특히 타이틀곡 '교회오빠'는 아이콘(iKON) 바비(BOBBY)가 참여해 더욱 관심을 모은다. 두 사람은 앞서 바비가 진행했던 유튜브 채널 '엔터로2..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우디, 오늘(19일) 신보 'Stray Cat' 발매…'길냥이'에 빗댄 이별 후의 상실감과 그리움 노래]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24706</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24683"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 깜짝 신곡을 발표한다.이창섭은 지난 12일 오후 공식 SNS 및 유튜브 채널을 통해 새 싱글 ‘Feel The Groove’(필 더 그루브)의 발매 소식을 알리는 티저 영상을 공개했다.‘Feel The Groove’는 이창섭이 지난주 열린 전국투어 ‘The Wayfarer’(더 웨이페러)의 서울 앙코르 콘서트에서 깜짝 선공개한 신곡이다. 뉴 잭 스윙 특유의 신나는 셔플 리듬과 빈티지한 사운드로 1990년대 올드스쿨 무드를 화려하게 재현하며 공연장의 열기를 뜨겁게 달군 바 있다.이날 공개된 티저에는 앞선..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘노래방VS’ 우승자 박종민, 오늘(11일) 신곡 ‘INSIDE’ 발매! 단독 콘서트까지 ‘열일’ 신호탄]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24675</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24675"/>
-        <updated>2025-02-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[신예 뮤지션 박종민이 ‘INSIDE’로 새해 활동에 돌입한다.박종민은 11일 오후 6시 각종 온라인 음원 사이트를 통해 새 싱글 ‘INSIDE(인사이드)’를 발매한다.‘INSIDE’는 막연한 꿈을 향해 나아가는 과정에 느끼는 감정과 미완성의 자아를 풀어낸 곡이다. 박종민은 현실의 벽에 부딪히고 넘어지기도 하지만 찬란한 꿈이 다시 자신을 일으킨다는 자전적인 메시지를 전한다.특히 박종민은 특유의 감미로운 미성이 돋보이는 매력적인 보컬로 눈부신 청춘을 노래한다. 박종민의 담백하면서도 진중한 감성이 청자들에게 응원과 울림을 건넬 전망이다...]]></content>
     </entry>
 </feed>
