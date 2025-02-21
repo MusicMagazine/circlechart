@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-20T23:18:34.828Z</updated>
+    <updated>2025-02-21T01:18:48.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠 최성훈, 솔로 콘서트 'Movement' 포스터 공개…"저만의 명확한 색깔 보여드릴 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24717</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24717"/>
+        <updated>2025-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[크로스오버 그룹 라포엠(LA POEM) 최성훈이 1년 10개월 만에 솔로 콘서트를 연다.최성훈은 오는 3월 29일 오후 6시 서울 송파구에 위치한 롯데콘서트홀에서 2025 카운터테너 최성훈 콘서트 'Movement(무브먼트)'를 개최한다.이번 공연은 최성훈이 지난 2023년 5월 개최한 'Movement' 시리즈 3, 4악장 공연인 'On Stage(온 스테이지)'와 'On Air(온 에어)' 이후 1년 10개월 만에 선보이는 솔로 콘서트로 기대를 모은다. 앞서 최성훈은 20..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수, 솔로 컴백 기념 스페셜 팬밋업 'SOO IN LOVE' 성료!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24708</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24664"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 스케일 커진 앙코르 콘서트로 팬들과 재회한다.이창섭은 오는 7, 8, 9일 사흘간 서울 올림픽공원 올림픽핸드볼 경기장에서 앙코르 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다. 지난해 11월부터 올해 1월까지 전국 6개 도시, 이달엔 대만에서 솔로 투어 콘서트 ‘The Wayfarer’를 성황리에 마친 이창섭이 규모부터 선곡, 구성까지 전방위로 업그레이드된 앙코르 공연을 예고했다.# 무대 스케일 UP! 3일 3색 콘서트이번 앙코르 콘서트를 통해 이창섭은 지난 ‘The Wayfarer’ 서울..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워너원 출신 윤지성, 23일 단독 팬미팅 개최 확정...'팬 사랑' 가득 담은 'Letter from Yooniverse']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24661</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24661"/>
-        <updated>2025-02-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤지성이 단독 팬미팅을 개최한다.윤지성은 오는 23일 서울 마포구 구름아래소극장에서 단독 팬미팅 '레터 프롬 윤니버스(Letter from Yooniverse)'를 열고 팬들과 만난다.공연 소식과 함께 공개된 포스터는 시크한 블랙 의상에 모래시계를 들고 포즈를 취하는 윤지성의 모습을 담고 있다. 윤지성은 귀공자 같은 훤칠한 비주얼로 한층 더 성숙하고 깊어진 눈빛을 발산해 글로벌 팬들의 이목을 집중시켰다.'레터 프롬 윤니버스'는 윤지성이 지난 2023년 12월 개최한 '더 스페셜 크리스마스 :..]]></content>
     </entry>
 </feed>
