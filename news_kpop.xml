@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-23T23:16:04.184Z</updated>
+    <updated>2025-02-24T01:20:40.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['3월 4일 컴백' 8TURN(에잇턴), 펑키+시크 영에너지 폭발! 새 싱글 'LEGGO' 콘셉트 포토 공개 완료]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24718</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24718"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[8TURN(에잇턴)이 영에너지에 팬시한 매력을 가득 입혔다.&nbsp;8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 최근 공식 SNS를 통해 새 싱글 'LEGGO(레고)'의 단체 및 개인 콘셉트 포토를 모두 공개했다.&nbsp;콘셉트 포토 속 8TURN은 지하철 플랫폼, 텅 빈 도로 등 낯익은 일상 속 공간도 런웨이 무대로 탈바꿈하는 비주얼로 시선을 모았다.또 컬러감이 돋보이는 스트릿 무드의 룩부터 올화이트 힙합 스포티 스타일링으로 8TURN만의 영에너지를 한층 다채롭게 끌어올렸다.특히 그룹명과 앨범명을 감각 있..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['완전체 컴백' 인피니트, 새 앨범 콘셉트 포토 공개...캐주얼 슈트 '스타일리시의 정석']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24716</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24694"/>
         <updated>2025-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 CIX(씨아이엑스)가 'THUNDER'로 2025년을 힘차게 시작했다.CIX(BX, 승훈, 용희, 현석)는 지난 16일 방송된 SBS '인기가요'를 끝으로 약 4주간의 일곱 번째 EP 앨범 'THUNDER FEVER(썬더 피버)' 활동을 성료했다.'THUNDER FEVER'는 갑작스러운 자연현상인 천둥번개와 열병을 연결하여 불안과 열망이 뒤섞이는 격렬한 감정적 격변을 풀어낸 앨범이다. CIX는 1년 만에 컴백을 준비하며 한층 유니크한 팀 컬러를 찾아냈고, 감각적인 음악들..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MUBEAT] 부석순, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24691</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24691"/>
-        <updated>2025-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱글 2집 [TELEPARTY]로 컴백한 부석순, 음반?팬투표 부문 고득점으로 정상 등극뮤빗 K-POP 팬투표에서 1위, 2위를 차지한 BTS 진과 아이브도 Top5 선정글로벌 K-POP 팬덤 플랫폼 뮤빗의 뮤빗 팬덤 연구소에서는 음원, 음반, 동영상, 팬투표 4가지 부문에서 매달 K-POP 아티스트의 활동을 분석한 &lt;뮤빗 아티스트 리포트&gt;를 발행하고 있다.&nbsp;먼저 음원 및 음반 부문은 각각 25년 1월 써클지수와 써클차트 음반 판매 데이터를 활용하였다. 동영상 성적은 뮤빗 동영상 차트(유튜브 동영상과 뮤빗 동영상 조회수의..]]></content>
     </entry>
 </feed>
