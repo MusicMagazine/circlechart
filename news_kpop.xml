@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-25T23:17:07.938Z</updated>
+    <updated>2025-02-26T01:19:49.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['3월 4일 컴백' 8TURN(에잇턴), 비주얼도 사운드도 팬시…새 싱글 'LEGGO' 하이라이트 메들리 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24727</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24727"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[8TURN(에잇턴)이 상반된 매력의 음악을 들려준다.8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 지난 24일과 25일, 양일간 공식 SNS를 통해 새 싱글 'LEGGO(레고)'의 트랙리스트 및 하이라이트 메들리를 차례로 공개했다.&nbsp;트랙리스트에 따르면, 새 싱글 'LEGGO'에는 동명의 타이틀곡 'LEGGO'와 'I Want You Now(아이 원 츄 나우)'가 수록된다. 팝한 매력의 그라피티와 서정적인 감성의 타이포그라피가 각각 그린과 레드, 대비된 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3월 컴백' 비투비, 타이틀곡 'LOVE TODAY' 확정...신보 트랙리스트 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24724</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24707"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[프로젝트H의 다섯 번째 멤버가 베일을 벗었다.에이치뮤직엔터테인먼트는 지난 18일 'PROJECT H 2025' 공식 SNS에 프로젝트H 다섯 번째 멤버 이안의 이미지를 공개했다.사진 속 이안은 편안한 캐주얼부터 순백의 무대의상, 스타일리시한 힙합 패션까지 다채로운 이미지를 소화하며 시선을 집중시켰다. 또한 매 사진마다 흑발의 긴 생머리와 우윳빛 피부가 눈길을 끌며 순수하고 맑은 느낌을 자아냈다.앞서 조혜린, 비비(VV), 서희, 양서진 등 네 명의 멤버가 순차적으로 공개된 가운데, 다섯 번째 멤버 이안이 베일을 벗으며..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 6 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, PLAVE, and IVE Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24704</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24704"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 6 CIRCLE CHART (formerly gaonchart)of 2025 saw strong showings from leading acts such as ROSE, Bruno Mars, G-DRAGON,PLAVE, and IVE.&nbsp;KMCA, publisher of CIRCLE CHART, announcedthat "As of week 6 (2025.02.02.-2025.02.08.), ROSE and Bruno Mars toppedthe Global K-pop Chart while G-DRAGON top..]]></content>
     </entry>
 </feed>
