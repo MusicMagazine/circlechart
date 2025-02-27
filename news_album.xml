@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-27T05:19:28.582Z</updated>
+    <updated>2025-02-27T06:25:56.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김지현, 장나라 '나도 여자랍니다' 트로트 버전으로 재해석! 3월 1일 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김지현이 7개월 만에 신곡을 발표한다.&nbsp;김지현은 오는 3월 1일 오후 6시 새 싱글 '나도 여자랍니다'를 발매한다.&nbsp;'나도 여자랍니다'는 김지현이 지난해 8월 발매한 '사랑의 연금술사 (Remix ver.)' 이후 7개월 만에 발매하는 신곡으로, 2003년 발매돼 대중의 많은 사랑을 받은 장나라의 '나도 여자랍니다'를 리메이크했다.&nbsp;김지현이 가창한 '나도 여자랍니다'는 레트로 열풍에 맞춰 추억의 국내 가요를 트로트와 크로스오버해 세미 트로트로 재해석했고, ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['3월 18일 발매' 스테이씨, 새 싱글 'S' 그래픽 영상→오늘(24일) 예약 판매 시작]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24721</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24698"/>
         <updated>2025-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[배우 이준영이 자신이 출연한 '멜로무비' OST를 직접 불렀다.지난 14일 오후 6시 각종 음원 사이트를 통해 넷플릭스 시리즈 '멜로무비' OST '언더 선셋(Under Sunset)'이 발매됐다.'멜로무비'는 사랑도 하고 싶고 꿈도 이루고 싶은 애매한 청춘들이 서로를 발견하고 영감이 되어주며 각자의 트라우마를 이겨내는 영화 같은 시간을 그린 로맨스다.'멜로무비'에서 이준영은 천재라 자부하지만 현실은 무명 작곡가인 홍시준 역을 맡았다. 전 연인 손주아 역을 맡은..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우디, 19일 신보 'Stray Cat'으로 돌아온다! 타이틀곡은 '길냥이']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24697</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24697"/>
-        <updated>2025-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 우디(Woody)가 신보로 돌아온다.&nbsp;우디는 오는 19일 오후 6시 새 싱글 앨범 'Stray Cat(스트레이 캣)'을 발매한다.&nbsp;우디 소속사 골든문 엔터테인먼트는 지난 5일부터 15일까지 공식 SNS 채널을 통해 우디의 티저 영상을 공개하며 신보 발매 소식을 알렸다. 우디는 녹음실, 작업실 라이브, 홍대 버스킹 등 다양한 버전의 라이브 클립으로 타이틀곡 '길냥이' 일부를 공개했고, 따뜻한 보이스로 포근한 감성의 노래를 선사했다. 이에 리스너들은 "노래 너무 좋다" "우디랑 찰..]]></content>
     </entry>
 </feed>

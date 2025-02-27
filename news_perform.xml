@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-27T05:19:28.532Z</updated>
+    <updated>2025-02-27T06:25:56.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[골든차일드 출신 최성윤, 4월 단독 팬미팅 개최...소속사와 계약 종료 후 첫 행보]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24730</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24730"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 골든차일드(Golden Child) 출신 최성윤이 단독 팬미팅을 개최한다.최성윤은 오는 4월 5일과 6일 양일간 서울 강남구 일지아트홀에서 데뷔 첫 단독 팬미팅 '올 어바웃 윤(All about Yun)'을 개최하고, 첫날 오후 2시와 6시, 둘째 날 오후 5시 총 3회 공연으로 팬들과 만난다.공연 소식과 함께 공개된 포스터는 새하얀 배경 속 하늘을 올려다보는 최성윤의 모습을 담고 있어 글로벌 팬들의 뜨거운 반응을 자아냈다.포스터 속 최성윤은 차분하게 내린 흑발에 캐주얼한 청청 스타일링으로 물오른 비주얼과 스타일..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손호영, 3월 생일 기념 팬미팅 ‘우리의 계절, 호영’ 개최! 영화 같은 시간 선물]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24728</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24699"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 린(LYn)이 지난해 12월 28일 서울을 시작으로 부산, 대구, 대전에 이어 지난 15일 전주까지 2개월간의 2024-25 전국투어 콘서트 'Queen of Serenade (퀸 오브 세레나데)'를 성료했다.'Queen of Serenade'는 감사와 사랑의 마음을 담아 세레나데 같은 곡들을 불러드리겠다는 의미로, 린의 첫 번째 트로트 콘서트다.'현역가왕'과 '한일톱텐쇼'에서 많은 사랑을 받은 트로트 곡과 발라드 곡까지 다양한 선곡으로 전국 각 지역의 팬들을 찾았다.더..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하, KSPO돔서 20주년 프로젝트 피날레…단독 콘서트 'GROWTH THEORY : Final Edition' 성료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24695</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24695"/>
-        <updated>2025-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤하가 20주년 콘서트의 대장정을 성공적으로 마무리했다.윤하는 지난 14일부터 16일까지 사흘간 서울 올림픽공원 KSPO DOME에서 앙코르 콘서트 'GROWTH THEORY : Final Edition(그로우스 띠어리 : 파이널 에디션)'을 성공적으로 개최했다.지난해 데뷔 20주년을 맞아 총 20회의 단독 콘서트를 성료한 윤하는 올해 첫 행보도 공연으로 시작했다. 이번 'GROWTH THEORY : Final Edition'에서 윤하는 지난해 발매한 정규 7집과 리패키지 앨범 신곡들을 가득 선보이..]]></content>
     </entry>
 </feed>
