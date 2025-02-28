@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-02-27T23:17:54.057Z</updated>
+    <updated>2025-02-28T01:20:49.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김뭉먕, 영화 '괜찮아 괜찮아 괜찮아!' 컬래버 음원 '끝없는 밤을 가르며' 가창 참여…영화 감동 잇는다]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24734</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24734"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김뭉먕(김수민)이 영화 '괜찮아 괜찮아 괜찮아!'의 컬래버레이션 음원 가창자로 참여한다.김뭉먕이 가창한 영화 '괜찮아 괜찮아 괜찮아!' 컬래버레이션 프로젝트 음원 '끝없는 밤을 가르며'가 오는 3월 6일 오후 6시 발매된다.'끝없는 밤을 가르며'는 아픔을 품은 채로도 끝내 꿈을 향해 달려가는 모든 이들에게 전하는 곡으로, 사라지는 것들과 잊혀지는 것들 그리고 그럼에도 불구하고 꺼지지 않는 희망에 대해 이야기한다.특히 잔잔한 피아노 사운드와 현악기의 선율은 김뭉먕의 담백하..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김지현, 장나라 '나도 여자랍니다' 트로트 버전으로 재해석! 3월 1일 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24703"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[여성 R&amp;B 듀오 애즈원(As One)이 깜짝 신곡으로 돌아온다.&nbsp;어제(17일), 소속사 브랜뉴뮤직은 공식 SNS 채널들을 통해 애즈원의 새 싱글 ‘Still My Baby (feat. 범키)’의 뮤직비디오 티저를 공개하며 눈길을 끌었는데, 영상 속 애즈원과 범키는 영상통화 형식으로 완벽한 화음을 쌓으며 기대감을 한층 높였다.애즈원의 신곡 ‘Still My Baby (feat. 범키)’는 작년 4월 발매한 ‘Better’ 이후 약 10개월 만에 선보이는 R&amp;B 장르의 곡으로, 따뜻한 멜로디 위에 애즈원과 범키의 감미로..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준영, 넷플릭스 '멜로무비' OST 직접 불렀다...'Under Sunset' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24698</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24698"/>
-        <updated>2025-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[배우 이준영이 자신이 출연한 '멜로무비' OST를 직접 불렀다.지난 14일 오후 6시 각종 음원 사이트를 통해 넷플릭스 시리즈 '멜로무비' OST '언더 선셋(Under Sunset)'이 발매됐다.'멜로무비'는 사랑도 하고 싶고 꿈도 이루고 싶은 애매한 청춘들이 서로를 발견하고 영감이 되어주며 각자의 트라우마를 이겨내는 영화 같은 시간을 그린 로맨스다.'멜로무비'에서 이준영은 천재라 자부하지만 현실은 무명 작곡가인 홍시준 역을 맡았다. 전 연인 손주아 역을 맡은..]]></content>
     </entry>
 </feed>

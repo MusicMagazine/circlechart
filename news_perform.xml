@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-02-27T23:17:54.062Z</updated>
+    <updated>2025-02-28T01:20:50.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 데뷔 첫 부산 단독 콘서트 'Blossom in Busan' 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 데뷔 첫 부산 단독 콘서트를 개최한다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 오는 3월 29일 오후 6시, KT&amp;G 상상마당 부산 라이브홀에서 'CATCH THE YOUNG 부산 단독 콘서트：Blossom in Busan(블라썸 인 부산)'을 개최한다.&nbsp;개최 소식과 함께 공개된 포스터 속 캐치더영은 봄을 한껏 머금은 풋풋한 비주얼로 따뜻한 에너지를 전하고 있다. 'BLOSSOM'이란 공연 타이틀처럼 흩날리는 꽃잎 또..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든차일드 출신 최성윤, 4월 단독 팬미팅 개최...소속사와 계약 종료 후 첫 행보]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24730</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24700"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 박지윤이 완성도 높은 공연으로 깊은 위로와 공감을 선사했다.&nbsp;박지윤은 지난 15일, 16일 양일간 서울 노들섬 라이브하우스에서 2025 박지윤 콘서트 ‘괜찮아요’를 개최하고 음악팬들과 호흡했다.&nbsp;이번 공연은 지난해 3월 개최한 ‘Love is my song(러브 이즈 마이 송)’ 이후 1년 만에 진행되는 박지윤의 단독 콘서트로 팬들의 뜨거운 관심을 받았으며, 티켓 오픈과 동시 2분 만에 전석 매진을 기록하며 뜨거운 티켓 파워를 입증하기도 했다.&nbsp;본격적인 공연 시작에 앞서 박지윤은 "유난히 추웠던 올겨울, 서로에게 괜찮다..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[린, 콘서트 'Queen of Serenade' 2개월 전국투어 대장정 마무리…명품 보컬 저력 입증]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24699</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24699"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 린(LYn)이 지난해 12월 28일 서울을 시작으로 부산, 대구, 대전에 이어 지난 15일 전주까지 2개월간의 2024-25 전국투어 콘서트 'Queen of Serenade (퀸 오브 세레나데)'를 성료했다.'Queen of Serenade'는 감사와 사랑의 마음을 담아 세레나데 같은 곡들을 불러드리겠다는 의미로, 린의 첫 번째 트로트 콘서트다.'현역가왕'과 '한일톱텐쇼'에서 많은 사랑을 받은 트로트 곡과 발라드 곡까지 다양한 선곡으로 전국 각 지역의 팬들을 찾았다.더..]]></content>
     </entry>
 </feed>
