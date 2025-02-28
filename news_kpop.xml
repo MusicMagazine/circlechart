@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-02-28T01:20:50.021Z</updated>
+    <updated>2025-02-28T02:53:23.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 7 CIRCLE CHART: ROSE, Bruno Mars, IVE, and JISOO Lead the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24738</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24738"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 7 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts such as ROSE, Bruno Mars, IVE, and JISOO.KMCA, publisher of CIRCLE CHART, announced that "As of week 7 (2025.02.09.-2025.02.15.), ROSE and Bruno Mars topped the Global K-pop Chart while IVE swept 3 charts ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비, 신보 'BTODAY' 콘셉트 포토 공개...흩날리는 꽃비 아래 '봄 닮은 미소']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24736</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24716"/>
         <updated>2025-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 '심쿵' 비주얼이 담긴 포토가 공개됐다.소속사 인피니트 컴퍼니는 지난 18일부터 20일까지 3일간 공식 SNS를 통해 인피니트의 여덟 번째 미니 앨범 '라이크 인피니트(LIKE INFINITE)' 콘셉트 포토를, 21일 0시 공식 유튜브 채널을 통해 무빙 포스터를 공개했다.멤버별로 공개된 개인 포토에서 인피니트는 슈트에 후드 티셔츠, 캡모자 등을 매치한 유니크한 스타일링으로 눈부신 비주얼과 스타일리시한 매력을 뽐냈다. 햇..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 3월 새 앨범 'BTODAY' 발매 확정...'비커밍 프로젝트' 대미 장식]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24714</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24714"/>
-        <updated>2025-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘이 3월 가요계에 귀환한다.소속사 비투비 컴퍼니는 지난 20일 오후 6시 공식 SNS를 통해 비투비의 새 EP 앨범 '비투데이(BTODAY)' 커밍업 티저 포스터와 프로모션 스케줄러를 공개하고 컴백 소식을 알렸다.공개된 포스터는 빗방울 맺힌 유리창 너머 화병에 꽂힌 한 송이 꽃의 희미한 실루엣을 비추고 있는 이미지로, 차분하고 감성적인 무드가 시선을 집중시켰다.함께 공개된 프로모션 스케줄러에 따르면 21일 앨범 트레일러를 시작으로 오는 23일 피지컬 앨범 프리뷰,..]]></content>
     </entry>
 </feed>
