@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-03T23:17:24.355Z</updated>
+    <updated>2025-03-04T01:20:49.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트, 신보 'LIKE INFINITE' 프리뷰 영상 공개...가요계 뒤흔들 '역대급 사운드 향연']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24741</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24741"/>
+        <updated>2025-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 새 앨범 음원 일부를 공개했다.소속사 인피니트 컴퍼니는 4일 0시 공식 유튜브 채널을 통해 인피니트의 여덟 번째 미니 앨범 '라이크 인피니트(LIKE INFINITE)' 프리뷰 영상을 공개했다.이번 프리뷰 영상을 통해 타이틀곡 '데인저러스(Dangerous)'를 비롯해 인트로 트랙 '히트 잇 업(Heat it up)'을 비롯해 '너의 모든 게 다 좋아', '엄브렐러(Umbrella)&amp;#..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 7 CIRCLE CHART: ROSE, Bruno Mars, IVE, and JISOO Lead the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24738</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24718"/>
         <updated>2025-02-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[8TURN(에잇턴)이 영에너지에 팬시한 매력을 가득 입혔다.&nbsp;8TURN(재윤, 명호, 민호, 윤성, 해민, 경민, 윤규, 승헌)은 최근 공식 SNS를 통해 새 싱글 'LEGGO(레고)'의 단체 및 개인 콘셉트 포토를 모두 공개했다.&nbsp;콘셉트 포토 속 8TURN은 지하철 플랫폼, 텅 빈 도로 등 낯익은 일상 속 공간도 런웨이 무대로 탈바꿈하는 비주얼로 시선을 모았다.또 컬러감이 돋보이는 스트릿 무드의 룩부터 올화이트 힙합 스포티 스타일링으로 8TURN만의 영에너지를 한층 다채롭게 끌어올렸다.특히 그룹명과 앨범명을 감각 있..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['완전체 컴백' 인피니트, 새 앨범 콘셉트 포토 공개...캐주얼 슈트 '스타일리시의 정석']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24716</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24716"/>
-        <updated>2025-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)의 '심쿵' 비주얼이 담긴 포토가 공개됐다.소속사 인피니트 컴퍼니는 지난 18일부터 20일까지 3일간 공식 SNS를 통해 인피니트의 여덟 번째 미니 앨범 '라이크 인피니트(LIKE INFINITE)' 콘셉트 포토를, 21일 0시 공식 유튜브 채널을 통해 무빙 포스터를 공개했다.멤버별로 공개된 개인 포토에서 인피니트는 슈트에 후드 티셔츠, 캡모자 등을 매치한 유니크한 스타일링으로 눈부신 비주얼과 스타일리시한 매력을 뽐냈다. 햇..]]></content>
     </entry>
 </feed>
