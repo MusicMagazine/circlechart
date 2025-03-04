@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-03-04T01:20:49.967Z</updated>
+    <updated>2025-03-04T02:54:25.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign), 데뷔 첫 韓 단독 콘서트 연다! 4월 5일 'EVERBLUE' 개최]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24742</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24742"/>
+        <updated>2025-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 한국에서 첫 단독 콘서트를 열고 팬들을 만난다.소속사 nCH 엔터테인먼트는 4일 "엔싸인이 오는 4월 5일 오후 2시와 6시 서울 용산구에 위치한 블루스퀘어 SOL트래블홀에서 'n.SSign 1st Concert &lt;EVERBLUE&gt; in SEOUL(엔싸인 첫 번째 콘서트 &lt;에버블루&gt; 인 서울)'을 개최한다"고 밝혔다.이번 공연은 엔싸인이 데뷔 후 한국에서 처음으로 선보이는 단독 콘서트로, COSMO(코스모, 팬덤명)와의 특별한 시간을 위해 공들여 준비했..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 데뷔 첫 부산 단독 콘서트 'Blossom in Busan' 개최]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24708"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 지수(JISOO)가 솔로 컴백을 기념해 훈훈한 팬 사랑을 전했다.지수는 지난 14일 서울 CGV 청담 씨네시티에서 2회에 걸쳐 새 미니앨범 'AMORTAGE(아모르타주)' 발매를 기념한 스페셜 이벤트 팬밋업 'SOO IN LOVE(수 인 러브)'를 개최하고 팬들과 직접 만나 소통했다.이번 'SOO IN LOVE'는 지수의 컴백 당일 진행된 만큼 실물 앨범과 타이틀곡 'earthquake'의 비하인드 영상을 최초로 공개하고, 이에 대한 다양한 이야기를 나누는 자리로 마..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지윤이 전하는 위로…괜찮다는 말 끝에 선 다정한 적막 ‘괜찮아요’콘서트 성료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24700</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24700"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 박지윤이 완성도 높은 공연으로 깊은 위로와 공감을 선사했다.&nbsp;박지윤은 지난 15일, 16일 양일간 서울 노들섬 라이브하우스에서 2025 박지윤 콘서트 ‘괜찮아요’를 개최하고 음악팬들과 호흡했다.&nbsp;이번 공연은 지난해 3월 개최한 ‘Love is my song(러브 이즈 마이 송)’ 이후 1년 만에 진행되는 박지윤의 단독 콘서트로 팬들의 뜨거운 관심을 받았으며, 티켓 오픈과 동시 2분 만에 전석 매진을 기록하며 뜨거운 티켓 파워를 입증하기도 했다.&nbsp;본격적인 공연 시작에 앞서 박지윤은 "유난히 추웠던 올겨울, 서로에게 괜찮다..]]></content>
     </entry>
 </feed>
