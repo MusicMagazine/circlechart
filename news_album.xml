@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-05T23:18:08.600Z</updated>
+    <updated>2025-03-06T01:21:15.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김뭉먕, 오늘(6일) 영화 '괜찮아 괜찮아 괜찮아!' 컬래버 음원 '끝없는 밤을 가르며' 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24746</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24746"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 김뭉먕(김수민)이 자신만의 감성으로 영화의 감동을 배가시킨다.김뭉먕은 6일 정오 각종 온라인 음원사이트를 통해 영화 '괜찮아 괜찮아 괜찮아!' 컬래버레이션 음원 '끝없는 밤을 가르며'를 발매한다.'끝없는 밤을 가르며'는 아픔을 품은 채로도 끝내 꿈을 향해 달려가는 모든 이들에게 전하는 곡이다. 김뭉먕의 따뜻한 보이스를 감싸듯 어우러지는 피아노 연주와 부드러운 현악기의 선율이 돋보인다.특히 "희망을 안아둔 채 / 두려움 뒤로한 채 / 안아줄게 너를 / 봄이 머무는 곳으로 / 그 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더윈드, 17일 싱글 2집 ‘Only One Story’ 발매 확정! 5개월 만에 컴백]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24745</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24720"/>
         <updated>2025-02-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[에디킴이 감각적인 R&amp;B를 선보인다.에디킴은 오늘(24일) 소속사 미스틱스토리의 공식 SNS를 통해 디지털 싱글 ‘Lalala means I love you’ 앨범 커버를 공개하며 오는 27일 오후 6시 발매를 예고했다.공개된 앨범 커버에는 흔들리는 시선 속 한 여자가 잔을 들고 있는 모습이 담겨 있다. 비니를 쓴 편안한 차림의 여성은 살짝 미소를 지은 채 카메라를 응시하고 있는 가운데, 누군가에게 컵을 건네는 듯한 포즈를 취하고 있다.또한, 악보에서 볼 수 있는 다양한 코드들과 ‘just for us,’, ‘lalala’,..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수영, 데뷔 첫 록 장르 신곡 '미워했던 날도 사랑했다고 말하고 싶어' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24715</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24715"/>
-        <updated>2025-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 김수영이 록 장르의 신곡으로 돌아왔다.김수영은 지난 20일 오후 6시 각종 온라인 음원사이트를 통해 새 디지털 싱글 '미워했던 날도 사랑했다고 말하고 싶어'를 발매했다.'미워했던 날도 사랑했다고 말하고 싶어'는 김수영이 약 10개월 만에 발매한 신보로, 데뷔 후 처음으로 선보이는 록 장르 곡이다. 겨울을 지나 봄이 피어나는 순간을 떠오르게 하는 자전적이면서도 위로와 희망이 담긴 가사가 리스너들에게 감동을 선사하고 있다.특히 김수영의 담백하고 호소력 짙은 보이스가 풀 밴드의 풍성한 연주와 어우..]]></content>
     </entry>
 </feed>

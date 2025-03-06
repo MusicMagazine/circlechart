@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2025-03-05T23:18:08.553Z</updated>
+    <updated>2025-03-06T01:21:15.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메이저나인 "바이브와 전속계약 종료…새로운 행보 진심으로 응원"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24749</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24749"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[바이브(VIBE)와 메이저나인의 전속계약이 종료됐다.&nbsp;6일 메이저나인은 "바이브와의 전속계약이 종료되었음을 알려드린다"라며 "그동안 메이저나인 소속 아티스트로 함께해 준 바이브에게 감사의 인사를 전하며 앞으로 바이브가 보여줄 새로운 행보를 진심으로 응원하겠다"고 밝혔다.&nbsp;이어 "바이브를 아끼고 사랑해 주신 모든 팬 여러분들께도 깊은 감사를 전한다. 새 출발을 앞둔 바이브에게 변함없는 사랑과 격려를 부탁드린다"고 전했다.&nbsp;바이브는 2002년 데뷔한 뒤 '미워도 다시 한번', &amp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10CM·선우정아·카더가든, 씨에이엠위더스(CAM)와 전속계약…다비치·실리카겔·정세운과 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24684</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141"/>
         <updated>2024-08-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 주은이 히트 작곡팀이자 밴드 로코베리와 손잡았다.19일 브라더후드엔터테인먼트는 “주은과 최근 전속계약을 체결했다. 자사 설립자이자 제작자 로코베리(로코, 베리)는 주은과 공동 작업을 통해 그의 대체 불가한 보컬과 프로듀싱에 감탄했고 소속사 영입을 발 빠르게 추진했다”라고 밝혔다.이어 “주은과 로코베리가 손잡고 준비 중인 디지털 싱글 앨범은 오는 9월 중 발매될 예정이다. 시너지를 빛낼 두 팀의 새로운 시작에 많은 기대와 관심을 부탁드린다”라고 전했다.주은은 청아하면서 담백한 목소리, 탄탄한 가창력은 물론 프로듀싱 실력까..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콜드(Colde) 레이블' 레이어드 아일랜드, 인디 싱어송라이터 아라 영입! 전폭적 지원 약속]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24117</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24117"/>
-        <updated>2024-08-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[인디 싱어송라이터 아라가 레이어드 아일랜드에 새롭게 합류한다.인디 레이블 레이어드 아일랜드는 지난 11일 공식 SNS를 통해 아라의 프로필을 공개하며 영입 소식을 공식화했다. 소속사에 따르면 아라는 오는 16일 첫 EP를 발매하고 레이어드 아일랜드에서의 활약을 이어간다.아라는 지난 2021년 첫 번째 싱글 '이유'로 데뷔한 싱어송라이터로, 몽환적인 보이스와 세련된 음악성으로 인디씬의 관심을 받고 있다. 특유의 개성이 묻어난 커버 영상 및 각종 유튜브 콘텐츠로 리스너들과 소통을 이어오고 있다.레이어드 아일랜드는 콜드(C..]]></content>
     </entry>
 </feed>
