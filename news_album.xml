@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-06T23:17:55.974Z</updated>
+    <updated>2025-03-07T01:22:06.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[십센치, 애니메이션 '너에게 닿기를' 오프닝 곡 15년 만에 정식 발매!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24750</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24750"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 십센치(10CM)가 15년 전 가창했던 곡을 리메이크해 새롭게 선보인다.십센치는 지난 6일 오후 6시 각종 온라인 음원사이트를 통해 디지털 싱글 '너에게 닿기를'을 발매했다.'너에게 닿기를'은 지난 2010년 방영된 애니메이션 '너에게 닿기를' 시즌 1의 오프닝 곡이다. 십센치는 15년 만의 정식 음원 발매를 알리며 팬들의 뜨거운 관심을 받았다.특히 십센치는 따뜻하고 맑은 멜로디를 통해 기존 음악 팬들에게는 반가운 기억을, 새롭게 노래를 듣는 리스너들에게는 두근거리는 설렘을 전..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김뭉먕, 오늘(6일) 영화 '괜찮아 괜찮아 괜찮아!' 컬래버 음원 '끝없는 밤을 가르며' 발매]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24746</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24721"/>
         <updated>2025-02-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 약 5개월 만에 신보를 발매하고 열일 행보를 이어간다.24일 소속사 하이업엔터테인먼트는 "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 3월 18일 새 싱글앨범 'S'를 발매한다"고 밝혔다. 이에 앞서 공식 SNS 채널을 통해 그래픽 영상을 공개했다.공개된 그래픽 영상에는 카메라 반복되는 카메라 셔터 소리와 타이포 그래픽, 화보의 한 장면 같은 스테이씨의 모습이 담겨있다. 어지럽게 전환되는 영상들은 강렬한 임팩트를 남기며 팬들의 시선을 사로잡았다.특히 'S..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디킴, 오는 27일 디지털 싱글 ‘Lalala means I love you’ 발매...감각적인 R&B 예고!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24720</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24720"/>
-        <updated>2025-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[에디킴이 감각적인 R&amp;B를 선보인다.에디킴은 오늘(24일) 소속사 미스틱스토리의 공식 SNS를 통해 디지털 싱글 ‘Lalala means I love you’ 앨범 커버를 공개하며 오는 27일 오후 6시 발매를 예고했다.공개된 앨범 커버에는 흔들리는 시선 속 한 여자가 잔을 들고 있는 모습이 담겨 있다. 비니를 쓴 편안한 차림의 여성은 살짝 미소를 지은 채 카메라를 응시하고 있는 가운데, 누군가에게 컵을 건네는 듯한 포즈를 취하고 있다.또한, 악보에서 볼 수 있는 다양한 코드들과 ‘just for us,’, ‘lalala’,..]]></content>
     </entry>
 </feed>
