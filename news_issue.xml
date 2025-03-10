@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2025-03-09T23:13:46.064Z</updated>
+    <updated>2025-03-10T01:09:26.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['미스터트롯' 이도진, 엠케이에스이엔티와 전속계약 체결…에메랄드 캐슬 지우와 한솥밥]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24755</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24755"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 이도진이 새로운 소속사에서 새 출발을 시작한다.엠케이에스이엔티는 10일 "이도진과 최근 전속계약을 체결했다"고 밝혔다. 이어 "넘치는 끼와 재능을 겸비한 이도진이 가수뿐만 아니라 다양한 분야에서 자신의 능력을 펼칠 수 있도록 지원을 아끼지 않을 것"이라고 전했다.2010년 그룹 레드애플로 데뷔한 이도진은 지난 2020년 TV CHOSUN '미스터트롯'을 통해 새로운 장르에 도전하며 이름을 알렸다.&nbsp;이후 이도진은 '트로트2030 나를 알아줘', '방방곡곡',..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이저나인 "바이브와 전속계약 종료…새로운 행보 진심으로 응원"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24749</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240"/>
         <updated>2024-09-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 제시(Jessi)가 새 출발 소식을 알렸다.제시는 최근 종합 엔터테인먼트사 디오디(DOD)와 레이블 및 매니지먼트 계약을 체결하고, 독립 레이블 언니(UNNI)를 설립하여 새로운 도약을 알렸다.제시는 본인이 추구하는 음악적 성향에 맞춰 독자적인 활동을 위한 법인 언니(UNNI)를 설립했다. 디오디와 레이블 및 매니지먼트 계약을 체결함으로서 더욱 풍성한 활동을 펼쳐 나갈 전망이다.디오디는 "다재다능한 끼와 재능을 가진 제시가 음악은 물론 다양한 분야에서 역량을 펼칠 수 있도록 최선을 다해 서포트할 예정"이라며 그의..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이아 출신 주은, 로코베리와 손잡았다…브라더후드엔터 전속계약]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24141"/>
-        <updated>2024-08-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[싱어송라이터 주은이 히트 작곡팀이자 밴드 로코베리와 손잡았다.19일 브라더후드엔터테인먼트는 “주은과 최근 전속계약을 체결했다. 자사 설립자이자 제작자 로코베리(로코, 베리)는 주은과 공동 작업을 통해 그의 대체 불가한 보컬과 프로듀싱에 감탄했고 소속사 영입을 발 빠르게 추진했다”라고 밝혔다.이어 “주은과 로코베리가 손잡고 준비 중인 디지털 싱글 앨범은 오는 9월 중 발매될 예정이다. 시너지를 빛낼 두 팀의 새로운 시작에 많은 기대와 관심을 부탁드린다”라고 전했다.주은은 청아하면서 담백한 목소리, 탄탄한 가창력은 물론 프로듀싱 실력까..]]></content>
     </entry>
 </feed>
