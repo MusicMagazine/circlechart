@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2025-03-10T23:17:44.482Z</updated>
+    <updated>2025-03-11T01:21:39.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트 이성종, 前 소속사 상대 미지급 정산금 소송 1년 만에 승소]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24758</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24758"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 인피니트(INFINITE) 이성종이 전 소속사를 상대로 한 정산금 소송에서 승소했다.이성종은 최근 전 소속사 에스피케이엔터테인먼트(대표 김승필)를 상대로 제기한 미지급 정산금 지급에 대한 민사소송에서 승소했다.지난 2022년 8월 에스피케이엔터테인먼트와 전속계약을 체결한 이성종은 계약 당시 약속한 계약금을 비롯해 방송 출연, 팬미팅, 앨범 발매에 필요한 지원을 제공받지 못했다.에스피케이엔터테인먼트를 향한 내용증명 및 계약 위반 사항에 관한 시정 요구는 받아들여지지 않았고, 계속되는 무응답에 이성종은 지난해 전속계약 해지를 통지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미스터트롯' 이도진, 엠케이에스이엔티와 전속계약 체결…에메랄드 캐슬 지우와 한솥밥]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24755</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366"/>
         <updated>2024-10-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 허각이 OS프로젝트에 새 둥지를 틀었다.&nbsp;OS프로젝트는 30일 "명실상부 대한민국 최고의 가수로 손꼽히는 허각과 최근 전속계약을 체결했다"라며 "허각과 파트너로 함께 하게 돼 기쁘다. 앞으로 허각이 음악 활동에 전념할 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;OS프로젝트는 가수 임한별이 '좋은 음악은 반드시 통한다'라는 본인의 신념을 모토로 설립한 회사다. 훌륭한 가수들이 노래에만 집중할 수 있는 환경을 제공하는 것을 최우선으로 생각하는 회사를 지향한다.&nbsp;신용재, 임..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시, DOD와 전속계약 체결→독립 레이블 언니(UNNI) 설립...새로운 도약 예고]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24240"/>
-        <updated>2024-09-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 제시(Jessi)가 새 출발 소식을 알렸다.제시는 최근 종합 엔터테인먼트사 디오디(DOD)와 레이블 및 매니지먼트 계약을 체결하고, 독립 레이블 언니(UNNI)를 설립하여 새로운 도약을 알렸다.제시는 본인이 추구하는 음악적 성향에 맞춰 독자적인 활동을 위한 법인 언니(UNNI)를 설립했다. 디오디와 레이블 및 매니지먼트 계약을 체결함으로서 더욱 풍성한 활동을 펼쳐 나갈 전망이다.디오디는 "다재다능한 끼와 재능을 가진 제시가 음악은 물론 다양한 분야에서 역량을 펼칠 수 있도록 최선을 다해 서포트할 예정"이라며 그의..]]></content>
     </entry>
 </feed>
