@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=opinion</id>
     <title>Circle Chart ─ News ─ Opinion</title>
-    <updated>2025-03-12T05:18:43.238Z</updated>
+    <updated>2025-03-12T06:25:45.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[G-Dragon 써클지수 점유율 1위 - 2월 리뷰(2025)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24765</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24765"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2025년 2월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량 점유율은 13%, 6개월 이내 발매곡 29.2%, 18개월 이내 발매곡 점유율은 53.7%를 기록했습니다.2025년 2월 TOP400 가수별 써클지수 점유율 조사에서 G-Dragon이 400위권 내 총 13곡을 올려놓으며 (합산)점유율 5.0%로 1위에 올랐습니다.2025년 2월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전년 동기에 비해서는 5.1% 감소한 것으로 조사되었습니다.2025년 2월 앨범 판매량400(1위부터..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이팝 피지컬 앨범 2024 수출 데이터 리뷰]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24729</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24362"/>
         <updated>2024-10-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2023년 디지털차트에서 일본 가수 'imase', 'aimyon' 등의 노래가 주목을 받으며 J-POP이 국내 시장에서 크게 인기를 끈 바 있습니다.&nbsp;이번 칼럼에서는 1년이 지난 지금 국내 차트에서 나타나고 있는 J-POP의 인기 정도와 국내 음악 소비자들의 해외 음원 소비 현황에 대해 살펴보도록 하겠습니다.2024년 1월부터 9월까지 누적 월별 해외 음원 써클지수400 (해외 음원 1위부터 400위까지 써클지수의 합)은 전년도 같은 기간 대비 27.5% 하락한 것으로 나타났습니다.2024년 1월부터 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이식스 뉴진스, 임영웅 제치고 써클지수 점유율 1위 - 9월 리뷰(2024)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24315</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24315"/>
-        <updated>2024-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2024년 9월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량은 13.8%, 6개월 이내 발매곡 31.5% 18개월 이내 발매곡 이용량 점유율은 57.5%를 기록했습니다.&nbsp;2024년 9월 TOP400 가수별 써클지수 점유율 조사에서 DAY6가 400위권 내 총 17곡을 올려놓으며 (합산)점유율 9.6%로 1위에 올랐습니다.&nbsp;2024년 9월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 4.0% 감소, 전년 동기에 비해서도 17.0% 감소한 것으로 조사되었습니다.&nbsp;2024년 9월..]]></content>
     </entry>
 </feed>

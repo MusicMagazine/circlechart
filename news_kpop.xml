@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-12T05:18:43.243Z</updated>
+    <updated>2025-03-12T06:25:45.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MUBEAT] 아이브, 뮤빗 ‘이달의 아티스트’ 선정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24766</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24766"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아이브, 음원?음반?동영상?팬투표 전부문 Top5에 오르며 정상 등극&nbsp;뮤빗 K-POP 팬투표에서 상위권을 차지한 플레이브, BTS 진 Top3 선정MZ 워너비 아이콘 ‘아이브’가 뮤빗 이달의 아티스트로 선정됐다. 아이브는 음원·음반·동영상·팬투표 전 부문 Top5에 이름을 올리며 최종 1위에 등극했다. 지난 2월 발매한 미니 3집으로 초동 밀리언셀러에 등극한 ‘플레이브’는 단 1.3포인트 차이로 종합 순위 2위에 올랐다. 3위는 뮤빗 K-POP 팬투표에서 4주 연속 정상을 차지했던 방탄소년단 ‘진’이, 4위는 ‘블루 파라다이스’로 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비, 팬콘서트 티저 이미지 공개...청량+스포티 매력 '기대감 무한 증폭']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24764</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24748"/>
         <updated>2025-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 루네이트(LUN8, 판타지오 소속)가 ‘나비’ 활동으로 성공적인 음악적 변신을 이뤘다.루네이트는 지난 5일 방송된 MBC M ‘쇼! 챔피언’을 끝으로 새 싱글 앨범 ‘나비’ 활동을 마무리했다.싱글과 동명의 타이틀곡 ‘나비’는 루네이트가 데뷔 후 처음 선보인 동양적인 색채의 곡으로, 몽환적인 악기 선율에 힙합 스타일이 절묘하게 어우러져 독창적인 감상을 전한다. 루네이트는 풍부한 감성과 매혹적인 콘셉트 변신으로 확장한 스펙트럼을 보여줬다.6개월 만의 음악 방송 컴백 무대에서 루네이트는 디테일을 살린 완성도 높은 퍼포먼스로 눈을 뗄..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘18일 컴백’ 스테이씨, 거침없는 파격 변신! 싱글 5집 ‘S’ 콘셉트 포토 공개 완료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24747</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24747"/>
-        <updated>2025-03-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 콘셉트 포토를 모두 공개하며 과감한 변신을 선보였다.&nbsp;스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)는 지난 4일과 5일 싱글 5집 ‘S’의 ‘BORN(본)’ 버전, ‘ON AIR(온에어)’ 버전 두 가지의 콘셉트 포토를 연달아 공개했다.&nbsp;먼저 공개된 ‘BORN’ 버전의 콘셉트 포토에는 새롭게 다시 태어난 듯 완전히 달라진 매력을 장착한 스테이씨의 모습이 담겼다. 스테이씨는 흑백을 뚫고 나오는 깊고 도발적인 눈빛으로 보는 이들을 압도했다. 패션지를 방불케 하는 포토제닉한 포즈, 기존에 선보인 청량한 ..]]></content>
     </entry>
 </feed>
