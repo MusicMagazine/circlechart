@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-11T23:17:30.755Z</updated>
+    <updated>2025-03-12T01:20:47.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임재현, 오늘(12일) '중독된 사랑' 리메이크곡 발매…따뜻한 이별 노래로 재탄생]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24762</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24762"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 임재현이 조장혁의 '중독된 사랑'을 리메이크한다.&nbsp;임재현은 12일 오후 6시 각종 온라인 음원사이트를 통해 새벽테잎(DAWN TAPE) 프로젝트 음원 '중독된 사랑'을 발매한다.새벽테잎 프로젝트는 아침이 밝아오기 직전 가장 어두운 새벽, 더욱 빛나는 원석 아티스트들의 음악을 담아낸 프로젝트다. 앞서 순순희, 스무살, 로켓펀치 윤경?소희?다현, 서기, 포맨 하은과 요셉이 가창자로 참여해 음악 팬들에게 진한 감동을 선사했다.&nbsp;2000년 조장혁의 3집 앨범 타이틀곡인 '중독된 사랑'은 지금..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[십센치, 애니메이션 '너에게 닿기를' 오프닝 곡 15년 만에 정식 발매!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24750</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733"/>
         <updated>2025-02-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김지현이 7개월 만에 신곡을 발표한다.&nbsp;김지현은 오는 3월 1일 오후 6시 새 싱글 '나도 여자랍니다'를 발매한다.&nbsp;'나도 여자랍니다'는 김지현이 지난해 8월 발매한 '사랑의 연금술사 (Remix ver.)' 이후 7개월 만에 발매하는 신곡으로, 2003년 발매돼 대중의 많은 사랑을 받은 장나라의 '나도 여자랍니다'를 리메이크했다.&nbsp;김지현이 가창한 '나도 여자랍니다'는 레트로 열풍에 맞춰 추억의 국내 가요를 트로트와 크로스오버해 세미 트로트로 재해석했고, ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['3월 18일 발매' 스테이씨, 새 싱글 'S' 그래픽 영상→오늘(24일) 예약 판매 시작]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24721</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24721"/>
-        <updated>2025-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 약 5개월 만에 신보를 발매하고 열일 행보를 이어간다.24일 소속사 하이업엔터테인먼트는 "스테이씨(수민, 시은, 아이사, 세은, 윤, 재이)가 오는 3월 18일 새 싱글앨범 'S'를 발매한다"고 밝혔다. 이에 앞서 공식 SNS 채널을 통해 그래픽 영상을 공개했다.공개된 그래픽 영상에는 카메라 반복되는 카메라 셔터 소리와 타이포 그래픽, 화보의 한 장면 같은 스테이씨의 모습이 담겨있다. 어지럽게 전환되는 영상들은 강렬한 임팩트를 남기며 팬들의 시선을 사로잡았다.특히 'S..]]></content>
     </entry>
 </feed>
