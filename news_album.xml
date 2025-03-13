@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-12T23:18:18.521Z</updated>
+    <updated>2025-03-13T01:22:33.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오반, 입대 전 작업한 정규 2집 '교회오빠' 오늘(13일) 발매…총 10곡으로 구성]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24767</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24767"/>
+        <updated>2025-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 오반이 오늘(13일) 정규 2집 '교회오빠'를 발표한다.총 10곡으로 구성된 '교회오빠'는 오반이 다양한 프로듀서 및 참여진들과 약 2년여간 작업한 결과물들을 모아놓은 앨범으로, 더블 타이틀곡인 '교회오빠'에는 아이콘(iKON) 바비(BOBBY)가 참여했고, 뮤직비디오에는 인플루언서 고말숙이 여주인공으로 출연해 눈길을 끈다.또 다른 더블 타이틀곡인 'Flower(플라워)'는 오반이 아내에게 청혼하기 위해 만든 노래로, 지난해 12월 오반이 본인의 결혼식에서 직접 축가로 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임재현, 오늘(12일) '중독된 사랑' 리메이크곡 발매…따뜻한 이별 노래로 재탄생]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24762</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24734"/>
         <updated>2025-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 김뭉먕(김수민)이 영화 '괜찮아 괜찮아 괜찮아!'의 컬래버레이션 음원 가창자로 참여한다.김뭉먕이 가창한 영화 '괜찮아 괜찮아 괜찮아!' 컬래버레이션 프로젝트 음원 '끝없는 밤을 가르며'가 오는 3월 6일 오후 6시 발매된다.'끝없는 밤을 가르며'는 아픔을 품은 채로도 끝내 꿈을 향해 달려가는 모든 이들에게 전하는 곡으로, 사라지는 것들과 잊혀지는 것들 그리고 그럼에도 불구하고 꺼지지 않는 희망에 대해 이야기한다.특히 잔잔한 피아노 사운드와 현악기의 선율은 김뭉먕의 담백하..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김지현, 장나라 '나도 여자랍니다' 트로트 버전으로 재해석! 3월 1일 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24733"/>
-        <updated>2025-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김지현이 7개월 만에 신곡을 발표한다.&nbsp;김지현은 오는 3월 1일 오후 6시 새 싱글 '나도 여자랍니다'를 발매한다.&nbsp;'나도 여자랍니다'는 김지현이 지난해 8월 발매한 '사랑의 연금술사 (Remix ver.)' 이후 7개월 만에 발매하는 신곡으로, 2003년 발매돼 대중의 많은 사랑을 받은 장나라의 '나도 여자랍니다'를 리메이크했다.&nbsp;김지현이 가창한 '나도 여자랍니다'는 레트로 열풍에 맞춰 추억의 국내 가요를 트로트와 크로스오버해 세미 트로트로 재해석했고, ..]]></content>
     </entry>
 </feed>
