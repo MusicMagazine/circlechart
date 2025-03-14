@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-13T23:17:36.973Z</updated>
+    <updated>2025-03-14T01:20:57.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[펜타곤 후이, 23일 신곡 '눈물 나게' 발매 확정! 애틋한 감정 담은 고백송]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24773</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24773"/>
+        <updated>2025-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 펜타곤(PENTAGON) 후이(HUI)가 축가 프로젝트 첫 번째 가창자로 나선다.후이가 참여한 축가 프로젝트의 첫 번째 음원 '눈물 나게'가 오는 23일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.축가 프로젝트는 많은 사람들의 축복 속에 함께 첫 발걸음을 내딛는 가장 행복한 날, 영원한 사랑을 기약하는 순간이 더욱 빛날 수 있도록 사랑하는 사람에게 전하는 노랫말이 담긴 곡들을 선보이는 프로젝트다.'눈물 나게'는 록 발라드 고백송으로, 일렉트로닉 기타가 이끄는 밴드 사운드와 사랑하는 사람을 향..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오반, 입대 전 작업한 정규 2집 '교회오빠' 오늘(13일) 발매…총 10곡으로 구성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24767</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24739"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[천재 프로듀서 드레스(dress)와 싱어송라이터 이강승의 컬래버레이션이 성사됐다.드레스는 지난 3일 오후 6시 각종 음원 사이트를 통해 이강승과의 합작 앨범 선공개곡 '무엇이 무엇이 똑같을까'를 발매했다.'무엇이 무엇이 똑같을까'는 이달 말 발매를 앞둔 장르불문 프로듀서 드레스와 이강승 두 뮤지션의 합작 앨범의 선공개곡이다. 우리가 공유하는 감정과 생각들에 대한 질문을 던지며, 서로를 알아가는 과정에서 피어나는 설렘과 두근거림을 담고 있다.감성적인 포크 기타 선율 위에 대비되는 808 베이스 드럼을 더해..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김뭉먕, 영화 '괜찮아 괜찮아 괜찮아!' 컬래버 음원 '끝없는 밤을 가르며' 가창 참여…영화 감동 잇는다]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24734</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24734"/>
-        <updated>2025-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김뭉먕(김수민)이 영화 '괜찮아 괜찮아 괜찮아!'의 컬래버레이션 음원 가창자로 참여한다.김뭉먕이 가창한 영화 '괜찮아 괜찮아 괜찮아!' 컬래버레이션 프로젝트 음원 '끝없는 밤을 가르며'가 오는 3월 6일 오후 6시 발매된다.'끝없는 밤을 가르며'는 아픔을 품은 채로도 끝내 꿈을 향해 달려가는 모든 이들에게 전하는 곡으로, 사라지는 것들과 잊혀지는 것들 그리고 그럼에도 불구하고 꺼지지 않는 희망에 대해 이야기한다.특히 잔잔한 피아노 사운드와 현악기의 선율은 김뭉먕의 담백하..]]></content>
     </entry>
 </feed>
