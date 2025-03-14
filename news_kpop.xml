@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-14T05:17:48.027Z</updated>
+    <updated>2025-03-14T06:25:17.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[HIGHER] INFINITE (인피니트), 하이어 ‘이주의 아티스트’ 선정]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24775</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24775"/>
+        <updated>2025-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[써클차트 (press@k-mca.or.kr)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘17일 컴백’ 더윈드, 웰메이드 음원 자신감 굳힌다…벅찬 ‘Only One’→발라드 ‘기억 사진첩’ 기대 UP]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24774</id>
@@ -46,13 +53,6 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24766"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아이브, 음원·음반·동영상·팬투표 전부문 Top5에 오르며 정상 등극&nbsp;뮤빗 K-POP 팬투표에서 상위권을 차지한 플레이브, BTS 진 Top3 선정MZ 워너비 아이콘 ‘아이브’가 뮤빗 이달의 아티스트로 선정됐다. 아이브는 음원·음반·동영상·팬투표 전 부문 Top5에 이름을 올리며 최종 1위에 등극했다. 지난 2월 발매한 미니 3집으로 초동 밀리언셀러에 등극한 ‘플레이브’는 단 1.3포인트 차이로 종합 순위 2위에 올랐다. 3위는 뮤빗 K-POP 팬투표에서 4주 연속 정상을 차지했던 방탄소년단 ‘진’이, 4위는 ‘블루 파라다이스’로 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 팬콘서트 티저 이미지 공개...청량+스포티 매력 '기대감 무한 증폭']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24764</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24764"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘이 티저를 통해 팬콘서트 기대감을 높였다.소속사 비투비 컴퍼니는 지난 10일과 11일 양일간 공식 SNS를 통해 '2025 비투비 팬콘 '3,2,1 고! 멜림픽'(2025 BTOB FAN-CON '3,2,1 GO! MELympic')' 티저 이미지를 공개했다.'그라운드(Ground)'와 '로커룸(Locker room)' 두 가지 버전으로 공개된 티저 이미지는 각각 야외 경기장과 로커룸을 배경으로 비투비의 다..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[템페스트, 미니 6집 'RE: Full of Youth' 콘셉트 포토 공개 완료! 31일 컴백 '기대감 ↑']]></title>
