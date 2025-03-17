@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-16T23:17:17.195Z</updated>
+    <updated>2025-03-17T01:24:24.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이커스(xikers), 4월 4일 컴백 확정...미니 5집으로 완전체 활동 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24778</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24778"/>
+        <updated>2025-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 싸이커스(xikers)가 4월 4일 완전체로 컴백한다.소속사 KQ엔터테인먼트는 17일 0시 공식 SNS를 통해 싸이커스의 다섯 번째 미니 앨범 '하우스 오브 트리키 : 스퍼(HOUSE OF TRICKY : SPUR)' 포스터를 공개하고 컴백 소식을 알렸다.'하우스 오브 트리키 : 스퍼'는 싸이커스가 약 7개월 만에 발매하는 신보이자, 데뷔 이래 4장의 앨범을 통해 탄탄하게 구축해온 세계관 '하우스 오브 트리키' 시리즈를 잇는 앨범이다. 공개된 포스터는 앨범명, 발매일시와 더불어 정체 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[HIGHER] INFINITE (인피니트), 하이어 ‘이주의 아티스트’ 선정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24775</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24760"/>
         <updated>2025-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초이랩(대표 최신규) 소속 가수 황민호가 '한국 팀' 대장의 위엄을 보여줬다.황민호는 지난 10일 방송된 MBN '한일톱텐쇼' 2025년 한일 수교 60주년 기념 특집 '한일 신동 가왕전'에 출연했다.이날 황민호는 2차전 '일대일 데스매치-현장지목전'에 임했고, 한국 팀의 대장으로 첫 번째 대결을 펼쳤다. 그는 "첫 번째는 생각도 못했다. 좀 당황스럽다"면서도 남다른 자신감을 드러냈다.황민호는 일본 팀 대장 타케루를 지목하고, 일본어로 "저의 퍼포먼스로 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한일톱텐쇼' 김예은, '망부석' 열창 전율…1년 만에 '트롯 여제' 등극한 이유]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24759</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24759"/>
-        <updated>2025-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 가수 김예은이 '트롯 다크호스'다운 활약을 펼쳤다.김예은은 지난 10일 방송된 MBN '한일톱텐쇼' 2025년 한일 수교 60주년 기념 특집 '한일 신동 가왕전'에 출연했다.이날 김예은은 2차전 '일대일 데스매치-현장지목전'에서 두 번째 주자로 나서 토나키 자매와 대결을 펼쳤다. 토나키 자매 네네는 앞서 보여준 김예은의 실력을 높이 사며 불안해했다. 실제로 김예은은 첫 방송 출연에도 '연락선' 무대로 놀라운 실력을 드러내며 시청자들에게..]]></content>
     </entry>
 </feed>
