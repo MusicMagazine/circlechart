@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-17T23:17:49.853Z</updated>
+    <updated>2025-03-18T01:22:02.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[헨리, 데뷔 첫 시즌그리팅 비하인드 공개! 귀여움·섹시 아우르는 ‘콘셉트 장인’]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24783</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24783"/>
+        <updated>2025-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[아티스트 헨리(HENRY)가 시즌그리팅에 이어 비하인드 콘텐츠로 훈훈한 팬 사랑을 전했다.헨리는 지난 17일 오후 공식 유튜브 채널을 통해 2025 시즌그리팅 ‘Chapter HENRY(챕터 헨리)’의 촬영 비하인드를 담은 브이로그 영상을 공개했다.‘Chapter HENRY’는 헨리의 데뷔 첫 시즌그리팅으로, 귀여움과 섹시함을 아우르는 다채로운 매력을 담아냈다. 헨리는 2025년에도 팬들의 일상 속 소중한 챕터로 자리 잡고자 하는 마음을 담아 이번 시즌그리팅을 준비했다. 이어 촬영 비하인드 영상을 통해 팬들과 소통을 이어갔다.이날 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이커스(xikers), 4월 4일 컴백 확정...미니 5집으로 완전체 활동 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24778</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24763"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 콘셉트 포토를 모두 공개하며 컴백 기대감을 고조시켰다.&nbsp;템페스트는 11일, 12일 공식 SNS를 통해 여섯 번째 미니앨범 'RE: Full of Youth(리: 풀 오브 유스)'의 두 번째, 세 번째 콘셉트 포토를 공개했다.&nbsp;앞서 첫 번째 콘셉트 포토에서 풋풋한 청춘 비주얼로 봄의 시작을 알린 템페스트는 두 번째 콘셉트 포토에서 귀공자로 변신해 꽃과 화초들이 가득한 공간 속 신비로운 분위기를 발산했다. 특히 템페스트는 레이스 셔츠와 블랙 재킷, 스팽글 장식이 달린 청바지를 맞춰 입고 만..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한일톱텐쇼' 황민호, 韓日 팬심 사로잡은 '가버린 사랑'+'오래오래 살아주세요' 무대]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24760</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24760"/>
-        <updated>2025-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 가수 황민호가 '한국 팀' 대장의 위엄을 보여줬다.황민호는 지난 10일 방송된 MBN '한일톱텐쇼' 2025년 한일 수교 60주년 기념 특집 '한일 신동 가왕전'에 출연했다.이날 황민호는 2차전 '일대일 데스매치-현장지목전'에 임했고, 한국 팀의 대장으로 첫 번째 대결을 펼쳤다. 그는 "첫 번째는 생각도 못했다. 좀 당황스럽다"면서도 남다른 자신감을 드러냈다.황민호는 일본 팀 대장 타케루를 지목하고, 일본어로 "저의 퍼포먼스로 ..]]></content>
     </entry>
 </feed>
