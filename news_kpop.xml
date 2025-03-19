@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-18T23:17:18.539Z</updated>
+    <updated>2025-03-19T01:22:58.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백' 스테이씨, '킬링 보이스' 떴다...따끈따끈 신곡 'BEBE' 라이브 공개]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24789</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24789"/>
+        <updated>2025-03-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 '킬링 보이스'에서 따끈따끈한 신곡 라이브를 선보였다.딩고 뮤직은 지난 18일 오후 7시 공식 유튜브 채널을 통해 스테이씨의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 "저희가 드디어 '킬링 보이스'에 나왔다. 너무 영광이다"라고 반가운 인사를 전한 스테이씨는 "저희의 명곡들을 지금부터 들려드리겠다"라고 덧붙이며 기대감을 높였다.스테이씨는 지난 2021년 발매한 히트곡 '에이셉(ASAP)'으로 '킬링 보이스..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헨리, 데뷔 첫 시즌그리팅 비하인드 공개! 귀여움·섹시 아우르는 ‘콘셉트 장인’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24783</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24766"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아이브, 음원·음반·동영상·팬투표 전부문 Top5에 오르며 정상 등극&nbsp;뮤빗 K-POP 팬투표에서 상위권을 차지한 플레이브, BTS 진 Top3 선정MZ 워너비 아이콘 ‘아이브’가 뮤빗 이달의 아티스트로 선정됐다. 아이브는 음원·음반·동영상·팬투표 전 부문 Top5에 이름을 올리며 최종 1위에 등극했다. 지난 2월 발매한 미니 3집으로 초동 밀리언셀러에 등극한 ‘플레이브’는 단 1.3포인트 차이로 종합 순위 2위에 올랐다. 3위는 뮤빗 K-POP 팬투표에서 4주 연속 정상을 차지했던 방탄소년단 ‘진’이, 4위는 ‘블루 파라다이스’로 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[템페스트, 미니 6집 'RE: Full of Youth' 콘셉트 포토 공개 완료! 31일 컴백 '기대감 ↑']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24763</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24763"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 콘셉트 포토를 모두 공개하며 컴백 기대감을 고조시켰다.&nbsp;템페스트는 11일, 12일 공식 SNS를 통해 여섯 번째 미니앨범 'RE: Full of Youth(리: 풀 오브 유스)'의 두 번째, 세 번째 콘셉트 포토를 공개했다.&nbsp;앞서 첫 번째 콘셉트 포토에서 풋풋한 청춘 비주얼로 봄의 시작을 알린 템페스트는 두 번째 콘셉트 포토에서 귀공자로 변신해 꽃과 화초들이 가득한 공간 속 신비로운 분위기를 발산했다. 특히 템페스트는 레이스 셔츠와 블랙 재킷, 스팽글 장식이 달린 청바지를 맞춰 입고 만..]]></content>
     </entry>
 </feed>
