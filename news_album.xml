@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-19T23:19:00.012Z</updated>
+    <updated>2025-03-20T01:21:36.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE(유나이트), 오는 4월 23일 컴백!...7번째 EP ‘YOUNI-T(유니-티)’ 발매!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24792</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24792"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[브랜뉴뮤직 소속 8인조 보이그룹 YOUNITE(유나이트)가 약 4개월 만에 새 앨범으로 컴백한다.오늘(20일) 0시, 유나이트(은호, 스티브, 은상, 형석, 우노, DEY, 경문, 시온)는 공식 SNS 채널들을 통해&nbsp;새 앨범 ‘YOUNI-T(유니-티)’의 티저 영상을 공개하며 오는 4월 23일 컴백을 공식화했다.‘YOUNI-T’는 유나이트가 지난 3년간 선보인 청량하면서도 힙한 매력과 남다른 에너지를 하나로 모아, ‘화합(UNITY)’이라는 새로운 키워드로 확장시킨 앨범이다. 특히, 이번 앨범에서는 기존에 볼 수 없었던 다양한 음악..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주호, 23일 '오늘도 그대만' 리메이크 음원 발매 확정! 이별 감성 필청곡 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24788</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24773"/>
         <updated>2025-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 펜타곤(PENTAGON) 후이(HUI)가 축가 프로젝트 첫 번째 가창자로 나선다.후이가 참여한 축가 프로젝트의 첫 번째 음원 '눈물 나게'가 오는 23일 오후 6시 각종 온라인 음원사이트를 통해 발매된다.축가 프로젝트는 많은 사람들의 축복 속에 함께 첫 발걸음을 내딛는 가장 행복한 날, 영원한 사랑을 기약하는 순간이 더욱 빛날 수 있도록 사랑하는 사람에게 전하는 노랫말이 담긴 곡들을 선보이는 프로젝트다.'눈물 나게'는 록 발라드 고백송으로, 일렉트로닉 기타가 이끄는 밴드 사운드와 사랑하는 사람을 향..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오반, 입대 전 작업한 정규 2집 '교회오빠' 오늘(13일) 발매…총 10곡으로 구성]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24767</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24767"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 오반이 오늘(13일) 정규 2집 '교회오빠'를 발표한다.총 10곡으로 구성된 '교회오빠'는 오반이 다양한 프로듀서 및 참여진들과 약 2년여간 작업한 결과물들을 모아놓은 앨범으로, 더블 타이틀곡인 '교회오빠'에는 아이콘(iKON) 바비(BOBBY)가 참여했고, 뮤직비디오에는 인플루언서 고말숙이 여주인공으로 출연해 눈길을 끈다.또 다른 더블 타이틀곡인 'Flower(플라워)'는 오반이 아내에게 청혼하기 위해 만든 노래로, 지난해 12월 오반이 본인의 결혼식에서 직접 축가로 ..]]></content>
     </entry>
 </feed>

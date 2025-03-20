@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-19T23:19:00.009Z</updated>
+    <updated>2025-03-20T01:21:36.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미스쓰리랑' 김소연, 절친 정서주와 환상 듀엣 무대…'주연 자매' 파워 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24793</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24793"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[초이랩(대표 최신규) 소속 가수 김소연이 상큼한 에너지로 미소를 불러일으켰다.&nbsp;김소연은 지난 19일 방송된 TV CHOSUN '미스쓰리랑'에 출연해 '행복한 가(家)' 특집을 꾸몄다.&nbsp;이날 '행복한 가(家)' 특집에는 데뷔 69년 차 대배우 '국민 할머니' 김영옥, 한국 탤런트계 산증인 '국민 아버지' 김성환, 애교 트롯 원조 '국민 며느릿감' 요요미, 트롯 신동 '국민 막둥이' 박성온을 비롯 '미스&amp;미스터트롯'..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Week 10 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, and TREASURE Top the Charts!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24791</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24770"/>
         <updated>2025-03-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 클로즈 유어 아이즈(CLOSE YOUR EYES, 전민욱, 마징시앙, 장여준, 김성민, 송승호, 켄신, 서경배)가 청춘 영화 속 주인공 같은 비주얼을 뽐냈다.소속사 언코어는 지난 10일 오후 6시 공식 SNS를 통해 클로즈 유어 아이즈의 첫 번째 미니 앨범 '이터널티(ETERNALT)' 멤버별 개인 콘셉트 포토를 공개했다.공개된 이미지는 실내부터 야외까지 각기 다른 스팟을 배경으로 클로즈 유어 아이즈의 다양한 모습을 담고 있어 시선을 집중시켰다. 각자의 개성이 돋보이는 캐주얼한 스타일링을 완벽 소화한 멤버들은 자..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 비투비, 사회적 기업 꽃마리협동조합&청춘생활 컬래버...20일 캐릭터 팝업스토어 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24769</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24769"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘이 팝업스토어를 오픈한다.소속사 비투비 컴퍼니는 지난 12일 오후 8시 공식 SNS를 통해 '비투비 X 삐 프렌즈 팝업 '프레셔리: 런드리 랩(BTOB X B'BE FRIENDS POP-UP 'Freshory: Laundry Lab')' 포스터를 공개하고 팝업스토어 개최 소식을 알렸다.공개된 포스터는 네 멤버를 상징하는 귀여운 동물 캐릭터가 그려져 있다. 세탁실을 배경으로 풍성한 거품 속에서 제각각 다른 행동을 취하는 캐릭터들의 모습이..]]></content>
     </entry>
 </feed>
