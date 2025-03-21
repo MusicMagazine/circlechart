@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-03-21T01:23:21.439Z</updated>
+    <updated>2025-03-21T02:58:45.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김수영, 오늘(21일) 단독 콘서트 'Bloom' 개최! 소극장 물들일 명품 라이브 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24798</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24798"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 김수영이 팬들과 뜨겁게 호흡한다.김수영은 21일 오후 8시 서울 홍대 벨로주에서 소극장 단독 콘서트 'Bloom'을 진행한다.'Bloom'은 지난해 개최된 '사람, 김수영' 이후 약 1년 만에 진행하는 단독 콘서트다. 당초 6회차로 진행될 예정이었으나 예매 오픈과 동시에 빠르게 매진을 기록하며 3회차가 추가됐다. 이후 추가 회차까지 전석 매진되며 싱어송라이터 김수영의 탄탄한 입지를 입증했다.김수영은 이번 공연을 통해 평소 쉽게 접할 수 없었던 다양한 무대들을 꾸밀 계획이다. 지..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭, 4월 5일 첫 태국 콘서트 ‘The Wayfarer’ 개최 확정…솔로 투어 대미]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24742"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 한국에서 첫 단독 콘서트를 열고 팬들을 만난다.소속사 nCH 엔터테인먼트는 4일 "엔싸인이 오는 4월 5일 오후 2시와 6시 서울 용산구에 위치한 블루스퀘어 SOL트래블홀에서 'n.SSign 1st Concert &lt;EVERBLUE&gt; in SEOUL(엔싸인 첫 번째 콘서트 &lt;에버블루&gt; 인 서울)'을 개최한다"고 밝혔다.이번 공연은 엔싸인이 데뷔 후 한국에서 처음으로 선보이는 단독 콘서트로, COSMO(코스모, 팬덤명)와의 특별한 시간을 위해 공들여 준비했..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영, 데뷔 첫 부산 단독 콘서트 'Blossom in Busan' 개최]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737"/>
-        <updated>2025-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 데뷔 첫 부산 단독 콘서트를 개최한다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 오는 3월 29일 오후 6시, KT&amp;G 상상마당 부산 라이브홀에서 'CATCH THE YOUNG 부산 단독 콘서트：Blossom in Busan(블라썸 인 부산)'을 개최한다.&nbsp;개최 소식과 함께 공개된 포스터 속 캐치더영은 봄을 한껏 머금은 풋풋한 비주얼로 따뜻한 에너지를 전하고 있다. 'BLOSSOM'이란 공연 타이틀처럼 흩날리는 꽃잎 또..]]></content>
     </entry>
 </feed>
