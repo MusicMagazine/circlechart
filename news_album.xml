@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-20T23:17:52.231Z</updated>
+    <updated>2025-03-21T01:23:21.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[츄, 27일 리메이크 음원 '내가 바보라서 그래?' 발매…KIXO 피처링으로 '귀호강' 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24796</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24796"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 츄(CHUU)가 풋풋한 사랑을 노래한다.츄는 오는 27일 오후 6시 각종 온라인 음원사이트를 통해 리메이크 음원 '내가 바보라서 그래? (feat. KIXO(키조))'를 발매한다.'내가 바보라서 그래?'는 지난 2023년 가수 KIXO(키조)가 발매한 곡으로 대중의 많은 사랑을 받고 있다. 변해버린 사랑에 대한 투정 섞인 마음을 담은 귀여운 사랑곡으로, 츄가 원곡과는 또 다른 매력으로 재해석했다.특히 원작자인 KIXO가 피처링으로 참여해 곡의 완성도를 더한다. 츄의 통통 튀는 보컬이 KIXO의 섬세..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수호, 4월 5일 첫 미니 앨범 발매 확정...'트로트 대세' 업그레이드 매력 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24794</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24777"/>
         <updated>2025-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 허각이 임한별의 명곡을 다시 부른다.&nbsp;17일 소속사 OS프로젝트는 "허각이 가창한 '니곡내곡' 프로젝트의 두 번째 곡 '떠나보낼 준비해 둘걸 그랬어'가 오는 30일 오후 6시 발매된다"고 밝혔다.'니곡내곡' 프로젝트는 허용별의 세 멤버 허각, 신용재, 임한별이 서로의 노래를 바꿔 부르는 리메이크 프로젝트다. 다른 리메이크와의 차별화를 위해 유튜브 콘텐츠를 통해 서로에게 어울리는 곡을 추천하고, 원곡자가 리메이크 음원에 함께 참여하는 색다른 방식으로 진행된다.먼저 지난 4..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천재 프로듀서' 드레스, 26일 이강승과 합작 앨범 '우리가 어른이 된 건 거짓말 같아' 발매 확정]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24776</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24776"/>
-        <updated>2025-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[천재 프로듀서 드레스(dress)가 싱어송라이터 이강승과 합작 앨범을 선보인다.소속사 하이라인엔터테인먼트는 지난 13일과 16일 양일간 공식 SNS를 통해 드레스와 이강승의 합작 앨범 '우리가 어른이 된 건 거짓말 같아' 티저 이미지를 공개하고 발매 소식을 알렸다.공개된 이미지는 오래된 놀이터를 배경으로 낡은 놀이 기구에 걸터앉아 포즈를 취하는 드레스와 이강승의 모습을 담고 있다. 각자의 개성이 돋보이는 유니크한 스타일링과 빈티지한 무드가 시선을 제대로 사로잡았다.이어 공개된 개인 이미지에서, 드레스는 턱을 괸 포즈와..]]></content>
     </entry>
 </feed>

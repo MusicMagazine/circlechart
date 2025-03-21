@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-03-20T23:17:52.235Z</updated>
+    <updated>2025-03-21T01:23:21.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이창섭, 4월 5일 첫 태국 콘서트 ‘The Wayfarer’ 개최 확정…솔로 투어 대미]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 4월 태국에서 솔로 투어의 대미를 장식한다.이창섭은 오는 4월 5일 태국 방콕에 위치한 CENTERPOINT STUDIO LASALLE(센터포인트 스튜디오 라살)에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다.‘The Wayfarer’는 이창섭의 첫 번째 솔로 콘서트 투어로, 지난해 11월부터 이달까지 국내 6개 도시에 이어 대만, 마닐라 등 해외로 보폭을 확장하며 성공적인 여정을 이어가고 있다. 이 가운데 이창섭은 태국 방콕에서 첫 단독 공연 개최를 추가적으로 확정해 현지 팬들의..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['원조 트롯퀸' 김혜연, 데뷔 35주년 디너쇼 성료..."변함없이 사랑해 주는 팬들 덕분에 힘낼 수 있어"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24784</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24737"/>
         <updated>2025-02-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA['꿈꾸는 청춘밴드' 캐치더영(CATCH THE YOUNG)이 데뷔 첫 부산 단독 콘서트를 개최한다.캐치더영(산이, 기훈, 남현, 준용, 정모)은 오는 3월 29일 오후 6시, KT&amp;G 상상마당 부산 라이브홀에서 'CATCH THE YOUNG 부산 단독 콘서트：Blossom in Busan(블라썸 인 부산)'을 개최한다.&nbsp;개최 소식과 함께 공개된 포스터 속 캐치더영은 봄을 한껏 머금은 풋풋한 비주얼로 따뜻한 에너지를 전하고 있다. 'BLOSSOM'이란 공연 타이틀처럼 흩날리는 꽃잎 또..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든차일드 출신 최성윤, 4월 단독 팬미팅 개최...소속사와 계약 종료 후 첫 행보]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24730</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24730"/>
-        <updated>2025-02-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 골든차일드(Golden Child) 출신 최성윤이 단독 팬미팅을 개최한다.최성윤은 오는 4월 5일과 6일 양일간 서울 강남구 일지아트홀에서 데뷔 첫 단독 팬미팅 '올 어바웃 윤(All about Yun)'을 개최하고, 첫날 오후 2시와 6시, 둘째 날 오후 5시 총 3회 공연으로 팬들과 만난다.공연 소식과 함께 공개된 포스터는 새하얀 배경 속 하늘을 올려다보는 최성윤의 모습을 담고 있어 글로벌 팬들의 뜨거운 반응을 자아냈다.포스터 속 최성윤은 차분하게 내린 흑발에 캐주얼한 청청 스타일링으로 물오른 비주얼과 스타일..]]></content>
     </entry>
 </feed>
