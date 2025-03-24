@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=issue</id>
     <title>Circle Chart ─ News ─ Issue</title>
-    <updated>2025-03-24T01:25:27.645Z</updated>
+    <updated>2025-03-24T03:03:06.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메이저나인 "두터운 신뢰·믿음 바탕으로 DK와 재계약…지원 아끼지 않을 것"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24802</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24802"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 DK(디셈버)가 메이저나인과 동행을 이어간다.&nbsp;메이저나인은 24일 "두터운 신뢰와 믿음을 바탕으로 DK와 재계약을 체결했다"고 밝혔다.이어 "동행을 이어가게 돼 기쁘다. 무한한 역량을 가진 DK가 더 높은 곳을 향해 나아갈 수 있도록 전폭적인 지원을 아끼지 않을 예정"이라며 "DK와 회사가 더 큰 시너지를 발휘해 팬분들에게 다양한 모습을 보여드릴 수 있도록 최선을 다하겠다"고 전했다.&nbsp;2009년 디셈버 EP 'Dear My Lover(디어 마이 러버)'로 데뷔한 DK는 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트 이성종, 前 소속사 상대 미지급 정산금 소송 1년 만에 승소]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24758</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24376"/>
         <updated>2024-11-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 배우 윤지성이 빌리언스와 전속계약을 체결했다.소속사 빌리언스는 1일 "가수 겸 배우 윤지성과 전속계약을 체결했다. 다재다능한 끼와 재능을 가진 윤지성이 다방면에서 역량을 펼칠 수 있도록 최선을 다해 지원할 예정"이라며 앞으로의 활동에 전폭적인 지원을 예고했다.윤지성은 2017년 Mnet 오디션 프로그램 '프로듀스 101 시즌2'를 통해 그룹 워너원(Wanna One)으로 데뷔, 리더이자 맏형으로 팀을 이끌며 글로벌 팬들의 큰 사랑을 받았다. 이후 2019년 솔로로 정식 데뷔해 '어사이드(..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허각, 임한별이 설립한 OS프로젝트와 전속계약…대표X소속 가수로 동행]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=issue&amp;idx=24366"/>
-        <updated>2024-10-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 허각이 OS프로젝트에 새 둥지를 틀었다.&nbsp;OS프로젝트는 30일 "명실상부 대한민국 최고의 가수로 손꼽히는 허각과 최근 전속계약을 체결했다"라며 "허각과 파트너로 함께 하게 돼 기쁘다. 앞으로 허각이 음악 활동에 전념할 수 있도록 전폭적인 지원을 아끼지 않을 것"이라고 밝혔다.&nbsp;OS프로젝트는 가수 임한별이 '좋은 음악은 반드시 통한다'라는 본인의 신념을 모토로 설립한 회사다. 훌륭한 가수들이 노래에만 집중할 수 있는 환경을 제공하는 것을 최우선으로 생각하는 회사를 지향한다.&nbsp;신용재, 임..]]></content>
     </entry>
 </feed>
