@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-25T04:22:01.834Z</updated>
+    <updated>2025-03-25T05:19:14.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최수호, 새 앨범 콘셉트 포토 공개...'풋풋 소년미' 벗고 '물오른 성숙미' 장착]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24808</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24808"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 최수호가 성숙해진 매력을 뽐냈다.소속사 포고엔터테인먼트는 지난 24일과 25일 양일간 공식 SNS를 통해 최수호의 첫 번째 미니 앨범 '원(ONE)' 콘셉트 포토를 공개했다.첫 번째 콘셉트 포토는 햇살이 은은하게 쏟아지는 창가에 기대어 포즈를 취하는 최수호의 모습을 담고 있다. 차분하면서도 댄디한 니트 스타일링과 더불어 더욱 깊어진 눈빛으로 화면을 응시하며 성숙해진 분위기를 발산하는 그의 모습이 보는 이들을 설레게 했다.두 번째 콘셉트 포토 속 최수호는 짙은 흑발에 블랙 가죽 재킷을 매치한 시크한 스타일링으로 보..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['데뷔 D-8' 클로즈 유어 아이즈, 새 콘텐츠 'CYE WORLD' 론칭...'매력 만점' 관계성 맛집 그룹 탄생]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24807</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24789"/>
         <updated>2025-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 '킬링 보이스'에서 따끈따끈한 신곡 라이브를 선보였다.딩고 뮤직은 지난 18일 오후 7시 공식 유튜브 채널을 통해 스테이씨의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 "저희가 드디어 '킬링 보이스'에 나왔다. 너무 영광이다"라고 반가운 인사를 전한 스테이씨는 "저희의 명곡들을 지금부터 들려드리겠다"라고 덧붙이며 기대감을 높였다.스테이씨는 지난 2021년 발매한 히트곡 '에이셉(ASAP)'으로 '킬링 보이스..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헨리, 데뷔 첫 시즌그리팅 비하인드 공개! 귀여움·섹시 아우르는 ‘콘셉트 장인’]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24783</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24783"/>
-        <updated>2025-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[아티스트 헨리(HENRY)가 시즌그리팅에 이어 비하인드 콘텐츠로 훈훈한 팬 사랑을 전했다.헨리는 지난 17일 오후 공식 유튜브 채널을 통해 2025 시즌그리팅 ‘Chapter HENRY(챕터 헨리)’의 촬영 비하인드를 담은 브이로그 영상을 공개했다.‘Chapter HENRY’는 헨리의 데뷔 첫 시즌그리팅으로, 귀여움과 섹시함을 아우르는 다채로운 매력을 담아냈다. 헨리는 2025년에도 팬들의 일상 속 소중한 챕터로 자리 잡고자 하는 마음을 담아 이번 시즌그리팅을 준비했다. 이어 촬영 비하인드 영상을 통해 팬들과 소통을 이어갔다.이날 ..]]></content>
     </entry>
 </feed>
