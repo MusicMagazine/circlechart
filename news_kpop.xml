@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-25T23:17:42.172Z</updated>
+    <updated>2025-03-26T01:23:37.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['4월 2일 데뷔' 클로즈 유어 아이즈, 마이크로 사이트 정식 오픈...다채로운 콘텐츠+이벤트 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24813</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24813"/>
+        <updated>2025-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 클로즈 유어 아이즈(CLOSE YOUR EYES, 전민욱, 마징시앙, 장여준, 김성민, 송승호, 켄신, 서경배)가 글로벌 팬들과 활발한 소통을 예고했다,소속사 언코어는 26일 0시 공식 SNS를 통해 클로즈 유어 아이즈 첫 번째 미니 앨범 '이터널티(ETERNALT)'의 프로모션 사이트 '클로즈 비욘드 타임(Close Beyond Time)' 오픈 소식을 알렸다.앞서 클로즈 유어 아이즈는 사이트 오픈 이틀 전인 지난 24일 업로드될 포토 일부를 미리 공개했다. 이어 지난 25일에는 버스 티켓을 연상..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수호, 새 앨범 콘셉트 포토 공개...'풋풋 소년미' 벗고 '물오른 성숙미' 장착]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24808</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24790"/>
         <updated>2025-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The February 2025 CIRCLE CHART saw various charts being topped by leading acts such as ROSE, Bruno Mars, IVE, and PLAVE.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for February 2025, ROSE, Bruno Mars topped the Global K-pop Chart while IVE swept 3 charts and PLAV..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백' 스테이씨, '킬링 보이스' 떴다...따끈따끈 신곡 'BEBE' 라이브 공개]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24789</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24789"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 스테이씨(STAYC)가 '킬링 보이스'에서 따끈따끈한 신곡 라이브를 선보였다.딩고 뮤직은 지난 18일 오후 7시 공식 유튜브 채널을 통해 스테이씨의 '킬링 보이스' 영상을 공개했다.공개된 영상에서 "저희가 드디어 '킬링 보이스'에 나왔다. 너무 영광이다"라고 반가운 인사를 전한 스테이씨는 "저희의 명곡들을 지금부터 들려드리겠다"라고 덧붙이며 기대감을 높였다.스테이씨는 지난 2021년 발매한 히트곡 '에이셉(ASAP)'으로 '킬링 보이스..]]></content>
     </entry>
 </feed>

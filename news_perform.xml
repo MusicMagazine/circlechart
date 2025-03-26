@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-03-25T23:17:42.177Z</updated>
+    <updated>2025-03-26T01:23:37.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DK(디셈버), 4월 26일 팬미팅 개최…오늘(26일) 티켓 예매 오픈]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24809</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24809"/>
+        <updated>2025-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 DK(디셈버)가 따뜻한 봄날 팬미팅을 연다.DK는 오는 4월 26일 오후 7시 서울 강서구에 위치한 스카이아트홀에서 'DK FAN MEETING(DK 팬미팅)'을 개최한다.이번 팬미팅은 DK가 지난해 12월 개최한 2024 디셈버 DK 크리스마스 콘서트 'Winter DK-LAND(윈터 디케이-랜드)' 이후 4개월 만에 팬들을 만나는 자리다.팬들에게 감사하는 마음을 담은 이번 팬미팅에서 DK는 고품격 무대와 더불어 진솔한 이야기들로 소통을 펼치며 콘서트 때와는 또 다른 매력을 보여줄 예정이다.DK는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비, 팬콘서트 성료..."삶의 가장 큰 이유 멜로디, 감사하고 사랑해"]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24805</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24761"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 윤종신이 전국 투어 콘서트를 통해 관객을 '그때'로 초대한다.윤종신은 오는 4월 수원을 시작으로 대구, 고양, 대전, 부산, 서울 6개 도시에서 '2025 윤종신 전국 투어 콘서트 '그때''를 개최하고, 관객들과 만난다. '그때'는 윤종신의 음악과 함께해 온 순간들을 선율과 가사로 되새기는 특별한 무대가 될 전망이다.이번 콘서트는 4월 12일 수원 경기아트센터에서 시작해, 4월 19일 대구 엑스코 오디토리움, 5월 3일 고양 아람누리 아람극장, 5월 17일 대전 우송예술..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이라이트, 팬콘서 4월 컴백 발표…빅재미 선사한 ‘웰컴 투 더 HIGH-MART’ 성료]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24754</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24754"/>
-        <updated>2025-03-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 하이라이트(HIGHLIGHT)가 팬콘을 성공적으로 마치며 4월 완전체 컴백을 깜짝 발표했다.하이라이트(윤두준, 양요섭, 이기광, 손동운)는 지난 8일과 9일 서울 잠실실내체육관에서 2025 팬콘 ‘WELCOME TO THE HIGH-MART(웰컴 투 더 하이-마트)’를 개최했다.이날 하이라이트는 하이-마트의 신입사원 윤두준, 부점장 양요섭, 매니저 이기광, 젠지 세대 대표 손동운으로 변신해 유쾌한 상황극으로 공연장을 찾은 라이트(공식 팬덤명) ‘고객님’들을 활기차게 맞이했다. 이어 ‘우수직원 선발 이벤트’라는 이색적인 콘셉트에..]]></content>
     </entry>
 </feed>
