@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicMagazine.github.io/circlechart/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-26T01:23:37.110Z</updated>
+    <updated>2025-03-26T02:58:26.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[그 많던 피처링 다 어디로 갔나? (Circle Chart ─ News ─ Opinion)]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24814</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24814"/>
+        <updated>2025-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[한때 차트에서 많이 볼 수 있었던 피처링 곡들이 점차 줄어들고 있는 것으로 나타났습니다. 2010년대 초중반만 해도 아티스트들이 서로의 곡에 참여하며 시너지를 만들어냈지만, 최근 몇 년 사이 이러한 흐름이 현저히 줄어들고 있습니다.&nbsp;피처링이 줄어든 이유는 단순한 유행의 변화 때문일까요?이번 칼럼에서는 피처링 음원과 관련한 데이터에 대해 살펴보도록 하겠습니다.위 그래프는 2015년부터 2024년까지 연간 차트 TOP400에 오른 피처링 곡 수를 나타낸 것입니다. 2015년에 99곡에 달했던 피처링 곡수가 꾸준히 감소하여 2024년에는..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G-Dragon 써클지수 점유율 1위 - 2월 리뷰(2025) (Circle Chart ─ News ─ Opinion)]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24765</id>
@@ -66,13 +73,6 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24416"/>
         <updated>2024-11-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2024년 10월 TOP400 기준 신곡 이용량 점유율 조사에서 3개월 이내 발매곡 이용량은 17.9%, 6개월 이내 발매곡 29.3% 18개월 이내 발매곡 이용량 점유율은 56.0%를 기록했습니다.2024년 10월 TOP400 가수별 써클지수 점유율 조사에서 DAY6가 400위권 내 총 14곡을 올려놓으며 (합산)점유율 7.7%로 1위에 올랐습니다.2024년 10월 음원 이용량400(디지털차트 1위부터 400위까지 이용량 합계)이 전월대비 8.0% 증가, 전년 동기에 비해서는 7.0% 감소한 것으로 조사되었습니다.2024년 10월..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 음원 소비 현황 (Feat. J-POP in K-POP 차트) (Circle Chart ─ News ─ Opinion)]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24362</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=opinion&amp;idx=24362"/>
-        <updated>2024-10-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2023년 디지털차트에서 일본 가수 'imase', 'aimyon' 등의 노래가 주목을 받으며 J-POP이 국내 시장에서 크게 인기를 끈 바 있습니다.&nbsp;이번 칼럼에서는 1년이 지난 지금 국내 차트에서 나타나고 있는 J-POP의 인기 정도와 국내 음악 소비자들의 해외 음원 소비 현황에 대해 살펴보도록 하겠습니다.2024년 1월부터 9월까지 누적 월별 해외 음원 써클지수400 (해외 음원 1위부터 400위까지 써클지수의 합)은 전년도 같은 기간 대비 27.5% 하락한 것으로 나타났습니다.2024년 1월부터 ..]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하동균, 오늘(26일) 이병헌 주연 영화 '승부' 컬래버 음원 발매…윤종신 '지친 하루' 재해석 (Circle Chart ─ News ─ Album)]]></title>
