@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-27T01:23:13.794Z</updated>
+    <updated>2025-03-27T02:58:52.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 11 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, TREASURE, and LE SSERAFIM Lead..]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24819</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24819"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The Week 11 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts including ROSE, Bruno Mars, G-DRAGON, TREASURE, and LE SSERAFIM.KMCA, publisher of CIRCLE CHART, announced that "As of week 11 (2025.03.09.-2025.03.15.), ROSE and Bruno Mars topped the Global K-pop Chart ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비투비, 캐릭터 팝업스토어 인산인해...친환경 상품+다채로운 이벤트 '반응 폭발']]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24816</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24793"/>
         <updated>2025-03-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[초이랩(대표 최신규) 소속 가수 김소연이 상큼한 에너지로 미소를 불러일으켰다.&nbsp;김소연은 지난 19일 방송된 TV CHOSUN '미스쓰리랑'에 출연해 '행복한 가(家)' 특집을 꾸몄다.&nbsp;이날 '행복한 가(家)' 특집에는 데뷔 69년 차 대배우 '국민 할머니' 김영옥, 한국 탤런트계 산증인 '국민 아버지' 김성환, 애교 트롯 원조 '국민 며느릿감' 요요미, 트롯 신동 '국민 막둥이' 박성온을 비롯 '미스&amp;미스터트롯'..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 10 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, and TREASURE Top the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24791</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24791"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 10 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts such as ROSE, Bruno Mars, G-DRAGON, and TREASURE.KMCA, publisher of CIRCLE CHART, announced that "As of week 10 (2025.03.02.-2025.03.08.), ROSE and Bruno Mars topped the Global K-pop Chart while G-DRAGON ..]]></content>
     </entry>
 </feed>
