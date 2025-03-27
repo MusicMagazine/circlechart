@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-03-26T23:18:19.436Z</updated>
+    <updated>2025-03-27T01:23:13.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비투비, 캐릭터 팝업스토어 인산인해...친환경 상품+다채로운 이벤트 '반응 폭발']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24816</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24816"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘의 팝업스토어가 문전성시를 이루고 있다.지난 20일부터 현대백화점 더현대 서울 지하 2층 아이코닉존에서 운영되고 있는 '비투비 X 삐 프렌즈 팝업 '프레셔리: 런드리 랩'(BTOB X B'BE FRIENDS POP-UP 'Freshory: Laundry Lab')'이 오픈 첫날부터 매일 방문객들의 행렬이 이어지며 성황 중이다.이번 팝업스토어는 비투비의 공식 캐릭터 개발을 기반으로 기획된 프로젝트로, 이를 바탕으로 여성 사회적 기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['4월 2일 데뷔' 클로즈 유어 아이즈, 마이크로 사이트 정식 오픈...다채로운 콘텐츠+이벤트 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24813</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24791"/>
         <updated>2025-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 10 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts such as ROSE, Bruno Mars, G-DRAGON, and TREASURE.KMCA, publisher of CIRCLE CHART, announced that "As of week 10 (2025.03.02.-2025.03.08.), ROSE and Bruno Mars topped the Global K-pop Chart while G-DRAGON ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February CIRCLE CHART: ROSE, Bruno Mars, IVE, and PLAVE Lead the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24790</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24790"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The February 2025 CIRCLE CHART saw various charts being topped by leading acts such as ROSE, Bruno Mars, IVE, and PLAVE.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for February 2025, ROSE, Bruno Mars topped the Global K-pop Chart while IVE swept 3 charts and PLAV..]]></content>
     </entry>
 </feed>

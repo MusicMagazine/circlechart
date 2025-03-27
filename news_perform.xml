@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-03-26T23:18:19.441Z</updated>
+    <updated>2025-03-27T01:23:13.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[박재범, 오늘(27일) 월드투어 'Serenades & Body Rolls' 서울 공연 티켓 오픈!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24815</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24815"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 박재범의 월드투어 티켓 예매가 시작된다.박재범의 2025 Jay Park World Tour 'Serenades &amp; Body Rolls' In Seoul (2025 제이팍 월드투어 '세레나데즈 앤 바디롤즈' 인 서울) 티켓 일반 예매가 27일 오후 8시부터 온라인 예매처 멜론티켓을 통해 진행된다.'Serenades &amp; Body Rolls'는 지난 2019년 진행된 'SEXY 4EVA (섹시 포에버)' 이후 약 6년 만에 진행되는 월드투어다. 박재범만이 선보..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DK(디셈버), 4월 26일 팬미팅 개최…오늘(26일) 티켓 예매 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24809</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24772"/>
         <updated>2025-03-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 인피니트(INFINITE, 김성규, 장동우, 남우현, 이성열, 엘, 이성종)가 앙코르 콘서트 전석 매진을 기록했다.지난 13일 오후 8시 티켓링크를 통해 예매가 진행된 인피니트의 데뷔 15주년 콘서트 '리미티드 에디션(LIMITED EDITION)' 앙코르 공연은 티켓 오픈과 동시에 4월 12일과 13일 양일 공연 전석이 매진됐다.지난해 12월 서울 올림픽공원 KSPO DOME(구 체조경기장)에서 '리미티드 에디션'의 화려한 포문을 연 인피니트는 이후 타이베이, 마카오, 자카르타, 싱가포르, 요코하..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤종신, 전국 투어 콘서트 '그때' 개최!…내달 12일 수원에서 포문]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24761</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24761"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 윤종신이 전국 투어 콘서트를 통해 관객을 '그때'로 초대한다.윤종신은 오는 4월 수원을 시작으로 대구, 고양, 대전, 부산, 서울 6개 도시에서 '2025 윤종신 전국 투어 콘서트 '그때''를 개최하고, 관객들과 만난다. '그때'는 윤종신의 음악과 함께해 온 순간들을 선율과 가사로 되새기는 특별한 무대가 될 전망이다.이번 콘서트는 4월 12일 수원 경기아트센터에서 시작해, 4월 19일 대구 엑스코 오디토리움, 5월 3일 고양 아람누리 아람극장, 5월 17일 대전 우송예술..]]></content>
     </entry>
 </feed>
