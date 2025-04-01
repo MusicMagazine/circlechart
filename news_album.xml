@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-03-31T23:18:13.932Z</updated>
+    <updated>2025-04-01T01:41:33.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DK(디셈버), 얀 '부탁' 23년 만에 재해석! 6일 리메이크 음원 발매]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24831</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24831"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 DK(디셈버)가 얀(Yarn)의 대표곡을 다시 부른다.DK는 오는 6일 오후 6시 각종 온라인 음원사이트를 통해 리메이크 싱글 '부탁'을 발매한다.'부탁'은 지난 2002년 발매된 얀의 정규앨범 'Yarn II Story(얀 투 스토리)'의 수록곡으로, 이별의 아픔과 미련은 담은 가사, 서정적인 멜로디로 많은 사랑을 받은 곡이다. DK는 약 23년 만에 본인만의 감성으로 이 곡을 새롭게 재해석했다.DK는 호소력 짙은 창법과 섬세한 표현력으로 곡이 가진 분위기를 극대화했다. 가슴 먹먹한..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트, 오늘(31일) 미니 6집 'RE: Full of Youth' 발매…마침내 꽃 피운 '청춘'의 용기]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24829</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24811"/>
         <updated>2025-03-26T00:00:00.000Z</updated>
         <content type="html"><![CDATA[천재 프로듀서 드레스(dress)가 봄 감성을 책임진다.드레스는 26일 오후 6시 각종 음원 사이트를 통해 싱어송라이터 이강승과의 합작 앨범 '우리가 어른이 된 건 거짓말 같아'를 발매한다.더블 타이틀곡 중 하나인 '같이 놀자'는 사랑하는 사람과 함께하는 일상의 순간들을 장난스럽고 귀엽게 풀어낸 곡으로, 경쾌한 리듬과 따스한 코드 진행 위에 얹힌 보컬이 듣는 이들을 미소 짓게 한다.바쁜 하루 속 잠시 쉬어가고 싶은 순간에 듣기 좋은 따뜻한 러브송으로, "그냥 아무 데나 가도 좋으니까, 같이만 있으..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2am, 30일 이창민 솔로곡 'Moment' 리메이크 발매…12년 만에 4色 보이스로 탄생]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24810</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24810"/>
-        <updated>2025-03-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 2am(조권, 임슬옹, 정진운, 이창민)이 '상속자들'의 OST를 재해석한다.2am은 오는 30일 오후 6시 새벽테잎(DAWN TAPE) 프로젝트 음원 'Moment(모멘트)'를 발매한다.새벽테잎 프로젝트는 아침이 밝아오기 직전 가장 어두운 새벽, 더욱 빛나는 원석 아티스트들의 음악을 담아낸 프로젝트다. 순순희, 스무살, 로켓펀치 윤경?소희?다현, 서기, 포맨 하은과 요셉, 임재현에 이어 최근 연변대학최씨가 가창자로 참여해 깊은 감동을 선사했다.2013년 방영된 드라마 '상속자들'의 ..]]></content>
     </entry>
 </feed>
