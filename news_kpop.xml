@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-01T23:18:09.872Z</updated>
+    <updated>2025-04-02T01:25:04.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이치뮤직 新 걸그룹 HITGS(힛지스), 28일 데뷔 확정! 앨범명은 'Things we love : H']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24837</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24837"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA['5세대 슈퍼루키' HITGS(힛지스)가 데뷔 초읽기에 돌입했다.HITGS(힛지스)는 지난 1일 공식 SNS를 통해 첫 번째 싱글 앨범 'Things we love : H(띵스 위 러브 : 에이치)'의 스케줄러 이미지를 게재했다.따뜻한 파스텔톤의 이미지는 나비와 리본 등 아기자기한 아이템들로 가득해 소녀감성을 자아낸다.&nbsp;해당 스케줄러에 따르면 힛지스는 2일부터 19일까지 세 가지 버전의 콘셉트 포토 및 필름을 공개한다. 이어 트레일러 영상, 무드 필름, 뮤직비디오 티저를 잇달아 오픈하며 데뷔 프로모션 기..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최수호, 새 앨범 하이라이트 메들리 공개...가요계 강타할 '역대급 고퀄리티' 명반 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24830</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24808"/>
         <updated>2025-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최수호가 성숙해진 매력을 뽐냈다.소속사 포고엔터테인먼트는 지난 24일과 25일 양일간 공식 SNS를 통해 최수호의 첫 번째 미니 앨범 '원(ONE)' 콘셉트 포토를 공개했다.첫 번째 콘셉트 포토는 햇살이 은은하게 쏟아지는 창가에 기대어 포즈를 취하는 최수호의 모습을 담고 있다. 차분하면서도 댄디한 니트 스타일링과 더불어 더욱 깊어진 눈빛으로 화면을 응시하며 성숙해진 분위기를 발산하는 그의 모습이 보는 이들을 설레게 했다.두 번째 콘셉트 포토 속 최수호는 짙은 흑발에 블랙 가죽 재킷을 매치한 시크한 스타일링으로 보..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 D-8' 클로즈 유어 아이즈, 새 콘텐츠 'CYE WORLD' 론칭...'매력 만점' 관계성 맛집 그룹 탄생]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24807</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24807"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 클로즈 유어 아이즈(CLOSE YOUR EYES, 전민욱, 마징시앙, 장여준, 김성민, 송승호, 켄신, 서경배)가 멤버들간의 케미스트리가 돋보이는 콘텐츠를 선보였다.소속사 언코어는 지난 22일부터 24일까지 3일간 공식 유튜브 채널을 통해 클로즈 유어 아이즈의 새 자체 콘텐츠 'CYE WORLD(클로즈 유어 아이즈 월드)'를 공개했다.대망의 1화 에피소드에는 PC방을 찾아 게임을 즐기는 송승호와 서경배의 모습이 담겼다. 음식 주문권을 놓고 대결에 나선 두 사람은 슈팅 게임과 레이싱 게임을 통해 치열한 접전을 벌였..]]></content>
     </entry>
 </feed>
