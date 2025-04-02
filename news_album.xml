@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-04-02T01:25:04.109Z</updated>
+    <updated>2025-04-02T03:01:08.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[그룹 템페스트(TEMPEST)가 신보 'RE: Full of Youth'를 통해 꽃 피울 준비를 마쳤다.&nbsp;템페스트는 31일 오후 6시 여섯 번째 미니앨범 'RE: Full of Youth(리: 풀 오브 유스)'를 발매하며 컴백한다.&nbsp;'RE: Full of Youth'는 지난해 3월 발매한 다섯 번째 미니앨범 'TEMPEST Voyage(템페스트 보야지)' 이후 1년 만에 선보이는 앨범으로, 템페스트가 표현하는 청춘의 자유와 사랑, 그리고 꿈에 대한 확신이 고스란히 담겨 있다...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지수X박정민 주연 '뉴토피아', 오늘(31일) OST 앨범 음반 예약 판매 시작!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24826</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24826"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['뉴토피아'의 OST 앨범이 드라마의 여운을 잇는다.쿠팡플레이 시리즈 '뉴토피아'의 OST 앨범이 31일 오후 2시부터 각종 음반 사이트를 통해 예약 판매를 시작한다.이번 OST 앨범에는 드라마의 방영 후 온라인 음원사이트를 통해 공개된 가창곡들과 '뉴토피아'의 스토리를 담아낸 스코어 음원들까지 총 27곡의 트랙이 실린다.먼저 '뉴토피아'에 특별출연한 윤종신의 명곡이자 극 중 남녀 주인공의 추억을 간직한 곡으로, 현실에서도 모두에게 위로와 감동을 전하고자 2025년 버전으로 ..]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김재중, 4월 10일 '내 남은 사랑을 위해' 정식 리메이크! 레전드 감성 시너지]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24824</id>
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24824"/>
@@ -74,5 +67,12 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24818"/>
         <updated>2025-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 에이핑크(Apink)가 데뷔 14주년을 맞아 신곡을 발표한다.에이핑크(박초롱, 윤보미, 정은지, 김남주, 오하영)는 오는 4월 19일 데뷔 14주년 기념일에 새로운 음원을 공개할 예정이다.2011년 데뷔한 K-POP 대표 장수 걸그룹이자 현역 아이돌 에이핑크는 매년 4월 19일에 맞춰 팬들에게 뜻깊은 선물을 전하고 있다. 특히 2015년 '새끼손가락'을 시작으로 2016년 '네가 손짓해주면', 2017년 'Always(올웨이즈)', 2018년 '기적 같은 이야기', 20..]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[츄, 오늘(27일) 리메이크 음원 '내가 바보라서 그래?' 발매…원작자 KIXO와 듀엣 선사]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24817</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24817"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 츄(CHUU)의 리메이크 음원이 베일을 벗는다.츄는 27일 오후 6시 각종 온라인 음원사이트를 통해 리메이크 음원 '내가 바보라서 그래? (feat. KIXO(키조))'를 발매한다.'내가 바보라서 그래?'는 변해버린 사랑에 대한 투정 섞인 마음을 담은 귀여운 사랑곡으로, 지난 2023년 가수 KIXO(키조)가 발매한 곡이다. 원곡의 감성을 살린 편곡에 츄만의 유니크한 보컬이 더해져 또 다른 매력을 가진 곡으로 완성됐다.&nbsp;츄의 섬세하지만 힘 있는 보컬이 리스너들의 귀를 사로잡는 가운데, 원작자인 KI..]]></content>
     </entry>
 </feed>
