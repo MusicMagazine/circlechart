@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-04-02T23:17:48.374Z</updated>
+    <updated>2025-04-03T01:23:23.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign), 첫 한국 콘서트 'EVERBLUE' 개최 D-2…팬들 위한 종합선물세트 예고]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24841</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24841"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)의 첫 한국 콘서트가 이틀 앞으로 다가왔다.엔싸인은 오는 5일 오후 2시와 6시 서울 용산구에 위치한 블루스퀘어 SOL트래블홀에서 'n.SSign 1st Concert &lt;EVERBLUE&gt; in SEOUL(엔싸인 첫 번째 콘서트 &lt;에버블루&gt; 인 서울)'을 개최한다.이번 콘서트는 앞서 매 공연마다 전석 매진을 기록하며 성황리에 마무리 된 일본 홀 투어 'n.SSign Japan Tour [EVERBLUE](엔싸인 재팬 투어 [에버블루])'를 한국 팬들에게도 선..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잔나비, 단독 콘서트 '모든소년소녀들 2025' 개최! 4일 서울 공연 티켓 오픈]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24833</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795"/>
         <updated>2025-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 4월 태국에서 솔로 투어의 대미를 장식한다.이창섭은 오는 4월 5일 태국 방콕에 위치한 CENTERPOINT STUDIO LASALLE(센터포인트 스튜디오 라살)에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다.‘The Wayfarer’는 이창섭의 첫 번째 솔로 콘서트 투어로, 지난해 11월부터 이달까지 국내 6개 도시에 이어 대만, 마닐라 등 해외로 보폭을 확장하며 성공적인 여정을 이어가고 있다. 이 가운데 이창섭은 태국 방콕에서 첫 단독 공연 개최를 추가적으로 확정해 현지 팬들의..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원조 트롯퀸' 김혜연, 데뷔 35주년 디너쇼 성료..."변함없이 사랑해 주는 팬들 덕분에 힘낼 수 있어"]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24784</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24784"/>
-        <updated>2025-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 김혜연이 데뷔 35주년 디너쇼를 성공적으로 펼쳤다.김혜연은 지난 14일 오후 6시 30분 그랜드 하얏트 서울 그랜드볼룸에서 데뷔 35주년 기념 디너쇼를 개최하고 팬들과 만났다.이날 데뷔곡 '바보같은 여자'로 디너쇼의 화려한 포문을 연 김혜연은 '가지마 사랑아', '외계인', '병풍', '서울 대전 대구 부산', '참아주세요(뱀이다)', '유리구두', '마지막은 나와 함께', '최고다 당신', '..]]></content>
     </entry>
 </feed>
