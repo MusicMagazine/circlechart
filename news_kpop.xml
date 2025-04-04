@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-03T23:19:51.822Z</updated>
+    <updated>2025-04-04T01:23:08.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티(TIOT), 미니 3집 'FLEX LINE' 단체 콘셉트 포토 공개! 5人 5色 비주얼 '취향 저격']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24847</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24847"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 새 앨범의 무드를 엿볼 수 있는 콘셉트 포토를 공개했다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 3일 공식 SNS를 통해 세 번째 미니앨범 'FLEX LINE(플렉스 라인)'의 'FLEX(플렉스)' 버전, 'Street(스트릿)' 버전 단체 콘셉트 포토를 공개했다.공개된 사진 속 티아이오티는 블랙 슈트 스타일링으로 시선을 사로잡고 있다. 멤버들은 카메라를 강렬하게 응시하며 카리스마 넘치는 모먼트를 발산하는가 하면, 압도적인 존재감으로 감각적..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 D-1' 싸이커스(xikers), '강렬+몽환 아우라' 포스터 공개...범접불가 카리스마]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24843</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24819"/>
         <updated>2025-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 11 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts including ROSE, Bruno Mars, G-DRAGON, TREASURE, and LE SSERAFIM.KMCA, publisher of CIRCLE CHART, announced that "As of week 11 (2025.03.09.-2025.03.15.), ROSE and Bruno Mars topped the Global K-pop Chart ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비, 캐릭터 팝업스토어 인산인해...친환경 상품+다채로운 이벤트 '반응 폭발']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24816</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24816"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 비투비(BTOB) 서은광, 이민혁, 임현식, 프니엘의 팝업스토어가 문전성시를 이루고 있다.지난 20일부터 현대백화점 더현대 서울 지하 2층 아이코닉존에서 운영되고 있는 '비투비 X 삐 프렌즈 팝업 '프레셔리: 런드리 랩'(BTOB X B'BE FRIENDS POP-UP 'Freshory: Laundry Lab')'이 오픈 첫날부터 매일 방문객들의 행렬이 이어지며 성황 중이다.이번 팝업스토어는 비투비의 공식 캐릭터 개발을 기반으로 기획된 프로젝트로, 이를 바탕으로 여성 사회적 기..]]></content>
     </entry>
 </feed>
