@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-04-06T23:17:35.272Z</updated>
+    <updated>2025-04-07T01:26:13.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[갓세븐, 태국 단독 콘서트 8만 5천 석 전석 매진! 첫 스타디움 입성 '기대']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24852</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24852"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[글로벌 보이그룹 갓세븐(GOT7)이 태국에서 8만 명 넘는 관객과 만난다.갓세븐(JAY B, 마크, 잭슨, 박진영, 영재, 뱀뱀, 유겸)은 지난 5일 공식 SNS를 통해 "2025 GOT7 콘서트 'NESTFEST' in BANGKOK('네스트페스트' 인 방콕) 양일 공연 전 좌석이 모두 매진되었다"라고 밝혔다.갓세븐은 오는 5월 2일과 3일 태국 방콕에 위치한 라자망갈라 국립 스타디움(RAJAMANGALA NATIONAL STADIUM)에서 2025 단독 콘서트 'NESTFEST&amp;..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔싸인(n.SSign), 첫 한국 콘서트 'EVERBLUE' 개최 D-2…팬들 위한 종합선물세트 예고]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24841</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24798"/>
         <updated>2025-03-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[싱어송라이터 김수영이 팬들과 뜨겁게 호흡한다.김수영은 21일 오후 8시 서울 홍대 벨로주에서 소극장 단독 콘서트 'Bloom'을 진행한다.'Bloom'은 지난해 개최된 '사람, 김수영' 이후 약 1년 만에 진행하는 단독 콘서트다. 당초 6회차로 진행될 예정이었으나 예매 오픈과 동시에 빠르게 매진을 기록하며 3회차가 추가됐다. 이후 추가 회차까지 전석 매진되며 싱어송라이터 김수영의 탄탄한 입지를 입증했다.김수영은 이번 공연을 통해 평소 쉽게 접할 수 없었던 다양한 무대들을 꾸밀 계획이다. 지..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 4월 5일 첫 태국 콘서트 ‘The Wayfarer’ 개최 확정…솔로 투어 대미]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24795"/>
-        <updated>2025-03-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 겸 뮤지컬 배우 이창섭이 4월 태국에서 솔로 투어의 대미를 장식한다.이창섭은 오는 4월 5일 태국 방콕에 위치한 CENTERPOINT STUDIO LASALLE(센터포인트 스튜디오 라살)에서 단독 콘서트 ‘The Wayfarer’(더 웨이페러)를 개최한다.‘The Wayfarer’는 이창섭의 첫 번째 솔로 콘서트 투어로, 지난해 11월부터 이달까지 국내 6개 도시에 이어 대만, 마닐라 등 해외로 보폭을 확장하며 성공적인 여정을 이어가고 있다. 이 가운데 이창섭은 태국 방콕에서 첫 단독 공연 개최를 추가적으로 확정해 현지 팬들의..]]></content>
     </entry>
 </feed>
