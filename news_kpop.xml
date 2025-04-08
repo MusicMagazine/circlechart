@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-07T23:18:54.425Z</updated>
+    <updated>2025-04-08T01:24:19.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA['17일 컴백' 티아이오티(TIOT), 미니 3집 'FLEX LINE' 개인 콘셉트 포토 공개…완성형 비주얼 '눈길']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24856</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24856"/>
+        <updated>2025-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 티아이오티(TIOT)가 콘셉트 포토를 모두 공개하며 컴백에 대한 기대감을 끌어올리고 있다.티아이오티(김민성, 금준현, 홍건희, 최우진, 신예찬)는 지난 6일과 7일 공식 SNS를 통해 세 번째 미니앨범 'FLEX LINE(플렉스 라인)'의 개인 콘셉트 포토를 공개했다.공개된 콘셉트 포토 속 티아이오티는 클래식하면서도 각자의 개성이 돋보이는 슈트 스타일링으로 다채로운 매력을 드러내고 있다. 화려한 액세서리와 사진마다 다른 표정 연기는 티아이오티의 완성형 비주얼과 어우러지며 팬들의 마음을 저격했다.또 다른 이미지에선..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[HIGHER] 범규(TXT), 하이어 ‘4월 1주차 이주의 아티스트’ 선정]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24849</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24821"/>
         <updated>2025-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 주니(JUNNY)가 4월 새 싱글로 컴백한다.주니(JUNNY)는 오는 4월 7일 새 싱글 '96'을 발매하고, 지난해 6월 선보인 EP 'dopamine(도파민)' 이후 약 10개월 만에 컴백한다.이번 싱글에는 타이틀곡 'POV'와 수록곡 'call my name(콜 마이 네임)' 등 2곡이 수록된다. 주니(JUNNY)는 지난 27일 모브컴퍼니 공식 SNS를 통해 '96'의 티저 이미지와 함께 발매 일시와 신곡명을 최초로 공개했다.주니(JUNNY)의 옆..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE(유나이트), 7번째 EP ‘YOUNI-T(유니티)’ 오피셜 포토 공개… ‘힙+시크’ 매력으로 기대감 UP]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24820</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24820"/>
-        <updated>2025-03-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[브랜뉴뮤직 소속 8인조 보이그룹 YOUNITE(유나이트)가&nbsp;일곱 번째 EP ‘YOUNI-T(유니티)’의 오피셜 포토를 공개하며 새 앨범에 대한 기대감을 높였다.유나이트(은호, 스티브, 은상, 형석, 우노, DEY, 경문, 시온)는 지난 26일과 28일 0시,공식 SNS 채널들을 통해 두 가지 콘셉트의 새 앨범 오피셜 포토를 선보였는데,26일에 공개된 첫 번째 오피셜 포토에서 유나이트 멤버들은 한층 업그레이드된 힙하고 펑키한 매력으로 눈길을 끌었다.이어 오늘(28일) 공개된 두 번째 오피셜 포토 속 유나이트는 시크하면서도 세련된 아우..]]></content>
     </entry>
 </feed>
