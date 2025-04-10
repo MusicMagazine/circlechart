@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-04-10T01:24:16.623Z</updated>
+    <updated>2025-04-10T03:01:08.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아스트로 윤산하, 2년 연속 韓日 솔로 콘서트 성료…“언제나 아로하 곁에 있을 것”]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24867</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24867"/>
+        <updated>2025-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 아스트로(ASTRO, 판타지오 소속) 윤산하가 2년 연속 ‘사나잇’ 콘서트를 성황리에 마쳤다.윤산하는 지난 9일 오후 3시와 7시, 2회차에 걸쳐 일본 KT 제프 요코하마에서 단독 콘서트 ‘YOON SAN-HA : SANiGHT Project #2 - 만남’(윤산하 : 사나잇 프로젝트 #2 - 만남)을 개최했다.‘사나잇’은 윤산하가 2년 연속 한국과 일본 양국에서 생일을 기념해 선보인 콘서트다. 윤산하는 지난해 첫 소극장 콘서트 ‘YOON SAN-HA : SANiGHT Project #1 - 바램’, 팬콘 ‘Dusk Till ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CIX, 1년 만에 투어 규모 확대…올 여름 유럽·미주 16개 도시 팬 만난다]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24858</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24815"/>
         <updated>2025-03-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 박재범의 월드투어 티켓 예매가 시작된다.박재범의 2025 Jay Park World Tour 'Serenades &amp; Body Rolls' In Seoul (2025 제이팍 월드투어 '세레나데즈 앤 바디롤즈' 인 서울) 티켓 일반 예매가 27일 오후 8시부터 온라인 예매처 멜론티켓을 통해 진행된다.'Serenades &amp; Body Rolls'는 지난 2019년 진행된 'SEXY 4EVA (섹시 포에버)' 이후 약 6년 만에 진행되는 월드투어다. 박재범만이 선보..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DK(디셈버), 4월 26일 팬미팅 개최…오늘(26일) 티켓 예매 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24809</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24809"/>
-        <updated>2025-03-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 DK(디셈버)가 따뜻한 봄날 팬미팅을 연다.DK는 오는 4월 26일 오후 7시 서울 강서구에 위치한 스카이아트홀에서 'DK FAN MEETING(DK 팬미팅)'을 개최한다.이번 팬미팅은 DK가 지난해 12월 개최한 2024 디셈버 DK 크리스마스 콘서트 'Winter DK-LAND(윈터 디케이-랜드)' 이후 4개월 만에 팬들을 만나는 자리다.팬들에게 감사하는 마음을 담은 이번 팬미팅에서 DK는 고품격 무대와 더불어 진솔한 이야기들로 소통을 펼치며 콘서트 때와는 또 다른 매력을 보여줄 예정이다.DK는..]]></content>
     </entry>
 </feed>

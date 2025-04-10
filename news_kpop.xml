@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-10T01:24:16.617Z</updated>
+    <updated>2025-04-10T03:01:08.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이커스, 'BREATHE' MV 조회수 1000만 뷰 돌파→퍼포먼스 비디오 공개...'5세대 톱 퍼포머' 입증]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24868</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24868"/>
+        <updated>2025-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 싸이커스(xikers)가 신곡 '브리드(BREATHE)' 리믹스 음원으로 인기를 이어가고 있다.싸이커스는 지난 7일부터 9일까지 오후 1시마다 각종 음원 사이트를 통해 다섯 번째 미니 앨범 '하우스 오브 트리키 : 스퍼(HOUSE OF TRICKY : SPUR)'의 타이틀곡 '브리드' 리믹스 음원을 발매했다.'브리드'는 가혹한 환경 속 타깃을 정확히 조준하는 싸이커스만의 강렬한 카리스마를 담은 곡이다. 그간 곡 작업에 꾸준히 참여해 온 멤버 민재, 수민, 예찬이 이번에도..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권은비, '아찔 뒤태' 비주얼 포텐 터졌다...'Hello Stranger' 새 콘셉트 포토 공개]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24863</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24838"/>
         <updated>2025-04-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[The Week 12 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts including ROSE, Bruno Mars, G-DRAGON, and NMIXX.KMCA, publisher of CIRCLE CHART, announced that "As of week 12 (2025.03.16.-2025.03.22.), ROSE and Bruno Mars topped the Global K-pop Chart while G-DRAGON a..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이치뮤직 新 걸그룹 HITGS(힛지스), 28일 데뷔 확정! 앨범명은 'Things we love : H']]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24837</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24837"/>
-        <updated>2025-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['5세대 슈퍼루키' HITGS(힛지스)가 데뷔 초읽기에 돌입했다.HITGS(힛지스)는 지난 1일 공식 SNS를 통해 첫 번째 싱글 앨범 'Things we love : H(띵스 위 러브 : 에이치)'의 스케줄러 이미지를 게재했다.따뜻한 파스텔톤의 이미지는 나비와 리본 등 아기자기한 아이템들로 가득해 소녀감성을 자아낸다.&nbsp;해당 스케줄러에 따르면 힛지스는 2일부터 19일까지 세 가지 버전의 콘셉트 포토 및 필름을 공개한다. 이어 트레일러 영상, 무드 필름, 뮤직비디오 티저를 잇달아 오픈하며 데뷔 프로모션 기..]]></content>
     </entry>
 </feed>
