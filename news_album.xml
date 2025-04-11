@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-04-10T23:18:57.167Z</updated>
+    <updated>2025-04-11T01:24:33.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤종신, 오늘(11일) ‘행보 2024 윤종신’ 발매...인생의 다채로운 감정 담았다!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24869</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24869"/>
+        <updated>2025-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[윤종신이 2024 음악 여정을 총망라한 ‘행보 2024 윤종신’을 선보인다.윤종신은 오늘(11일) 오후 6시 2024년 한 해 동안 ‘월간 윤종신’을 통해 발표한 곡을 한자리에 모으는 ‘행보 2024 윤종신’을 발매한다.이번 ‘행보 2024 윤종신’은 옛 연인과의 재회에서 오는 복잡한 감정, 의미의 홍수 속에서 길을 잃은 현대인의 공허한 내면, 도시의 밤이 주는 낭만과 고독 등 우리가 살아가며 마주하고 경험하는 다양한 감정을 이야기하고 있다. 뿐만 아니라 노래를 향한 윤종신의 선명하고 직접적인 애정과 진심을 느낄 수 있다.윤종신은 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중, 오늘(10일) '내 남은 사랑을 위해' 리메이크 음원 공개! 美친 감성]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24866</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24846"/>
         <updated>2025-04-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 싸이커스(xikers)가 '5세대 톱 퍼포머' 에너지를 증명할 신보로 돌아온다.싸이커스는 오늘(4일) 오후 1시 각종 음원 사이트를 통해 다섯 번째 미니 앨범 '하우스 오브 트리키 : 스퍼(HOUSE OF TRICKY : SPUR)'를 발매하고 화려한 가요계 귀환을 알린다.'하우스 오브 트리키 : 스퍼'는 싸이커스가 약 7개월 만에 발매하는 신보로, 데뷔 이래 꾸준히 구축해온 '하우스 오브 트리키' 시리즈를 이어간다. 미적지근한 일상을 거침없이 깨트리며 세상 속에 나타난..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 음색 장인 만났다! 이담(Etham)X청하, 오늘(4일) 컬래버 음원 'Find Love' 발매]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24845</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24845"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[영국의 싱어송라이터 이담(Etham)과 가수 청하가 특별한 보컬 시너지를 선보인다.이담과 청하는 4일 오후 6시 각종 온라인 음원 사이트를 통해 리뉴얼 프로젝트 음원 'Find Love(파인드 러브)'를 발매한다.'Find Love'는 끝나버린 사랑 뒤에 찾아오는 후회와 애틋함을 담아낸 곡으로, 이담이 직접 프로듀싱에 참여해 완성도를 높였다.&nbsp;"우리는 끝없이 서로의 사랑을 확인하고 찾으려 한다. 하지만 우린 이미 깊은 사랑을 하고 있었음을 뒤늦게 깨닫게 된다"는 곡의 메시지를 통해 리스너들..]]></content>
     </entry>
 </feed>

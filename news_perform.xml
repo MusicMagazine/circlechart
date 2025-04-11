@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-04-10T23:18:57.157Z</updated>
+    <updated>2025-04-11T01:24:33.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바밍타이거, 日 후지 록→英 레딩 앤 리즈 페스티벌까지…'World Expo Tour 2025' 공식 일정 발표]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24871</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24871"/>
+        <updated>2025-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[얼터너티브 케이팝 그룹 바밍타이거(Balming Tiger)가 올여름 전 세계 음악팬들과 만난다.&nbsp;바밍타이거는 지난 10일 공식 SNS를 통해 대규모 글로벌 음악 페스티벌과 단독 공연이 포함된 'World Expo Tour 2025(월드 엑스포 투어 2025)' 일정을 공개하며 본격적인 해외 투어 소식을 알렸다.&nbsp;이번 투어는 지난해 11월, 서울 노들섬 라이브 하우스에서 전석 매진을 기록하며 뜨거운 호응을 얻은 단독 콘서트 'Balming Tiger World Expo 2024(바밍타이거 월드 엑스포 2024)..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아스트로 윤산하, 2년 연속 韓日 솔로 콘서트 성료…“언제나 아로하 곁에 있을 것”]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24867</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24828"/>
         <updated>2025-03-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 지수(JISOO)가 첫 솔로 투어를 성료했다.지수는 지난 14일부터 30일까지 마닐라, 방콕, 도쿄, 마카오, 타이페이, 홍콩, 하노이 등 아시아 7개 도시에서 2025 팬 에디션 : 지수 아시아 투어 'LIGHTS, LOVE, ACTION!(라이츠, 러브, 액션!)'을 성공적으로 개최했다.'LIGHTS, LOVE, ACTION!'은 지수가 9년 만에 진행한 첫 번째 솔로 단독 투어로 개최 소식부터 많은 음악 팬들의 관심을 받았다. 특히 7개 도시 10회 공연 모두 각 지역의 아레나급 공연장에서..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범, 오늘(27일) 월드투어 'Serenades & Body Rolls' 서울 공연 티켓 오픈!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24815</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24815"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[가수 박재범의 월드투어 티켓 예매가 시작된다.박재범의 2025 Jay Park World Tour 'Serenades &amp; Body Rolls' In Seoul (2025 제이팍 월드투어 '세레나데즈 앤 바디롤즈' 인 서울) 티켓 일반 예매가 27일 오후 8시부터 온라인 예매처 멜론티켓을 통해 진행된다.'Serenades &amp; Body Rolls'는 지난 2019년 진행된 'SEXY 4EVA (섹시 포에버)' 이후 약 6년 만에 진행되는 월드투어다. 박재범만이 선보..]]></content>
     </entry>
 </feed>

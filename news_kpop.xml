@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-10T23:18:57.162Z</updated>
+    <updated>2025-04-11T01:24:33.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“god 공연 후유증 심해”…손호영, 직접 밝힌 팬미팅 비하인드→철저한 자기 관리]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24870</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24870"/>
+        <updated>2025-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[가수 손호영이 생일 기념 팬미팅의 비하인드 스토리를 전했다.손호영은 지난 10일 오후 공식 유튜브 채널에 2025 생일 기념 단독 팬미팅 ‘우리의 계절, 호영’의 비하인드 스토리가 담긴 콘텐츠 영상을 공개했다.‘우리의 계절, 호영’은 손호영이 지난달 29일과 30일 생일을 맞아 팬들과 재회한 단독 공연이다. 손호영은 이날 영상에서 공연 준비 과정부터 팬들에게 못다 전한 소감까지 다양한 이야기를 공개하며 팬미팅의 여운을 이어갔다.본 공연을 앞둔 당일 손호영은 리허설도 실제 무대처럼 최선을 다해 임했다. 오랜 시간 함께해온 밴드 세션 ..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이커스, 'BREATHE' MV 조회수 1000만 뷰 돌파→퍼포먼스 비디오 공개...'5세대 톱 퍼포머' 입증]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24868</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24840"/>
         <updated>2025-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[가수 최수호가 물오른 비주얼로 컴백 열기를 뜨겁게 달궜다.소속사 포고엔터테인먼트는 지난 2일 오후 3시 공식 SNS를 통해 최수호의 첫 번째 미니 앨범 '원(ONE)' 커버 이미지를 공개했다.공개된 커버 이미지는 '트롯 밀크남'의 앳된 이미지를 벗고, 소년에서 남자로 훌쩍 성장한 최수호의 무르익은 비주얼을 담고 있어 음악 팬들의 이목을 집중시켰다.이미지 속 최수호는 짙은 흑발에 시크한 블랙 스타일링, 카리스마 넘치는 눈빛으로 성숙해진 매력을 뽐내 팬심을 설레게 했다. 커버 이미지의 강렬한 무드가 최수호가..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Week 12 CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, and NMIXX Top the Charts!]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24838</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24838"/>
-        <updated>2025-04-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[The Week 12 CIRCLE CHART (formerly gaonchart) of 2025 saw strong showings from leading acts including ROSE, Bruno Mars, G-DRAGON, and NMIXX.KMCA, publisher of CIRCLE CHART, announced that "As of week 12 (2025.03.16.-2025.03.22.), ROSE and Bruno Mars topped the Global K-pop Chart while G-DRAGON a..]]></content>
     </entry>
 </feed>
