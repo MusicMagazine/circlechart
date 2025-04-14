@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=album</id>
     <title>Circle Chart ─ News ─ Album</title>
-    <updated>2025-04-13T23:19:10.715Z</updated>
+    <updated>2025-04-14T01:27:35.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에메랄드 캐슬 지우, 오늘(14일) 9개월 만의 신곡 '노래를 듣다' 발매…직접 작사·작곡 '진정성 ↑']]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24879</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24879"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[에메랄드 캐슬 지우가 타임머신 같은 음악으로 돌아온다.소속사 엠케이에스이엔티는 14일 "에메랄드 캐슬 지우가 오늘 정오 신보 '노래를 듣다'를 발매한다"고 밝혔다.'노래를 듣다'는 지우가 지난해 7월 발매한 'You're my star(유어 마이 스타)' 이후 9개월 만에 선보이는 신보다. 앨범과 동명의 타이틀곡 '노래를 듣다' 외 'You're my star', 'Romance(로맨스)', '세번째 안녕 (20..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤종신, 오늘(11일) ‘행보 2024 윤종신’ 발매...인생의 다채로운 감정 담았다!]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24869</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24850"/>
         <updated>2025-04-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[아티스트 주니(JUNNY)가 새 싱글 '96'으로 기억을 소환한다.주니(JUNNY)는 7일 오후 6시 국내외 전 온라인 음원 사이트를 통해 새 싱글 '96'을 발매한다.'96'은 주니(JUNNY)가 지난해 6월 발표한 EP 'dopamine(도파민)' 이후 약 10개월 만에 선보이는 새 앨범이다. 1996년생인 주니(JUNNY)의 진솔하고 사적인 이야기를 담고 있다. 주니(JUNNY)의 경험이 더 많은 이들의 마음을 대변할 것으로 기대된다.타이틀곡 'POV'는 ..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스(xikers), 오늘(4일) 미니 5집 발매...'5세대 톱 퍼포머' 화려한 귀환]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24846</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=album&amp;idx=24846"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹 싸이커스(xikers)가 '5세대 톱 퍼포머' 에너지를 증명할 신보로 돌아온다.싸이커스는 오늘(4일) 오후 1시 각종 음원 사이트를 통해 다섯 번째 미니 앨범 '하우스 오브 트리키 : 스퍼(HOUSE OF TRICKY : SPUR)'를 발매하고 화려한 가요계 귀환을 알린다.'하우스 오브 트리키 : 스퍼'는 싸이커스가 약 7개월 만에 발매하는 신보로, 데뷔 이래 꾸준히 구축해온 '하우스 오브 트리키' 시리즈를 이어간다. 미적지근한 일상을 거침없이 깨트리며 세상 속에 나타난..]]></content>
     </entry>
 </feed>
