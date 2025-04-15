@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=perform</id>
     <title>Circle Chart ─ News ─ Perform</title>
-    <updated>2025-04-14T23:18:20.428Z</updated>
+    <updated>2025-04-15T01:26:59.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign), 27일 첫 대만 팬미팅 'COSMOlogue' 개최…"로렌스 고향에서 공연, 의미 남달라"]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24888</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24888"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[그룹 엔싸인(n.SSign)이 첫 대만 팬미팅을 열고 현지 팬들을 만난다.엔싸인은 오는 27일 오후 2시 30분(현지 시각) 대만 웨스타(WESTAR)에서 'n.SSign FAN MEETING &lt;COSMOlogue&gt; in TAIPEI(엔싸인 팬미팅 &lt;코스모로그&gt; 인 타이베이)'를 개최한다.'COSMOlogue'는 엔싸인이 데뷔 후 처음으로 여는 대만 팬미팅으로, 대만 COSMO(코스모, 팬덤명)에게 소중한 추억을 선물하기 위한 다채로운 시간들로 펼쳐진다. 또한 본 공연뿐만 아니라 현..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인피니트, 데뷔 15주년 앙코르 콘서트 역대 최장 5시간 20분 신기록 경신...'팬 사랑' 가득한 역대급 공연]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24882</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24841"/>
         <updated>2025-04-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[그룹 엔싸인(n.SSign)의 첫 한국 콘서트가 이틀 앞으로 다가왔다.엔싸인은 오는 5일 오후 2시와 6시 서울 용산구에 위치한 블루스퀘어 SOL트래블홀에서 'n.SSign 1st Concert &lt;EVERBLUE&gt; in SEOUL(엔싸인 첫 번째 콘서트 &lt;에버블루&gt; 인 서울)'을 개최한다.이번 콘서트는 앞서 매 공연마다 전석 매진을 기록하며 성황리에 마무리 된 일본 홀 투어 'n.SSign Japan Tour [EVERBLUE](엔싸인 재팬 투어 [에버블루])'를 한국 팬들에게도 선..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비, 단독 콘서트 '모든소년소녀들 2025' 개최! 4일 서울 공연 티켓 오픈]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24833</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=perform&amp;idx=24833"/>
-        <updated>2025-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[그룹사운드 잔나비가 단독 콘서트로 팬들과 만난다.잔나비는 오는 26일부터 27일, 5월 3일부터 4일까지 서울 잠실실내체육관, 6월 14일부터 15일까지 광주 유니버시아드체육관, 6월 28일부터 29일까지 대구 엑스코에서 단독 콘서트 '모든소년소녀들 2025'를 개최한다.콘서트 개최 소식과 함께 공개된 포스터에는 청량하면서도 소년미가 느껴지는 잔나비의 모습이 담겨 있어 팬들의 기대감을 더하고 있다.이번 공연은 잔나비가 지난해 9월 개최한 전국투어 '판타스틱 올드 패션드 2024 : MOVIE STAR RISIN..]]></content>
     </entry>
 </feed>
