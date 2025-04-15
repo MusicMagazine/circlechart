@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://circlechart.kr/page_article/list.circle?sgenre=kpop</id>
     <title>Circle Chart ─ News ─ K-pop now</title>
-    <updated>2025-04-15T07:20:24.573Z</updated>
+    <updated>2025-04-15T08:26:59.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://circlechart.kr/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[March CIRCLE CHART: ROSE, Bruno Mars, G-DRAGON, and TREASURE Top the Charts!]]></title>
+        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24889</id>
+        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24889"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The March 2025 CIRCLE CHART saw various charts being topped by leading acts such as ROSE, Bruno Mars, G-DRAGON, and TREASURE.KMCA, publisher of CIRCLE CHART, announced that "In the monthly CIRCLE CHART for March 2025, ROSE, Bruno Mars topped the Global K-pop Chart while G-DRAGON swept 3 charts a..]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOUNITE(유나이트), 새 앨범 타이틀곡 ‘Rock Steady’]]></title>
         <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24887</id>
@@ -67,12 +74,5 @@
         <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24863"/>
         <updated>2025-04-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[소속사 울림엔터테인먼트는 9일 0시 공식 SNS를 통해 권은비의 새 디지털 싱글 '헬로 스트레인저(Hello Stranger)' 세 번째 콘셉트 포토를 공개했다.공개된 이미지는 어두운 밤 하늘 아래 붉은색 벨벳 소재의 의상을 입고 포즈를 취하는 권은비의 감각적인 자체발광 비주얼을 담고 있어 순식간에 글로벌 팬심을 홀렸다.이미지 속 권은비는 블랙홀처럼 빠져드는 눈빛으로 화면을 응시하는가 하면, 뒤를 돌아보는 포즈로 아찔하고도 우아한 뒤태를 뽐내 시선을 압도했다. 그의 치명적인 비주얼과 더 깊어진 카리스마가 다가오는 컴백..]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이치뮤직 新 걸그룹 HITGS(힛지스) 혜린?비비, 데뷔 앨범 두 번째 콘셉트 포토+영상 공개…청량 열매 한가득]]></title>
-        <id>https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24862</id>
-        <link href="https://circlechart.kr/page_article/view.circle?sgenre=kpop&amp;idx=24862"/>
-        <updated>2025-04-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA['5세대 슈퍼루키' HITGS(힛지스)가 청량한 비주얼로 눈길을 끌었다.HITGS(힛지스)는 지난 7일과 8일 공식 SNS를 통해 첫 번째 싱글 앨범 'Things we love : H(띵스 위 러브 : 에이치)'의 두 번째 콘셉트 포토와 영상을 게재했다.먼저 혜린과 비비의 콘텐츠가 공개된 가운데, 앞선 버전과는 또 다른 청량한 무드가 눈길을 끌었다. 또 두 사람 모두 푸른 바다, 싱그러운 꽃과 어우러져 본인들의 이미지와 어울리는 맑고 사랑스러운 비주얼을 완성했다.포토와 영상 속 혜린은 바닷가를 배경으로..]]></content>
     </entry>
 </feed>
